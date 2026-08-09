@@ -1,59 +1,97 @@
 {
   "_comment": "SINGLE SOURCE OF TRUTH. Edit this file only. Every feed, filter, and query regenerates from it. 'verified' = team confirmed against a primary source in Aug 2026; false = inherited from your original notes, confirm before trusting the team-level feed.",
+  "_sleeper": {
+    "leagueId": "1312070936467365888",
+    "username": "teesnutz410",
+    "lastSync": "2026-08-09T01:03:20.883Z"
+  },
   "players": [
     {
       "id": "herbert",
       "name": "Justin Herbert",
       "pos": "QB",
       "team": "LAC",
-      "verified": false,
-      "aliases": ["Justin Herbert"],
-      "exclude": ["Khalil Herbert"]
-    },
-    {
-      "id": "lawrence",
-      "name": "Trevor Lawrence",
-      "pos": "QB",
-      "team": "JAX",
-      "verified": false,
-      "aliases": ["Trevor Lawrence"],
-      "exclude": []
+      "verified": true,
+      "aliases": [
+        "Justin Herbert"
+      ],
+      "exclude": [
+        "Khalil Herbert"
+      ],
+      "sleeperId": "6797"
     },
     {
       "id": "sanders",
       "name": "Shedeur Sanders",
       "pos": "QB",
       "team": "CLE",
-      "verified": false,
-      "aliases": ["Shedeur Sanders", "Shedeur"],
-      "exclude": ["Coach Prime", "Deion", "Shilo", "Colorado Buffaloes"]
+      "verified": true,
+      "aliases": [
+        "Shedeur Sanders",
+        "Shedeur"
+      ],
+      "exclude": [
+        "Coach Prime",
+        "Deion",
+        "Shilo",
+        "Colorado Buffaloes"
+      ],
+      "sleeperId": "12524"
     },
     {
-      "id": "javonte",
-      "name": "Javonte Williams",
-      "pos": "RB",
-      "team": "DAL",
-      "verified": false,
-      "aliases": ["Javonte Williams", "Javonte"],
-      "exclude": []
+      "id": "lawrence",
+      "name": "Trevor Lawrence",
+      "pos": "QB",
+      "team": "JAX",
+      "verified": true,
+      "aliases": [
+        "Trevor Lawrence"
+      ],
+      "exclude": [],
+      "sleeperId": "7523"
     },
     {
       "id": "cook",
       "name": "James Cook",
       "pos": "RB",
       "team": "BUF",
-      "verified": false,
-      "aliases": ["James Cook"],
-      "exclude": ["Captain Cook", "explorer", "Cook Islands", "recipe", "voyage"]
+      "verified": true,
+      "aliases": [
+        "James Cook"
+      ],
+      "exclude": [
+        "Captain Cook",
+        "explorer",
+        "Cook Islands",
+        "recipe",
+        "voyage"
+      ],
+      "sleeperId": "8138"
     },
     {
-      "id": "etienne",
-      "name": "Travis Etienne",
+      "id": "javonte",
+      "name": "Javonte Williams",
       "pos": "RB",
-      "team": "NO",
+      "team": "DAL",
       "verified": true,
-      "aliases": ["Travis Etienne", "Etienne"],
-      "exclude": []
+      "aliases": [
+        "Javonte Williams",
+        "Javonte"
+      ],
+      "exclude": [],
+      "sleeperId": "7588"
+    },
+    {
+      "id": "warren",
+      "name": "Jaylen Warren",
+      "pos": "RB",
+      "team": "PIT",
+      "verified": true,
+      "aliases": [
+        "Jaylen Warren"
+      ],
+      "exclude": [],
+      "sleeperId": "8228"
     },
     {
       "id": "vidal",
@@ -61,98 +99,54 @@
       "pos": "RB",
       "team": "LAC",
       "verified": true,
-      "aliases": ["Kimani Vidal", "Kimani", "Vidal"],
-      "exclude": ["Gore Vidal"]
+      "aliases": [
+        "Kimani Vidal",
+        "Kimani",
+        "Vidal"
+      ],
+      "exclude": [
+        "Gore Vidal"
+      ],
+      "sleeperId": "11647"
     },
     {
       "id": "kyren",
       "name": "Kyren Williams",
       "pos": "RB",
       "team": "LAR",
-      "verified": false,
-      "aliases": ["Kyren Williams", "Kyren"],
-      "exclude": []
+      "verified": true,
+      "aliases": [
+        "Kyren Williams",
+        "Kyren"
+      ],
+      "exclude": [],
+      "sleeperId": "8150"
     },
     {
-      "id": "warren",
-      "name": "Jaylen Warren",
+      "id": "etienne",
+      "name": "Travis Etienne",
       "pos": "RB",
-      "team": "PIT",
-      "verified": false,
-      "aliases": ["Jaylen Warren"],
-      "exclude": []
-    },
-    {
-      "id": "jsn",
-      "name": "Jaxon Smith-Njigba",
-      "pos": "WR",
-      "team": "SEA",
-      "verified": false,
-      "aliases": ["Jaxon Smith-Njigba", "Smith-Njigba", "JSN"],
-      "exclude": []
-    },
-    {
-      "id": "jefferson",
-      "name": "Justin Jefferson",
-      "pos": "WR",
-      "team": "MIN",
-      "verified": false,
-      "aliases": ["Justin Jefferson"],
-      "exclude": []
-    },
-    {
-      "id": "higgins",
-      "name": "Tee Higgins",
-      "pos": "WR",
-      "team": "CIN",
-      "verified": false,
-      "aliases": ["Tee Higgins"],
-      "exclude": []
-    },
-    {
-      "id": "hutchinson",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "team": "HOU",
-      "verified": false,
-      "aliases": ["Xavier Hutchinson"],
-      "exclude": ["Aidan Hutchinson"]
-    },
-    {
-      "id": "mwilson",
-      "name": "Michael Wilson",
-      "pos": "WR",
-      "team": "ARI",
-      "verified": false,
-      "aliases": ["Michael Wilson"],
-      "exclude": ["basketball", "NCAA Tournament", "high school", "chief executive"]
+      "team": "NO",
+      "verified": true,
+      "aliases": [
+        "Travis Etienne",
+        "Etienne"
+      ],
+      "exclude": [],
+      "sleeperId": "7543"
     },
     {
       "id": "adonai",
       "name": "Adonai Mitchell",
       "pos": "WR",
-      "team": "IND",
-      "verified": false,
-      "aliases": ["Adonai Mitchell", "Adonai"],
-      "exclude": []
-    },
-    {
-      "id": "kwilliams",
-      "name": "Kyle Williams",
-      "pos": "WR",
-      "team": "NE",
-      "verified": false,
-      "aliases": ["Kyle Williams"],
-      "exclude": ["basketball", "high school", "chief executive"]
-    },
-    {
-      "id": "dell",
-      "name": "Tank Dell",
-      "pos": "WR",
-      "team": "HOU",
-      "verified": false,
-      "aliases": ["Tank Dell"],
-      "exclude": []
+      "team": "NYJ",
+      "verified": true,
+      "aliases": [
+        "Adonai Mitchell",
+        "Adonai"
+      ],
+      "exclude": [],
+      "sleeperId": "11625"
     },
     {
       "id": "bernard",
@@ -160,35 +154,143 @@
       "pos": "WR",
       "team": "PIT",
       "verified": true,
-      "aliases": ["Germie Bernard", "Germie"],
+      "aliases": [
+        "Germie Bernard",
+        "Germie"
+      ],
+      "exclude": [],
+      "sleeperId": "13274"
+    },
+    {
+      "id": "jalen-nailor",
+      "sleeperId": "8180",
+      "name": "Jalen Nailor",
+      "pos": "WR",
+      "team": "LV",
+      "verified": true,
+      "aliases": [
+        "Jalen Nailor"
+      ],
       "exclude": []
     },
     {
-      "id": "ferguson",
-      "name": "Jake Ferguson",
-      "pos": "TE",
-      "team": "DAL",
-      "verified": false,
-      "aliases": ["Jake Ferguson"],
-      "exclude": []
+      "id": "jsn",
+      "name": "Jaxon Smith-Njigba",
+      "pos": "WR",
+      "team": "SEA",
+      "verified": true,
+      "aliases": [
+        "Jaxon Smith-Njigba",
+        "Smith-Njigba",
+        "JSN"
+      ],
+      "exclude": [],
+      "sleeperId": "9488"
     },
     {
-      "id": "mtaylor",
-      "name": "Mason Taylor",
+      "id": "jefferson",
+      "name": "Justin Jefferson",
+      "pos": "WR",
+      "team": "MIN",
+      "verified": true,
+      "aliases": [
+        "Justin Jefferson"
+      ],
+      "exclude": [],
+      "sleeperId": "6794"
+    },
+    {
+      "id": "mwilson",
+      "name": "Michael Wilson",
+      "pos": "WR",
+      "team": "ARI",
+      "verified": true,
+      "aliases": [
+        "Michael Wilson"
+      ],
+      "exclude": [
+        "basketball",
+        "NCAA Tournament",
+        "high school",
+        "chief executive"
+      ],
+      "sleeperId": "10232"
+    },
+    {
+      "id": "dell",
+      "name": "Tank Dell",
+      "pos": "WR",
+      "team": "HOU",
+      "verified": true,
+      "aliases": [
+        "Tank Dell"
+      ],
+      "exclude": [],
+      "sleeperId": "9502"
+    },
+    {
+      "id": "higgins",
+      "name": "Tee Higgins",
+      "pos": "WR",
+      "team": "CIN",
+      "verified": true,
+      "aliases": [
+        "Tee Higgins"
+      ],
+      "exclude": [],
+      "sleeperId": "6801"
+    },
+    {
+      "id": "hutchinson",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "verified": true,
+      "aliases": [
+        "Xavier Hutchinson"
+      ],
+      "exclude": [
+        "Aidan Hutchinson"
+      ],
+      "sleeperId": "10218"
+    },
+    {
+      "id": "okonkwo",
+      "name": "Chig Okonkwo",
       "pos": "TE",
-      "team": "NYJ",
-      "verified": false,
-      "aliases": ["Mason Taylor"],
-      "exclude": ["basketball", "high school"]
+      "team": "WAS",
+      "verified": true,
+      "aliases": [
+        "Chig Okonkwo",
+        "Okonkwo"
+      ],
+      "exclude": [],
+      "sleeperId": "8210"
     },
     {
       "id": "helm",
       "name": "Gunnar Helm",
       "pos": "TE",
       "team": "TEN",
-      "verified": false,
-      "aliases": ["Gunnar Helm", "Gunnar"],
-      "exclude": []
+      "verified": true,
+      "aliases": [
+        "Gunnar Helm",
+        "Gunnar"
+      ],
+      "exclude": [],
+      "sleeperId": "12502"
+    },
+    {
+      "id": "ferguson",
+      "name": "Jake Ferguson",
+      "pos": "TE",
+      "team": "DAL",
+      "verified": true,
+      "aliases": [
+        "Jake Ferguson"
+      ],
+      "exclude": [],
+      "sleeperId": "8110"
     },
     {
       "id": "joly",
@@ -196,17 +298,27 @@
       "pos": "TE",
       "team": "DEN",
       "verified": true,
-      "aliases": ["Justin Joly", "Joly"],
-      "exclude": []
+      "aliases": [
+        "Justin Joly",
+        "Joly"
+      ],
+      "exclude": [],
+      "sleeperId": "13400"
     },
     {
-      "id": "okonkwo",
-      "name": "Chig Okonkwo",
+      "id": "mtaylor",
+      "name": "Mason Taylor",
       "pos": "TE",
-      "team": "TEN",
-      "verified": false,
-      "aliases": ["Chig Okonkwo", "Okonkwo"],
-      "exclude": []
+      "team": "NYJ",
+      "verified": true,
+      "aliases": [
+        "Mason Taylor"
+      ],
+      "exclude": [
+        "basketball",
+        "high school"
+      ],
+      "sleeperId": "12498"
     }
   ],
   "teams": {
@@ -217,16 +329,16 @@
     "DAL": "Dallas Cowboys",
     "DEN": "Denver Broncos",
     "HOU": "Houston Texans",
-    "IND": "Indianapolis Colts",
     "JAX": "Jacksonville Jaguars",
     "LAC": "Los Angeles Chargers",
     "LAR": "Los Angeles Rams",
+    "LV": "Las Vegas Raiders",
     "MIN": "Minnesota Vikings",
-    "NE": "New England Patriots",
     "NO": "New Orleans Saints",
     "NYJ": "New York Jets",
     "PIT": "Pittsburgh Steelers",
     "SEA": "Seattle Seahawks",
-    "TEN": "Tennessee Titans"
+    "TEN": "Tennessee Titans",
+    "WAS": "Washington Commanders"
   }
 }
