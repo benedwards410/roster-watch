@@ -115,11 +115,15 @@ async function main() {
 
   const bySleeper = Object.fromEntries(existing.players.filter(p => p.sleeperId).map(p => [p.sleeperId, p]));
   const byName = Object.fromEntries(existing.players.map(p => [p.name.toLowerCase(), p]));
+  function findByAlias(name) {
+    const lower = name.toLowerCase();
+    return existing.players.find(p => (p.aliases || []).some(a => a.toLowerCase() === lower));
+  }
 
   // 6. Merge
   const merged = [];
   for (const sp of sleeperPlayers) {
-    const prev = bySleeper[sp.sleeperId] || byName[sp.name.toLowerCase()];
+    const prev = bySleeper[sp.sleeperId] || byName[sp.name.toLowerCase()] || findByAlias(sp.name);
     if (prev) {
       merged.push({ ...prev, sleeperId: sp.sleeperId, pos: sp.pos, team: sp.team, verified: true });
     } else {
