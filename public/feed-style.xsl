@@ -53,7 +53,36 @@
   .desc {
     color: var(--dim);
     font-size: 12px;
-    margin: 0 0 2rem;
+    margin: 0 0 1.2rem;
+  }
+  .filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    align-items: center;
+    margin-bottom: 1.2rem;
+  }
+  .filter-bar select, .filter-bar input {
+    background: var(--field);
+    color: var(--chalk);
+    border: 1px solid var(--rule);
+    padding: .5rem .75rem;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: .05em;
+    outline: none;
+  }
+  .filter-bar select { text-transform: uppercase; cursor: pointer; }
+  .filter-bar input { flex: 1; min-width: 10rem; }
+  .filter-bar select:focus, .filter-bar input:focus {
+    border-color: var(--signal);
+  }
+  .filter-count {
+    font-size: 11px;
+    color: var(--dim);
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
   }
   .nav {
     display: flex;
@@ -79,6 +108,7 @@
     border-bottom: 1px solid var(--rule);
     padding: 1rem 0;
   }
+  .item.hidden { display: none; }
   .item-title {
     font-family: 'Oswald', 'Arial Narrow', sans-serif;
     font-weight: 400;
@@ -122,6 +152,12 @@
   <h1><xsl:value-of select="/rss/channel/title" /></h1>
   <p class="desc"><xsl:value-of select="/rss/channel/description" /></p>
 
+  <div class="filter-bar">
+    <select id="player-filter"><option value="">All players</option></select>
+    <input id="text-filter" type="text" placeholder="Search headlines..." />
+  </div>
+  <div class="filter-count" id="filter-count"></div>
+
   <nav class="nav">
     <a href="all.xml">all.xml</a>
     <a href="urgent.xml">urgent.xml</a>
@@ -129,28 +165,90 @@
     <a href="./">status page</a>
   </nav>
 
-  <xsl:for-each select="/rss/channel/item">
-    <div class="item">
-      <h2 class="item-title">
-        <a target="_blank" rel="noopener">
-          <xsl:attribute name="href"><xsl:value-of select="link" /></xsl:attribute>
-          <xsl:value-of select="title" />
-        </a>
-      </h2>
-      <div class="item-meta">
-        <span class="source"><xsl:value-of select="source" /></span>
-        <xsl:text> &#183; </xsl:text>
-        <xsl:value-of select="pubDate" />
+  <div id="items">
+    <xsl:for-each select="/rss/channel/item">
+      <div class="item">
+        <h2 class="item-title">
+          <a target="_blank" rel="noopener">
+            <xsl:attribute name="href"><xsl:value-of select="link" /></xsl:attribute>
+            <xsl:value-of select="title" />
+          </a>
+        </h2>
+        <div class="item-meta">
+          <span class="source"><xsl:value-of select="source" /></span>
+          <xsl:text> &#183; </xsl:text>
+          <xsl:value-of select="pubDate" />
+        </div>
+        <p class="item-summary"><xsl:value-of select="description" /></p>
       </div>
-      <p class="item-summary"><xsl:value-of select="description" /></p>
-    </div>
-  </xsl:for-each>
+    </xsl:for-each>
+  </div>
 
   <footer>
     This is an RSS feed. Subscribe by copying the URL into your RSS reader.
     <br />
     <a href="./">Back to status page</a>
   </footer>
+
+<script>
+(function () {
+  var items = document.querySelectorAll('#items .item');
+  var playerSelect = document.getElementById('player-filter');
+  var textInput = document.getElementById('text-filter');
+  var countEl = document.getElementById('filter-count');
+  var total = items.length;
+
+  // Extract unique player names from [tag] brackets in titles
+  var players = {};
+  for (var i = 0; i &lt; items.length; i++) {
+    var title = items[i].querySelector('.item-title').textContent;
+    var m = title.match(/\[([^\]]+)\]/);
+    if (m) {
+      var names = m[1].split(', ');
+      for (var j = 0; j &lt; names.length; j++) {
+        var n = names[j].trim();
+        if (n !== 'depth chart') players[n] = (players[n] || 0) + 1;
+      }
+    }
+  }
+
+  var sorted = Object.keys(players).sort();
+  for (var k = 0; k &lt; sorted.length; k++) {
+    var opt = document.createElement('option');
+    opt.value = sorted[k];
+    opt.textContent = sorted[k] + ' (' + players[sorted[k]] + ')';
+    playerSelect.appendChild(opt);
+  }
+
+  function applyFilter() {
+    var player = playerSelect.value.toLowerCase();
+    var text = textInput.value.toLowerCase();
+    var shown = 0;
+    for (var i = 0; i &lt; items.length; i++) {
+      var content = items[i].textContent.toLowerCase();
+      var title = items[i].querySelector('.item-title').textContent;
+      var tag = title.match(/\[([^\]]+)\]/);
+      var tagText = tag ? tag[1].toLowerCase() : '';
+      var matchPlayer = !player || tagText.indexOf(player) !== -1;
+      var matchText = !text || content.indexOf(text) !== -1;
+      if (matchPlayer &amp;&amp; matchText) {
+        items[i].classList.remove('hidden');
+        shown++;
+      } else {
+        items[i].classList.add('hidden');
+      }
+    }
+    if (player || text) {
+      countEl.textContent = shown + ' of ' + total + ' items';
+    } else {
+      countEl.textContent = '';
+    }
+  }
+
+  playerSelect.addEventListener('change', applyFilter);
+  textInput.addEventListener('input', applyFilter);
+})();
+</script>
 </body>
 </html>
 </xsl:template>
