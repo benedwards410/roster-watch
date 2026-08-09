@@ -62,7 +62,7 @@
     align-items: center;
     margin-bottom: 1.2rem;
   }
-  .filter-bar select, .filter-bar input {
+  .filter-bar select, .filter-bar input, .filter-bar button {
     background: var(--field);
     color: var(--chalk);
     border: 1px solid var(--rule);
@@ -74,8 +74,10 @@
   }
   .filter-bar select { text-transform: uppercase; cursor: pointer; }
   .filter-bar input { flex: 1; min-width: 10rem; }
-  .filter-bar select:focus, .filter-bar input:focus {
-    border-color: var(--signal);
+  .filter-bar button { cursor: pointer; text-transform: uppercase; white-space: nowrap; }
+  .filter-bar select:focus, .filter-bar input:focus,
+  .filter-bar button:hover, .filter-bar button:focus-visible {
+    border-color: var(--signal); color: var(--signal);
   }
   .filter-count {
     font-size: 11px;
@@ -155,6 +157,7 @@
   <div class="filter-bar">
     <select id="player-filter"><option value="">All players</option></select>
     <input id="text-filter" type="text" placeholder="Search headlines..." />
+    <button id="sort-btn" type="button">Newest first</button>
   </div>
   <div class="filter-count" id="filter-count"></div>
 
@@ -193,11 +196,23 @@
 
 <script>
 (function () {
-  var items = document.querySelectorAll('#items .item');
+  var container = document.getElementById('items');
+  var items = Array.prototype.slice.call(container.querySelectorAll('.item'));
   var playerSelect = document.getElementById('player-filter');
   var textInput = document.getElementById('text-filter');
+  var sortBtn = document.getElementById('sort-btn');
   var countEl = document.getElementById('filter-count');
   var total = items.length;
+  var sortAsc = false;
+
+  // Parse and cache timestamps on each item
+  for (var i = 0; i &lt; items.length; i++) {
+    var meta = items[i].querySelector('.item-meta');
+    var parts = meta ? meta.textContent.split('·') : [];
+    var dateStr = parts.length > 1 ? parts[1].trim() : '';
+    var ts = dateStr ? new Date(dateStr).getTime() : 0;
+    items[i]._ts = isNaN(ts) ? 0 : ts;
+  }
 
   // Extract unique player names from [tag] brackets in titles
   var players = {};
@@ -245,6 +260,21 @@
       countEl.textContent = '';
     }
   }
+
+  function applySort() {
+    items.sort(function(a, b) {
+      return sortAsc ? a._ts - b._ts : b._ts - a._ts;
+    });
+    for (var i = 0; i &lt; items.length; i++) {
+      container.appendChild(items[i]);
+    }
+    sortBtn.textContent = sortAsc ? 'Oldest first' : 'Newest first';
+  }
+
+  sortBtn.addEventListener('click', function() {
+    sortAsc = !sortAsc;
+    applySort();
+  });
 
   playerSelect.addEventListener('change', applyFilter);
   textInput.addEventListener('input', applyFilter);

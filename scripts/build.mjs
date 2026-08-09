@@ -18,8 +18,8 @@ const SITE_URL = process.env.SITE_URL || 'https://example.netlify.app';
 const UA = 'roster-feed-builder/1.0 (personal fantasy football filter)';
 const FETCH_TIMEOUT_MS = 12_000;
 const STATE_MAX = 6000;
-const RETAIN_DAYS = 21;
-const MAX_ITEMS = 400;
+const RETAIN_DAYS = 60;
+const MAX_ITEMS = 1200;
 
 const readJson = async (p) => JSON.parse(await fs.readFile(p, 'utf8'));
 
