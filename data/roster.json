@@ -1,0 +1,232 @@
+{
+  "_comment": "SINGLE SOURCE OF TRUTH. Edit this file only. Every feed, filter, and query regenerates from it. 'verified' = team confirmed against a primary source in Aug 2026; false = inherited from your original notes, confirm before trusting the team-level feed.",
+  "players": [
+    {
+      "id": "herbert",
+      "name": "Justin Herbert",
+      "pos": "QB",
+      "team": "LAC",
+      "verified": false,
+      "aliases": ["Justin Herbert"],
+      "exclude": ["Khalil Herbert"]
+    },
+    {
+      "id": "lawrence",
+      "name": "Trevor Lawrence",
+      "pos": "QB",
+      "team": "JAX",
+      "verified": false,
+      "aliases": ["Trevor Lawrence"],
+      "exclude": []
+    },
+    {
+      "id": "sanders",
+      "name": "Shedeur Sanders",
+      "pos": "QB",
+      "team": "CLE",
+      "verified": false,
+      "aliases": ["Shedeur Sanders", "Shedeur"],
+      "exclude": ["Coach Prime", "Deion", "Shilo", "Colorado Buffaloes"]
+    },
+    {
+      "id": "javonte",
+      "name": "Javonte Williams",
+      "pos": "RB",
+      "team": "DAL",
+      "verified": false,
+      "aliases": ["Javonte Williams", "Javonte"],
+      "exclude": []
+    },
+    {
+      "id": "cook",
+      "name": "James Cook",
+      "pos": "RB",
+      "team": "BUF",
+      "verified": false,
+      "aliases": ["James Cook"],
+      "exclude": ["Captain Cook", "explorer", "Cook Islands", "recipe", "voyage"]
+    },
+    {
+      "id": "etienne",
+      "name": "Travis Etienne",
+      "pos": "RB",
+      "team": "NO",
+      "verified": true,
+      "aliases": ["Travis Etienne", "Etienne"],
+      "exclude": []
+    },
+    {
+      "id": "vidal",
+      "name": "Kimani Vidal",
+      "pos": "RB",
+      "team": "LAC",
+      "verified": true,
+      "aliases": ["Kimani Vidal", "Kimani", "Vidal"],
+      "exclude": ["Gore Vidal"]
+    },
+    {
+      "id": "kyren",
+      "name": "Kyren Williams",
+      "pos": "RB",
+      "team": "LAR",
+      "verified": false,
+      "aliases": ["Kyren Williams", "Kyren"],
+      "exclude": []
+    },
+    {
+      "id": "warren",
+      "name": "Jaylen Warren",
+      "pos": "RB",
+      "team": "PIT",
+      "verified": false,
+      "aliases": ["Jaylen Warren"],
+      "exclude": []
+    },
+    {
+      "id": "jsn",
+      "name": "Jaxon Smith-Njigba",
+      "pos": "WR",
+      "team": "SEA",
+      "verified": false,
+      "aliases": ["Jaxon Smith-Njigba", "Smith-Njigba", "JSN"],
+      "exclude": []
+    },
+    {
+      "id": "jefferson",
+      "name": "Justin Jefferson",
+      "pos": "WR",
+      "team": "MIN",
+      "verified": false,
+      "aliases": ["Justin Jefferson"],
+      "exclude": []
+    },
+    {
+      "id": "higgins",
+      "name": "Tee Higgins",
+      "pos": "WR",
+      "team": "CIN",
+      "verified": false,
+      "aliases": ["Tee Higgins"],
+      "exclude": []
+    },
+    {
+      "id": "hutchinson",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "verified": false,
+      "aliases": ["Xavier Hutchinson"],
+      "exclude": ["Aidan Hutchinson"]
+    },
+    {
+      "id": "mwilson",
+      "name": "Michael Wilson",
+      "pos": "WR",
+      "team": "ARI",
+      "verified": false,
+      "aliases": ["Michael Wilson"],
+      "exclude": ["basketball", "NCAA Tournament", "high school", "chief executive"]
+    },
+    {
+      "id": "adonai",
+      "name": "Adonai Mitchell",
+      "pos": "WR",
+      "team": "IND",
+      "verified": false,
+      "aliases": ["Adonai Mitchell", "Adonai"],
+      "exclude": []
+    },
+    {
+      "id": "kwilliams",
+      "name": "Kyle Williams",
+      "pos": "WR",
+      "team": "NE",
+      "verified": false,
+      "aliases": ["Kyle Williams"],
+      "exclude": ["basketball", "high school", "chief executive"]
+    },
+    {
+      "id": "dell",
+      "name": "Tank Dell",
+      "pos": "WR",
+      "team": "HOU",
+      "verified": false,
+      "aliases": ["Tank Dell"],
+      "exclude": []
+    },
+    {
+      "id": "bernard",
+      "name": "Germie Bernard",
+      "pos": "WR",
+      "team": "PIT",
+      "verified": true,
+      "aliases": ["Germie Bernard", "Germie"],
+      "exclude": []
+    },
+    {
+      "id": "ferguson",
+      "name": "Jake Ferguson",
+      "pos": "TE",
+      "team": "DAL",
+      "verified": false,
+      "aliases": ["Jake Ferguson"],
+      "exclude": []
+    },
+    {
+      "id": "mtaylor",
+      "name": "Mason Taylor",
+      "pos": "TE",
+      "team": "NYJ",
+      "verified": false,
+      "aliases": ["Mason Taylor"],
+      "exclude": ["basketball", "high school"]
+    },
+    {
+      "id": "helm",
+      "name": "Gunnar Helm",
+      "pos": "TE",
+      "team": "TEN",
+      "verified": false,
+      "aliases": ["Gunnar Helm", "Gunnar"],
+      "exclude": []
+    },
+    {
+      "id": "joly",
+      "name": "Justin Joly",
+      "pos": "TE",
+      "team": "DEN",
+      "verified": true,
+      "aliases": ["Justin Joly", "Joly"],
+      "exclude": []
+    },
+    {
+      "id": "okonkwo",
+      "name": "Chig Okonkwo",
+      "pos": "TE",
+      "team": "TEN",
+      "verified": false,
+      "aliases": ["Chig Okonkwo", "Okonkwo"],
+      "exclude": []
+    }
+  ],
+  "teams": {
+    "ARI": "Arizona Cardinals",
+    "BUF": "Buffalo Bills",
+    "CIN": "Cincinnati Bengals",
+    "CLE": "Cleveland Browns",
+    "DAL": "Dallas Cowboys",
+    "DEN": "Denver Broncos",
+    "HOU": "Houston Texans",
+    "IND": "Indianapolis Colts",
+    "JAX": "Jacksonville Jaguars",
+    "LAC": "Los Angeles Chargers",
+    "LAR": "Los Angeles Rams",
+    "MIN": "Minnesota Vikings",
+    "NE": "New England Patriots",
+    "NO": "New Orleans Saints",
+    "NYJ": "New York Jets",
+    "PIT": "Pittsburgh Steelers",
+    "SEA": "Seattle Seahawks",
+    "TEN": "Tennessee Titans"
+  }
+}

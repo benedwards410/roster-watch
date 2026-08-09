@@ -1,0 +1,18 @@
+# Netlify does no work here. The GitHub Action builds the XML and commits it;
+# Netlify just serves the committed public/ directory. That keeps this entirely
+# inside the static free tier -- no functions, no credits burned on compute.
+
+[build]
+  publish = "public"
+  command = "echo 'Static publish; feeds are built by GitHub Actions.'"
+
+[[headers]]
+  for = "/*.xml"
+  [headers.values]
+    Content-Type = "application/rss+xml; charset=utf-8"
+    Cache-Control = "public, max-age=300"
+
+[[headers]]
+  for = "/status.json"
+  [headers.values]
+    Cache-Control = "public, max-age=60"

@@ -1,0 +1,155 @@
+{
+  "_comment": "All terms are matched with word boundaries, case-insensitively. Multi-word terms match as phrases. Do NOT add short substrings like 'line' or 'shop' -- see README 'Why the exclusion list is short'.",
+
+  "buzzwords": [
+    "depth chart",
+    "first-team",
+    "first team reps",
+    "snap count",
+    "snap share",
+    "target share",
+    "route participation",
+    "rep count",
+    "camp battle",
+    "training camp battle",
+    "position battle",
+    "starting job",
+    "goal-line",
+    "short yardage",
+    "third-down back",
+    "handcuff",
+    "waiver",
+    "practice squad",
+    "injury report",
+    "limited practice",
+    "did not practice",
+    "carted off",
+    "healthy scratch",
+    "active roster",
+    "roster cut",
+    "released",
+    "waived",
+    "traded",
+    "signed",
+    "activated",
+    "suspended",
+    "PUP list",
+    "injured reserve",
+    "red zone target",
+    "air yards",
+    "touches",
+    "workload"
+  ],
+
+  "urgent": [
+    "inactive",
+    "ruled out",
+    "will not play",
+    "won't play",
+    "doubtful",
+    "questionable",
+    "game-time decision",
+    "carted off",
+    "injured reserve",
+    "placed on IR",
+    "designated to return",
+    "released",
+    "waived",
+    "traded",
+    "suspended",
+    "PUP list",
+    "did not practice",
+    "limited practice",
+    "surgery",
+    "out for the season",
+    "torn",
+    "sprain",
+    "strain",
+    "concussion",
+    "named the starter",
+    "will start",
+    "benched",
+    "activated",
+    "practice squad",
+    "cut"
+  ],
+
+  "exclude": [
+    "point spread",
+    "against the spread",
+    "betting odds",
+    "moneyline",
+    "over/under",
+    "parlay",
+    "sportsbook",
+    "FanDuel",
+    "DraftKings",
+    "prop bet",
+    "best bets",
+    "picks and parlays",
+    "promo code",
+    "bonus code",
+    "StubHub",
+    "SeatGeek",
+    "buy tickets",
+    "ticket prices",
+    "autograph",
+    "signed jersey",
+    "Madden rating",
+    "Madden 26",
+    "full game replay",
+    "highlight reel",
+    "watch live stream",
+    "power rankings"
+  ],
+
+  "sources": [
+    {
+      "id": "espn-nfl",
+      "label": "ESPN NFL",
+      "url": "https://www.espn.com/espn/rss/nfl/news",
+      "mode": "roster"
+    },
+    {
+      "id": "pft",
+      "label": "ProFootballTalk",
+      "url": "https://profootballtalk.nbcsports.com/feed/",
+      "mode": "roster"
+    },
+    {
+      "id": "cbs-nfl",
+      "label": "CBS Sports NFL",
+      "url": "https://www.cbssports.com/rss/headlines/nfl/",
+      "mode": "roster"
+    },
+    {
+      "id": "yahoo-nfl",
+      "label": "Yahoo Sports NFL",
+      "url": "https://sports.yahoo.com/nfl/rss.xml",
+      "mode": "roster"
+    },
+    {
+      "id": "reddit-nfl",
+      "label": "r/nfl new",
+      "url": "https://www.reddit.com/r/nfl/new.rss?limit=100",
+      "mode": "roster"
+    },
+    {
+      "id": "reddit-ff-new",
+      "label": "r/fantasyfootball new",
+      "url": "https://www.reddit.com/r/fantasyfootball/new.rss?limit=100",
+      "mode": "roster"
+    }
+  ],
+
+  "bluesky": {
+    "_comment": "Bluesky exposes native RSS at https://bsky.app/profile/<handle>/rss -- no API key, no third-party converter. I did not pre-fill handles because I will not guess at whether a given insider's account is real or current. Look up each insider you follow, confirm the handle resolves in a browser, then add it here. Each entry becomes a 'roster' mode source automatically.",
+    "handles": []
+  },
+
+  "generated": {
+    "googleNews": { "enabled": true, "chunkSize": 5 },
+    "googleNewsTeams": { "enabled": true },
+    "redditSearch": { "enabled": true, "chunkSize": 6, "subreddit": "fantasyfootball" }
+  }
+}

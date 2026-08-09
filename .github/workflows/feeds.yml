@@ -1,0 +1,56 @@
+name: Build roster feeds
+
+on:
+  schedule:
+    # Weekdays and general in-season churn: every 10 minutes.
+    - cron: '*/10 * * * *'
+    # Sunday 14:00-20:00 UTC (10am-4pm ET) is the inactives window. Tighter.
+    # GitHub cron is best-effort and can lag 5-15 min under load -- this
+    # narrows the gap, it does not close it. Keep your league app's push
+    # notification as the backstop for that window.
+    - cron: '*/5 14-20 * * 0'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+      - '.github/workflows/feeds.yml'
+
+concurrency:
+  group: feeds
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - run: npm ci --omit=dev
+
+      - name: Build feeds
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: npm run build
+
+      - name: Commit outputs
+        run: |
+          git config user.name  "roster-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public state
+          if git diff --staged --quiet; then
+            echo "No feed changes."
+          else
+            git commit -m "feeds: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

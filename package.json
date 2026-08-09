@@ -1,0 +1,17 @@
+{
+  "name": "roster-watch",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Filtered, deduped RSS for a fantasy football roster. One roster file, two output feeds.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/selftest.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
