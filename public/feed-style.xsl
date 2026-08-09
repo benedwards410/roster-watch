@@ -163,6 +163,7 @@
     <a href="urgent.xml">urgent.xml</a>
     <a href="status.json">status.json</a>
     <a href="./">status page</a>
+    <a href="./#manage" onclick="this.href='./?manage=1'">manage</a>
   </nav>
 
   <div id="items">

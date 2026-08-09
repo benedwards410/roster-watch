@@ -52,7 +52,7 @@
   }
 
   .feeds { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 2.4rem; }
-  .feeds a {
+  .feeds a, .feeds button {
     display: inline-block;
     padding: .5rem .85rem;
     border: 1px solid var(--rule);
@@ -61,9 +61,14 @@
     font-size: 12px;
     letter-spacing: .05em;
     text-transform: uppercase;
+    font-family: 'IBM Plex Mono', monospace;
+    background: none;
+    cursor: pointer;
   }
-  .feeds a:hover, .feeds a:focus-visible { border-color: var(--signal); color: var(--signal); }
+  .feeds a:hover, .feeds a:focus-visible,
+  .feeds button:hover, .feeds button:focus-visible { border-color: var(--signal); color: var(--signal); }
   .feeds a.urgent { border-color: color-mix(in srgb, var(--signal) 45%, var(--rule)); }
+  .feeds button.active { border-color: var(--signal); color: var(--signal); }
 
   h2 {
     font-family: 'Oswald', 'Arial Narrow', sans-serif;
@@ -88,8 +93,6 @@
   }
   .counts span { font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--dim); }
 
-  /* Each source is a row on a depth chart: name, then a bar showing how much of
-     its raw output survived the filter. Wide bar = noisy source pulling weight. */
   ul { list-style: none; padding: 0; margin: .6rem 0 0; }
   li {
     display: grid;
@@ -122,81 +125,462 @@
     li { animation: in .35s ease both; }
     @keyframes in { from { opacity: 0; transform: translateY(3px); } }
   }
+
+  /* ---- manage panel ---- */
+  #manage { display: none; margin-top: 1rem; }
+  #manage.open { display: block; }
+
+  .mgr-note {
+    font-size: 12px; color: var(--dim); line-height: 1.6; margin: .8rem 0 1.2rem;
+  }
+  .mgr-note a { color: var(--signal); }
+
+  .mgr-row {
+    display: flex; flex-wrap: wrap; gap: .4rem; align-items: center;
+    margin-bottom: .8rem;
+  }
+  .mgr-row input, .mgr-row select {
+    background: var(--field); color: var(--chalk);
+    border: 1px solid var(--rule); padding: .45rem .6rem;
+    font-family: 'IBM Plex Mono', monospace; font-size: 12px;
+    outline: none;
+  }
+  .mgr-row input:focus, .mgr-row select:focus { border-color: var(--signal); }
+  .mgr-row input[type="text"] { flex: 1; min-width: 8rem; }
+  .mgr-row input[type="password"] { flex: 1; min-width: 12rem; }
+  .mgr-row input[type="url"] { flex: 2; min-width: 14rem; }
+
+  .btn {
+    background: none; color: var(--chalk); border: 1px solid var(--rule);
+    padding: .45rem .75rem; font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px; letter-spacing: .05em; text-transform: uppercase;
+    cursor: pointer;
+  }
+  .btn:hover { border-color: var(--signal); color: var(--signal); }
+  .btn.primary { border-color: var(--live); color: var(--live); }
+  .btn.primary:hover { background: var(--live); color: var(--field); }
+  .btn.danger { border-color: var(--down); color: var(--down); font-size: 11px; padding: .3rem .5rem; }
+  .btn.danger:hover { background: var(--down); color: var(--chalk); }
+
+  .mgr-table { width: 100%; border-collapse: collapse; margin: .6rem 0; }
+  .mgr-table th {
+    font-size: 10px; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--dim); text-align: left; padding: .4rem .3rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .mgr-table td {
+    padding: .45rem .3rem; border-bottom: 1px solid var(--rule);
+    font-size: 13px; vertical-align: middle;
+  }
+  .mgr-table td:last-child { text-align: right; }
+
+  .toast {
+    position: fixed; bottom: 1.5rem; left: 50%; transform: translateX(-50%);
+    padding: .6rem 1.2rem; font-size: 12px; letter-spacing: .05em;
+    border: 1px solid var(--rule); background: var(--field);
+    z-index: 100; opacity: 0; transition: opacity .3s;
+  }
+  .toast.show { opacity: 1; }
+  .toast.ok { border-color: var(--live); color: var(--live); }
+  .toast.fail { border-color: var(--down); color: var(--down); }
+
+  .mgr-section { margin-bottom: 2rem; }
+
+  .pat-status { font-size: 11px; color: var(--dim); margin-left: .5rem; }
+  .pat-status.connected { color: var(--live); }
 </style>
 </head>
 <body>
-  <p class="eyebrow" id="built">Loading status…</p>
+  <p class="eyebrow" id="built">Loading status...</p>
   <h1>Roster Watch</h1>
 
   <nav class="feeds">
-    <a href="all.xml">all.xml — everything</a>
-    <a class="urgent" href="urgent.xml">urgent.xml — availability only</a>
+    <a href="all.xml">all.xml</a>
+    <a class="urgent" href="urgent.xml">urgent.xml</a>
     <a href="status.json">status.json</a>
+    <button id="manage-btn" type="button">Manage</button>
   </nav>
 
-  <div class="counts" id="counts"></div>
+  <!-- status view -->
+  <div id="status-view">
+    <div class="counts" id="counts"></div>
+    <h2>Sources</h2>
+    <ul id="sources"></ul>
+    <h2>Roster</h2>
+    <ul id="roster"></ul>
+  </div>
 
-  <h2>Sources</h2>
-  <ul id="sources"></ul>
+  <!-- manage panel -->
+  <div id="manage">
+    <h2>Connect to GitHub</h2>
+    <p class="mgr-note">
+      A fine-grained personal access token lets you save changes from this page.
+      Create one at <a href="https://github.com/settings/tokens?type=beta" target="_blank" rel="noopener">github.com/settings/tokens</a>
+      with <b>Contents: Read and write</b> for this repo. The token stays in your browser only.
+    </p>
+    <div class="mgr-row">
+      <input id="pat-input" type="password" placeholder="github_pat_..." />
+      <button class="btn" id="pat-btn" type="button">Connect</button>
+      <span class="pat-status" id="pat-status"></span>
+    </div>
 
-  <h2>Roster</h2>
-  <ul id="roster"></ul>
+    <div id="editor" style="display:none">
+      <!-- roster editor -->
+      <div class="mgr-section">
+        <h2>Edit Roster</h2>
+        <table class="mgr-table">
+          <thead><tr><th>Player</th><th>Pos</th><th>Team</th><th></th></tr></thead>
+          <tbody id="roster-body"></tbody>
+        </table>
+        <div class="mgr-row" style="margin-top:.6rem">
+          <input id="add-name" type="text" placeholder="Player name" />
+          <select id="add-pos"><option>QB</option><option>RB</option><option>WR</option><option>TE</option></select>
+          <select id="add-team"></select>
+          <button class="btn" id="add-player-btn" type="button">+ Player</button>
+        </div>
+      </div>
+
+      <!-- sources editor -->
+      <div class="mgr-section">
+        <h2>Edit Sources</h2>
+        <p class="mgr-note">Add RSS feed URLs. These run as tier-1 (roster mode) — items must mention a rostered player to appear.</p>
+        <table class="mgr-table">
+          <thead><tr><th>Label</th><th>URL</th><th></th></tr></thead>
+          <tbody id="sources-body"></tbody>
+        </table>
+        <div class="mgr-row" style="margin-top:.6rem">
+          <input id="add-src-label" type="text" placeholder="Source name" />
+          <input id="add-src-url" type="url" placeholder="https://example.com/rss" />
+          <button class="btn" id="add-source-btn" type="button">+ Source</button>
+        </div>
+      </div>
+
+      <div class="mgr-row">
+        <button class="btn primary" id="save-btn" type="button">Save &amp; Rebuild</button>
+        <span id="save-status" style="font-size:12px;color:var(--dim);margin-left:.5rem"></span>
+      </div>
+    </div>
+  </div>
 
   <footer>
     Subscribe to <code>all.xml</code> in your reader. Point your email service at
-    <code>urgent.xml</code> only. Names marked
-    <span class="unverified">unverified</span> have a team assignment that hasn't
-    been confirmed against a primary source — that only affects the team-level
-    feed, not name matching. Edit <code>data/roster.json</code> to change anything.
+    <code>urgent.xml</code> only. Roster syncs automatically from Sleeper.
+    Click <b>Manage</b> to edit players or sources.
   </footer>
 
+  <div class="toast" id="toast"></div>
+
 <script>
-  const el = (id) => document.getElementById(id);
+(function () {
+  var $ = function(id) { return document.getElementById(id); };
 
+  // ---- NFL teams ----
+  var NFL = {
+    ARI:'Arizona Cardinals',ATL:'Atlanta Falcons',BAL:'Baltimore Ravens',
+    BUF:'Buffalo Bills',CAR:'Carolina Panthers',CHI:'Chicago Bears',
+    CIN:'Cincinnati Bengals',CLE:'Cleveland Browns',DAL:'Dallas Cowboys',
+    DEN:'Denver Broncos',DET:'Detroit Lions',GB:'Green Bay Packers',
+    HOU:'Houston Texans',IND:'Indianapolis Colts',JAX:'Jacksonville Jaguars',
+    KC:'Kansas City Chiefs',LAC:'Los Angeles Chargers',LAR:'Los Angeles Rams',
+    LV:'Las Vegas Raiders',MIA:'Miami Dolphins',MIN:'Minnesota Vikings',
+    NE:'New England Patriots',NO:'New Orleans Saints',NYG:'New York Giants',
+    NYJ:'New York Jets',PHI:'Philadelphia Eagles',PIT:'Pittsburgh Steelers',
+    SEA:'Seattle Seahawks',SF:'San Francisco 49ers',TB:'Tampa Bay Buccaneers',
+    TEN:'Tennessee Titans',WAS:'Washington Commanders'
+  };
+
+  // Populate team dropdown
+  var teamSel = $('add-team');
+  Object.keys(NFL).sort().forEach(function(k) {
+    var o = document.createElement('option');
+    o.value = k; o.textContent = k;
+    teamSel.appendChild(o);
+  });
+
+  // ---- status view ----
   fetch('status.json', { cache: 'no-store' })
-    .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(render)
-    .catch(() => {
-      el('built').textContent = 'No status.json yet — run the build once.';
-    });
+    .then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(renderStatus)
+    .catch(function() { $('built').textContent = 'No status.json yet — run the build once.'; });
 
-  function render(s) {
-    const when = new Date(s.builtAt);
-    const mins = Math.round((Date.now() - when) / 60000);
-    el('built').textContent =
-      `Built ${when.toLocaleString()} · ${mins} min ago`;
+  function renderStatus(s) {
+    var when = new Date(s.builtAt);
+    var mins = Math.round((Date.now() - when) / 60000);
+    $('built').textContent = 'Built ' + when.toLocaleString() + ' · ' + mins + ' min ago';
 
-    const c = s.counts;
-    el('counts').innerHTML = [
+    var c = s.counts;
+    $('counts').innerHTML = [
       [c.ok + '/' + c.sources, 'sources up'],
       [c.newThisRun, 'new this run'],
       [c.inAllFeed, 'in all.xml'],
       [c.inUrgentFeed, 'urgent'],
-    ].map(([n, l]) => `<div><b>${n}</b><span>${l}</span></div>`).join('');
+    ].map(function(x) { return '<div><b>' + x[0] + '</b><span>' + x[1] + '</span></div>'; }).join('');
 
-    el('sources').innerHTML = s.sources.map((f) => {
-      const pct = f.raw ? Math.min(100, Math.round((f.kept / f.raw) * 100)) : 0;
-      return `<li class="${f.ok ? '' : 'down'}">
-        <span class="name">${esc(f.label)}<span class="tier">${f.mode === 'team' ? 'tier 2' : 'tier 1'}</span></span>
-        <span class="num">${f.ok ? f.kept + ' / ' + f.raw : 'unreachable'}</span>
-        <span class="bar"><i style="width:${pct}%"></i></span>
-        ${f.ok ? '' : `<span class="err">${esc(f.error || '')}</span>`}
-      </li>`;
+    $('sources').innerHTML = s.sources.map(function(f) {
+      var pct = f.raw ? Math.min(100, Math.round((f.kept / f.raw) * 100)) : 0;
+      return '<li class="' + (f.ok ? '' : 'down') + '">' +
+        '<span class="name">' + esc(f.label) + '<span class="tier">' + (f.mode === 'team' ? 'tier 2' : 'tier 1') + '</span></span>' +
+        '<span class="num">' + (f.ok ? f.kept + ' / ' + f.raw : 'unreachable') + '</span>' +
+        '<span class="bar"><i style="width:' + pct + '%"></i></span>' +
+        (f.ok ? '' : '<span class="err">' + esc(f.error || '') + '</span>') +
+      '</li>';
     }).join('');
 
-    el('roster').innerHTML = s.roster.map((p) =>
-      `<li>
-        <span class="name">${esc(p.name)}
-          <span class="tier">${p.pos} · ${p.team}${p.verified ? '' : ' · <span class="unverified">unverified</span>'}</span>
-        </span>
-        <span class="num">${p.recent} item${p.recent === 1 ? '' : 's'}</span>
-      </li>`
-    ).join('');
+    $('roster').innerHTML = s.roster.map(function(p) {
+      return '<li>' +
+        '<span class="name">' + esc(p.name) +
+          '<span class="tier">' + p.pos + ' · ' + p.team +
+          (p.verified ? '' : ' · <span class="unverified">unverified</span>') +
+          '</span></span>' +
+        '<span class="num">' + p.recent + ' item' + (p.recent === 1 ? '' : 's') + '</span>' +
+      '</li>';
+    }).join('');
+  }
+
+  // ---- manage panel ----
+  var manageOpen = false;
+  function toggleManage(force) {
+    manageOpen = typeof force === 'boolean' ? force : !manageOpen;
+    $('manage').classList.toggle('open', manageOpen);
+    $('manage-btn').classList.toggle('active', manageOpen);
+    if (manageOpen && state.pat) loadFromGitHub();
+  }
+  $('manage-btn').addEventListener('click', function() { toggleManage(); });
+  if (location.search.indexOf('manage=1') !== -1 || location.hash === '#manage') {
+    toggleManage(true);
+  }
+
+  // ---- state ----
+  var state = {
+    pat: localStorage.getItem('roster-watch-pat') || '',
+    owner: '', repo: '',
+    rosterData: null, rosterSha: '',
+    configData: null, configSha: '',
+    dirty: false,
+  };
+
+  // Auto-detect repo from page URL
+  (function detectRepo() {
+    var h = location.hostname;
+    if (h.endsWith('.github.io')) {
+      state.owner = h.replace('.github.io', '');
+      state.repo = location.pathname.split('/')[1] || '';
+    }
+  })();
+
+  // Restore PAT
+  if (state.pat) {
+    $('pat-input').value = '••••••••';
+    $('pat-status').textContent = 'connected';
+    $('pat-status').className = 'pat-status connected';
+  }
+
+  $('pat-btn').addEventListener('click', function() {
+    var v = $('pat-input').value.trim();
+    if (!v || v.indexOf('•') !== -1) return;
+    state.pat = v;
+    localStorage.setItem('roster-watch-pat', v);
+    $('pat-input').value = '••••••••';
+    $('pat-status').textContent = 'saved';
+    $('pat-status').className = 'pat-status connected';
+    loadFromGitHub();
+  });
+
+  // ---- GitHub API ----
+  function ghHeaders() {
+    return { Authorization: 'Bearer ' + state.pat, Accept: 'application/vnd.github.v3+json' };
+  }
+
+  function ghUrl(path) {
+    return 'https://api.github.com/repos/' + state.owner + '/' + state.repo + '/contents/' + path;
+  }
+
+  function loadFromGitHub() {
+    if (!state.pat || !state.owner || !state.repo) {
+      toast('Set up GitHub token first', 'fail');
+      return;
+    }
+    $('save-status').textContent = 'Loading...';
+    Promise.all([
+      fetch(ghUrl('data/roster.json'), { headers: ghHeaders() }).then(function(r) { return r.json(); }),
+      fetch(ghUrl('data/config.json'), { headers: ghHeaders() }).then(function(r) { return r.json(); }),
+    ]).then(function(results) {
+      var rosterFile = results[0];
+      var configFile = results[1];
+      if (rosterFile.message || configFile.message) {
+        toast('GitHub API error: ' + (rosterFile.message || configFile.message), 'fail');
+        return;
+      }
+      state.rosterData = JSON.parse(decodeB64(rosterFile.content));
+      state.rosterSha = rosterFile.sha;
+      state.configData = JSON.parse(decodeB64(configFile.content));
+      state.configSha = configFile.sha;
+      state.dirty = false;
+      $('editor').style.display = 'block';
+      $('save-status').textContent = '';
+      renderEditor();
+    }).catch(function(err) {
+      toast('Failed to load: ' + err.message, 'fail');
+      $('save-status').textContent = '';
+    });
+  }
+
+  function decodeB64(s) {
+    return decodeURIComponent(escape(atob(s.replace(/\n/g, ''))));
+  }
+
+  function encodeB64(s) {
+    return btoa(unescape(encodeURIComponent(s)));
+  }
+
+  // ---- render editor ----
+  function renderEditor() {
+    renderRosterTable();
+    renderSourcesTable();
+  }
+
+  function renderRosterTable() {
+    var players = state.rosterData.players || [];
+    $('roster-body').innerHTML = players.map(function(p, i) {
+      return '<tr>' +
+        '<td>' + esc(p.name) + '</td>' +
+        '<td>' + esc(p.pos) + '</td>' +
+        '<td>' + esc(p.team) + '</td>' +
+        '<td><button class="btn danger" data-del-player="' + i + '" type="button">×</button></td>' +
+      '</tr>';
+    }).join('');
+
+    $('roster-body').querySelectorAll('[data-del-player]').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        var idx = parseInt(this.getAttribute('data-del-player'));
+        state.rosterData.players.splice(idx, 1);
+        state.dirty = true;
+        renderRosterTable();
+      });
+    });
+  }
+
+  function renderSourcesTable() {
+    var srcs = (state.configData.sources || []);
+    $('sources-body').innerHTML = srcs.map(function(s, i) {
+      return '<tr>' +
+        '<td>' + esc(s.label) + '</td>' +
+        '<td style="font-size:11px;max-width:20rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">' + esc(s.url) + '</td>' +
+        '<td><button class="btn danger" data-del-src="' + i + '" type="button">×</button></td>' +
+      '</tr>';
+    }).join('');
+
+    $('sources-body').querySelectorAll('[data-del-src]').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        var idx = parseInt(this.getAttribute('data-del-src'));
+        state.configData.sources.splice(idx, 1);
+        state.dirty = true;
+        renderSourcesTable();
+      });
+    });
+  }
+
+  // ---- add player ----
+  $('add-player-btn').addEventListener('click', function() {
+    var name = $('add-name').value.trim();
+    if (!name) return;
+    var pos = $('add-pos').value;
+    var team = $('add-team').value;
+    var slug = name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+    state.rosterData.players.push({
+      id: slug, name: name, pos: pos, team: team,
+      verified: false, aliases: [name], exclude: []
+    });
+
+    // Ensure team is in teams map
+    if (NFL[team] && !state.rosterData.teams[team]) {
+      state.rosterData.teams[team] = NFL[team];
+    }
+
+    state.dirty = true;
+    $('add-name').value = '';
+    renderRosterTable();
+    toast('Added ' + name, 'ok');
+  });
+
+  // ---- add source ----
+  $('add-source-btn').addEventListener('click', function() {
+    var label = $('add-src-label').value.trim();
+    var url = $('add-src-url').value.trim();
+    if (!label || !url) return;
+    var slug = label.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+    if (!state.configData.sources) state.configData.sources = [];
+    state.configData.sources.push({ id: slug, label: label, url: url, mode: 'roster' });
+
+    state.dirty = true;
+    $('add-src-label').value = '';
+    $('add-src-url').value = '';
+    renderSourcesTable();
+    toast('Added ' + label, 'ok');
+  });
+
+  // ---- save ----
+  $('save-btn').addEventListener('click', function() {
+    if (!state.pat) { toast('Connect GitHub first', 'fail'); return; }
+    $('save-status').textContent = 'Saving...';
+    $('save-btn').disabled = true;
+
+    var rosterContent = JSON.stringify(state.rosterData, null, 2) + '\n';
+    var configContent = JSON.stringify(state.configData, null, 2) + '\n';
+
+    // Commit roster.json first, then config.json
+    commitFile('data/roster.json', rosterContent, state.rosterSha, 'roster: update via web editor')
+      .then(function(res) {
+        state.rosterSha = res.content.sha;
+        return commitFile('data/config.json', configContent, state.configSha, 'config: update via web editor');
+      })
+      .then(function(res) {
+        state.configSha = res.content.sha;
+        state.dirty = false;
+        $('save-status').textContent = '';
+        $('save-btn').disabled = false;
+        toast('Saved! Feed rebuild triggered.', 'ok');
+      })
+      .catch(function(err) {
+        $('save-status').textContent = '';
+        $('save-btn').disabled = false;
+        toast('Save failed: ' + err.message, 'fail');
+      });
+  });
+
+  function commitFile(path, content, sha, message) {
+    return fetch(ghUrl(path), {
+      method: 'PUT',
+      headers: Object.assign({ 'Content-Type': 'application/json' }, ghHeaders()),
+      body: JSON.stringify({
+        message: message,
+        content: encodeB64(content),
+        sha: sha
+      })
+    }).then(function(r) {
+      if (!r.ok) return r.json().then(function(e) { throw new Error(e.message); });
+      return r.json();
+    });
+  }
+
+  // ---- toast ----
+  var toastTimer;
+  function toast(msg, type) {
+    var el = $('toast');
+    el.textContent = msg;
+    el.className = 'toast show ' + (type || '');
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(function() { el.className = 'toast'; }, 4000);
   }
 
   function esc(s) {
-    return String(s).replace(/[&<>"]/g, (m) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m]));
+    return String(s).replace(/[&<>"]/g, function(m) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m];
+    });
   }
+})();
 </script>
 </body>
 </html>
