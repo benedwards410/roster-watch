@@ -202,7 +202,7 @@ export function toRss({ title, description, items, filename, siteUrl }) {
     .join('\n');
 
   return `<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=${Date.now()}"?>
 <rss version="2.0">
   <channel>
     <title>${xmlEsc(title)}</title>
