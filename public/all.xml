@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 09 Aug 2026 00:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 00:18:04 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is Michael Wilson The Most Underrated WR In Football? - Raising Zona [Michael Wilson]</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOejFhNnhlYWROR2VIemJjOGVXN01Cc3RnODJHeVY0NzAzZVo0Z3l2aWZlczFuUEpJa0pMWEs4djkwS1ZlcmVmS1dBNGlrZ2VGdkJyUXhtOU1CdzBzc2NyYlVnM0piLTZXa0dzbE5NdmFjWExKWWh4Z0ZBdlRlWXdGbVFSZFg3Tm4tbmhhVnVHZ1d6bE0?oc=5</link>
+      <guid isPermaLink="false">6a7382fbcf535bad</guid>
+      <pubDate>Tue, 30 Jun 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Jefferson, Higgins, Hutchinson, Wilson, Mitchell</source>
+      <description>Is Michael Wilson The Most Underrated WR In Football? &amp;nbsp;&amp;nbsp; Raising Zona</description>
+    </item>
+    <item>
+      <title>Tennessee Titans&apos; Gunnar Helm taking part in Tight End University - Titans Wire [Gunnar Helm]</title>
+      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVE9henR1d3lMR2lkVmFxU1V6czAzTFVmc0wwUlRwNzY4OE82aTdoY204bWllcVFiZVFsWmpmM0pnZGNpOUFkUjIzZ1RMaXgyR2pNSDNwRlhUU3RaNjc3b2JudzZKbWRlYlY0QXJnZVpZdHFVZGdZa3QxRFE5dFFiUjhQUUxzczNpT3oyQUF4cDlZVWFId19tRnhvc0JtSnUxNDNTQjFPR05IWUZoSTBPbnhiSkZkb2U4ZGFVb0ZvT1B3VUNSVk5zTzZ0QUViUmR0ZUQwZEd2RXRoeFd5?oc=5</link>
+      <guid isPermaLink="false">20488cba44140c95</guid>
+      <pubDate>Wed, 24 Jun 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Helm, Joly, Okonkwo</source>
+      <description>Tennessee Titans&apos; Gunnar Helm taking part in Tight End University &amp;nbsp;&amp;nbsp; Titans Wire</description>
+    </item>
     <item>
       <title>Tank Dell Injury: Week 1 status unclear - RotoWire [Tank Dell]</title>
       <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVNiVk9EZTZjZUhKRm42UzRWS2FkSTNsXzVKVEkzVV9kdnRYVFM5enlsRklyT3hzUUtHTmU0cnRlT1FOMDJLQWJEeEhfTHBua3RTdHFzYjdtTy02Q0tyMDB0UDRDMlNNQ3lHc3JNOWlZc013dG5rZ19BVXViZnBYZHNqUXlLeU5EQVEwSGp6LTM4M3c?oc=5</link>
@@ -3190,22 +3207,6 @@
       <pubDate>Tue, 23 Jun 2026 07:00:00 GMT</pubDate>
       <source>Google News: Helm, Joly, Okonkwo</source>
       <description>Chig Okonkwo wants to be &apos;unleashed&apos; in Commanders&apos; offense &amp;nbsp;&amp;nbsp; Washington Commanders</description>
-    </item>
-    <item>
-      <title>Commanders&apos; Chig Okonkwo is learning from Jayden Daniels - sports.yahoo.com [Chig Okonkwo]</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFRVWDkxUFhRYlVhdWloc3g5d0szY0ZWMHREMU12cmNIZk9KcmlDQmxnN0FJYzF3RUZ2ZVpXVEhuZ0psUHdmcm05TVh3ZGZ3amVrNF90VU52MzJrR1JKYU5zSnV1MW1lNjlLVXduNzRmbFZnbGEyWW1EN2F4Q2ZjWVJaeEQ2SEtYMUV3T2RMZmsyUQ?oc=5</link>
-      <guid isPermaLink="false">faf4a6a000ac2e04</guid>
-      <pubDate>Tue, 04 Aug 2026 08:51:22 GMT</pubDate>
-      <source>Google News: Helm, Joly, Okonkwo</source>
-      <description>Commanders&apos; Chig Okonkwo is learning from Jayden Daniels &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Question of the week | Can Chig Okonkwo be a top 10 tight end? - Washington Commanders [Chig Okonkwo]</title>
-      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTFBqdmhIMUJLdHdybi01SDF6T1BYQ1Rqc18zZWRiWUZrUmxqRXlBdjl4TmtubGFRYzJ3VExyaTBGYWZqLXBWVkF1V2pZUXVPOVRBa1VUazliUGRmZEFXaWtsRnJEczVmek5BUDdmVVoySTVmMVk?oc=5</link>
-      <guid isPermaLink="false">08314a53024a6b20</guid>
-      <pubDate>Thu, 11 Jun 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Helm, Joly, Okonkwo</source>
-      <description>Question of the week | Can Chig Okonkwo be a top 10 tight end? &amp;nbsp;&amp;nbsp; Washington Commanders</description>
     </item>
   </channel>
 </rss>
