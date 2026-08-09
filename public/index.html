@@ -342,7 +342,10 @@
   function toggleManage(force) {
     manageOpen = typeof force === 'boolean' ? force : !manageOpen;
     $('manage').classList.toggle('open', manageOpen);
+    $('status-view').style.display = manageOpen ? 'none' : '';
     $('manage-btn').classList.toggle('active', manageOpen);
+    $('manage-btn').textContent = manageOpen ? 'Status' : 'Manage';
+    window.scrollTo(0, 0);
     if (manageOpen && state.pat) loadFromGitHub();
   }
   $('manage-btn').addEventListener('click', function() { toggleManage(); });
