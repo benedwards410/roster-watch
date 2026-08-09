@@ -129,12 +129,6 @@
       "mode": "roster"
     },
     {
-      "id": "reddit-nfl",
-      "label": "r/nfl new",
-      "url": "https://www.reddit.com/r/nfl/new.rss?limit=100",
-      "mode": "roster"
-    },
-    {
       "id": "reddit-ff-new",
       "label": "r/fantasyfootball new",
       "url": "https://www.reddit.com/r/fantasyfootball/new.rss?limit=100",
@@ -150,6 +144,6 @@
   "generated": {
     "googleNews": { "enabled": true, "chunkSize": 5 },
     "googleNewsTeams": { "enabled": true },
-    "redditSearch": { "enabled": true, "chunkSize": 6, "subreddit": "fantasyfootball" }
+    "redditSearch": { "enabled": false, "chunkSize": 6, "subreddit": "fantasyfootball" }
   }
 }
