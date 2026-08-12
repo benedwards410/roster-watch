@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786514515519"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786521035665"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Wed, 12 Aug 2026 06:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:50:35 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Chargers offense may be just what Justin Herbert needs. Let the OC Mike McDaniel explain [Justin Herbert]</title>
+      <link>https://sports.yahoo.com/nfl/article/new-chargers-offense-may-be-just-what-justin-herbert-needs-let-the-oc-mike-mcdaniel-explain-065049262.html</link>
+      <guid isPermaLink="false">8088b6e5ddae42b0</guid>
+      <pubDate>Wed, 12 Aug 2026 06:50:49 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Since Herbert was drafted in 2020, he&amp;#39;s been sacked, pressured and hit more than any other NFL QB. Mike McDaniel has a plan to change that.</description>
+    </item>
     <item>
       <title>Josh Allen gets all the love, but James Cook is the Bills player you should be drafting in fantasy football - Yahoo Sports [James Cook]</title>
       <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxON1BzMkxGRGFwVWg2Q1ROMUJZREhZWW1CR2tFdm82WV9VZV9MSU5xZnRqZmlzT1RFeXNQTWtNNmxRUkFRMGw4REFGeGkxYzVtUUNYTWxsSDlhUVRjMmdpcHcyV1dTdFFNN0JMdmRiWjhGN2ZfVUM1V29IOVdpZ1gzSw?oc=5</link>
