@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-13T07:54:10.178Z",
+  "builtAt": "2026-08-13T09:20:05.032Z",
   "sources": [
     {
       "id": "gnews-players-1",
@@ -213,7 +213,7 @@
       "label": "ESPN NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 118,
+      "ms": 137,
       "raw": 0,
       "kept": 0
     },
@@ -222,7 +222,7 @@
       "label": "ProFootballTalk",
       "mode": "roster",
       "ok": true,
-      "ms": 372,
+      "ms": 394,
       "raw": 30,
       "kept": 0
     },
@@ -231,7 +231,7 @@
       "label": "CBS Sports NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 169,
+      "ms": 128,
       "raw": 36,
       "kept": 0
     },
@@ -240,7 +240,7 @@
       "label": "Yahoo Sports NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 992,
+      "ms": 560,
       "raw": 50,
       "kept": 0
     },
@@ -249,7 +249,7 @@
       "label": "r/fantasyfootball new",
       "mode": "roster",
       "ok": true,
-      "ms": 1299,
+      "ms": 1482,
       "raw": 0,
       "kept": 0
     }
