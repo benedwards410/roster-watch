@@ -1,13 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786718546328"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786721876992"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Fri, 14 Aug 2026 14:42:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:37:56 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steelers preseason opener winners, losers: Debuting QBs shine vs Packers [Germie Bernard]</title>
+      <link>https://sports.yahoo.com/articles/steelers-preseason-opener-winners-losers-150715819.html</link>
+      <guid isPermaLink="false">39b86f8bc6f366ae</guid>
+      <pubDate>Fri, 14 Aug 2026 15:07:15 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Rookies Kaden Wetjen and Germie Bernard also had big nights, while offensive tackles Troy Fautanu and Dylan Cook looked sloppy.</description>
+    </item>
+    <item>
+      <title>Zac Jackson on the Deshaun Watson vs. Shedeur Sanders QB battle &amp; what to expect vs. the Bears - WKYC [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMivwJBVV95cUxQalk5TnBnODZqSUV6dk1TcGNTUnF5RndQMmY1WUlOdE14dzhpOTd0U21oSXU4T2lNMDJ5cFAtdFdjNnU2ZTV6WmpjLVk0TDZIZ0ZtczV4VmMtQ0stNk5qelJWMHc4ZEFJR3J3dl9vdkc0RGItNTQ3eGhWMF8wbEl4TnFEMDUzRUhyYzRMeWU2M1dWbHV2SXYzSVE4ZUItMFEyQlRXbUdUajVHci11ekJ5UGF1c0xDVTZVUWd3emNUaE8yVmY2UHdCQVpTcWo5YjgyNUg5QlI5MjJzS3FSeDc3d3M2NHVlLS1haGd3dk1FeTNoRkpSSFkteVNFVFpaTzc4amdxMEhma3ZBczZsN3UyWndoUU9tcjcxUzJtcl92bkh0Z2o1YmFiLTJOQU5zY1hFbU1WbzZBUGtraERwck9V?oc=5</link>
+      <guid isPermaLink="false">b3341a6b99edcc9a</guid>
+      <pubDate>Fri, 14 Aug 2026 15:26:00 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Zac Jackson on the Deshaun Watson vs. Shedeur Sanders QB battle &amp; what to expect vs. the Bears &amp;nbsp;&amp;nbsp; WKYC</description>
+    </item>
+    <item>
+      <title>Deshaun Watson, Shedeur Sanders &apos;Have Been Less Than Thrilling&apos; at Browns Camp - Yahoo Sports [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3A2SE8tS2NVU2U4OXZrNUl1TzBJNWgwRXAxYm5WaGRKd3FPaHIzdF9vLUhFaDRpdmZPWGhUVGF0MHV2YXRWMDdIOG9URml1RktUd29GTG9EWWZMUE9xc1oycVZBc2ZzQXp2V2haNGNYRENGYXlPNms5cU1FYjlsWkVmUlBCZWJPaFE?oc=5</link>
+      <guid isPermaLink="false">eedc24ef652ac9a4</guid>
+      <pubDate>Fri, 14 Aug 2026 14:54:26 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Deshaun Watson, Shedeur Sanders &apos;Have Been Less Than Thrilling&apos; at Browns Camp &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Shedeur Sanders Apologizes for Tense ‘Next Question’ Exchange - Complex [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQa0M2aEN1d215dkFCZEFBZG5pS3Jvck1UeUJ5OEpFVVBqMnRqb0Y3OHJBVUwtVmo0WnE4a0hlM09jTktpY0ZBeDhocWo5VFlZTi1qZHNwYXZOTTlfOE94Z2UyZ2ZzaVBaVU9IY1llZDI3aEpNQjczT3hXaHJfejRSeWJsaWFKM3pfY1l4XzlFUVFCLXBZWV9RZFZqUQ?oc=5</link>
+      <guid isPermaLink="false">8d677afc1fc4299f</guid>
+      <pubDate>Fri, 14 Aug 2026 14:42:06 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Shedeur Sanders Apologizes for Tense ‘Next Question’ Exchange &amp;nbsp;&amp;nbsp; Complex</description>
+    </item>
+    <item>
+      <title>What are your REALISTIC EXPECTATIONS for Shedeur Sanders in his preseason debut vs. the Bears? - WKYC [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiwgJBVV95cUxOTHNVM1FwMFVoUGV0eWVUMExKMWZyMGVjblZuMjVMUk41UUIzSEF5NkEwN2FadXg2cVhnLXFlVldMa3EySEtkc3EtY2xTSmM5TXU3S05TM3JWMk9lN21kTFpBcDNDZTF4dmtWN1JxRmtYREQ0ZlhLU0htaU9WOFdja2Z0eUFQZmxLOG5VeDdXMU92cVRqS0lyU0lXT2hBUVlOUXpSR2FxYkMwUDczenZDZ3NlVy1qU1RsQU5rVnJoOEJSWG1LVkJkUHRQX1B1NzZIb2ZmLW1CcVV1Vm5FUjhEbnFlVF9IZWZHMDlaYnZkclZDa3R4TTdTUlJkQUVRWWxTUFg5TW1xVWk2TEg4YWZHZE1MSkltNG9UbVBGRXIzdlBWN09NZXhVNWtOeGpsdWFHN1VIVGJaUU5GOFFMT1I5SWVB?oc=5</link>
+      <guid isPermaLink="false">f2cd6a7937b7f0dd</guid>
+      <pubDate>Fri, 14 Aug 2026 15:11:00 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>What are your REALISTIC EXPECTATIONS for Shedeur Sanders in his preseason debut vs. the Bears? &amp;nbsp;&amp;nbsp; WKYC</description>
+    </item>
+    <item>
+      <title>Kyren Williams Still Boasts RB1 Upside Despite Falling Draft Cost - NFL News | Fantasy Football - RotoBaller [Kyren Williams]</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFlNUmxJN2lsME01RGwwNVV2Uk5hQU4xd3VMeWhWSFlRUVhGQlRha014M2l6MXNRVlBkUjI0OEpLVXc1SHN0WEhfd2xTLUNGMmxOT3lHZUFMNE11R0RWMi1RZjFZRUZESHYzLWp4a1o4SEVuYWM0eVNYYUxfNHQ2a3ZfVjdhSl9FdFJKd20wME5VQ0p6VHVzMUZBeWRtaTI2ZFU4LXByNGxKcWxla01JNWhB?oc=5</link>
+      <guid isPermaLink="false">1ff8b7a6a10b237b</guid>
+      <pubDate>Fri, 14 Aug 2026 15:01:05 GMT</pubDate>
+      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
+      <description>Kyren Williams Still Boasts RB1 Upside Despite Falling Draft Cost - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
+    </item>
+    <item>
+      <title>Derrick Michael Wilson Obituary (2026) - Madera, CA - All Faiths Funeral Home - Madera - Legacy obituary [Michael Wilson]</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQbG9KbUtldGRWRjFOM3JNWDlmQWpyTDlXWXEzdHh3bG9NN0hzU1VWS09DdnJtQ1lOU3VKcjFxOVdDZHhwc3djU1lSM000WFJEeVBwNDNhNzZ2OFE2T2E1cTZvMUUyTC00dVRscXZSQXkwVHdEekNEVEZEaFIyM3FISDY1Zw?oc=5</link>
+      <guid isPermaLink="false">f11582373b8b9534</guid>
+      <pubDate>Fri, 14 Aug 2026 01:54:14 GMT</pubDate>
+      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
+      <description>Derrick Michael Wilson Obituary (2026) - Madera, CA - All Faiths Funeral Home - Madera &amp;nbsp;&amp;nbsp; Legacy obituary</description>
+    </item>
+    <item>
+      <title>All Eyes Are on Mason Taylor After Aaron Glenn Confirms Jets Starters Will Play vs. Bucs - Sports Illustrated [Mason Taylor]</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVpsNmZRV05sMWZwdnFWU1VWQnlMMFNDZ2UyZmtVZEl3OGFpd1ZzYzlOUHp0dkhnNVRha1dacjR3NWoyZ1FMUTRXdlFKejVPNEY2cnRKTXBGTF80TklVMWtWSllDNW10Z0VRbFVGbml5UDhGQmV1WEIxWlB6V3ItMVFFTTkzWmx6b2V4bW1UTGtIUjRxWE9mSm1ZRjRubWVaSXZhUkNfa3A4UWlfVVNBZHg0YmtMdDZJRE9tVA?oc=5</link>
+      <guid isPermaLink="false">0de382af37601ab9</guid>
+      <pubDate>Fri, 14 Aug 2026 14:49:23 GMT</pubDate>
+      <source>Google News: Ferguson, Joly, Taylor</source>
+      <description>All Eyes Are on Mason Taylor After Aaron Glenn Confirms Jets Starters Will Play vs. Bucs &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
     <item>
       <title>James Cook III - Buffalo Bills Running Back - ESPN [James Cook]</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9kRUktV0MxQnZISWxubERkc2ZSY2x4cl9NZnNKVGhMeHRyQjJjRi0wSV9SbWE0TV9BRFRUcUNSNjZzdFgzMjRaUUItMmdmWWpPYzRjZzNFRUhzN2NwMVQ0TnRvUW9TSElGLW9v?oc=5</link>
@@ -9543,70 +9607,6 @@
       <pubDate>Sat, 27 Jun 2026 07:00:00 GMT</pubDate>
       <source>Google News: Etienne, Vidal, Williams, Warren, Smith-Njigba</source>
       <description>Jaxon Smith-Njigba can join Jerry Rice in rare club &amp;nbsp;&amp;nbsp; seasidejoe.com</description>
-    </item>
-    <item>
-      <title>2026 Outlook: Jaylen Warren - CBS Sports [Jaylen Warren]</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQQUljY184WTBoVkd4R1BkV0IzbTcyM2VVTTRidEppdnJ2eUlaQXUydXFQMjB4UXRCN2NYUGNVSHlveHNCU1hzdjlhYUkzeVpZTmJjdC1ZN19tS1pqbm5NNS1mNVJaQ3ltdkNZUzk4UHNydFd0cUNwaVozR1Fyb1F2Rw?oc=5</link>
-      <guid isPermaLink="false">0d90e8b12870c469</guid>
-      <pubDate>Mon, 08 Jun 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Etienne, Vidal, Williams, Warren, Smith-Njigba</source>
-      <description>2026 Outlook: Jaylen Warren &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Travis Etienne adds depth to Saints backfield - KATC [Travis Etienne]</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE4yX19DdHFLZ19fQi1zTF9uSTlBNkhSTkRKTHlIZHJDaE5ERkplT1c2V0l2eWphVXNDNTJiazZmWEZ5LXI2ZmZ5dTctSzBDMVBRRkNrOXFkY0ZTa0x3Z0RjTS05dEI1N05lYWZoaDV6TGxOejVjRHFLVHlRQWEzUQ?oc=5</link>
-      <guid isPermaLink="false">ed46860f61d09a2d</guid>
-      <pubDate>Sat, 01 Aug 2026 04:16:19 GMT</pubDate>
-      <source>Google News: Etienne, Vidal, Williams, Warren, Smith-Njigba</source>
-      <description>Travis Etienne adds depth to Saints backfield &amp;nbsp;&amp;nbsp; KATC</description>
-    </item>
-    <item>
-      <title>Jaxon Smith-Njigba&apos;s Historic Season Was Even Better Than You Realize - seasidejoe.com [Jaxon Smith-Njigba]</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE9zQkNJQW9idWtQUHN3OTFhUHh3SG9LbDVGa3hzdTM3S0xybVpndXFCQ0tZeHR4c0F3U3hhQ2Z4YzFILTczRzFmMzBlaUl3QUx0N2lORDMyV0tSZTA3VFZ3VjNrR3VJY05ZZGlOaDEtTDIyZw?oc=5</link>
-      <guid isPermaLink="false">744eb77c586f6127</guid>
-      <pubDate>Wed, 03 Jun 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Etienne, Vidal, Williams, Warren, Smith-Njigba</source>
-      <description>Jaxon Smith-Njigba&apos;s Historic Season Was Even Better Than You Realize &amp;nbsp;&amp;nbsp; seasidejoe.com</description>
-    </item>
-    <item>
-      <title>2026 Outlook: Kimani Vidal - CBS Sports [Kimani Vidal]</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5VUHcwd3ZsX2szVENtQi1oUGlCYTBXTkNFY3ItZWFja0RLU05uN2JYaTROaGpYcFk1MmxodTFqV3dMbzFoUXVXS3kwRmp4V0I0MkdLOUhFTTFNTWkwa3B1dlZhNnQxcHdLVVBCSHBtOXJSdnFlUDFzMk1MUEZJQkE?oc=5</link>
-      <guid isPermaLink="false">b417121c4849a84b</guid>
-      <pubDate>Mon, 08 Jun 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Etienne, Vidal, Williams, Warren, Smith-Njigba</source>
-      <description>2026 Outlook: Kimani Vidal &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Morning Break: Travis Etienne Jr. recognized as Top 100 player - New Orleans Saints | NewOrleansSaints.com [Travis Etienne]</title>
-      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTTBVSlFmaldoRXBDZ1AwODFrakl3TXhwdWo2UmsxZjNIS2hjMFRiZWU2RDQ4dHVESEtSQXB2cXNZdTF2VWlaVnFZQmk5SjVVLURldVpjQkdZbkl0U2Mwd1N1MGJ4VG85WEh1OFBuTDg4bUhVVzByZ0d4S2dLYXhZNktuVU43U3hDVWxnYnB5Z3kzSW11RWtqY1BQSE00LXprVXQ4RUhxR1FFSlA4aGpUM0lYZ2RfSXpNSHdqVTl0UnJiQ1RKSm1ZRXlrSmZKc0st?oc=5</link>
-      <guid isPermaLink="false">b8cf1d2674def28a</guid>
-      <pubDate>Thu, 25 Jun 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Etienne, Vidal, Williams, Warren, Smith-Njigba</source>
-      <description>Morning Break: Travis Etienne Jr. recognized as Top 100 player &amp;nbsp;&amp;nbsp; New Orleans Saints | NewOrleansSaints.com</description>
-    </item>
-    <item>
-      <title>Jaxon Smith-Njigba tops the AP&apos;s WR rankings for 2026 NFL season - sports.yahoo.com [Jaxon Smith-Njigba]</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2czSEN2cFoxd2t5akVhRjhJejFCd3BNYnB5TzhZbWlDZjF0aEhza2pfRDgxbFRBV0VtSWx6UkxxQmFaZjZuMXp1WHVPU2xHdmtZeEtNSWVjYnBOTzhyb1VpS0tZVm9uY0N0aU1kNGxIXzQ3TTZOdFZfZlhZWlpIa2Zn?oc=5</link>
-      <guid isPermaLink="false">f60d863717a06151</guid>
-      <pubDate>Tue, 21 Jul 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Etienne, Vidal, Williams, Warren, Smith-Njigba</source>
-      <description>Jaxon Smith-Njigba tops the AP&apos;s WR rankings for 2026 NFL season &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Jaxon Smith-Njigba Eying another step forward - thefantasyfootballers.com [Jaxon Smith-Njigba]</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOWmRtRWZ4a0ZfajRJMWMzVlczTkR5b1QxY2JmWUpsUHlHUURkUzFNdGdqdm9udTRHdm45ZFdvRjBlWXRUNFlza0NMOVl4ZVFwMEh0VERHaC00UWNyd0c1Vmk2amUxUXdiUVBUS3BvbnZaM1dDWWp1ZXE2TVAxWUdVSndFV3ZsV2VzWmctLW1rVmJlWFhLbXpGaDZNYUg?oc=5</link>
-      <guid isPermaLink="false">6173b0c18c082838</guid>
-      <pubDate>Tue, 28 Jul 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Etienne, Vidal, Williams, Warren, Smith-Njigba</source>
-      <description>Jaxon Smith-Njigba Eying another step forward &amp;nbsp;&amp;nbsp; thefantasyfootballers.com</description>
-    </item>
-    <item>
-      <title>Kyren Williams&apos; Golden Quote Shows Rams&apos; Championship Mindset Even During Training Camp - Athlon Sports [Kyren Williams]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQeTZLN09LNHJSNUJaZC1JT01hR1QtaWlSRG1MS09ycFRnSWFBc1NNcmtoS2J4MkZDQWhVempzYVBadzg2dUJPaVlNM0NwdFVmcDZ5MXlDa0VsZWpscTFYLW9Gdm9MTWMzbkhxNHdPUEstUFVKbWJZVThXN2dUbUx5Z2ZidUV2UHBWRFZ3STN1M3B5aXVxZmJV?oc=5</link>
-      <guid isPermaLink="false">2d23c9a1735edabf</guid>
-      <pubDate>Sun, 02 Aug 2026 14:21:09 GMT</pubDate>
-      <source>Google News: Etienne, Vidal, Williams, Warren, Smith-Njigba</source>
-      <description>Kyren Williams&apos; Golden Quote Shows Rams&apos; Championship Mindset Even During Training Camp &amp;nbsp;&amp;nbsp; Athlon Sports</description>
     </item>
   </channel>
 </rss>
