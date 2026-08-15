@@ -1,13 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786816587516"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786819224054"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sat, 15 Aug 2026 17:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:40:24 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deshaun Watson throws for 126 yards in 2026 preseason debut [Shedeur Sanders]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-throws-for-126-yards-in-2026-preseason-debut</link>
+      <guid isPermaLink="false">b981004d1daafe13</guid>
+      <pubDate>Sat, 15 Aug 2026 18:32:06 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>In competition with Shedeur Sanders, Deshaun Watson started the first preseason game for the Browns on Saturday against the Bears and played the entire first half.</description>
+    </item>
+    <item>
+      <title>Shedeur Sanders live stats, updates, highlights from Browns preseason debut vs. Bears - sportingnews.com [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmtfSTVXY21LUEs1azFGTTZnM29OM1NRY1VyNnJBQW9hRnFTZWM4VVpvdTBPdDBRUDBST0d0aU9RTWNOV3JYMXQzSkZWSDVFSEdYUUlycE9tZkMydG00ZU1KQmRIM1NLdmdVWHJWRnZuX0luLUpjeVlWU0duMVR6VEVrNGxMaENoMm11Z1h6RkowaFJQSkJvZlFwbmc4RURZMHJuQmNBNmNtUnB2WWZyU29QY1NTektYTWZidlFrenhhdw?oc=5</link>
+      <guid isPermaLink="false">fd8f15450832a316</guid>
+      <pubDate>Sat, 15 Aug 2026 15:00:01 GMT</pubDate>
+      <source>Google News: Cleveland Browns</source>
+      <description>Shedeur Sanders live stats, updates, highlights from Browns preseason debut vs. Bears &amp;nbsp;&amp;nbsp; sportingnews.com</description>
+    </item>
+    <item>
+      <title>Jamal Adams Carted Off vs. Giants with Injury Weeks After Signing Vikings Contract - bleacherreport.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1FsQjhtQVJlcUppczlTQVBmX2ZRUm9aQVpNVWpjRDMyZTZ6d1Z6VkFsQnpXZFFZdS1mZU9vUXBqN3lZVG5jdXY4WWxrYVVMWktJWW5OYng0Vnc2NVhXcHF4bnVRSmNjRHY3ZFRzRUtiQW42dW5IeTRPYjFqWEp2d2c1LUVwZG83NlR0dWJYaGt4azUtTzhXWDV5UDBtT0VuLWYydTlZLUtsM0xKRE82Ulg1ZlZFM1gw?oc=5</link>
+      <guid isPermaLink="false">9eb3e6f07dd02c4b</guid>
+      <pubDate>Sat, 15 Aug 2026 18:21:06 GMT</pubDate>
+      <source>Google News: Minnesota Vikings</source>
+      <description>Jamal Adams Carted Off vs. Giants with Injury Weeks After Signing Vikings Contract &amp;nbsp;&amp;nbsp; bleacherreport.com</description>
+    </item>
+    <item>
+      <title>Live: Vikings trail at halftime of first preseason game; veteran defender carted off - Star Tribune [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT2poNTR3ZUV4WkVkYjJBVjE0ZGE2ckpsY05SbU5oTEwydjZla09yeVdyZ1pTdENsRHQ3WWJqLXpsN0ZVVTE2dHVNTC1rN1ZTcFlZcktFbXRvQzJrWU4xNHF5eVg2ODRDT0JVZTZ6bUtoc2o4YkoyV2w0YWctR3dNWTk2X01yMHNqS3JwUVFjZlp3V2xKZ19wQUtsY0RlVmdVVjhpbVgwTXgyNkhWZ3h6NmNCV09xMVExNUNESUJpQTVHQ2NNSEI1aktQRWc3YmN6Um8w?oc=5</link>
+      <guid isPermaLink="false">b106ee1a7cab1b2a</guid>
+      <pubDate>Sat, 15 Aug 2026 18:26:19 GMT</pubDate>
+      <source>Google News: Minnesota Vikings</source>
+      <description>Live: Vikings trail at halftime of first preseason game; veteran defender carted off &amp;nbsp;&amp;nbsp; Star Tribune</description>
+    </item>
+    <item>
+      <title>Jamal Adams carted off after apparent injury in Vikings preseason opener - twincities.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPakctSzhldVdyVVJxX3ZUMTBjWE1wcklKVU1Ib29KM2xHMTBzdm1BWmx1VndRM2xtakJMUjBvdGIwN2g5cTVXTm10SG0yTm1RNHdOcUIwQnJJZndfVkxueUhrNXZFRkZUMkx1SkhXaDJlMHdpbF8wNDFEdkRiYW1TcW0tUFdrYkswZ0ZvVGVRWl8zbjlVN3BIM0NGd2NKWVlDQlZ2VEFKWGV0bDR5ZHFJbw?oc=5</link>
+      <guid isPermaLink="false">d3c7803be9b99231</guid>
+      <pubDate>Sat, 15 Aug 2026 18:19:42 GMT</pubDate>
+      <source>Google News: Minnesota Vikings</source>
+      <description>Jamal Adams carted off after apparent injury in Vikings preseason opener &amp;nbsp;&amp;nbsp; twincities.com</description>
+    </item>
+    <item>
+      <title>Vikings’ Jamal Adams carted off field after injury in preseason game vs. Giants - The New York Times [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFVaSlZyTlYxbEg3NHQ4VDQ5Nnh5UjR5X3hicVFnOXQtNHRJQVJxN2tXNC14U3hSYzBvaTRaVVkyN0twZFdxcHpUbkNqSVR3dXgzdzQ0QTN5WWZuaG9SRjNUZ0tOS0JxT3RUZXBGNnk3Q1lFc3RrRV9fSzRyeXctYnpsS1JqVHBSSnlLYnRfUlFmeEpKVVg2N3ZsOVFaajQ?oc=5</link>
+      <guid isPermaLink="false">3285e52c080d6dd0</guid>
+      <pubDate>Sat, 15 Aug 2026 18:26:29 GMT</pubDate>
+      <source>Google News: Minnesota Vikings</source>
+      <description>Vikings’ Jamal Adams carted off field after injury in preseason game vs. Giants &amp;nbsp;&amp;nbsp; The New York Times</description>
+    </item>
+    <item>
+      <title>Ex-Seahawk Jamal Adams injures knee, carted off in Vikings debut - Field Gulls [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN2RuVFFYdlB3RWZNZ3NLOHdWYmw1LTgyWHZibnY2WTFWLU1CSWlQRWJmRnJuOXdKUnlRa2RER0N6VVdMWXA1clZPX0ZFZ0daVUtVejBkRHNZNDhkYk5fZGFWY3VnZE9vdXVJMTJhZHNNd0l3d0NkMEp3anRxaUNGSjctMTFWdWdiM1BITVdRMTNwNmpFdVFuU2lwVk9pd2J2RHN1T0RyLTc4MmFrMklLbGNGaTBKdWdGVlc3bGRWM2NqRlZsMUF2SkNYbks3Q2V5ZXc?oc=5</link>
+      <guid isPermaLink="false">4f5a78248db22301</guid>
+      <pubDate>Sat, 15 Aug 2026 18:27:15 GMT</pubDate>
+      <source>Google News: Minnesota Vikings</source>
+      <description>Ex-Seahawk Jamal Adams injures knee, carted off in Vikings debut &amp;nbsp;&amp;nbsp; Field Gulls</description>
+    </item>
+    <item>
+      <title>Vikings S/LB Jamal Adams carted off - sports.yahoo.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTVDRXBWdGJfR2QzR25tM3VlZW8tTlFGOE5VRzhoT3BLQkpqTlp2MlpPcjdvOTZQblg3MFdNek1CMzlmclpFY0xiWjR1MXZpU3did1BxWlhyLWlPN29JeHhKRGl1TnoxdExranE5dGMzdE9QeWpEWnFzNEliV0FDdTdkTFg?oc=5</link>
+      <guid isPermaLink="false">e82f81105febf6ee</guid>
+      <pubDate>Sat, 15 Aug 2026 18:06:51 GMT</pubDate>
+      <source>Google News: Minnesota Vikings</source>
+      <description>Vikings S/LB Jamal Adams carted off &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
+    </item>
+    <item>
+      <title>Former New York Jets Pro Bowler Carted Off With Injury Weeks After Joining Vikings - heavy.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaXNod0NmOXlCTktYZ2VVZlZCVXhDQk1OU2RyN0h5VVYxS2FlQ0F4ZFNjdDRsbDItVmE3dHk2SXFma1FZVHVBbExhMHJWbWEtaWhXbXU5M084RXJYd0R4OFZJTmoySy13ZDJrakdRNElMRWQ5UlVLT0JPLTZmMWtoQW1nZ3U0dTJVdk1Kc2dwaGd2bFZoMUhTcnZMTEsxblZpbHFtd2lEb0FJdnFhMzFBdldvX09QZEw2?oc=5</link>
+      <guid isPermaLink="false">01e76dae3315ee48</guid>
+      <pubDate>Sat, 15 Aug 2026 18:20:06 GMT</pubDate>
+      <source>Google News: Minnesota Vikings</source>
+      <description>Former New York Jets Pro Bowler Carted Off With Injury Weeks After Joining Vikings &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Dolphins 2026 Preseason Opener Snap Count Observations: Interesting LB Usage - Sports Illustrated [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNENFaTRaWk14Vmh4WnQ4RFV1VGluVWtrYmJVbUp2YlFlUHV3Rk1TS213RHlsTDMxRUsyV2tYZTUtSjcxbGdlRzFDUTRpMkZUVWliaUJ4U0puVWxJR1JGS2lZcnhUdld2d2c5elBUYk14LTlUVFZESHNoTTZMYTFjYTJHdW8wc0t1eXB4aC1oUVNiM09RSTlGOFRIN2RKOXVDM2ZZay1EeDk0UHJCY2k5eFgwZUMtNTBjYnBRSHFFbVIwUm8?oc=5</link>
+      <guid isPermaLink="false">384b6ffab5287586</guid>
+      <pubDate>Sat, 15 Aug 2026 16:21:28 GMT</pubDate>
+      <source>Google News: Washington Commanders</source>
+      <description>Dolphins 2026 Preseason Opener Snap Count Observations: Interesting LB Usage &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
     <item>
       <title>Buffalo Bills running back James Cook flashes his explosiveness on 13-yard burst up middle vs. Carolina Panthers - NFL.com [James Cook]</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmdJWUdpMGswMm95NjZCazFvUWd0MWxKTzdGR3JQUlkxMDVuNi1odEFxVm5nbEttaEZ2WTBhWFZUYnZrb0RZaE5xVnMtNkRHUUtxV1Azd3pvRW82alg3NmR6ZXQtdlAyLTZBcWtOYVplMllhUDF4Q2pPY2lpbmhFSGVzU2N0NlpHbmk5a3pNQUtDWnVzRHhJUVlnTjhrUm1jbGNMQw?oc=5</link>
@@ -9527,86 +9607,6 @@
       <pubDate>Wed, 24 Jun 2026 07:00:00 GMT</pubDate>
       <source>Google News: Helm, Joly, Okonkwo</source>
       <description>Commanders&apos; Chig Okonkwo finally has a chance to show what Titans couldn&apos;t unlock &amp;nbsp;&amp;nbsp; Riggo&apos;s Rag</description>
-    </item>
-    <item>
-      <title>FINALLY, a national NFL guy gets the Gunnar Helm assignment right: What the Titans TE means for Cam Ward in 2026 - A to Z Sports [Gunnar Helm]</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNckF4NHVGd2MzM0tjLWRnRUFZdTFJR2RmSkU0MDBpVmZzekhuekIwbVJhcVhoZ2l4Tm5Na2xEcjNyTGRLVUw3RzBsNWFJRUlIUHY1a1Y3T1Y4Zzd4SjZodVpZWXBGOWVENVF4S0puOW1MT0JTLUQwN0FpYzlOVHRfTk1BelgzZGF3ckJfUkh4MndTaXlHSGdmazlVLVpPSFctSktJMDZDbUNhbUh1RzRDcTc0T0ZCemkt?oc=5</link>
-      <guid isPermaLink="false">83e671d7af355e02</guid>
-      <pubDate>Wed, 08 Jul 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Helm, Joly, Okonkwo</source>
-      <description>FINALLY, a national NFL guy gets the Gunnar Helm assignment right: What the Titans TE means for Cam Ward in 2026 &amp;nbsp;&amp;nbsp; A to Z Sports</description>
-    </item>
-    <item>
-      <title>Browns QB Coach Gets Candid About Shedeur Sanders’ Progress - Browns Nation [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHVqajVuSGUwSnZwZ0N2X1pJWFBTdWxQV09vZVVYRmU4cUttTWs3Q29IQXc0TURLVEFydmFCQmE1SkR0LUlzc2Jsb2liZ25Ja1MyMEE4QXV3bUdDMUp0OHU2X183VW5WLW9ZcG5memRobDNOT1JVRFF1a0ZRak9STUlaTC1YSjY0eFFOV2d3TTZBZw?oc=5</link>
-      <guid isPermaLink="false">59349a7564a28590</guid>
-      <pubDate>Sat, 08 Aug 2026 20:22:25 GMT</pubDate>
-      <source>Google News: Cleveland Browns</source>
-      <description>Browns QB Coach Gets Candid About Shedeur Sanders’ Progress &amp;nbsp;&amp;nbsp; Browns Nation</description>
-    </item>
-    <item>
-      <title>The Indianapolis Colts Signed Jonathan Taylor to The Largest 3rd Contract For a Running Back in NFL History - Barstool Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxON091dlR2WGFhbkg5dEJKV2VSNVA4ZHlrTDVQendDRnRLcm1tQkhNUEg2eWZ1a214eHg5ZFQtRmRYdVY2MzM5VVBoR0RtMG9VTWprY1VTODBIOHlNV2UwQkx5c0o0ZVh1TXhQcktERHZOc091VVFrRkJFcGZnYjRTLWpqU0tjUXNVeWROZmpjZmZod2owR3pnemFfVWNzdTlTSmVTSTRqOVZpQUY0NURSbF9uTGVhQWdFV25KOHN3?oc=5</link>
-      <guid isPermaLink="false">faa9866e1d17adc7</guid>
-      <pubDate>Thu, 06 Aug 2026 17:31:22 GMT</pubDate>
-      <source>Google News: Indianapolis Colts</source>
-      <description>The Indianapolis Colts Signed Jonathan Taylor to The Largest 3rd Contract For a Running Back in NFL History &amp;nbsp;&amp;nbsp; Barstool Sports Jonathan Taylor agrees to 2-year, $44M extension with Colts &amp;nbsp;&amp;nbsp; ESPN The Colts made the right choice look easy &amp;nbsp;&amp;nbsp; Stampede Blue</description>
-    </item>
-    <item>
-      <title>Browns change plans Saturday, give Deshaun Watson unexpected first-team reps [Shedeur Sanders]</title>
-      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-change-plans-saturday-give-deshaun-watson-unexpected-first-team-reps</link>
-      <guid isPermaLink="false">a7b40e9f0dd24571</guid>
-      <pubDate>Sat, 08 Aug 2026 20:42:27 GMT</pubDate>
-      <source>ProFootballTalk</source>
-      <description>The Browns have been rotating quarterbacks Deshaun Watson and Shedeur Sanders with the first team from day to day at training camp, so any deviation from that schedule is sure to grab attention.</description>
-    </item>
-    <item>
-      <title>Browns HC reveals plan for naming starter as QB battle continues between Deshaun Watson, Shedeur Sanders [Shedeur Sanders]</title>
-      <link>https://www.cbssports.com/nfl/news/browns-qb-battle-todd-monken-reveals-preseason-plan-shedeur-sanders-deshaun-watson/</link>
-      <guid isPermaLink="false">1f5e4ab9f745b68a</guid>
-      <pubDate>Wed, 05 Aug 2026 16:48:54 GMT</pubDate>
-      <source>CBS Sports NFL</source>
-      <description>Todd Monken plans to start each QB in one preseason game, before deciding who will start the third</description>
-    </item>
-    <item>
-      <title>Cleveland Browns closing in on QB decision for preseason opener [Shedeur Sanders]</title>
-      <link>https://sports.yahoo.com/articles/cleveland-browns-closing-qb-decision-183050282.html</link>
-      <guid isPermaLink="false">ac45b7eb230642d7</guid>
-      <pubDate>Sat, 08 Aug 2026 18:30:50 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>Will it be Deshaun Watson or Shedeur Sanders against the Bears? Decision could come on Monday.</description>
-    </item>
-    <item>
-      <title>Chargers QB Justin Herbert and Madison Beer announced engagement | &apos;GMFB&apos; - NFL.com [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxORE1pVUxrOGhkZXFBOVByaWZGOU1TSXRneEFoRVNXMVZUNzRrdkZMR2VjN2x4QXVKS0JTTjY5bl9ha1VpNnRWQktMMklhSlhVbEZiblMwY0pxUnlGR0pIT0RXTGFyWE1SQ1BwWVk0NDVBVjlJaFFYci11a1hLV25mREx3TURHQ2JTV0dLOVB4U0poYjlER3BzakVXdTA?oc=5</link>
-      <guid isPermaLink="false">63a3fdc3f43bc107</guid>
-      <pubDate>Sat, 08 Aug 2026 18:51:59 GMT</pubDate>
-      <source>Google News: Herbert, Lawrence, Sanders, Williams, Cook</source>
-      <description>Chargers QB Justin Herbert and Madison Beer announced engagement | &apos;GMFB&apos; &amp;nbsp;&amp;nbsp; NFL.com</description>
-    </item>
-    <item>
-      <title>Deshaun Watson gets the 1st-team repetitions on what was originally scheduled to be Shedeur Sanders’ day - brownszone.com [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdDJxMHEzOEcxV3VGSGtTTFF0eU8tLWVQZ0UyNUxIM1B3ZlFycWtrZTB6OWJjYW94Mno2UVUyVm9Hd3Y5dUVYZ1hxY19rWFotN0ZCQ2tpRjJJaWFOMEgyVG5yYzJsVlFxQ2tGeWFldnRzTWV4SjQweHQ4Vk9UYUNTR3hianEyYlNJNjhhU2hCLUc1UHlkNzBicFAyZWlkUGwtOVRmMV9mcHZRMXBxaG01WnIwZzdoci00QWxSWnpWcDlPeml3OV9FY2RHc0RHN0NULVNiTnVvQWpRdw?oc=5</link>
-      <guid isPermaLink="false">7826a014ed9dd08f</guid>
-      <pubDate>Sat, 08 Aug 2026 20:59:20 GMT</pubDate>
-      <source>Google News: Herbert, Lawrence, Sanders, Williams, Cook</source>
-      <description>Deshaun Watson gets the 1st-team repetitions on what was originally scheduled to be Shedeur Sanders’ day &amp;nbsp;&amp;nbsp; brownszone.com</description>
-    </item>
-    <item>
-      <title>Browns QB Shedeur Sanders Hit With Harsh Demotion - sports.yahoo.com [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkxjNTl3UXNtcTh1bVRQT2g3MWY5MnpUZkFyT2FxOGgwWEEwdmVYejhJUEZOdHdZTUE3RlpPQ2VncDhDRjFpMUtxX3pIRWVRTFFfd1VqaG1nY3R1bWZtTEhtQVh0SUJLeHFmY0NGVFF3QWFOWVBkcVgzZHl5RkNqaVhRT1c?oc=5</link>
-      <guid isPermaLink="false">760eaaa08e24244f</guid>
-      <pubDate>Sat, 08 Aug 2026 22:54:08 GMT</pubDate>
-      <source>Google News: Herbert, Lawrence, Sanders, Williams, Cook</source>
-      <description>Browns QB Shedeur Sanders Hit With Harsh Demotion &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Has Deshaun Watson moved ahead? He got all the 1st team reps Saturday on what was supposed to be Shedeur Sand - Cleveland.com [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaTJGN2lhTk5wSFVrNWRTUFI0SnQtY2kwX1pLVnNibDRNZklZZjhBQ3llY3hFN0tHV0RDRlVWNW8zVDZsV0RITlY1dm1mOHhtSVl0VXhrQ1czdmMzMExvcEN5Y0RYaVFhS1l4TVEwWi1HbllBTDc4a29Zc2JYaGJlOTVqVEgyRHV5dVhYaXRGWEY0REkzY3llWS05ZzFmQnhBSGh0Ri01Zmk4RzY5WVdqS0lXUWNYaFhpQ1N3WlhNVFowVlYxZW1ZX2E5V2gtMmV4QkpLTFRBZXR1bmxrZmg2Um1ZTXQ4QVdnQ25WMjd0U3dteHPSAYcCQVVfeXFMUHVUeE56d3NuUU4wbzlpY0lCS2dqUGprWm9PZXJQTzhobFpRcTRBN1BnZTktbWVHZDJLY1o0Tl9laF9ubWtScWJGTk9lNXJmbHota3VCc3c0bGE1LVVUZG9tUlVFMzhxNFpyWTRBdnFzam5yZXQ0d1VoQllHbHVjWU5hNEVZTXlpeEdwUm9XZ2ZQTU1RdkdfSkVyV28zb3FqQnBnS0t4emhEVWI5YzhDd3liZnFQZmoybVZ5ZUZ6WW9kdndpVldwS3lYT1BXYXlEdFlfSHl4Nm4xTk9TTFRmc29xOFNhNXZEdTdFSTZkaWtHTGtmTEhPdXdYSTRyMXdFYmEyVExvU2M?oc=5</link>
-      <guid isPermaLink="false">fcb60aea4ea82b8e</guid>
-      <pubDate>Sat, 08 Aug 2026 20:25:00 GMT</pubDate>
-      <source>Google News: Herbert, Lawrence, Sanders, Williams, Cook</source>
-      <description>Has Deshaun Watson moved ahead? He got all the 1st team reps Saturday on what was supposed to be Shedeur Sand &amp;nbsp;&amp;nbsp; Cleveland.com</description>
     </item>
   </channel>
 </rss>
