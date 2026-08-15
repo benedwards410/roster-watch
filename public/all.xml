@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786790456621"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786791754479"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sat, 15 Aug 2026 10:40:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 11:02:34 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where to watch, stream &amp; listen | Bills vs. Panthers | 2026 Preseason Week 1 - Buffalo Bills [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNT095QXpQOTMwbUU4RE9tMVdKVnotdExVOWdpTFc0bWFQX1I3N2RVb00wOW1WM21mQ0xmSXpfV3pOemZLbVNXVzZ1Rm5qZ2pnQ0Q5R1J2Ny1ZMi1KM1c1MTV2dm5kUmlVdDczTGtsckxzeXFqRVRLT0wtWUF5XzhMNUJnajZ0TmlhYzhZb3ZjalZISk12enpGZHF3anUxZG9iV0VJYg?oc=5</link>
+      <guid isPermaLink="false">fd683fc7bd91ad68</guid>
+      <pubDate>Thu, 13 Aug 2026 21:02:25 GMT</pubDate>
+      <source>Google News: Buffalo Bills</source>
+      <description>Where to watch, stream &amp; listen | Bills vs. Panthers | 2026 Preseason Week 1 &amp;nbsp;&amp;nbsp; Buffalo Bills Panthers unofficial depth chart ahead of preseason game vs. Bills &amp;nbsp;&amp;nbsp; Panthers Wire Bills news: Biggest risers and fallers heading into preseason opener &amp;nbsp;&amp;nbsp; buffalorumblings.com</description>
+    </item>
     <item>
       <title>Is Shedeur Sanders playing today? Browns QB plans for preseason game vs. Bears [Shedeur Sanders]</title>
       <link>https://sports.yahoo.com/articles/shedeur-sanders-playing-today-browns-103034086.html</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Tue, 04 Aug 2026 23:07:00 GMT</pubDate>
       <source>Google News: Herbert, Lawrence, Sanders, Williams, Cook</source>
       <description>What Deshaun Watson and Shedeur Sanders must do in the coming weeks to pull ahead: Browns ‘26 QB battle &amp;nbsp;&amp;nbsp; Cleveland.com</description>
-    </item>
-    <item>
-      <title>Stephen A. and Gerald McCoy debate the Chargers&apos; reliance on Justin Herbert - ESPN [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE52OElKXzhhZVFGZHh2OUVIc3BsTVI4Y1hFQjlCSjgyblZKQmJCeE9zQmo5V2NLVlJjQ3JJcWpiZVo0T01nem5PWkNURFF0UlZkUEtFOGI4aG4?oc=5</link>
-      <guid isPermaLink="false">b176520d056cfbf6</guid>
-      <pubDate>Wed, 05 Aug 2026 15:20:00 GMT</pubDate>
-      <source>Google News: Herbert, Lawrence, Sanders, Williams, Cook</source>
-      <description>Stephen A. and Gerald McCoy debate the Chargers&apos; reliance on Justin Herbert &amp;nbsp;&amp;nbsp; ESPN</description>
     </item>
   </channel>
 </rss>
