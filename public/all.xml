@@ -1,13 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786809345379"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786811624330"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sat, 15 Aug 2026 15:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:33:44 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NFL news, live updates: Deshaun Watson, Shedeur Sanders continue Browns&amp;#39; QB battle; Kyler Murray, Josh Allen also expected to see action [Shedeur Sanders]</title>
+      <link>https://sports.yahoo.com/nfl/live/nfl-news-preseason-schedule-whos-playing-live-updates-today-152512676.html</link>
+      <guid isPermaLink="false">d482ca76b2ee449e</guid>
+      <pubDate>Thu, 13 Aug 2026 15:25:12 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Follow along with the latest NFL news and updates as the preseason plays out.</description>
+    </item>
+    <item>
+      <title>Mary Kay Cabot details pivotal week for Browns QBs Deshaun Watson, Shedeur Sanders ahead of opener - Audacy [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYkxZanRNOEQxdkRHYU5xSDV0MFRDSWt0T2xfUGc5SFdLRXBDUGs3LWYyVlRFd21rWDByd1BFRkd6cUpOaHhjZTJwZVJwazZ2a1RkX0pXdWZJY1loV29zN2x6cWpEalFVWldlWENSNW9kYk5mU1M3YXRoUGxyMXNiMXBNeW1vS21TOHNaM2UtaHhmZjVRNWZiUDNxWFc1QjhHOHdPYnh4cTA1YXdUNzdVX212MWV1WnoxVXBSc1BkZ1g4dXMtZE1CRHlFQU9Qd1RZZmFobVVXRllGQXN0?oc=5</link>
+      <guid isPermaLink="false">a64aef9fe5df3790</guid>
+      <pubDate>Sat, 15 Aug 2026 16:27:00 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Mary Kay Cabot details pivotal week for Browns QBs Deshaun Watson, Shedeur Sanders ahead of opener &amp;nbsp;&amp;nbsp; Audacy</description>
+    </item>
+    <item>
+      <title>Shedeur Sanders issues heartfelt apology amid Browns quarterback drama - Yardbarker [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFMwTnl5MGZOcVJqSGl2QVN1VWVBUkhzNnFNMktKMmhRenRCSl90RHZFSXVMeW1YNTJyYUJRZTVLWE9IZlMtSDV0UUVwS2M5ajc2RWQxcEJjdG5YdUw5aFA3OS1naUtJUEpNbGlkY1Blck5SZUE2LVEtbTNkQzdoMi1Vc3JQbWZYR203SkJSVy1FYTB6Rm1NSjBBd3ZLaGRjRldJaFl4WGttYWo0RDBzOUpnSU1oN1l1aG14dGE4ZHYwMVlqM1JN?oc=5</link>
+      <guid isPermaLink="false">bb73d4468c7696a1</guid>
+      <pubDate>Sat, 15 Aug 2026 16:23:19 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Shedeur Sanders issues heartfelt apology amid Browns quarterback drama &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>Insider shares Panthers&apos; plans, snap count for QB Bryce Young vs. Bills - Panthers Wire [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxOdDJUY0FuWTNYaFhWcGR0YjhVcnpXWkhETVBKS2lKUzNUOVF5a19nYUhsU1duaXlQOG5wZkpfdDJ6d2xaU082UktVMDNseThCSHFhQS1oY3psaFVsRTdENTlkN2lPeFY4Sl9DV0wwdmY0NUozb0h2cG8xalJzbkxDMG1MLUJzbVlqeWp2N1cwMktpOGQzdDctdkdTRGtiSktKN1hvekJxTFhlWEFPUjVISHROWjUzYVFpa1VfYnlCMTFtUUxFMWRDaDN4RQ?oc=5</link>
+      <guid isPermaLink="false">afa74f9d2cb7f2dc</guid>
+      <pubDate>Sat, 15 Aug 2026 15:51:00 GMT</pubDate>
+      <source>Google News: Buffalo Bills</source>
+      <description>Insider shares Panthers&apos; plans, snap count for QB Bryce Young vs. Bills &amp;nbsp;&amp;nbsp; Panthers Wire</description>
+    </item>
+    <item>
+      <title>What Happened to Shedeur Sanders? A Look at Why Deshaun Watson Is Starting for Browns in Preseason Week 1 - Yahoo Sports [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxONlZJY0R2dXhvcUtmaGJfaTVacUY0Y0EtTkFnbWlPMGtaMDY1ZFBURW4tS1V0eTZteWQtUUhLUTNfa0dIdktoN0JKMl9vT2hjaGhTRkRSRC1QRUxaVlcwNllKbkpQRlhkdVMyQjc3clBlSTIwMDgwQmFQVThKZzAzaWlWOW9SUExGaHc?oc=5</link>
+      <guid isPermaLink="false">961f54210471f36e</guid>
+      <pubDate>Sat, 15 Aug 2026 16:05:24 GMT</pubDate>
+      <source>Google News: Cleveland Browns</source>
+      <description>What Happened to Shedeur Sanders? A Look at Why Deshaun Watson Is Starting for Browns in Preseason Week 1 &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
     <item>
       <title>Germie Bernard works with first-team in practice Saturday - FantasyPros [Germie Bernard]</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNb1VPSEdRZU4tWVVUUTdRNy1DN216R1M5LVd4YnEtODNNbzdxdDhmaFM3dnJkdW9WdVZCemZzU3czNF9meWt0Q3JCUzJpaG8zaVFCbG1EVWVpekI2ZFdJdlpTemlWekxLSHhycjljZFVkZkc3aDVXcHZBcHRUVmVia3hrZW5Wb3JfQ1RrYlUzVzB5bXd3X2lHOUFWWkZzRHlpUGRuNtIBqgFBVV95cUxPQkZkTEhVNlQ1bkdMbjhXSXNYUVpyRFVXTFoyUDRrMHEzOGl3S2dtSXhIdVVKcVg0VlAwanBIVWdEYWxiZWZ0VUJNb0I4V0lsaVVnZHBPU3BNYnUxSWw5TVBqZGhNOWhQVkh4VVVnV3RSclM1UXZWOHJYUmNRcU9hWWZHMFlBbDJZVl9SUTEtVEtHVGFZTXl0M3gyODdpZ2FJcmQ1YVlzN3RuQQ?oc=5</link>
@@ -9567,46 +9607,6 @@
       <pubDate>Sat, 08 Aug 2026 13:39:35 GMT</pubDate>
       <source>Google News: Herbert, Lawrence, Sanders, Williams, Cook</source>
       <description>NFL analyst sets massive expectations for Justin Herbert, Los Angeles Chargers &amp;nbsp;&amp;nbsp; The Big Lead</description>
-    </item>
-    <item>
-      <title>Browns&apos; Monken Reveals What&apos;s &apos;Hard&apos; for Shedeur Sanders Because He&apos;s &apos;Such a Playmaker&apos; - Bleacher Report [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkRUUDlIR19jQ25acXFnQ1NoNzdONW5ZQUlhQWpsQ0ZRWjZra0xpbFpGMV9CQzZuY2pjeTZDMGJDcjByeENoTl82QVQyVG13Ry1iZ1NKR1hYdDg4MnI1S3BDUzR3SWp3SlF3bGRGdmRmanRzaDI0elc5R0VlTFBhMk1mSmYxZU9QS2Z5YXZ5d01jOUduLUZtSVhLSGQ0UnNYdkdSUXNSNEU0VWFFb3pZVTdnR2NVY0xuRmxKMw?oc=5</link>
-      <guid isPermaLink="false">ce6727321c58c186</guid>
-      <pubDate>Sat, 08 Aug 2026 17:52:11 GMT</pubDate>
-      <source>Google News: Herbert, Lawrence, Sanders, Williams, Cook</source>
-      <description>Browns&apos; Monken Reveals What&apos;s &apos;Hard&apos; for Shedeur Sanders Because He&apos;s &apos;Such a Playmaker&apos; &amp;nbsp;&amp;nbsp; Bleacher Report</description>
-    </item>
-    <item>
-      <title>Injuries starting to pile up in Browns camp and Shedeur Sanders impresses: Training camp report (Video) - Cleveland.com [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYm5COUdicjFyZk45czhJb0NCcXB3aHJFQnlKSHBjajdyN2xFbGduX1E5aEt0ejhGWlJSYVJaa3p4ZkJFRjAyX192QkM2eUpaZ29iMURFYVRPRUlzRUs2bEtra2NyT09lNG5ncDdUQ00tS2p5dmRpYTJSbkEtdDZ1ZU9lREJFZ0xXXzltVGFCYUwtM29UX25vLWFyUk1NOEtlb0VraVZQUDhUbFhac05WZjRaRXhnZGNzWUI5TTlBd2NVcDNQZ254ZlVQYUZEVTVXNEdnTnAxRXp5ZkltcklB0gHzAUFVX3lxTE9GdzFrd2x2TW1vUENNdjl5c2FELVBDMUJFR3JEdEU0ZXhmc1lQNlNiLVRjOGYtNzdrWElZZzhFUllFWjZfQXRoTHdncDVneVBITGRaWXNnckxzTU4zTU53M1pOamNKVW11SVBVM0kweVloNjd3V1Fka0xUeTgyMG9ETmxYS0hPTU51Wk1HOVVabGwtelF1ZGhBTkFYMWFIT01ZZTB0ZlpDbVNFOWRYZ2JXWWxKZEFWNEZlNjhfd2ZicEtCakVrMl9XMGVNR1hBNUhzc3llV3pYY2VIWldWNE81R1U4UmRiN1B6TGlNcFBzb25pdw?oc=5</link>
-      <guid isPermaLink="false">5ca1eb3707244735</guid>
-      <pubDate>Tue, 04 Aug 2026 21:40:00 GMT</pubDate>
-      <source>Google News: Herbert, Lawrence, Sanders, Williams, Cook</source>
-      <description>Injuries starting to pile up in Browns camp and Shedeur Sanders impresses: Training camp report (Video) &amp;nbsp;&amp;nbsp; Cleveland.com</description>
-    </item>
-    <item>
-      <title>Justin Herbert &amp; 2 other quarterbacks were sacked 50 or more times in the 2025 NFL season, can you name them? - sports.yahoo.com [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWV1VmNhWVZzck9yMURNT3EwN0c0ZjA5bVhfRE05MEswV0VDWFZpdzU0ZFJXSldKeDdOUzQtZXVJN3pYcl9SMFoycjJleVBLSndiUXF4R2FQOTNBQ2NndUNvenFkbTBQVU5ENktsN28yenlvbVg1X1cxRUNGcnV1Uk02alc2MEk4cXFHWA?oc=5</link>
-      <guid isPermaLink="false">8896f8cc082e2428</guid>
-      <pubDate>Sat, 08 Aug 2026 14:13:00 GMT</pubDate>
-      <source>Google News: Herbert, Lawrence, Sanders, Williams, Cook</source>
-      <description>Justin Herbert &amp; 2 other quarterbacks were sacked 50 or more times in the 2025 NFL season, can you name them? &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Browns’ Todd Monken drops intriguing Shedeur Sanders training camp take - sports.yahoo.com [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxORHhOMkJGNmhxNDFkZGY1WDZCSEZUemVURGNiRWpfVk5Ia2NYbDRVXzFCRVl1ZlVfeE9EV1hkS2VrWnNrRUQ5VS1yVFN2N21xSE9pSXQzZXc1R1pNMGNXeDJNeU5SdF9RalFZQWtLSFRJQTJBczRsaFRSMExsZjczNXgyeWdMaFlUeGtpZw?oc=5</link>
-      <guid isPermaLink="false">6e94c17b29b5d7a6</guid>
-      <pubDate>Sat, 08 Aug 2026 18:43:05 GMT</pubDate>
-      <source>Google News: Herbert, Lawrence, Sanders, Williams, Cook</source>
-      <description>Browns’ Todd Monken drops intriguing Shedeur Sanders training camp take &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Press Conference: Justin Herbert on Building Chemistry During Training Camp - chargers.com [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPSnB4SjZLZzBWNVdlVVJCSWNrTnAwNlJzWnJUVWNFYWlFbVJhQkE4Z3g3U2p5VHlwUkZDVXJnTVJlTGZsVjhmVENnQUdRRnhjSmxmaWQ2eFNsRWZ4LXpaUHhzZlhHZW4tMUdVWlVoRVprbFhDOG9JNlJLTHI1RzE2OHBrQnpZN04yXzI0VEtlWmE?oc=5</link>
-      <guid isPermaLink="false">724f9fca7b8062df</guid>
-      <pubDate>Tue, 04 Aug 2026 20:47:48 GMT</pubDate>
-      <source>Google News: Herbert, Lawrence, Sanders, Williams, Cook</source>
-      <description>Press Conference: Justin Herbert on Building Chemistry During Training Camp &amp;nbsp;&amp;nbsp; chargers.com</description>
     </item>
   </channel>
 </rss>
