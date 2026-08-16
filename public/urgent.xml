@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786913215973"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786913861686"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 20:46:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 20:57:41 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -975,14 +975,6 @@
       <pubDate>Thu, 06 Aug 2026 23:51:00 GMT</pubDate>
       <source>Google News: New Orleans Saints</source>
       <description>Saints rookie Brock Rechsteiner, son of WWE Hall of Famer Scott Steiner, suspended six games by NFL &amp;nbsp;&amp;nbsp; New York Post</description>
-    </item>
-    <item>
-      <title>CB Trey Amos, DE Dorance Armstrong, P Tress Way activated - Washington Commanders [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPd0RpUF9pUkVVWDgtU0MyRzJVUXVwaTExOGxUZE8wdWpxTEtYMUlnZjk3eW1XSHVIODJ2TmF4R1pqZXVPZWJiM19TeUVQUDd5WVJLeWJodk9JTUdnVlF4ZXhJanpIN0ZRWDBVdkxvMWd4RnZjOHZoalZhbDhXbWdYaXNHdnFhQQ?oc=5</link>
-      <guid isPermaLink="false">bbb2fd0e606c8036</guid>
-      <pubDate>Fri, 07 Aug 2026 12:11:23 GMT</pubDate>
-      <source>Google News: Washington Commanders</source>
-      <description>CB Trey Amos, DE Dorance Armstrong, P Tress Way activated &amp;nbsp;&amp;nbsp; Washington Commanders</description>
     </item>
   </channel>
 </rss>
