@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786898011311"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786898115595"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 16:33:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 16:35:15 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raiders&apos; Jalen Nailor: Minimal snaps in preseason opener - CBS Sports [Jalen Nailor]</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFF3S3V3b0tacV9FZV9yS28zenB2ZmsyTGxsZTVYQUZRanN3NTVxQ2FCLTZaN0tqcDdtQk1Qam5SMDE0dExvZlFDQkNMS1R5YnpLTlYxNGRwTzRWUllTYms0T3B6NllTSkExdm5rYzFpdnVoYldLUTZqTlcwN0dTOUQwRDluWU05enF6QWlpU1ViaU9jZkhJYVdIQWVickN3aXNUMmxB?oc=5</link>
+      <guid isPermaLink="false">cb9abbc5559caf2d</guid>
+      <pubDate>Sat, 15 Aug 2026 00:53:23 GMT</pubDate>
+      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
+      <description>Raiders&apos; Jalen Nailor: Minimal snaps in preseason opener &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
     <item>
       <title>Browns QB Shedeur Sanders stands by his decisions despite interception vs Bears in 2026 NFL Preseason - bolavip.com [Shedeur Sanders]</title>
       <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQQlNPVlk4ZmdrMzU5c0VtbDNNNTNtQzllRGhEVUVZNzVhRjBSeTZOXzR3azZnaGVjTV9UYzhibTFXVWhScDY2VFRCVFd1QktnQWFvM2MtcWhPNkl5SHRZS195Q3F2clRxY1JzUVR1UHM5ZjlxelZWWjhPTW9aTU9wV2hHOFNna29jZnNsMk52QjhCU2FQRFpjRTBNRTQzWDZ4MWZjTVAyLVdRV3BzUm4tdnVXRFZ4bzlYRUwtZVF4UXBSNkZTQ2k00gHMAUFVX3lxTFBMazZtV3EzZGR6T2lhLVVqU3hHb3BXckE2VHFOR1FyU0gxQjFDbkRidkt2Q3ZJcFhtSkdsSEJ5UkZnQ011NFVwNjg2VjZlbTBpbWZXYm5nMWFoeXU2cWFtcWZMWEJDNUZsZWI1Y24wcm40alRyNUx3VWluZjVZX2VaVmxVd1FLSlNJS0M2MzJxRXVpOFkwanFtbVhqT25tOW1KVzN0RjJnVmpRSVpINGdJNXg2emwxT2RRdzYwa29kYmhBaUxiMjA0d2FLVA?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Sun, 02 Aug 2026 11:01:00 GMT</pubDate>
       <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
       <description>New update isn&apos;t great news for Steelers RB Jaylen Warren &amp;nbsp;&amp;nbsp; Steelers Wire</description>
-    </item>
-    <item>
-      <title>Germie Bernard Earns First-Team Reps as Steelers WR Battle Could Shift Fast - Yahoo Sports [Germie Bernard]</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNdDNvbjJvNFhzcTYxZDJGdWJFQlJBQThyMF9XWW4zUms5eGhCU1FiMEJDSDRCamp0T1dqcVZCdklUc3VJa2Q3SWxuVFRIenkza08xcGI5cFVYT3phbERtMkswdnhLZ01qYUFIOUpHcEFwZTVCSmRJTjg4MEkzQnZfUHQ4US1EVFk?oc=5</link>
-      <guid isPermaLink="false">d33ffb1250df3cae</guid>
-      <pubDate>Sat, 01 Aug 2026 21:00:00 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
-      <description>Germie Bernard Earns First-Team Reps as Steelers WR Battle Could Shift Fast &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
     </item>
   </channel>
 </rss>
