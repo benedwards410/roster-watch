@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786911986490"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1786912262625"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 20:26:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 20:31:02 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 things we learned during Seahawks’ preseason opener - The Seattle Times [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdVpSb3hYREJuY2hKc0o0Tjc5M1h1SzZBSi1VUnlzQmJCaFBzUExHUmliXzNTZnVrS1l2OXZ0eldqOVJIRFRyMy16QkxTcVRiZUhfNld5aGRDaFdtVkNjVUQzb0g5aVB0UjM5X0t3ZHlnUjNIZ2dLb1RnS2xXeHFTYXJPSnFiZ1VFY240dGhLQkZMTnF3Qi1nTlhKVFNJY19pRUk0X0FacU9HM2s?oc=5</link>
+      <guid isPermaLink="false">b1889c58000b7cd6</guid>
+      <pubDate>Sun, 16 Aug 2026 03:21:26 GMT</pubDate>
+      <source>Google News: Seattle Seahawks</source>
+      <description>4 things we learned during Seahawks’ preseason opener &amp;nbsp;&amp;nbsp; The Seattle Times Cowboys vs. Seahawks highlights | Preseason Week 1 &amp;nbsp;&amp;nbsp; NFL.com Seahawks 2nd-round rookie gets bad news on starting job after preseason Week 1 &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
     <item>
       <title>Browns Make Statement on Shedeur Sanders as Starting QB - heavy.com [Shedeur Sanders]</title>
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0tIRWE4eE9JYW0zQ1BCQUpKbW1ocUNKZm5LM3VVeGhsZDdsNHktVkpKXzBCc0JzOF8wcGdlblNsTVNMXzZWNFVyM2dYYWRhNzZyWkRLMC1oVmI3NjBCVHpYOWJHYUxCWWNwUlBqVFdnV2ZfZkZ0NGJ3OEpVbFpINGEzWWJzVE9QOFByNzlWMl9sajF0djdEeDRJTQ?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Sat, 01 Aug 2026 19:00:01 GMT</pubDate>
       <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
       <description>Garrett Wilson gave Jets teammate Adonai Mitchell an explosive comparison &amp;nbsp;&amp;nbsp; The Jet Press</description>
-    </item>
-    <item>
-      <title>Justin Joly’s First Take on Bo Nix Should Excite Broncos Fans - Sports Illustrated [Justin Joly]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDh1QWJOeUxmbXpxMmFBNjNjYXJreDE5d0NCcHhQSXZaX0lWVlZ0ZWIzV2Zsd1B2ZlBDb0lDamd3RnlvNGRWYW1UcTNibGxucHVSaG9OR3c0NkZkcEZ0Tk56ZjFxelRaR005eTRUTjA3R1hkTHVYdUQ3cmstX2NjOE83WS1mbmwwdkxRQ2JPMUptaXk2NEx3?oc=5</link>
-      <guid isPermaLink="false">81c4b015df4eb5f7</guid>
-      <pubDate>Sat, 25 Apr 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Ferguson, Joly, Taylor</source>
-      <description>Justin Joly’s First Take on Bo Nix Should Excite Broncos Fans &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
     </item>
   </channel>
 </rss>
