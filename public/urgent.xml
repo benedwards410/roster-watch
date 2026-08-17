@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787006588270"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787008141783"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Mon, 17 Aug 2026 22:43:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 23:09:01 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1055,14 +1055,6 @@
       <pubDate>Mon, 10 Aug 2026 15:00:49 GMT</pubDate>
       <source>Google News: Washington Commanders</source>
       <description>Packers add WR who was just waived by Commanders &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Broncos announce that they have activated LB Jordan Turner off the NFI - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxORHRGcm8yVVQyV2pJek93R3JzWmYxWXdiRjB5ZHlFX0pyQTlWUkRKOHJjWkZ6c1BVRzNmTlNuMF8wdUVrRkxYR2xpUW1MYnBHWHBJekdQbHB4dHhRdG9ZWnpKUE1RN1RIb185bE1GdTNQaFpPTWNkQV9zSUxCbWtfZDVTQTVWUXhmODloZDFn?oc=5</link>
-      <guid isPermaLink="false">6ffed20f027f45c2</guid>
-      <pubDate>Mon, 10 Aug 2026 16:35:59 GMT</pubDate>
-      <source>Google News: Denver Broncos</source>
-      <description>Broncos announce that they have activated LB Jordan Turner off the NFI &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
     </item>
   </channel>
 </rss>
