@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787023934522"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787026795305"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Tue, 18 Aug 2026 03:32:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 04:19:55 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commanders | Jake Moody released on Monday - Fantasy Guru [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5tZHRycWxCVjljWFNVMDN2UE5zWUk4eFhrQTVMemVzbFdtczlRWFZ4M2l0SDNZNUpGRGd0MVpkWEIxNHRuelVmMGtDYTlBMzRFZExvV3I5cDQ5VlhGa3BQa1c4dkd0VDk4cVc1YlVLWGVKVkYtbTFJ?oc=5</link>
+      <guid isPermaLink="false">b51f412eeaebd879</guid>
+      <pubDate>Tue, 18 Aug 2026 03:45:01 GMT</pubDate>
+      <source>Google News: Washington Commanders</source>
+      <description>Commanders | Jake Moody released on Monday &amp;nbsp;&amp;nbsp; Fantasy Guru</description>
+    </item>
     <item>
       <title>Chargers may have unlocked a new version of Justin Herbert under Mike McDaniel - Yahoo Sports [Justin Herbert]</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVZwWW4xVjhxTWpUakVYbEZOSzJFbVZyQ29tQ2dMMklORFFiVXZjTmNYelhlaEV4Q2l2anZ4aklPVGp2c1diQW5lRDRTWWpSMjd2cnBYT29pdjd6dlBIM0NzRFRhN2JCRHotLWFDdTlQWjRxRWZjQk9ZVmFTekVsYUhQYTlQV2FNSThRVlBB?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Mon, 10 Aug 2026 18:00:01 GMT</pubDate>
       <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
       <description>Adonai Mitchell has a Jets insider believing ahead of hopeful 2026 breakout &amp;nbsp;&amp;nbsp; The Jet Press</description>
-    </item>
-    <item>
-      <title>Steelers injury opens golden opportunity for Germie Bernard - Still Curtain [Germie Bernard]</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVNJcmttakJUcGZWV053WF92elBlaXJtejk4ZktrcWEwLXpwWkMwd3hrM3ZjTFV4OVBJZWZvU3JBUHpnZXcyYmJveDJTMjdxN0RpM280SHJjazgxWlhyTmtRVTlsYXdfRWx1N1h6eUl0Q280OTh5d0pGSVFNVUU0VW8xcXFacEQ3Tkx1M1psTlJHanZ5Y2RRXzF5dE5CZzZOWFFCNDVYbw?oc=5</link>
-      <guid isPermaLink="false">cf01b031e7873067</guid>
-      <pubDate>Mon, 10 Aug 2026 18:19:01 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
-      <description>Steelers injury opens golden opportunity for Germie Bernard &amp;nbsp;&amp;nbsp; Still Curtain</description>
     </item>
   </channel>
 </rss>
