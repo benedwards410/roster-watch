@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787093965917"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787095936401"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Tue, 18 Aug 2026 22:59:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:32:16 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1287,14 +1287,6 @@
       <pubDate>Tue, 11 Aug 2026 14:59:53 GMT</pubDate>
       <source>Google News: Los Angeles Rams</source>
       <description>LA Rams’ Career-Year Veteran Urged to Be Traded as Aaron Donald Buzz Grows &amp;nbsp;&amp;nbsp; heavy.com</description>
-    </item>
-    <item>
-      <title>2 NY Jets players who could be traded instead of cut - Jets X-Factor [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5YRXZ2Y0VFVnNKTWlSUUlMLU05MDhZMEdLWUJvWEROOHJsSXF6OFNUbk5QXzRZYnpSczByTnpvcHZoeW5IWFlkRVZtZmdydkVweHR5TEZQWjYxQ291ZU1lYmx4d1dkTEFtZXNfak9VRQ?oc=5</link>
-      <guid isPermaLink="false">68ce3f3f49b02fc1</guid>
-      <pubDate>Tue, 11 Aug 2026 12:08:55 GMT</pubDate>
-      <source>Google News: New York Jets</source>
-      <description>2 NY Jets players who could be traded instead of cut &amp;nbsp;&amp;nbsp; Jets X-Factor</description>
     </item>
   </channel>
 </rss>
