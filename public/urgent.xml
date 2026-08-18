@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787067504495"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787068993352"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Tue, 18 Aug 2026 15:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:03:13 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
