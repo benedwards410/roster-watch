@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787199635103"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787202376585"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 04:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 05:06:16 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1247,14 +1247,6 @@
       <pubDate>Wed, 12 Aug 2026 00:26:26 GMT</pubDate>
       <source>Google News: New York Jets</source>
       <description>Jets&apos; Qwan&apos;tez Stiggers Released From Hospital After Leaving Practice in Ambulance &amp;nbsp;&amp;nbsp; Bleacher Report</description>
-    </item>
-    <item>
-      <title>Jets CB released from hospital after passing out in practice. What to know - USA Today [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNTm9QVVJ1YlhkNEZDNUJ4TlAtbmh6elJnci05MnV3QUhyUGtsNXRtQy1yYk1zbnQtR1d4MWwySlJpaVRWZEt4bnJYRmkwdmpTcURwRXBHOHdkQkQyMzg5WnJyRXpJOVhXSm9FSW1GQnd0RUxKb2pnVVVlcnFaOEdjRG55WFhwa21mdWhVZzRFS2VQVjMwckZrcTNuQTBuUUo2VWpDemp6dmgxOGpJTGdJ?oc=5</link>
-      <guid isPermaLink="false">5a18f3a163c3ddab</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-      <source>Google News: New York Jets</source>
-      <description>Jets CB released from hospital after passing out in practice. What to know &amp;nbsp;&amp;nbsp; USA Today</description>
     </item>
   </channel>
 </rss>
