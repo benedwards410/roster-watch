@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787204727403"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787206788701"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 05:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:19:48 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>These 3 Broncos are surging up the depth chart after just one preseason game - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxONlZhYmJyTDdEbC0zSUg0Q3I5ams0T0s2cFZQVU9zbDQzMjBqT2w5M0pBMUdYRDNrRnM0MXA3RGZWQThfOHp4djBhSzNtT2p1ejQ0QUtLMGQtWVNIaVJUeG96N082REpnODFaUlY0SGFKby1pdnprVVdxaDhPWW5PUjg3YzI?oc=5</link>
+      <guid isPermaLink="false">d64bf984ed523274</guid>
+      <pubDate>Thu, 20 Aug 2026 01:32:00 GMT</pubDate>
+      <source>Google News: Denver Broncos</source>
+      <description>These 3 Broncos are surging up the depth chart after just one preseason game &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Titans’ fifth-round draft pick competes for starting job at right guard - Chattanooga Times Free Press [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOdnVtNnpud3RYWGhiU3NtYUxoRXJOUVZfZDQ4d0ZuYU5wWXBfNDM2QkZuSDNuZUxrNTVQSm1TYldzQ3M1V3lzelR2cTg3d1ViMUNKQjlvR2RTN2VjUEdlcV9Qbk1VUF9tWTRLZEw2MmQ2RjV2aFg5MTc1RXA2T19VSWdJM2J1VGRGbGNGX21RQWh6YlhRc1E?oc=5</link>
+      <guid isPermaLink="false">f0408d436d889809</guid>
+      <pubDate>Wed, 19 Aug 2026 20:00:00 GMT</pubDate>
+      <source>Google News: Tennessee Titans</source>
+      <description>Titans’ fifth-round draft pick competes for starting job at right guard &amp;nbsp;&amp;nbsp; Chattanooga Times Free Press</description>
+    </item>
     <item>
       <title>Vikings’ Justin Jefferson Gets Good News Before Ravens Game - heavy.com [Justin Jefferson]</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTI1T2kxTWFsS0pIdkV6Rlg0WjBaQWlyUi1SRzI0cG1WQzZoUy1YalpxeEN6NDN3cHRfdXp5WVh4UVpwTUVPNzdNMjFXMGY4ZEJxMGY0UUVkS1FkTi0wNkctcHp6Vzk2MU9NVlNUM2JhR3ZaQ2RMWDg4T2NVYmZWallzc0F6WHhUblhoYjAwdw?oc=5</link>
@@ -9591,22 +9607,6 @@
       <pubDate>Wed, 12 Aug 2026 00:31:00 GMT</pubDate>
       <source>Google News: Jacksonville Jaguars</source>
       <description>Former Argo Stiggers released from hospital after losing consciousness at Jets practice &amp;nbsp;&amp;nbsp; Sportsnet.ca</description>
-    </item>
-    <item>
-      <title>QB Kyler Murray wins starting job with Minnesota Vikings - USA Today [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUFQwWkgwQ3RuQzVjV1dZdzdtalJpNlprdHhDaXNsVVNWME1zR0RzX0Nnano0c1FaTlI3R3dVbnQ3VDRscldnVm5QUWF2NVdHNS10VjUtU0JJQnlWdmNybkNNNEQ0S1B1REE1Wjl3cjlvVGpVbGJ3VmFFVV9VTG1ySmZzYl85dVlkbkJ6OHMxYkQ3aXdCd29Jcnh4cC1LUUVKcGxKd3Vfdm9kdzlxVl84QlRIdERoYi1qSm5sRkhtMHpTVkRVUXAxbEZNR2R5eFBBTjNJOA?oc=5</link>
-      <guid isPermaLink="false">2d2da5feb6abb3ee</guid>
-      <pubDate>Wed, 12 Aug 2026 03:32:00 GMT</pubDate>
-      <source>Google News: Minnesota Vikings</source>
-      <description>QB Kyler Murray wins starting job with Minnesota Vikings &amp;nbsp;&amp;nbsp; USA Today</description>
-    </item>
-    <item>
-      <title>Vikings coach speaks out on J.J. McCarthy’s future as Kyler Murray takes starting job - New York Post [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0hFWlFoM3hTMEdQUFZzdm14cjA4RERGdFpuZnNQNVVuYjBYdTFFbmNyNF9kNVFmdEZadS00MllKaG9tU1RCZ3lVY0prNW11eGR6SEFDR0IwVHpwVHFyUXV1ZDlsTURPQ29UcjRpX054YzY5S2xKSDM2WnV5MFVzMnJBR1FlY3llVTA5MG1mZVMyeUp5OHIyQ0ZpQzJYZWk4VUxmaVR2ekxHYkk?oc=5</link>
-      <guid isPermaLink="false">22f294dd627641ab</guid>
-      <pubDate>Wed, 12 Aug 2026 00:11:00 GMT</pubDate>
-      <source>Google News: Minnesota Vikings</source>
-      <description>Vikings coach speaks out on J.J. McCarthy’s future as Kyler Murray takes starting job &amp;nbsp;&amp;nbsp; New York Post</description>
     </item>
   </channel>
 </rss>
