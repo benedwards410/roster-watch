@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787202376585"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787204727409"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 05:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 05:45:27 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1239,14 +1239,6 @@
       <pubDate>Wed, 12 Aug 2026 00:31:00 GMT</pubDate>
       <source>Google News: Jacksonville Jaguars</source>
       <description>Former Argo Stiggers released from hospital after losing consciousness at Jets practice &amp;nbsp;&amp;nbsp; Sportsnet.ca</description>
-    </item>
-    <item>
-      <title>Jets&apos; Qwan&apos;tez Stiggers Released From Hospital After Leaving Practice in Ambulance - Bleacher Report [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2k3QzhFVS0xbVFYSDBXb081Rzd4alR2Z3p2eHFOd0IxbF9lSGZVOXpOV0NxZVhKeVg4b215U2ZyVmV3T2ZRNFFsMjE4WWdUd2NaSS1Oc0U3S05VWTR6ei1uVmszUXo3cU9vWEQ4V0pzUUdxenVYQWU2RmNpV2pqYlUxWENsNzczb2R0TTk2Z0NXcHB4N2c2WnFrYzFCYnM5OGtmU2FaakN4WkM3SFY5czl3U1p2R0d2?oc=5</link>
-      <guid isPermaLink="false">fdfc95c7b3f28c6c</guid>
-      <pubDate>Wed, 12 Aug 2026 00:26:26 GMT</pubDate>
-      <source>Google News: New York Jets</source>
-      <description>Jets&apos; Qwan&apos;tez Stiggers Released From Hospital After Leaving Practice in Ambulance &amp;nbsp;&amp;nbsp; Bleacher Report</description>
     </item>
   </channel>
 </rss>
