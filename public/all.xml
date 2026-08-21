@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787338451781"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787340650846"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Fri, 21 Aug 2026 18:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:30:50 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&apos;Football 301&apos; predicts AFC South win totals, where Trevor Lawrence&apos;s Jags are a regression candidate and the Texans&apos; defense is dominant - Yahoo Sports [Trevor Lawrence]</title>
+      <link>https://news.google.com/rss/articles/CBMikgJBVV95cUxQSG94XzkxOHNsSGx6X1c1c1hIQWZkdGhOaWQwVUZWc05xdE1EamoyU0xGS1FaWDhzWjlsc3FKcEozbmQwUkRoVGFQMEdMLUtJeW1WbFJlb1FPUkVFZXZnMWJZdUJDSEdlTW50SElaVFVpbkpqSUdIbkFmYks2V3E5NUlJbnJqT2o0MHkxR09MM1V3MXpFSVpsWFgyRVFpZHpVX3Bra0RmSTNjRFFTcDQ5V2dVU3ZLUUhXNVY2TEJlWXo4c0hqN0JDUFhTNGxVOGlVNHJyNVZNWTdVblhUaG1fZ1BkakN4dnJPdE4yQjBxMVBuMFI1MGllbnc4WmptVjVjT3hZN0d5bXVvTWN4ZEVBdjBR?oc=5</link>
+      <guid isPermaLink="false">e26bdcc4d81de841</guid>
+      <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>&apos;Football 301&apos; predicts AFC South win totals, where Trevor Lawrence&apos;s Jags are a regression candidate and the Texans&apos; defense is dominant &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Commanders Rookie QB Athan Kaliakmanis Making Strong Push Up Depth Chart - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQbThCUFR5dEZUdnk0S2Z5dUdYR0pGaVR5cmNwQktuX2dmR2R6dGt1ZkVyZEtMWFpqSVJQNGg0VkpEeHM5YWxIYTRtSDUxVUo1aF9jZDllMXhZU2E2eGlCOUptaWdvN240dWtkd3ZRVF9aZU1RbFZuSEUydnMzLUxrYlV0Y2M3TTNDOE9ROTZUc1I?oc=5</link>
+      <guid isPermaLink="false">ac4257b29cc62798</guid>
+      <pubDate>Fri, 21 Aug 2026 14:50:00 GMT</pubDate>
+      <source>Google News: Washington Commanders</source>
+      <description>Commanders Rookie QB Athan Kaliakmanis Making Strong Push Up Depth Chart &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
     <item>
       <title>Las Vegas Raiders Hidden Gems: 3 Secret Superstars on the 2026 roster [Jalen Nailor]</title>
       <link>https://sports.yahoo.com/articles/las-vegas-raiders-hidden-gems-180000143.html</link>
@@ -9591,22 +9607,6 @@
       <pubDate>Thu, 13 Aug 2026 15:42:43 GMT</pubDate>
       <source>Google News: New York Jets</source>
       <description>Injury update: Jets take Joseph Ossai off PUP list, add to roster &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Jets&apos; Adonai Mitchell: Viewed as No. 2 receiver - CBS Sports [Adonai Mitchell]</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPTHktSkxuNTJrT1liT2hpd0ZiQXdIdmZQWi15S1lzX09lVzVnT1J2ZmlSc0k0dk82QXdySERRNWZ0R2xJTmtiZ3dxT2c1cE1yMUZvWkZ2SjBkM0xoU0ktVi1TSTFyc09ub3pSRExydXc2YjFfWGJqNWlRMnZ3S2E2ZTQ1V09wNTNLWmhfd2tmYmxER3BCS1BhNw?oc=5</link>
-      <guid isPermaLink="false">d91aa554d16dd528</guid>
-      <pubDate>Fri, 07 Aug 2026 18:59:00 GMT</pubDate>
-      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
-      <description>Jets&apos; Adonai Mitchell: Viewed as No. 2 receiver &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Detroit Lions updated depth chart: Preseason Game 1 at Bengals - Pride Of Detroit [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnZtR0tHcUpHZ0gwV2VmbEVobm5qV05lV1JKY0ZzdjdSb1BzWng3cmNMWnNRYVJGVFo0QlpjVFRDbzZweEg3QmMyVlZxbi05TnpxekVJQkV4VmJESWZCVHQzZGRRa2pKTmc2N2xKanpPMndoX3VLQmJEeUVCajV1VmdxdHJuUFBlWnJZa3dEalVvczZUbXJUamNCYjZTLXV1Rmp6aEVBT3pZT1A0MFZfT0w3ZFFRMDhHVWUzM2ZhYlhDNEk?oc=5</link>
-      <guid isPermaLink="false">0d31faaa822a25ba</guid>
-      <pubDate>Thu, 13 Aug 2026 13:00:00 GMT</pubDate>
-      <source>Google News: Cincinnati Bengals</source>
-      <description>Detroit Lions updated depth chart: Preseason Game 1 at Bengals &amp;nbsp;&amp;nbsp; Pride Of Detroit</description>
     </item>
   </channel>
 </rss>
