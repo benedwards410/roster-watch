@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787340650850"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787342171136"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Fri, 21 Aug 2026 19:30:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:56:11 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1631,14 +1631,6 @@
       <pubDate>Thu, 13 Aug 2026 20:44:58 GMT</pubDate>
       <source>Google News: Houston Texans</source>
       <description>Texans Cut LB Sione Takitaki From Injured Reserve &amp;nbsp;&amp;nbsp; NFLTradeRumors.co</description>
-    </item>
-    <item>
-      <title>Injury update: Jets take Joseph Ossai off PUP list, add to roster - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOSTRVQkFNRkduZVVzdmFxUkZZWDRTWFN1dFRZTGFsT0J4ek5HYmF3NGV2TFpubmRNQS16YmtEWm9heFlfUVlZTkEtSDZaXzM3WENGUkRZMmFPSldyTWdSekhIZkZxWmtEemQyVDhIUG9IMEx3QXlGVTJpb1h3bHVuNEFrVQ?oc=5</link>
-      <guid isPermaLink="false">ee0ee1dd220563bd</guid>
-      <pubDate>Thu, 13 Aug 2026 15:42:43 GMT</pubDate>
-      <source>Google News: New York Jets</source>
-      <description>Injury update: Jets take Joseph Ossai off PUP list, add to roster &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
     </item>
   </channel>
 </rss>
