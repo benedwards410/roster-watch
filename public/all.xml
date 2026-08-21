@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787344434140"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787345953307"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Fri, 21 Aug 2026 20:33:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:59:13 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Broncos&apos; depth chart for preseason game vs. Packers - Broncos Wire [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxPS1k4dDRyRmoxNl9LcTZKc1VfTml5NGFLbUdsZnZLeWtPdGdRVUNYMDdNT3h0LTVxZ1ZnYmlNZVZVc0JrS1ZJanNLNEpIcFRENmlOTFNKNzQweVBSTG93NFB5X0pPTWxUWkQxdHl2MjVnSGhqRFpLS2tzcGFxV1pkM1ZtOWRYV0t0SzFreUJKNm9NMmhKeWZkaFZRa2dfSE5ieDlhS3ItdGYxbTN0dWxZN3lRYlNRT1V6UHg0NlU0dG42dTNjQXoxcjRBZkRILUk?oc=5</link>
+      <guid isPermaLink="false">4bf810a7da0721b3</guid>
+      <pubDate>Fri, 21 Aug 2026 20:30:00 GMT</pubDate>
+      <source>Google News: Denver Broncos</source>
+      <description>Broncos&apos; depth chart for preseason game vs. Packers &amp;nbsp;&amp;nbsp; Broncos Wire</description>
+    </item>
     <item>
       <title>NFL Top 100 Players of 2026: JSN makes top 10, but only 3 Seahawks featured [Jaxon Smith-Njigba]</title>
       <link>https://sports.yahoo.com/articles/nfl-top-100-players-2026-201526020.html</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Thu, 13 Aug 2026 09:12:03 GMT</pubDate>
       <source>Google News: Cleveland Browns</source>
       <description>&apos;The Son of Prime Is Not Gonna Be Taking Bait&apos; — Veteran Insider Praises Shedeur Sanders&apos; Mature Response Towards Pointed Questions &amp;nbsp;&amp;nbsp; PFSN</description>
-    </item>
-    <item>
-      <title>J.J. McCarthy wants to stay with Vikings after losing QB job - ESPN [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGR0c181ZWNDMS1nRzhRQmlvSG8zTTlaRl9XT0E0cFppVHE5bzNOMjlXN1BiNUFxM1dkcC1YaDRsRk5BNXAwZXk5OFk5T1NZaWtkaWZQUzBGRkpiU3Vlald2emI0czAwUmxLQ1lhVnNhbk1yMmNmdDBPRWNQMGhHaXh2UmdNTzd2RkExWlJnSkkxUGNNbjRGdUlqMXJxdThZSWFDMXNsX21WazRPNld0S0JR?oc=5</link>
-      <guid isPermaLink="false">4ad5c10ee2cef876</guid>
-      <pubDate>Wed, 12 Aug 2026 22:54:00 GMT</pubDate>
-      <source>Google News: Minnesota Vikings</source>
-      <description>J.J. McCarthy wants to stay with Vikings after losing QB job &amp;nbsp;&amp;nbsp; ESPN J.J. McCarthy was the Vikings’ future at QB. Where does he fit now? &amp;nbsp;&amp;nbsp; Star Tribune With QB question settled, Minnesota Vikings&apos; first 2026 depth chart offers little surprise &amp;nbsp;&amp;nbsp; CBS News</description>
     </item>
   </channel>
 </rss>
