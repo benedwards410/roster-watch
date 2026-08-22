@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787392004726"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787393361507"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 09:46:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:09:21 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Justin Jefferson and the New Anatomy of Wide Receiver Bouncebacks - RotoViz [Justin Jefferson]</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU1TNDh5cmczM05XREE1NFRvZmdtTGtDY0FjMW4telFySlEzZHNPeWdIWVJxSFBUVE5UVHAwY1NnSVFFa0FrZWFaaUFMSDdvSmhFWlBxRmcyRmZXN09jOFhRMjJ6aHFlZVV1LXRlcllPWDM3SlZ4RzFja3lHWm5TUDh1QU14Qm9JajVPQ3RsOUYtU0JoMExfaFBYdTlIRHc?oc=5</link>
+      <guid isPermaLink="false">5783ca3053025c93</guid>
+      <pubDate>Sat, 22 Aug 2026 10:01:03 GMT</pubDate>
+      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
+      <description>Justin Jefferson and the New Anatomy of Wide Receiver Bouncebacks &amp;nbsp;&amp;nbsp; RotoViz</description>
+    </item>
     <item>
       <title>What channel is Browns vs. Bills game? Time, streaming for Shedeur Sanders&amp;#39; start [Shedeur Sanders]</title>
       <link>https://sports.yahoo.com/articles/channel-browns-vs-bills-game-093101075.html</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Thu, 13 Aug 2026 19:00:30 GMT</pubDate>
       <source>Google News: Minnesota Vikings</source>
       <description>3 Takeaways from the Vikings’ First Unofficial Depth Chart of 2026 &amp;nbsp;&amp;nbsp; purplePTSD</description>
-    </item>
-    <item>
-      <title>Jeremy Reaves Pushing For Commanders Starting Job - NFL Rumors - ProFootballRumors.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQVGlZQzVReFlzQWNSckJ4YXRkUjctMmtXUVdiYkpuekRWMjAtVlhBN0RoZUUzZG5GUlZTeUNjNnkwX2UwaC1ZXzNDSUFlS0ltaGxYc2FXT1cydnBOUnNrTUdTcl93LVhpeXhFdWxQWmk3VDE1ODhabmVVcF9fQXkzOXhVTk56Z3FLNWNnZS1EZDdnMUtEXzZlSw?oc=5</link>
-      <guid isPermaLink="false">1d02e74da0868d43</guid>
-      <pubDate>Thu, 13 Aug 2026 20:03:57 GMT</pubDate>
-      <source>Google News: Washington Commanders</source>
-      <description>Jeremy Reaves Pushing For Commanders Starting Job &amp;nbsp;&amp;nbsp; NFL Rumors - ProFootballRumors.com</description>
     </item>
   </channel>
 </rss>
