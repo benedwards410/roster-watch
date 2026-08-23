@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787510067086"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787510427272"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Sun, 23 Aug 2026 18:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:40:27 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1351,14 +1351,6 @@
       <pubDate>Mon, 17 Aug 2026 01:19:00 GMT</pubDate>
       <source>Google News: Los Angeles Rams</source>
       <description>Recently-released 49ers rookie finds new home with Rams &amp;nbsp;&amp;nbsp; Niners Wire</description>
-    </item>
-    <item>
-      <title>Jaguars place rookie on injured reserve, sign 2 free agents - Jaguars Wire [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa3VBaV9vVUdSSHNrckhjTXM4YjVfaDJoNWc0dnZpV1BYeXFzSHlOQ0hKaXQ4dUpqV3I1Z2l2ZjRxRnRzaUtBdHZiVGRuOFVPd1IzZG1CRm1iZWtFZk9ZMlB4dUt0dEExaWhoN0hPSDRmU1pIckRBTUdibFkyZWNWbDBvak13dzhhbmVjOGxTR2FYZUZobHFNX0ZGNnFaVGNSTmxGa1FJUGNtN2VhN3R0UVVFVGNpQjVqZ2RlY1F5V2tPZFRmbXFYRWpmYVhNcVNZVWJB?oc=5</link>
-      <guid isPermaLink="false">43a6309944cc650d</guid>
-      <pubDate>Mon, 17 Aug 2026 13:04:00 GMT</pubDate>
-      <source>Google News: Jacksonville Jaguars</source>
-      <description>Jaguars place rookie on injured reserve, sign 2 free agents &amp;nbsp;&amp;nbsp; Jaguars Wire</description>
     </item>
   </channel>
 </rss>
