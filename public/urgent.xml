@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787477704748"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787479141183"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Sun, 23 Aug 2026 09:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:59:01 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1351,14 +1351,6 @@
       <pubDate>Sat, 15 Aug 2026 18:32:41 GMT</pubDate>
       <source>Google News: Minnesota Vikings</source>
       <description>Vikings S/LB Jamal Adams carted off &amp;nbsp;&amp;nbsp; NBC Sports</description>
-    </item>
-    <item>
-      <title>Five takeaways from the Jets’ preseason opener against the Buccaneers - ganggreennation.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQUUJaeU93SWJCdS0tNWo5cWt4Y2IwaXduTXhOR2c3c2lZYW1WM0xHMVpWbTF5YWJRZE5GcGktd0tsNUJwMVZpTnVpY2FFNFpyd2owa3NJSE03ZG01RWtxNnluNUZsdHNFdVhpOHROMk9sTjE4WjNST2dIcmw2amxGR1VPSEFtZ0lJY2QzQWZZLWxPT2d0eFZTQmZRd3FmRmdoQzVYQ3lEejhmSDViZWppZERIeGwtZkotZzZ1RktPMlVRczJJRExBM093?oc=5</link>
-      <guid isPermaLink="false">ce67c42da276f3cb</guid>
-      <pubDate>Sat, 15 Aug 2026 13:25:40 GMT</pubDate>
-      <source>Google News: New York Jets</source>
-      <description>Five takeaways from the Jets’ preseason opener against the Buccaneers &amp;nbsp;&amp;nbsp; ganggreennation.com Jets-Bucs Game Recap | Green &amp; White Starters Play Well in 24-16 Loss &amp;nbsp;&amp;nbsp; New York Jets Former New York Jets Pro Bowler Carted Off With Injury Weeks After Joining Vikings &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
     </item>
   </channel>
 </rss>
