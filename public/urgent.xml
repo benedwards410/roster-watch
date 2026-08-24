@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787550397662"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787552887095"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 05:46:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:28:07 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1423,14 +1423,6 @@
       <pubDate>Tue, 18 Aug 2026 13:44:41 GMT</pubDate>
       <source>Google News: Cleveland Browns</source>
       <description>With Myles Garrett traded away, 10 options for the new “Face of the Browns” &amp;nbsp;&amp;nbsp; Dawgs By Nature</description>
-    </item>
-    <item>
-      <title>Commanders Place Free Agent RB on Injured Reserve - heavy.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxObVZhSU9MVVVfT1VCUzFvVGRsckhLeXFydG8tYi1NOHBVZGgydDhvSmJITWdKbUthckJYYTZ4RjlaemFpcE12dmMwR3puWE1uZkdFUnFCdUtjLU4xWlNTclZ4dVJ4bjZEdlk3cDNOdHJYODVCZEVUS1lTOFR6MEtPN0N0cE9nLXdWM2hxNkhCMDU0aFJ1OGtn?oc=5</link>
-      <guid isPermaLink="false">a68e3c7e2fe0f6e2</guid>
-      <pubDate>Tue, 18 Aug 2026 12:44:17 GMT</pubDate>
-      <source>Google News: Washington Commanders</source>
-      <description>Commanders Place Free Agent RB on Injured Reserve &amp;nbsp;&amp;nbsp; heavy.com</description>
     </item>
   </channel>
 </rss>

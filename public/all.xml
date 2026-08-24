@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787550397653"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787552887088"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 05:46:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:28:07 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shedeur Sanders - Awful Announcing [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFJSaTlVN2dPbXVoY0RUUWpoNGhVSlg5aEFjeDliSS1Pb0Y4YjF3clpqUGh3M1JDemMxcXRXUXdnRWlkbG1xWGZENVRUc0NxODFCYjMtUV85ckRkaWJackRhMU5LVmVxcVp4VlRzRzlTV3JzbDRkSXB1Zm1oQlJmMTRFc19kTmN2cFlXVGVSTjlJTF9kX2lSMTViYXNsdE1IZ04yc0ZQU1NyT1psaEhwRmhYemJFS2ZMUHNCRA?oc=5</link>
+      <guid isPermaLink="false">f5ca4dc373253a20</guid>
+      <pubDate>Mon, 24 Aug 2026 05:49:43 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Shedeur Sanders &amp;nbsp;&amp;nbsp; Awful Announcing</description>
+    </item>
     <item>
       <title>Stock Up: Jets Receiver Adonai Mitchell Is Turning Heads - New York Jets [Adonai Mitchell]</title>
       <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDl6LXZYOUluNGViaDZvTUFZQVMwODFvWFlnbXdkS0FpNUtBLVFDMVk3VTlaVW1nQUVqM25xSFhzUnd6TUJGQVhFeW00eHRzLW1tcExURWFKT0dtWTJfMlRLaFd3NEpuNjNxdjhKcF9BZDBMZ2daaVdJbl9ib043LW05VjhFVFhaRk5BTWpBd1ZYVUFB?oc=5</link>
@@ -9599,14 +9607,6 @@
       <pubDate>Tue, 18 Aug 2026 12:40:01 GMT</pubDate>
       <source>Google News: Seattle Seahawks</source>
       <description>Devon Witherspoon: Nothing’s going to change now that I signed contract &amp;nbsp;&amp;nbsp; NBC Sports</description>
-    </item>
-    <item>
-      <title>Commanders Place Free Agent RB on Injured Reserve - heavy.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxObVZhSU9MVVVfT1VCUzFvVGRsckhLeXFydG8tYi1NOHBVZGgydDhvSmJITWdKbUthckJYYTZ4RjlaemFpcE12dmMwR3puWE1uZkdFUnFCdUtjLU4xWlNTclZ4dVJ4bjZEdlk3cDNOdHJYODVCZEVUS1lTOFR6MEtPN0N0cE9nLXdWM2hxNkhCMDU0aFJ1OGtn?oc=5</link>
-      <guid isPermaLink="false">a68e3c7e2fe0f6e2</guid>
-      <pubDate>Tue, 18 Aug 2026 12:44:17 GMT</pubDate>
-      <source>Google News: Washington Commanders</source>
-      <description>Commanders Place Free Agent RB on Injured Reserve &amp;nbsp;&amp;nbsp; heavy.com</description>
     </item>
   </channel>
 </rss>
