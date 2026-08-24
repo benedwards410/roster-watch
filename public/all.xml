@@ -1,13 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787600249361"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787601783275"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Mon, 24 Aug 2026 19:37:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 20:03:03 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#ProDucks NFL Preseason Week 2 Recap [Justin Herbert]</title>
+      <link>https://sports.yahoo.com/articles/producks-nfl-preseason-week-2-193000201.html</link>
+      <guid isPermaLink="false">9f325a6c8baea485</guid>
+      <pubDate>Mon, 24 Aug 2026 19:30:00 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>What’s up y’all? Here’s how some of the NFL #ProDucks played in week 2 of the preseason. AFC WEST:Raiders: WR Malik Benson – 1 catch, 18 yards Chargers: QB Justin Herbert – 1/2, 9 yardsCB Nikko Reed – 1 solo tackle, 3 assisted Broncos: QB Bo Nix – 6/9, 76 yards, 1 TD Chiefs: LB […]</description>
+    </item>
+    <item>
+      <title>Shedeur Sanders &apos;understands the long game&apos; of Todd Monken&apos;s QB decision - Akron Beacon Journal [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTk0RWFLNGljd05GckpFdWRoSV9xNWpDQ1ppZHltM3pXR193TVZqQjlVUElIaVlaSFNwb2Q3N1g1RlFYSTk4QzdYaFJuMDkzbjFJeWhoR3k4R2dCa0dCNFVwM214Mkp6ZURPR18tdXdxNHBrNGMzVUJ3YVdvM01xQ3ZmbW5LdzRlNEVRMzdkSmk3XzRDZDhEVGNsbWVYRnR4aWs0WXNGWUJIYVo5bXFtaWQ4dTRIS3A1cWc0RlljZFpJUQ?oc=5</link>
+      <guid isPermaLink="false">75786b83aa10e2e9</guid>
+      <pubDate>Mon, 24 Aug 2026 19:47:00 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Shedeur Sanders &apos;understands the long game&apos; of Todd Monken&apos;s QB decision &amp;nbsp;&amp;nbsp; Akron Beacon Journal</description>
+    </item>
+    <item>
+      <title>Starting Deshaun Watson may give the Browns their cleanest path to Shedeur Sanders. - Yahoo Sports [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcVRyUW1zaWpZLTVVVkNmd0FqUGk0bWZnQ0I4Y0lrUEN6X2tORHl2VWt0eXcwQmFMT01IbnlHejNlamktQkNmcGIzbTZUVjRFUXZGaWF3NmdJUncwVTlHN1JfMXhOazNuVlhtd0MzQ1V4Y1QwNjVONEdSaVY2SHY4SkdSTy1wM2hZ?oc=5</link>
+      <guid isPermaLink="false">099ae4655cc43e4d</guid>
+      <pubDate>Mon, 24 Aug 2026 18:56:30 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Starting Deshaun Watson may give the Browns their cleanest path to Shedeur Sanders. &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Javonte Williams: Cowboys offense has &apos;hit the ground running&apos; early in training camp - Dallas Cowboys [Javonte Williams]</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTg1RmcxUktaTHM2aFRFd3gtV29pTGpqT1hYcHZJRXVtdGVjRl9MSkFfTVZKTGVZeEFrUWc1TTZGa0pPZDJMMWhtaWtpYjBqbFV2RUVYaUROb0JwaEU0MjNudDR0WGVOeFVnRTN0V2VoTjZPTXNrVVc5eElXN0JRZ3RhTElwZnlJZktEdEJZTUs0NTIxcUZVR2tJRmJhajJKWThiejVKdWVTaFZIYzhoUk1ibVJicmww?oc=5</link>
+      <guid isPermaLink="false">335204ec3fd50dd6</guid>
+      <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Javonte Williams: Cowboys offense has &apos;hit the ground running&apos; early in training camp &amp;nbsp;&amp;nbsp; Dallas Cowboys</description>
+    </item>
+    <item>
+      <title>What Bills vs. Browns really tells us about Buffalo’s depth chart - Buffalo Rumblings [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWUxeE5iUXA1VmlBOWlhOVZfeWxoMUNrLS1YLUxydzVtemZoNzVQTUpKLV9SOUpIcU13T1lNUHNITU5ZUzZvdkliVG1iT295VU1PSUJuNnNMNUx0dURPaEhYRUFnRWFsS2J3eDVYeldrb1JDZ0FwY1VRaDd5UnJhV05BT1dYZlVGQUZyRnJnbmF3TU9peGVkSExDZmJGdEd0WFFEajRPUTE3aE93NnVleEktUXY0V2lTNzJVMjRzNXQxSFpE?oc=5</link>
+      <guid isPermaLink="false">241af3e17395ad2a</guid>
+      <pubDate>Mon, 24 Aug 2026 10:00:00 GMT</pubDate>
+      <source>Google News: Buffalo Bills</source>
+      <description>What Bills vs. Browns really tells us about Buffalo’s depth chart &amp;nbsp;&amp;nbsp; Buffalo Rumblings</description>
+    </item>
+    <item>
+      <title>REPORT: New England Patriots wide receiver Kayshon Boutte traded to the Texans - WBRZ [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPUTJ4ZUpla204a0t3VVNLOFo3cGpDcDV5aVBYWnR2bUN0bFFTVTFTX0J2NVhBeWZtUjBnRDE4cnV5QVJJNnFXbmNTTUo0VF9WLVNCNkszWWJTREJGY2t5VEhUQ19jY2cyV1RwUHdrUWpTd1F0NHloRXhmSURNNVZ0aFdYYXB5THZlRTRGTGxHbTJOY3ZuT0kwV19zb1NKMFA5Z2c3QWdR?oc=5</link>
+      <guid isPermaLink="false">fb015a3dfc4db74b</guid>
+      <pubDate>Mon, 24 Aug 2026 19:37:04 GMT</pubDate>
+      <source>Google News: Houston Texans</source>
+      <description>REPORT: New England Patriots wide receiver Kayshon Boutte traded to the Texans &amp;nbsp;&amp;nbsp; WBRZ</description>
+    </item>
+    <item>
+      <title>Giardi: Boutte traded to Houston for Reed, draft pick - Boston Sports Journal [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2Zrd01HRTFhUVBuMmNpXzhFZ0N3czZsczFPeWREQ19aTk05Vy1vTFVfWFRUVjBOeU5hRVRfYTdUZWdodC1kOUpxNmlzdENTbWVOa1NaMlpmNGcwVVpaLXA5TkxadDgwNFhidmxLNUFtRThrekFDMUhsRFZCWVhsaVlpUmxLT1U5UnRqZkpkQWpkTXN3SG9VU0RJcU9hQWc?oc=5</link>
+      <guid isPermaLink="false">cb0198927abbae97</guid>
+      <pubDate>Mon, 24 Aug 2026 19:19:28 GMT</pubDate>
+      <source>Google News: Houston Texans</source>
+      <description>Giardi: Boutte traded to Houston for Reed, draft pick &amp;nbsp;&amp;nbsp; Boston Sports Journal</description>
+    </item>
+    <item>
+      <title>No. 39: Los Angeles Chargers quarterback Justin Herbert Top 100 Players of 2026 - NFL.com [Justin Herbert]</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE01RHBKSzc5bzJKYlBCM252aGVjUWlTS3RHczNPYzNrTk92c1pmdU5lVkZZVThXWHFYaHhUWGNFc0FTa09ZOVVSYUktOC15QjRiUHVZbFJTaVdpREtoazJlTGdpZ2VpTWwyb1U4VGtLbFJVX1lfZ0JwU0U2WQ?oc=5</link>
+      <guid isPermaLink="false">fd9f008dc8f591c2</guid>
+      <pubDate>Tue, 04 Aug 2026 16:08:30 GMT</pubDate>
+      <source>Google News: Los Angeles Chargers</source>
+      <description>No. 39: Los Angeles Chargers quarterback Justin Herbert Top 100 Players of 2026 &amp;nbsp;&amp;nbsp; NFL.com</description>
+    </item>
     <item>
       <title>&amp;#39;Football 301&amp;#39; predicts NFC North win totals – and there will be many – between Caleb Williams&amp;#39; Bears, Jahmyr Gibbs&amp;#39; Lions, Jordan Love&amp;#39;s Packers and Justin Jefferson&amp;#39;s Vikings [Justin Jefferson]</title>
       <link>https://sports.yahoo.com/nfl/article/football-301-predicts-nfc-north-win-totals--and-there-will-be-many--between-caleb-williams-bears-jahmyr-gibbs-lions-jordan-loves-packers-and-justin-jeffersons-vikings-191642344.html</link>
@@ -9543,70 +9607,6 @@
       <pubDate>Wed, 19 Aug 2026 18:00:04 GMT</pubDate>
       <source>Google News: Minnesota Vikings</source>
       <description>5 Vikings With Soaring Stocks Are Flipping the Depth Chart at Training Camp (Including Myles Price) &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Seattle Seahawks Sign 27-Year-Old Former First-Team All-Pro Defender - Sportsnaut [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBzcG9EUVNwSDdxZllRSlAyQnBHYUd5YXpvT3Y0d3ZEeVEtYVF0aEthbUx2NVFVYThBZThoMG00RHhSWlo4YTZpYXhiclBNYUtoZTh1MDlnVjVlQ3NUVEVCdXpYZXdPczBQOF9mdDJ3REFOaG5DUU5xWA?oc=5</link>
-      <guid isPermaLink="false">f3eb1f7b46c9fd63</guid>
-      <pubDate>Wed, 19 Aug 2026 18:06:49 GMT</pubDate>
-      <source>Google News: Seattle Seahawks</source>
-      <description>Seattle Seahawks Sign 27-Year-Old Former First-Team All-Pro Defender &amp;nbsp;&amp;nbsp; Sportsnaut</description>
-    </item>
-    <item>
-      <title>Browns reportedly could trade Shedeur Sanders after latest QB update - bolavip.com [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkczc1c0YjVOalpxRGpFMmJJZVRTTnd0Z2FXd1pwNEs2alJZWmNoOHVlQU5tcHRTNWhSbllYX2NDSnAxVzdjV25Ka3BTNVZKSUp1WTRRc2tzcWw4dHpobElSX0xDTnVrdWFWcXNFV1cyeWItTUpZZHdVRW9kMktpWDh4dk1fQ2FnOWRKckVqdC13Smw2Ni02cmJVTdIBoAFBVV95cUxQTUMxRVFmWWtCY0VXT3V0RHlUNEFzNzJFNzVtNTVwQlNvMF9nZ2xmY2g3Njh6TWVYTWZfYjBkd0tEOXMtZTBMWGRjM0dtYnFWTWM0dkNtSWE2UFhzZmpCc09lQU5WaXlob29ybWdVczZjZkhjbkRUeUdXZ3VtQ1c1LUlmZHdIa2ZBUUZCenZScE9fTFdvZmQxVWdPTE9vR1BW?oc=5</link>
-      <guid isPermaLink="false">8eaa03e6b03c535b</guid>
-      <pubDate>Wed, 19 Aug 2026 17:18:54 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Browns reportedly could trade Shedeur Sanders after latest QB update &amp;nbsp;&amp;nbsp; bolavip.com</description>
-    </item>
-    <item>
-      <title>Andrew Siciliano: How Shedeur Sanders can still win the job - Audacy [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE1hVlRqS2VFZzRwY2lFdWdRN0ZWaFFpaHZFc1g3YXgtQm5NTXJ2amlKTmd6cU1CdVFfeE5TNVpoX3pSTDM4aExBZnNYeE5fbF84bVJWdjZFaVpKUUxhUmgwNDRhRUVYS0JxRlhpRjhKOA?oc=5</link>
-      <guid isPermaLink="false">55f4aac91c671cfc</guid>
-      <pubDate>Wed, 19 Aug 2026 16:05:00 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Andrew Siciliano: How Shedeur Sanders can still win the job &amp;nbsp;&amp;nbsp; Audacy</description>
-    </item>
-    <item>
-      <title>Xavier Hutchinson Could see expanded role following injury to Higgins - Fantasy Footballers Podcast [Xavier Hutchinson]</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOVVp5b1VsRHJDR293aWllYmh4NUdidi1lS3Exc1R6WjRjd0tuWGxCM2pUaXJLRnhrY19sUEgwenB6UWpVWjQwSVo3VGNHdUVXZFppLWxhcGd3WmxCNGdwWkNZbmdwNkYxUTlaRmpxTlFzVlhub1c4V09jZTBrREpSckRWQkkzd2g2QkdZZmZJdkhFd2lMM3F3NHJqenJ0NlJiam5HZHBRS0hzQVIwbjNtR1pLeEJJMEdENFdhNQ?oc=5</link>
-      <guid isPermaLink="false">9b86a606c3862545</guid>
-      <pubDate>Wed, 19 Aug 2026 17:33:06 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Xavier Hutchinson Could see expanded role following injury to Higgins &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Shedeur Sanders Gets $25,000 Investment Amid Browns QB Battle - heavy.com [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPREduOE5tSjdjYnNYd19yNlFlQTF3SEZmZXZ1aC1sTW9sQzgwRWprNG01aTBmSnp4cVZnNTU3blEyMW4yQ1lKMjI2ZWhlcmlfeEFRZU9CNUtOR3o0QnE4blVaU1Q0UkdjQkgyV0pNb0RnRHEzYWVNOFFzRWQ2cEx0QUNPYnFLNG50VktNYzVNOWM5Nm8?oc=5</link>
-      <guid isPermaLink="false">8bdca81f004867ed</guid>
-      <pubDate>Wed, 19 Aug 2026 17:08:35 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Shedeur Sanders Gets $25,000 Investment Amid Browns QB Battle &amp;nbsp;&amp;nbsp; heavy.com</description>
-    </item>
-    <item>
-      <title>Browns news: Deshaun Watson vs. Shedeur Sanders QB battle continues - sports.yahoo.com [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNRTFuZWtFdERWLXRRTkhtTnRQRlpSLUNkRHBJcFBKUlhncWc4R19wUVZmd0ZXNEJDMW1jLWdNbFhXTGZmZHpjYWVkT2NfcmV0RjNfLW9sTUZiTmMzdGx5VzI2N0JwRkNqMGxDM3VqNGprUHVMRWlNVGpXN0hxUFBidnhxNUo?oc=5</link>
-      <guid isPermaLink="false">c3ad45ec5ea8c0db</guid>
-      <pubDate>Sun, 16 Aug 2026 21:07:56 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Browns news: Deshaun Watson vs. Shedeur Sanders QB battle continues &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Jayden Higgins Tears ACL: Fantasy Football Impact On Nico Collins, Tank Dell &amp; Rest Of Texans - FantasyLife [Tank Dell]</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2dibVZFT0EwbXFjWmZSbW1vdjh1RUhBbnBsR25zX2pGN0hGMTBvbUFqNTNwLVVBazlhaTRUV2RaQlhiN1U2R095bUE4UWxGdjBMT0gtRFlPaGVHbHVHVWdpcnlVV1J0M0I3RTVPY3NwQVBFQzk1VHZZSnN1RzNYYWU1bjA0R1Bwa1ZkTkM1Vzh2TlRCazFYcHdzQWNPa0RxVGRxc1BpbjFGc2diS3c?oc=5</link>
-      <guid isPermaLink="false">b536aec27d772d74</guid>
-      <pubDate>Wed, 19 Aug 2026 17:07:03 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Jayden Higgins Tears ACL: Fantasy Football Impact On Nico Collins, Tank Dell &amp; Rest Of Texans &amp;nbsp;&amp;nbsp; FantasyLife</description>
-    </item>
-    <item>
-      <title>“Don’t Know Why We Drafted Him”: Cleveland Radio Host Rips Into Browns Over Shedeur Sanders Mistreatment - sports.yahoo.com [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9HVEU0dVZsZWpsdERYSzgyZUJ2WlNscmYwS21kN3BjeXdEUklXVGF4eVVSNkQ2ajN4aWxjNTRwU2ZFc2hlN28zekFXTFJhNFFRcDhBVF9xeFdXSHBQZ0Y2b1RvZ0pyWDA2X3U3bHh2X3FXaWRGV0t6UlZ2OA?oc=5</link>
-      <guid isPermaLink="false">588fe599ae89e10e</guid>
-      <pubDate>Wed, 19 Aug 2026 16:17:16 GMT</pubDate>
-      <source>Google News: Cleveland Browns</source>
-      <description>“Don’t Know Why We Drafted Him”: Cleveland Radio Host Rips Into Browns Over Shedeur Sanders Mistreatment &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
     </item>
   </channel>
 </rss>
