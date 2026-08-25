@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787644693569"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1787648034855"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 07:58:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:53:54 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1439,14 +1439,6 @@
       <pubDate>Thu, 20 Aug 2026 18:32:59 GMT</pubDate>
       <source>Google News: Cleveland Browns</source>
       <description>Alex Wright carted off field during Cleveland Browns training camp &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Jaguars OT Cole Van Lanen activated after Week 18 injury - ESPN [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNaG5qMmxOMmp1V3Z6eGtVS0t1QzlXUHRURmVLV0N5amxYZXFGTGREb2JFZ0JwLUljT2RKYlNjaVg3MVdORTV0MWdNd0d2Q2ZVX3BGZzlVeGFJaVFlOVBnVXNDVWI3Yl9ETzRsOFEzeFVJWXFxMzRVNEFOQzFxUnlCbFpkMW1BTjZodnc3b2xuSFRULUx3VmxZN0J3NA?oc=5</link>
-      <guid isPermaLink="false">9799c46837448329</guid>
-      <pubDate>Thu, 20 Aug 2026 16:55:00 GMT</pubDate>
-      <source>Google News: Jacksonville Jaguars</source>
-      <description>Jaguars OT Cole Van Lanen activated after Week 18 injury &amp;nbsp;&amp;nbsp; ESPN</description>
     </item>
   </channel>
 </rss>
