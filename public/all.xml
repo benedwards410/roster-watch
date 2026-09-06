@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1788652803911"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1788668908702"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 06 Sep 2026 00:00:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 04:28:28 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
     <item>
