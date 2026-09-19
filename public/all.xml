@@ -1,13 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1789829257105"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1789839021460"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 14:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:30:21 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Justin Herbert, Mike McDaniel and Chargers seek urgent reset against Raiders [Justin Herbert]</title>
+      <link>https://sports.yahoo.com/articles/justin-herbert-mike-mcdaniel-chargers-163433423.html</link>
+      <guid isPermaLink="false">c9bea51634389d5c</guid>
+      <pubDate>Sat, 19 Sep 2026 16:34:33 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>After having to eat &amp;quot;humble pie&amp;quot; following a dismal performance against the Cardinals in the season opener, the Chargers are making changes on offense.</description>
+    </item>
+    <item>
+      <title>Justin Herbert and Chargers seek urgent reset in high-stakes showdown with Raiders - latimes.com [Justin Herbert]</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkhJQTJsQWZNdjdhMzUtUDNRN29zZXRRVnJvTzZzTWVfaHJRRzNLYzlVUmlFcEJUblFJWTRlbTVFWUpKSTZiQmEySkRNV3lSOGJOQ0UzWURRRUdHOF9FRHBOdU0yZ1VQSzNXZ2VGUEFJdE94YUJMQ05FWlRIa3FWNW0xTXo0NEQtV0pGUmJLVFRTbjduelZpVEVES2J4RzFEN2NXdWpLc0dOb0dJY19PS29heXNYaE41c2ctTA?oc=5</link>
+      <guid isPermaLink="false">e039f3d17245e991</guid>
+      <pubDate>Sat, 19 Sep 2026 16:34:33 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Justin Herbert and Chargers seek urgent reset in high-stakes showdown with Raiders &amp;nbsp;&amp;nbsp; latimes.com</description>
+    </item>
+    <item>
+      <title>DC Vance Joseph on facing Jaguars QB Trevor Lawrence: &apos;He&apos;s playing like a top-five guy&apos; - Denver Broncos [Trevor Lawrence]</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPaVYzT2hQdWJwT3dZNjdORXJhRUdWZlNvZkYxV2FTNTVIZlRHam11Si00ZVViQW9TTUY3b1JHMFJSdDdSRi1CY2pCdjRtYkNnLTIyU3JjSHRJUFV6SHV6bWpMR0g3a1FZM0tibDRwRFMwbzMxQVpySTRSSmdaZmZ2TDRNUnhaUnFGVGd5aVp0MkZsR0h4RTBFdzRPaEtkRDVkRzlkX25CcUpwcndVZE1lTVRBQXJOVkVsaTAteFpn?oc=5</link>
+      <guid isPermaLink="false">c8dd42a3a699e6ef</guid>
+      <pubDate>Sat, 19 Sep 2026 04:08:14 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>DC Vance Joseph on facing Jaguars QB Trevor Lawrence: &apos;He&apos;s playing like a top-five guy&apos; &amp;nbsp;&amp;nbsp; Denver Broncos</description>
+    </item>
+    <item>
+      <title>NFL fans call for Dan Orlovsky job after Jalen Hurts, Justin Herbert comments - AL.com [Justin Herbert]</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWxWZUM0VEJPUFdYNExkRnZ1bjBUaWxpTkhNTGszWEstRmZQNS0tY1IySGI2MDFpZDlBQ1kxaW5CWFNhaXdtZWRtMGZDWFRFUU9wWXRsd1M3S1dEaGV3OFhRWmtYVjFBaVhlV0M4UUlvU1lyaVdQV19jMXlMeU1IZzhOMUVDWGtGVDViZWdfR0s2SnYyTW5idXhaTFZGd0NmR3o0Y2V0WV93dUFRSXlNdkh4SlNJU1lwZ1p1aFR2eG10QQ?oc=5</link>
+      <guid isPermaLink="false">969d5af9c171d993</guid>
+      <pubDate>Sat, 19 Sep 2026 16:49:00 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>NFL fans call for Dan Orlovsky job after Jalen Hurts, Justin Herbert comments &amp;nbsp;&amp;nbsp; AL.com</description>
+    </item>
+    <item>
+      <title>Browns&apos; Shedeur Sanders predicted to get his opportunity sooner than expected - Yardbarker [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxQelNTSWhmN01KMVhvdG42dDYzeXFRRU8yamJuVXlibUtrWW9HYzdzWHFZYmhja0ZpS1Z5ckE0UnJEb29RcHI0RVJEVUhoSW50Zzg5M0Etc3dxOHZJTjNfLVRVVi1CVmNMZW9GdVg2VzI5SW54R2x2NVo5M0k2SkZ5aEJvOTBMWFBpNG1sWk1TeGZ3eEJnbHRzRmJoaHVVU01jZGQwREVTVGd4ZmRpTTZNZGdzZnFqY2w4azZYdlFjaXZja2szN1kyTkdod2FWTlk?oc=5</link>
+      <guid isPermaLink="false">30e17bcc0e12715b</guid>
+      <pubDate>Sat, 19 Sep 2026 15:48:21 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Browns&apos; Shedeur Sanders predicted to get his opportunity sooner than expected &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>Chargers QB Justin Herbert Gets Called out Ahead of Week 2 - heavy.com [Justin Herbert]</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc3RNd3ItS0RnM0dNSHBmeEQ4MV82aVpONXVuUzVBd0gxVXBYUVZDVWQ0Y0MxVllFQ3lKM2w3YVExaDdhcXNkMmhwS21VOWE0bGdnRmNxLUNzeEFKeVNsYkFnNGNHelROOTdWR00xNzg4MnVsSW44emQ3a1g2QVczWkdMajZmVnNaZ0RB?oc=5</link>
+      <guid isPermaLink="false">1e64da92e504b385</guid>
+      <pubDate>Sat, 19 Sep 2026 15:49:00 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Chargers QB Justin Herbert Gets Called out Ahead of Week 2 &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Shedeur Sanders could torch Jimmy Haslam&apos;s Arch Manning plan as Browns weigh bold QB switch - Yahoo Sports [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNRHYyOXpnZkFXeDVhZlZSZUtVa0pQMmZ2b2wyT3Q5dUhja1RnLUpnSGJiaHdkOFFlVW5uamYzckRKLWJOWXBpem9TMUVCUzRLQ1BvLXpPRlBWZHRWWWZlRm5iRHFtdE5FZnZncVFrT0FnRTU0VWNBTWxGaVVFemxzUnFuRnpJR01hZ2c?oc=5</link>
+      <guid isPermaLink="false">abf5adbb099e3138</guid>
+      <pubDate>Sat, 19 Sep 2026 16:58:31 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Shedeur Sanders could torch Jimmy Haslam&apos;s Arch Manning plan as Browns weigh bold QB switch &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Shedeur Sanders could throw a wrench into the Browns&apos; reported quarterback plans - clevelandbrownscommunity.com [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNX282OXoxdUlvSkVGSmdDSFNJX0dnb3lYbVhjM0FGSmFYRkVsNE1hcklZbXdxdjdUS0RtQ3RoZ19OZUJLTWVKamF0d2o3S2RHU19tczZBb2dxbDFRdVhNS3YxR19EMHFlZXhsd0NIV0UtTkRxdDhvdFNvNzhsZ1VFU1pNaE13TGFJRHRtV0kyVlF0UHNWWWVSdHZNUnNXT3NGY2VnemROeUNVN2JIbWVCUFRSWEs3M216eEpQT0tYbHhNbDdf?oc=5</link>
+      <guid isPermaLink="false">7c50580754cfe398</guid>
+      <pubDate>Sat, 19 Sep 2026 16:07:34 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Shedeur Sanders could throw a wrench into the Browns&apos; reported quarterback plans &amp;nbsp;&amp;nbsp; clevelandbrownscommunity.com</description>
+    </item>
+    <item>
+      <title>Shedeur Sanders given strong advice by NFL analyst as Browns ride with Watson - the-sun.com [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPZXljenRpRjZteXJTMDc0UjFReUhXU0hiQ3VOLTlhd1pGbnlzci00MHNCaDAtNFRpdTBwWHRJa3YxNU42b093QTRBU2plRmJXT0dPZG4wYkI4QnNyZ09kZng0bnV2SEhhaFlvZjd6NHdtRlVHbW9xWVRYb1BaS3hGZVZEMTF2cTY1ZlV1V3Vqd2RSQ19HdzhBOTllR1Q5VU5QSkE?oc=5</link>
+      <guid isPermaLink="false">22f062624d2810d2</guid>
+      <pubDate>Sat, 19 Sep 2026 15:31:07 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Shedeur Sanders given strong advice by NFL analyst as Browns ride with Watson &amp;nbsp;&amp;nbsp; the-sun.com</description>
+    </item>
+    <item>
+      <title>Trevor Lawrence Week 2 Outlook for Fantasy Football (2026) - rotoballer.com [Trevor Lawrence]</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGNuMmptLXV2MzdQMjNnLVJ5UFhvWjExN05jUjU3MHJqUmM4dFA5SzlJeWlBRk0tTHp5TkFkTzhIUUtWZEdCOFZfb1NLMzlQdWN2NWFnajVHdXR1VTdqeDl0MlM1cTdabF9lYXlWZnlMdlZISFlxT2VSdHhpcnVwQUxTNEVUbWhaSzZNY2hLNHpKZ0Q2RDNFNVhR?oc=5</link>
+      <guid isPermaLink="false">5b169723ac243863</guid>
+      <pubDate>Sat, 19 Sep 2026 15:43:14 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Trevor Lawrence Week 2 Outlook for Fantasy Football (2026) &amp;nbsp;&amp;nbsp; rotoballer.com</description>
+    </item>
+    <item>
+      <title>Who Should I Start for Week 2? Matthew Golden, Davante Adams, Travis Etienne Jr., Michael Pittman Jr., Ladd McConkey, Cam Skattebo, Wan&apos;Dale Robinson, Jonathon Brooks - rotoballer.com [Travis Etienne]</title>
+      <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxNcHJHakRLOF90ZjNQUTFtNVJwTmZTdDYyUkVscG1JdXRsMEhaQkNZUVFfMXBXT3ZvZ3M0cVlFOV8wV1BhYk5QOXhhc3AyQ0hoSHJWMGJXZzNBV2NXd011RWZoNW5sS2JXdE05eDJzR1l0SVdUcnRyZm9ZV25lSFdRTVFsNlpMN2R5M3pGWE1jQXMxbDJqWXBhS1JLYWxFTWNxZXZiSXFvdkk3T1ZoTTllYmJOUWoyeHUzRVZGODJaQWVVc0w1REEyNmZ5U0RvN2thbUhTX3c2eFUtQWJyYVViSlBia2trd0RsZ1c2d2NIa1lBQ0tVajlwTTBTQVlEX1NxYnNhTlljMHVPVGhkN1p4Q0pPaVhweUdVWHc?oc=5</link>
+      <guid isPermaLink="false">b09feee819bec1bf</guid>
+      <pubDate>Sat, 19 Sep 2026 14:55:31 GMT</pubDate>
+      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
+      <description>Who Should I Start for Week 2? Matthew Golden, Davante Adams, Travis Etienne Jr., Michael Pittman Jr., Ladd McConkey, Cam Skattebo, Wan&apos;Dale Robinson, Jonathon Brooks &amp;nbsp;&amp;nbsp; rotoballer.com</description>
+    </item>
+    <item>
+      <title>Germie Bernard Set for larger role Sunday - Fantasy Footballers Podcast [Germie Bernard]</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPYW83WE9jYzFrbXZjbnFxQkw3ZDhfQklWb0F2VUh3a21BUGF6aEhzWHJJSnBpSXpTUF93VFhtV1BqcWhQNGZEb25sMWg0MG5fR2U0N0pOOGVLNEpJcGxKcjJVVUtyU3ZIcFpCbkxqU2lxTGhVZWthSUM0NzlnRkJCQU52V2tKWUY5MVlSd09keVQ5di1UR2pv?oc=5</link>
+      <guid isPermaLink="false">1f23b75cc80bd6c3</guid>
+      <pubDate>Sat, 19 Sep 2026 17:24:16 GMT</pubDate>
+      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
+      <description>Germie Bernard Set for larger role Sunday &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Steelers&apos; Germie Bernard: Set for larger role Sunday - CBS Sports [Germie Bernard]</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQZk1pNU92cEFFcm1aR1VXWlV4c3AzRGZMd2xaUHBSMWItdG5seUxhZ2dtOVdnYTFockdEMkt5X181SFpvOF9IbFVmSFM5TndXYlpLLUNFZzNlT1ZvS2lQQWNmZ0V1am5WalZMWERzMFBBWjcxOEVhOGcxcFR3NlNBVEc0VUlXTWVWeU5lbGJQRGlVZ0VnSE8wMFJXakpJWC13?oc=5</link>
+      <guid isPermaLink="false">a1403d46bdb451c1</guid>
+      <pubDate>Sat, 19 Sep 2026 17:19:36 GMT</pubDate>
+      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
+      <description>Steelers&apos; Germie Bernard: Set for larger role Sunday &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Jets Are Seeing Signs That Mason Taylor Is Ready for a Second-Year Breakout - si.com [Mason Taylor]</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1RERGhtSEJaQm1rNHBrdDhRNmxKNUgxMzFfNXl2Vk45MWFJOVUzQU5OcTVBS0tZeFJkN2hrVUlCRE5MV0ZpbGlFUGtqS2hzSnVYSzd5d2RmeHpZYlJtZ0JJQXV0VWVUYnVNeGtta0JVQTZRWXNaOW9qWlltcG42b29LM2tGTldRZnBjN19SY1ZsUS1hWFJsSGpFS3U5b0hmTlplUzlYV1VtWHU1?oc=5</link>
+      <guid isPermaLink="false">7efa62d92f045372</guid>
+      <pubDate>Thu, 03 Sep 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Jets Are Seeing Signs That Mason Taylor Is Ready for a Second-Year Breakout &amp;nbsp;&amp;nbsp; si.com</description>
+    </item>
+    <item>
+      <title>Gunnar Helm Week 2 Outlook for Fantasy Football (2026) - rotoballer.com [Gunnar Helm]</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPYVBLeVljZzJWSFVKd2lTell3MXAyS1hUQVEyN1JSWi1QOTA5YWxzNkdoWnJwaktKVzlPVGk2MEdGTEM3SFM4d2wxZHdwVmFKbmRuamw1aGlfZXQ2VEU2NkF2c2ttdFZraHUwMWQ4WWFaeGszMlNqU3VzaW9lZzd0M1J3VE13MTJ6VG5GWHhNazNycG5nOVFkQ0lKZmtMdV9sUnBoVA?oc=5</link>
+      <guid isPermaLink="false">a0ab0da51220568c</guid>
+      <pubDate>Sat, 19 Sep 2026 09:05:09 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Gunnar Helm Week 2 Outlook for Fantasy Football (2026) &amp;nbsp;&amp;nbsp; rotoballer.com</description>
+    </item>
+    <item>
+      <title>Jake Ferguson restructures deal - Yahoo Sports [Jake Ferguson]</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQV3VlaUVzOXJJSEhFMVdYUkVXeXI3WkdPcWpGaXZsazVCWnBDdHV3REZtdmQ1UGVPNjRaMXQ3TVpDSUxMallZbjFZVVpsQzdLc09IQWE1WHNFWGE4RW5hYlVxYUJhYnFEZ0FOMmN4eFYzSzdpU3N2cU95eE9PU1UzVjNjVUVRdE0?oc=5</link>
+      <guid isPermaLink="false">20038e11b5634359</guid>
+      <pubDate>Thu, 03 Sep 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Jake Ferguson restructures deal &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Kalif Raymond or Jake Ferguson - FantasySP [Jake Ferguson]</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE15UEZQTnowaUVJc2ZQMmpUQXJlUjJGU1djNzFrOHo5QUpKYmJpMkNveF8xSW5VZFgzbnNKVW5IRk1scXJNdXVqUGZWVkVHRHR4YWVfUTNZVWkzSWlEOXNoYXpXSnZ4Q09FVDZCOGZJLU5GU1hGVXIzeERFZHBudw?oc=5</link>
+      <guid isPermaLink="false">b5636838f6a5cb15</guid>
+      <pubDate>Tue, 15 Sep 2026 14:56:22 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Kalif Raymond or Jake Ferguson &amp;nbsp;&amp;nbsp; FantasySP</description>
+    </item>
+    <item>
+      <title>Justin Joly Stats, News and Video - TE - NFL.com [Justin Joly]</title>
+      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sdzV2Z3FtX2k3TllXTWxKX0ZKQUM2dm9faFlzNDZJU3luX0E0WnlLVHQtVmVzNjl3RHJrZW5PZzNHNmNLNEdBWTU5ODJUdFRZSVE?oc=5</link>
+      <guid isPermaLink="false">84e747002c9bd8af</guid>
+      <pubDate>Sat, 25 Apr 2026 20:07:39 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Justin Joly Stats, News and Video - TE &amp;nbsp;&amp;nbsp; NFL.com</description>
+    </item>
+    <item>
+      <title>Broncos select TE Justin Joly with 152nd-overall pick in 2026 NFL Draft - Denver Broncos [Justin Joly]</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2VZbUlxYTl5amo3ekVGeDNOU29XTGV6Ml9NcWpDLVJlNnFmNmJmUTFRTmpScHY0UnJUeW1kbTlLYkZyUTdDeWpOeG9NWDhfZTBpUFV1ci0xSnVaMmhKUDJRTk9KWEFweUxsenhtUTUzSG5HNjBTR3paNnhwVm53TkJOQXFydVQ5UzZvZEVXanhhTkF3T3ZSd0t0OFpwNFJ5TEFDZzFwXzVJQQ?oc=5</link>
+      <guid isPermaLink="false">7f9b5d4b1576e7c4</guid>
+      <pubDate>Sat, 25 Apr 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Broncos select TE Justin Joly with 152nd-overall pick in 2026 NFL Draft &amp;nbsp;&amp;nbsp; Denver Broncos</description>
+    </item>
+    <item>
+      <title>Browns Add CB to Injury Report, Elevate LB to Active Roster - heavy.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHV1ckQ5S3JpeUFrYVBwQjJTdHNJcEJpcHZKQWpRSUZxVW51RV9UN01QRHluZ0ZtdTNhYnBXc3JOWHI1RzI5cDRDTUYycU5PVVJFdXdNcTduZGFpUXlubkxMWV9TTWdBaGhrWkxLUUVUb25QWDhGclRHN2NRM2cwdnBJbmJFaFAzQThxeXdlb0RkM1lpNHVmOVpEV1FjelFzRHFycFVsM0pZZWNzNGtCOGtsVEdRMDRUeXc?oc=5</link>
+      <guid isPermaLink="false">c9626e8613cca555</guid>
+      <pubDate>Sat, 19 Sep 2026 17:19:49 GMT</pubDate>
+      <source>Google News: Cleveland Browns</source>
+      <description>Browns Add CB to Injury Report, Elevate LB to Active Roster &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Browns elevate LB Nathaniel Watson from the practice squad - Cleveland Browns [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFJHVTAtYVRNSHlMVW5BMWJIb0FEaXB4Vk53N0xjeVBpdFlSTVdObEZENUo1ZjJHSHpGTko3d3NqVWtiUnJpWEdWbXBDUmhHaXF2ZTBiUUtQU1cxQjNoVVc1Nkhid3piUzZoSDF6TTJMR0E0c1JjTVRwM0haODV2RUhxUWdDZlA5Ty1WaGtpbS1fOVFkLUw1NGUyQQ?oc=5</link>
+      <guid isPermaLink="false">b7f1a7d13d3fd869</guid>
+      <pubDate>Sat, 19 Sep 2026 16:36:25 GMT</pubDate>
+      <source>Google News: Cleveland Browns</source>
+      <description>Browns elevate LB Nathaniel Watson from the practice squad &amp;nbsp;&amp;nbsp; Cleveland Browns</description>
+    </item>
+    <item>
+      <title>Max Brosmer Has a Real Chance to Be Promoted From Vikings&apos; Practice Squad in Week 2 - si.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEwwLWxSNEJfQTM2UUE3R0RCeTRHNVZZNUF4YXVvQ1ZBaWR5V0Y2TnhvQ1hMeFNQMmdwLVlFTkIxQ0FneE1wWW54WnhTTTRHcE9HQTQtSm9kZXB0UWlsMGdFQktqV1p0WF94TUpTSFNWbl93V1R5MWpiUTAwWDh3TTFGZHR4VFg3aXF0eG9XbUV2MkxLeHpmRnhMREtnUkJYVDVHbVJCS2NUR1hTdXFUQw?oc=5</link>
+      <guid isPermaLink="false">02f10b1c1624d56b</guid>
+      <pubDate>Sat, 19 Sep 2026 15:00:02 GMT</pubDate>
+      <source>Google News: Minnesota Vikings</source>
+      <description>Max Brosmer Has a Real Chance to Be Promoted From Vikings&apos; Practice Squad in Week 2 &amp;nbsp;&amp;nbsp; si.com</description>
+    </item>
+    <item>
+      <title>Vikings at Bears NFL Week 2: Jauan Jennings final injury report update - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE84MFhpcWpNUTRqalM3a0VtdTlKWWRFcmVjczNuNW4xbXQzeDBqVTFXbXdxcGo4dDZIam9QUWpuZnhTVVBmNURYd0NiWEd3Qkp6cVJ2RDRiT0kxbWd0elNsUkh0QWdCM1pzdmVOQ1hLSERFdXpjMVpMaENLSFRaUQ?oc=5</link>
+      <guid isPermaLink="false">aa9f94ec24685768</guid>
+      <pubDate>Sat, 19 Sep 2026 16:30:38 GMT</pubDate>
+      <source>Google News: Minnesota Vikings</source>
+      <description>Vikings at Bears NFL Week 2: Jauan Jennings final injury report update &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Photos: Travis Etienne Jr., Louisiana Dental Center present donation to LSU School of Dentistry - New Orleans Saints [Travis Etienne]</title>
+      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZHBBYTFsS3dnc3hOU1NTcTY4TVdkSmI1Zm5Tdy0wc3ZEcTVOc0o4ZUI0Y0xsX3htNkRvSVY5V2JYMTZqR1Z1a3RSRXVzamVVZ2RDTnl1VnFCal9qQy1MOWlFZmViNDNKT3plSm84YWx4NnFRTnRpRHlZXy1MbnZpVXhoODdNZkRDYzRraUduWFVidklWV3BzZDhSYmNxNkNFOFZkQ19MdS1TZ0ZEY1plME43Ql9iZFJXcnM2NUlIVlJhSFJBSzVxRzdfdF9qQnh0N2d6ZkpqWC1kdmRoY19J?oc=5</link>
+      <guid isPermaLink="false">12c7d15ac2005937</guid>
+      <pubDate>Fri, 18 Sep 2026 15:29:21 GMT</pubDate>
+      <source>Google News: New Orleans Saints</source>
+      <description>Photos: Travis Etienne Jr., Louisiana Dental Center present donation to LSU School of Dentistry &amp;nbsp;&amp;nbsp; New Orleans Saints</description>
+    </item>
+    <item>
+      <title>NY Jets WR Omar Cooper Jr. lands on injured reserve - Jets X-Factor [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaU4zX1pKdnFVSk5hMzRiZGFEdU5VcU82SFJBSGJtUGxJQV91aWNEWXI4eHNZRXZTck9PdnRUTmdWMC1IZ0RWWGw2SkJ2SS1abmpTSDZkQ1doaDQtS09ZV1ZsZU5LLW80d1dWSW55ZUw3QjZDQUdZZ1FfMUVna3F2dXhzczRGTlVrdzRB?oc=5</link>
+      <guid isPermaLink="false">43038dd98a7b025a</guid>
+      <pubDate>Sat, 19 Sep 2026 16:37:24 GMT</pubDate>
+      <source>Google News: New York Jets</source>
+      <description>NY Jets WR Omar Cooper Jr. lands on injured reserve &amp;nbsp;&amp;nbsp; Jets X-Factor</description>
+    </item>
+    <item>
+      <title>Jets rookie WR Omar Cooper heads to injured reserve with high-ankle sprain: Source - The New York Times [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0I3WHJZWkZkMUZDdXJpZ1VZT2JickQ4QUdXLXpEMWhPQkdtTDB4UDVCQXNJQkpicUNBN3RYa0ZEb0pxdjZHSGMyX3N6ZUdiVU5fdjU0Yk1nUlVNVGpzczlhRW5aX3c3NXlRVm5feG9YUVRfd2I1c3Z3c25uVERlOUlVaDZDN1daZnljM1NB?oc=5</link>
+      <guid isPermaLink="false">e792b4c4ec0c45d0</guid>
+      <pubDate>Sat, 19 Sep 2026 16:59:59 GMT</pubDate>
+      <source>Google News: New York Jets</source>
+      <description>Jets rookie WR Omar Cooper heads to injured reserve with high-ankle sprain: Source &amp;nbsp;&amp;nbsp; The New York Times</description>
+    </item>
+    <item>
+      <title>New York Jets Place Receiver Omar Cooper Jr. on Injured Reserve - Athlon Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHhHT0JVR3VWLXFDSnAxSFM1MFJqQWZ5N1UySGZMODNTS1N0bkluZzRiZEswRFE5MVI3dE1XM2xINHZqbk5YV2tyRVVld3h3MUwyMk15aVF5S01BV2w4Y2lsWUdselFJa29ZSDRWbG5jSGtpSFFpNW92MWNka3hhcldFbHNhNlVYTlE?oc=5</link>
+      <guid isPermaLink="false">2258a8a7c24a62dd</guid>
+      <pubDate>Sat, 19 Sep 2026 17:26:12 GMT</pubDate>
+      <source>Google News: New York Jets</source>
+      <description>New York Jets Place Receiver Omar Cooper Jr. on Injured Reserve &amp;nbsp;&amp;nbsp; Athlon Sports</description>
+    </item>
+    <item>
+      <title>Philadelphia Eagles at Tennessee Titans odds, picks and predictions - Detroit Free Press [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3RweDVzSmUyUzlwZFRqT0FtaEZKZzFMbThja09IVTdFamhmdFdFUld5MmVndXBvc1pHU3dfTkpDdkpkTXkzXy15RVJ4cy1wMDFnM3p1ckg3Q0NUQTlnakNrUVByYWd2YlFSWE1FM0pTUmU4SERlYUlLT3Y0LVlEb1lVWEd1QUJOcW5Sb19EUm5oSlpZMHJYbEZIaXotSXdoaHl6ZkRlX0Y3Zw?oc=5</link>
+      <guid isPermaLink="false">8a21882063f67cec</guid>
+      <pubDate>Sat, 19 Sep 2026 16:36:00 GMT</pubDate>
+      <source>Google News: Tennessee Titans</source>
+      <description>Philadelphia Eagles at Tennessee Titans odds, picks and predictions &amp;nbsp;&amp;nbsp; Detroit Free Press Eagles vs. Titans Best NFL Prop Bets and Anytime Touchdown Scorer Picks for NFL Week 2 (Fade Cam Ward) &amp;nbsp;&amp;nbsp; si.com Eagles-Titans Final Injury Report: Jonathan Greenard OUT, Andrew Mukuba questionable &amp;nbsp;&amp;nbsp; Bleeding Green Nation</description>
+    </item>
     <item>
       <title>Fantasy Football Start/Sit: Trevor Lawrence, Bhayshul Tuten, MarShawn Lloyd - FantasyPros [Trevor Lawrence]</title>
       <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3V4cjBkTUNyNkhsckdlalcwWDVGWWRuOEQwd0JnOWNMc000NmNZbzV0UUVsWnQyX0UzLVplX1BhQ2FsVFhrRXpCOGluOHZWRm1tbEhLV2hySzRaYkZtdzk4Zk9wakNzZEdnR1RteU1fMFJfemkzaUdfQks1Q053c1hFSjJkdkVTOVYzTWhYNjJEQ1JOZ0x0UjF2dTdNQzFCR1czZnM3a0dqZFVJOVHSAbMBQVVfeXFMTnRHNExYSld5STlhQ3U4c1g3QzVpN3F5Njc5Mnh5RTJtOXBOVmxySDZIM2tNRnkydXl3OFFLMXZ0QXVkVmxqX3RsUkwyMWJMQ0VESGNqLXNna2pRWHN1U3dzOGREbTRjTERXNnBKeDhycjdZY1lMM0FqVnkxTjZFeV9ESldMcmxDTlFfTDUxWEoxWGw0OWFBUjJ1eXNpLWd5X2pKa1M0RHhQaVR4NXNsOXdwRUU?oc=5</link>
@@ -9383,230 +9607,6 @@
       <pubDate>Mon, 14 Sep 2026 00:30:00 GMT</pubDate>
       <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
       <description>Justin Herbert&apos;s Fiancée Madison Beer Steals Spotlight Amid Chargers&apos; Brutal Collapse &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>NFL Weekend Review: Josh Allen&apos;s box office finish, Trevor Lawrence&apos;s MVP contention and Derrick Henry greatness - Sky Sports [Trevor Lawrence]</title>
-      <link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcjZpM3FINEwwQ3NLX3QxdGtaVUNhajZhMXdmanh2OVhmcWdUU3RDQ3R4dU85TWx5X2E4d042eXRPZTlzRkVLdktMZ2hWNlBFeXctclY0dUw4aHBubTBJUlFfU2VTUEIzSGs2Qi10WGV5dExlTTRDRXF6ZWRlaEp5QXd0VWhvUHM3RXRvMGozSzFLREJpZWttaW9CTWN2NGJDczYwYnl2TzJYeFA0TW9QRHNvTFN2eTdmTE1HbWR6NkhuaDh6NG5xN29CT1d0d3ZYc0wyWlYtUjBmYTFSSk5RRnpyT1N6c3RFbUI4Y21ncw?oc=5</link>
-      <guid isPermaLink="false">5236953b73c4278b</guid>
-      <pubDate>Mon, 14 Sep 2026 00:12:05 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>NFL Weekend Review: Josh Allen&apos;s box office finish, Trevor Lawrence&apos;s MVP contention and Derrick Henry greatness &amp;nbsp;&amp;nbsp; Sky Sports</description>
-    </item>
-    <item>
-      <title>Justin Herbert makes NFL history in Chargers’ season opening dud to Cardinals - New York Post [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNZjFidzAxdUhETkh1SjNELVc4RHp3Y1A0LXZybTNpR2RaaVpLS2pwNjJHTzQxcEQ5a0NtNl9RRnFBSVZGQ3pIazVWcVBYb0FzalZIMUZwZTd2MXZVRTJQd2F4dEtfaXFmMUl3by1VZUExVl9CVXpIUDR6UnlBeFFZeGFkQXZFQVdPd2dBTl8xVWRSSllVTmQ4?oc=5</link>
-      <guid isPermaLink="false">45e2560d6b957861</guid>
-      <pubDate>Sun, 13 Sep 2026 23:35:00 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Justin Herbert makes NFL history in Chargers’ season opening dud to Cardinals &amp;nbsp;&amp;nbsp; New York Post</description>
-    </item>
-    <item>
-      <title>Trevor Lawrence and Caleb Williams headline the late NFL Week 1 slate - dazn.com [Trevor Lawrence]</title>
-      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUJnUzktNkVMWFB6N1ZNN1ktVVVNTlJsbmV2MUVNMndwbHByZG9WN1hfcmFwWjR4LTJXSEhjU2hZc1pKVkE1Qk5CQW15RXphM252R0syaGVnTFM4V2p1RkJveGV3Qm9NWEY0VU1GdTNSNi1PeEM3ZmRjY1JuZVZ0SXY5dVVjUHhzclBhV216MjBRWUYyci1QdVpYTFNDc1BvdHNMVWhrVlNUamphamk3N2dtQk54VlBiTzdyUWZwS2VoUkNrRFg2NlNBVHAyQVgwako3VEM4SDcyNW5vYnNaeQ?oc=5</link>
-      <guid isPermaLink="false">f8e3e1808d663395</guid>
-      <pubDate>Sun, 13 Sep 2026 20:39:23 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Trevor Lawrence and Caleb Williams headline the late NFL Week 1 slate &amp;nbsp;&amp;nbsp; dazn.com</description>
-    </item>
-    <item>
-      <title>Javonte Williams Reveals How Cowboys&apos; Offense Can Improve In Year 2 With Brian Schottenheimer - roundtable.io [Javonte Williams]</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUHdDYTV3Q182U05oN0Z5b1dtLXVTWDlYTVdVS1dqanpjRTJlcXlpZ2xMYzZONklUUk1fOUhFdEJPbEprbWg3Mkk4MF9KWWJ2cDIyYWVHTl9USTBJYTYxMUlfY3VDX2ZRNVZPX056bWx1akx0b2xnaVdVSEhJZE1DVVFEaEZYNG9fTUNweEhGT0gxajBwMS1rcU9xSDVkd0lUMEN1djRyeFNMMDVaWEQ3dWptbl8ycTZsWmcyOUVfTmt3VndaRHlpRzF5eVdDcFhiTjl0eQ?oc=5</link>
-      <guid isPermaLink="false">b36e0af074eefca1</guid>
-      <pubDate>Sun, 13 Sep 2026 21:11:05 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Javonte Williams Reveals How Cowboys&apos; Offense Can Improve In Year 2 With Brian Schottenheimer &amp;nbsp;&amp;nbsp; roundtable.io</description>
-    </item>
-    <item>
-      <title>Does Justin Herbert Belong in the Elite Franchise QB Conversation? Stream of National Football League - cbssports.com [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPX01pUV9Od212TlE1bkk2QlV3b2E2eWZDVkVyVGRhTGNkU2xVb3VPMElDWjl5WmFwaEpPaXFueGFYRmU5NkhMNXpoMVdZSWI1YkMtMzBSeU5QQzlnRVNsYkN3UHdlVl9UVFBkbldHWXQzSEVlTjRSNnl1TUFLbUVWcXN4SXNFUEVVZ2FuV21CaGZlYU4xR0xjNTh0MmN3Y2pTWGdYUWtCYkxrUlBaemU0XzV4NnNpalhMZ05uNVJNNVpBcHlWX1E?oc=5</link>
-      <guid isPermaLink="false">85f6036c764d4ead</guid>
-      <pubDate>Mon, 14 Sep 2026 00:07:56 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Does Justin Herbert Belong in the Elite Franchise QB Conversation? Stream of National Football League &amp;nbsp;&amp;nbsp; cbssports.com</description>
-    </item>
-    <item>
-      <title>Trevor Lawrence Shines in Jaguars’ Blowout vs. Browns - flteams.com [Trevor Lawrence]</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUGFzWVg1LWRYTGJVT2dlSW5qZEViaVVMbUlWTVNaTmtaNUtzQTZ1UktaZ2tKZFlKWldCbUVwMjc3cXE5TU90NXBKUjVnWWtkWFM0VXBGdTdHS1NkSUl4aDl5R3pBSjZZd1pPOXd2bFIxc2xueldUOVVHV2VWVUJTbkhiYTZIdVMxTFRJ?oc=5</link>
-      <guid isPermaLink="false">9c1d1ce2c521feb5</guid>
-      <pubDate>Sun, 13 Sep 2026 23:29:59 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Trevor Lawrence Shines in Jaguars’ Blowout vs. Browns &amp;nbsp;&amp;nbsp; flteams.com</description>
-    </item>
-    <item>
-      <title>Madison Beer’s viral reaction to fiance Justin Herbert’s TD at Chargers opener has fans talking; watch video | Hindustan Times - Hindustan Times [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMihwJBVV95cUxNNDBxUTNrQWlUS3R1NVhoRXN6dWFPdHZEZHk1T2QyVzNMM3RSVzk5eEJrOE9CYmdqZGFMUllQTWZ2VTF4aUhCNjhZNVJfek12dmFsMmktU2JlQ2c1aklicDgwODVyN2JJSVZfdUd2RkRLajlKUW5aYzZ0MGtNZ19UUkwyVk82R05zSzhJOTZFOEd6cm9lSldoeFFFcnNfR2NyX0IyOTMyR1ZHVnQ1a3BoUTlTaVdGMFhpbTRRTjg1Q3ViTU9TcENSNXE5LURrXzR5NmlaRXVlOUtHdHgtLVVsSGswZFJ6UzI0QllUN0YyeFB2eDdxdVlmdzNQTzBjSDlaZFlGSEtCQdIBjAJBVV95cUxOeDRqX3hkbjRHbTZ2b2lFMTBQRExOZTVQd2pNa0dtdnB5U0dhZ0JTcEd2VUllREJIaFpJZWJzNm81UmN5ZWFuRU4zY0M4cVlZTmFFc2s4VF8ybEhPVzA5ZElDR1dIN1BuOTdoM0lWY1JiMlc2R1lwdDYyd3JaTU9GRXZGTjd1dHJDcExmOEpLUUhFQVpPS3hDZlFRUl9PYll5c0R0Z29mZHhVYnJXVUV1X1R5WG51YjlzbVZtSWhZSUpEWGZodmFfeFZ5cXJoelNFNHNaX2l5RkJQNGJlREpCWWFjR3p4YWRjSmRFaDllUXdQMlhuVDNvSXZrUEhzUVl0eXlMVnkwRkU4Wkxh?oc=5</link>
-      <guid isPermaLink="false">447d3254d81bafdb</guid>
-      <pubDate>Sun, 13 Sep 2026 23:01:20 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Madison Beer’s viral reaction to fiance Justin Herbert’s TD at Chargers opener has fans talking; watch video | Hindustan Times &amp;nbsp;&amp;nbsp; Hindustan Times</description>
-    </item>
-    <item>
-      <title>Madison Beer Faces Unnecessary Backlash After Justin Herbert’s Poor Showing as Calls Mount for CBS to Pull Her From TV - Yardbarker [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMihgJBVV95cUxQUmhpcUVWN1NUWGx6Qm1uVTVEVDVzYUVmTVd6VnBFZHdlU1ptZTd6MXRYc2ZMazZHRFBYX3VCcHBZaG1HMlo4T0RSV2VadER2VnNDNHk0clFRZXRTZktZN2JsQ3lYbFFRR3pXdWUzc0dfbHVQSEpZcU9pc1VVclp4SW85TWlnVFl5M09mc0J0MzRUQnhTdUM3OUNaczR1THE5YUNqdlpRNkhxenE2UF81a3B2ekxZV3NSSWppb01pZjJZaU02d0M0VmhfdWc1ZVV5WEs5WndWWEMyV2dyOHdKYjJ5WDFmYkd2LWhpQlZnbkJWWXhYaXJ2a25fSnhwYlp4SlJURmFB?oc=5</link>
-      <guid isPermaLink="false">7316ca976748930e</guid>
-      <pubDate>Mon, 14 Sep 2026 00:13:05 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Madison Beer Faces Unnecessary Backlash After Justin Herbert’s Poor Showing as Calls Mount for CBS to Pull Her From TV &amp;nbsp;&amp;nbsp; Yardbarker</description>
-    </item>
-    <item>
-      <title>Jets-Titans Highlight | Adonai Mitchell Makes Strong Diving Grab Along the Sideline - New York Jets [Adonai Mitchell]</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNakxSVW1YLXQ2ZE84c2tpUVV3NUhhMl9iNUFDLW1QbUFXWTBmWnV2bUptZXBFUkZPVFk0MG0wWEhpanZKZHZESTZ2QVJJN19OMlN4RVJjVWZmbWtaSHBLTk0wandYN1A4dE1kcHNnUjRHNjdTRzNHN0Z4d1NoNU44QjRWWUgtNnR6UzB3VnlvVEJuVGRKckJDVVVHSzhSNWdBWGhxdEQycThuNDlLVFdzbHR3?oc=5</link>
-      <guid isPermaLink="false">8c6969ae78da7969</guid>
-      <pubDate>Sun, 13 Sep 2026 21:01:22 GMT</pubDate>
-      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
-      <description>Jets-Titans Highlight | Adonai Mitchell Makes Strong Diving Grab Along the Sideline &amp;nbsp;&amp;nbsp; New York Jets</description>
-    </item>
-    <item>
-      <title>Travis Etienne Jr. racks up seven receptions - USA Today [Travis Etienne]</title>
-      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQkFIeF9NSHFsQWIxQkdlYlRvcFJVSW9xdE84aXlvb25Zc19NV05fM1Y1d0lNdExmcjdqTzFaUW9xcWV0VEg2T3dtWWphU3FkSTY4ckdxeWtPTEtESGFkNlhwaGdLbTgyU2M0VTFwekhoV2NCV2VRWkNqc3hyRUt4REFzWl9DajBHR1ZpYTJPLTJ0MUhwNzU1Z0h0NDFONmtQLURuZVdYMGlZZlc1cTVOekxsZ2pBUkctNzFEc0N6YW9iZ19MQ3FfejU4WkpXc1BEZnc?oc=5</link>
-      <guid isPermaLink="false">273b3906ca7655a9</guid>
-      <pubDate>Sun, 13 Sep 2026 23:46:00 GMT</pubDate>
-      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
-      <description>Travis Etienne Jr. racks up seven receptions &amp;nbsp;&amp;nbsp; USA Today</description>
-    </item>
-    <item>
-      <title>Travis Etienne Jr. racks up seven receptions - AOL.com [Travis Etienne]</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9SN0N5amxfeFl2QjdhMlk0T05wS21ZUmtRWWhOOVI3aGNhekYtNGZiLXlNSERldEItWWY3Nm4wbWVOTU5qTndYR01wZV9mRVFZLVBfd2s3MWREb05Sc1ZYaFFXOG5GWTg3NmEycERKOXFCYlJfdnp1TFBZd3RiQQ?oc=5</link>
-      <guid isPermaLink="false">827e7411c3cb5829</guid>
-      <pubDate>Sun, 13 Sep 2026 23:54:17 GMT</pubDate>
-      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
-      <description>Travis Etienne Jr. racks up seven receptions &amp;nbsp;&amp;nbsp; AOL.com</description>
-    </item>
-    <item>
-      <title>Justin Jefferson Ties Randy Moss for 2nd on Vikings Receptions List - Minnesota Vikings [Justin Jefferson]</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzBlVlpNSm5UVXBZS012WThPX3V1TkZmQ2lsNFZTc3d0ZkNDU0FpV083c3kybkVJZGxBVUU3SV9TM3daaTBZZ3BaR1h3T2IwZHAtTnRaaEtTd1NrTDA4MGw5T1ZBTW9iVmtyenJaUnNaZHI4X3huSWRtWGdpeWNFSHZB?oc=5</link>
-      <guid isPermaLink="false">86942b87d501723a</guid>
-      <pubDate>Sun, 13 Sep 2026 23:55:48 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
-      <description>Justin Jefferson Ties Randy Moss for 2nd on Vikings Receptions List &amp;nbsp;&amp;nbsp; Minnesota Vikings</description>
-    </item>
-    <item>
-      <title>Carson Wentz finds Justin Jefferson for a deep Vikings TD - ESPN [Justin Jefferson]</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQWHZ0WEpRNzdSZHVXdzFTNmZFc0Exb21DcDFaUGtUVnlXeGIzcEUzdGpuY05QRXp3d0JRSHRKSHk5SVoweG4zejVZSm9tVkRKQU9ETmc0eEFSeWJhRktidnJGcF9HVWF5bkw5QjE2cHozT3had1NfYkRXLTY1SlppYjdyNktwVi14em5nLXZFZ3Q4ZWJ0TXRZZlpfajVYQQ?oc=5</link>
-      <guid isPermaLink="false">1305f2d79aa06abc</guid>
-      <pubDate>Sun, 13 Sep 2026 21:56:25 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
-      <description>Carson Wentz finds Justin Jefferson for a deep Vikings TD &amp;nbsp;&amp;nbsp; ESPN</description>
-    </item>
-    <item>
-      <title>Justin Jefferson Two TDs from Wentz after Kyler exits - Fantasy Footballers Podcast [Justin Jefferson]</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOYV94TjRsTGhSQ3pIY2ZHWWNUZ2VRZUFoWTU0ZnNJWllNUkRTZ1JhY0lOaHNCY0loeDRUNjkzRkxfN3RxWFdKN2JsdEdjWU9sTUhXWjZGcEJua3VXMEc1S2JrazJDTERKdFRBemdlQVAzRmVLZ1ZpUnRRUVp2dzBoTUkyZU1BMzNZc3ZXVmFWcFE5UXV6UHl2VC1YaWRzeHVuaUFuQXRudw?oc=5</link>
-      <guid isPermaLink="false">416e3106b37c12c9</guid>
-      <pubDate>Sun, 13 Sep 2026 21:27:15 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
-      <description>Justin Jefferson Two TDs from Wentz after Kyler exits &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Can&apos;t-Miss Play: Pylon-reach TD! Justin Jefferson goes airborne along the boundary for snazzy score - NFL.com [Justin Jefferson]</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUJKc1g3THVKUTJ0OTh2eC1ERVRXSnhmWWt4eHNESnJRRjNjbm1zb3dFeU1lYjlkTWdzMGFXM2kycGtHZlZOS0hnUE85QlZvMUdvV2djZ0dPWGRKbnhpRjB5cHJmWVJJNk1RelN6LXpvRGYyckFVdGJXX1BvaXc3MFBwR0lVc1I2ajk1cHJpbEMyNXhzVW5aV3lCVGg1NVR2SFB6UnRGMjBacXFRY3FUYUdyQXJDQW9UOWdTUmZYeHFidw?oc=5</link>
-      <guid isPermaLink="false">16a0af0f5218cf59</guid>
-      <pubDate>Sun, 13 Sep 2026 23:43:33 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
-      <description>Can&apos;t-Miss Play: Pylon-reach TD! Justin Jefferson goes airborne along the boundary for snazzy score &amp;nbsp;&amp;nbsp; NFL.com</description>
-    </item>
-    <item>
-      <title>Carson Wentz connects with Justin Jefferson for the TD! - FOX Sports [Justin Jefferson]</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbFI0Mks0SHJnaVBkbFFNNUV5T2JtdmFFZGZyX1gtLXdSdklibEhwN05SSDBHWWNRZ0xxaDhlczdlc3JydGw3R0V2NWNrLWpQYmdacVhScWpwM19JRHhhX0h1anQwem5tZS11dkZR?oc=5</link>
-      <guid isPermaLink="false">d567a3f494534c6e</guid>
-      <pubDate>Mon, 14 Sep 2026 00:11:16 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
-      <description>Carson Wentz connects with Justin Jefferson for the TD! &amp;nbsp;&amp;nbsp; FOX Sports</description>
-    </item>
-    <item>
-      <title>Michael Wilson manages 56 yards vs. LAC - NBC Sports [Michael Wilson]</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVBKN3NESTlwVHFycmZ6UGpmWHBVWjVpZGFDaE12RkJOaktrek5CTmtXa1NPbFdzLTdXeG1aNHY3SnpzUTUxUXRYNUNWUzVnZ2dGckpSRGlaZXRhaG5CWUhfYVo4ZzhjQ0VGNHhnNC1zcU1RdmhuSExYTHJPNmMyZUwzUEJXVndtR3Z1SlJiMlZNTXRQTnRtZnp0VkR5LUR6Sy1jdW4wcw?oc=5</link>
-      <guid isPermaLink="false">3a57faed41aaa027</guid>
-      <pubDate>Mon, 14 Sep 2026 00:49:24 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
-      <description>Michael Wilson manages 56 yards vs. LAC &amp;nbsp;&amp;nbsp; NBC Sports</description>
-    </item>
-    <item>
-      <title>Vikings news: Justin Jefferson resurgence is on as Carson Wentz finds him for TD - Yahoo Sports [Justin Jefferson]</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTc1MHlRYWFub3E5VTVIZmpjVWM2MDF1YS1UemZkNlBHbTVzQUVKMmxuU0tFLUw2cVk0NWdmTHg5akhlZ29xdkl0Ry0zVGp0M2NzTWpqWnhhb205MkxtcnZ1ajFrZEJuUHFrSUJWcWFuamZwWXA1Tm11SnA1UU10VXlMZGg0T3RHYTgxTkhIYTB6SFU?oc=5</link>
-      <guid isPermaLink="false">f1a37c86d2603f5c</guid>
-      <pubDate>Sun, 13 Sep 2026 23:17:04 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
-      <description>Vikings news: Justin Jefferson resurgence is on as Carson Wentz finds him for TD &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>From Kiwi roots to the NFL: Michael Wilson’s journey to the Cardinals - Sport Nation [Michael Wilson]</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOVzR5ZDFFUl9tTEp6RGJBa3RjMk1ueE9HNWg3MjVLVmFSVnYwdms0S2FwdjdtVlh2bWFpSUFzS3ZGVUN1Q3hoY2dwWGNLYlVIMUNFWkZqWlBEbzZoM0E0OUJSX0hSaC1pVEJobEJJMklITnRvZHROQ2RjS3pCeTl2Tl9PQmJiOTk0emVNV0FYVHV4S1kxOFkzbUpyS2dGMFk?oc=5</link>
-      <guid isPermaLink="false">54b07e9852837733</guid>
-      <pubDate>Sun, 13 Sep 2026 23:25:57 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Jefferson, Wilson</source>
-      <description>From Kiwi roots to the NFL: Michael Wilson’s journey to the Cardinals &amp;nbsp;&amp;nbsp; Sport Nation</description>
-    </item>
-    <item>
-      <title>Commanders&apos; Chig Okonkwo: Hurts hamstring, questionable to return - cbssports.com [Chig Okonkwo]</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0J0VWdlZ2VDbkFoblpzd3pDWlZUVnJuZmdKeUllQlU3djliLVFfZTRyT2tJTm41MHNRU19uTEtpX282RU5sLS1yQWROc1d3NVBvTjdab0tfb1ZVdU9VdGRXV2dOVFhNTElWcEJ6azM2eDQzWDdBa09VUDV4SVZGRm1La2ZmeUJMNVNfS05qX1ZxT2M2NkQxLUhJcFQtSzdaTlNFMHFqMVNHSXZTNVZqQg?oc=5</link>
-      <guid isPermaLink="false">5b0df94b62d5f3fe</guid>
-      <pubDate>Sun, 13 Sep 2026 23:08:01 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Commanders&apos; Chig Okonkwo: Hurts hamstring, questionable to return &amp;nbsp;&amp;nbsp; cbssports.com</description>
-    </item>
-    <item>
-      <title>Tee Higgins has solid outing in Week 1 - USA Today [Tee Higgins]</title>
-      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR1VwRDRGQjlrbDgwVWQxb1pZZE9Nem5yZmUtLVRaMHVST0tXT2FMSFZJZmZLaGxycWgwUWNESl8wSkJ0eGF3RWtYNTA0b21vcGxlcUMzLU1vZFhXQ2FubWtIWHRRQjVmTGtDcUVHM0JkVWhyUWEtQWEtckRYNENpRk9EY2xkeklkd3ZlSWRCbnlUd3dSMWRQNzZNQ3JOOGVUUTdVLWpoX09SemJ5Si1jQTZUWHJNWkVwYzdMNVE1WFlUSmd5TEVsRnM4c2k3Ti11NjJ6LUMxYnZjc0hCZnJqWmRn?oc=5</link>
-      <guid isPermaLink="false">e006d9004b503948</guid>
-      <pubDate>Sun, 13 Sep 2026 23:53:00 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Tee Higgins has solid outing in Week 1 &amp;nbsp;&amp;nbsp; USA Today</description>
-    </item>
-    <item>
-      <title>Chig Okonkwo Questionable to Return Against Eagles in Week 1 - NFL News | Fantasy Football - RotoBaller [Chig Okonkwo]</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUFvc1l5MEZTTDJ0NWhlcVZ4NnNyM1M2YXVoZ1dLY0NZYXA1LUNwWVZxbFZ1YzYyb240dlZQUzlscmdrQ3NVdFY5bFNsS3FVd2ZkbVF0ekUwalh6eWppVllZczF2RnMzZk1heXZCMTBGU3hDYnJFVGs1Z2RRaUdRVG5NdGdxS0dGZ2JGRnY5dXoycHdSaXRUeWJkN0J5M3Bwc1hwNjJadldlc0E?oc=5</link>
-      <guid isPermaLink="false">1f6a7115731d1422</guid>
-      <pubDate>Sun, 13 Sep 2026 23:17:06 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Chig Okonkwo Questionable to Return Against Eagles in Week 1 - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
-    </item>
-    <item>
-      <title>Tee Higgins Gives Under Armour Another NFL Face as North America Sales Fall 9% - TechStock² [Tee Higgins]</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjlWV09SdG1PblczU3pOYlpJMEt5NFplb3Q5N0Y0bndrN0NPbUVRMlZ3OElWb19abG5TWXV0LWM1TmVFMHM4ZmJZVXlXcUNIYTRIN2x2R2JUMWR3TXBtS195bWk1aGJrb3RuMVFjV242dWVRZnlFTHZoM0V6Z3BaM05ualNaa1NMMFBMZWZTWmJ6NERlc09feVh6WmRtdEU?oc=5</link>
-      <guid isPermaLink="false">463b1fd09c9d33d4</guid>
-      <pubDate>Sun, 13 Sep 2026 23:16:03 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Tee Higgins Gives Under Armour Another NFL Face as North America Sales Fall 9% &amp;nbsp;&amp;nbsp; TechStock²</description>
-    </item>
-    <item>
-      <title>Chig Okonkwo Hurts hamstring, questionable to return - Fantasy Footballers Podcast [Chig Okonkwo]</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWtpRmJXY2pGTWNoaHRIeXA4b1Z3cXRyYmE5V3hsTG9pSk94Q0lJZXBXYjN2UEhHMS1Cb0dmNFpubU50NHVWYmFZOEVRTktlaVYyNnkzT2hwcXZEM05JMXVTMFVmT1Zub1U3MHladnl4OFRoZ2Z4a280dHFxeW1YZGE2NUx6MGRmTXZ5WmF2YkFLQS13bkxFbl9wOURwOVVOc0tXR3lqN29iQVU?oc=5</link>
-      <guid isPermaLink="false">5d2e842b9d606baf</guid>
-      <pubDate>Fri, 11 Sep 2026 20:09:14 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Chig Okonkwo Hurts hamstring, questionable to return &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>HUGE! Mason Taylor is POISED to breakout! - 11Alive.com [Mason Taylor]</title>
-      <link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSVlaSm9YWFU2bUNiRlJqYTMyTUhlM1RLZ3l6eDlRQVdyQnZhOEgyeFFRbXlsbmhGZ29LUlhBZzNEbDZ3ZjBVVnM5ZEoyLXYxa2VWR1g2dy1DVkJjMFg0LXRXX2V1MWQ0Wk1SUmVhbWZDVmJYR2xyREN4WXdFNGpaN0RuLVVZRHR6Zmk3aHo0NG15MzlyRjBabm9PMkduY2JsNEE4cGxRbzVNSDRxa3dxQlUtWFNKbVhndU1kb1EySzV3Szd0SU9oeXZxZl9RRTJPMlExMTNma19HOGo3TGlpdGctRFB1cEljMUFtVlRrbw?oc=5</link>
-      <guid isPermaLink="false">fa1130db4b5bbbd4</guid>
-      <pubDate>Wed, 09 Sep 2026 19:02:00 GMT</pubDate>
-      <source>Google News: Ferguson, Joly, Taylor</source>
-      <description>HUGE! Mason Taylor is POISED to breakout! &amp;nbsp;&amp;nbsp; 11Alive.com</description>
-    </item>
-    <item>
-      <title>Mason Taylor a Sneaky Deep Sleeper for 2026? - NFL News | Fantasy Football - RotoBaller [Mason Taylor]</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGQwVE5BOWhXTGhZWGJMNEFRVzZ1LTdWbU9xNm5KbVEwZGg1RjNDaHdKSkdxNlJ5NnRwSzFHa29nTnM5Q0RpLW9BSlhKVjhjTFB4MUEtN3VaSFc3RC1zQ1BNY0wzdFF4Tnp4T045azJoRmo4UHg3MzNSUHo2SjJiWmR5dGFMaVFOeWFiY0wweXp5TTVk?oc=5</link>
-      <guid isPermaLink="false">9daeb8274d428284</guid>
-      <pubDate>Sat, 15 Aug 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Ferguson, Joly, Taylor</source>
-      <description>Mason Taylor a Sneaky Deep Sleeper for 2026? - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
-    </item>
-    <item>
-      <title>‘Prime Tom Brady Could Not Help the Browns Right Now’ — Ex-Steelers DT Rips Cleveland Amid Deshaun Watson-Shedeur Sanders Debate - Yahoo Sports [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9sckJURDNBR1UtNFdSMFZFWUg0MnFaVmp3dm9ISE5SN1BLSXFGMXdsaUszelk5dDgxSHcydmlpeGctaV9INEhfVEx5bHMzZlRyUkdIQ1N2bUROM1dhQ2xsM3Z6em8taENDeXVOcDNPb3RmTEdRaEREYnZNOWRGU1U?oc=5</link>
-      <guid isPermaLink="false">2838051c84986e69</guid>
-      <pubDate>Sun, 13 Sep 2026 23:07:38 GMT</pubDate>
-      <source>Google News: Cleveland Browns</source>
-      <description>‘Prime Tom Brady Could Not Help the Browns Right Now’ — Ex-Steelers DT Rips Cleveland Amid Deshaun Watson-Shedeur Sanders Debate &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>‘Todd Monken Deserves This,’ ‘Welcome to Hell’ – NFL World Mocks Browns HC for Starting Deshaun Watson Over Shedeur Sanders - Yahoo Sports [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDNqRXBlMkJ1MFd1dnh2ZXlrM3ZQQ1dfTzk3RnVCQkhWRGxGU1FCVmV2R2I4SDY1MTFSVFNReWx4RHl3NkhQMnYwR1U2UVJmUm1OYVZSUFBNU1llMFhtQWRBREROZEREQXduOXljRjZHS1hSWkdJTG5zQXFHWmdRTlBwNk5tUFBzMVE?oc=5</link>
-      <guid isPermaLink="false">e502bb615e5d0846</guid>
-      <pubDate>Sun, 13 Sep 2026 22:52:24 GMT</pubDate>
-      <source>Google News: Cleveland Browns</source>
-      <description>‘Todd Monken Deserves This,’ ‘Welcome to Hell’ – NFL World Mocks Browns HC for Starting Deshaun Watson Over Shedeur Sanders &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
     </item>
   </channel>
 </rss>
