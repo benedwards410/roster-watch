@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1789921531756"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1789924418142"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - urgent only</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Availability and role changes only. Point your email service at this one.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 16:25:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:13:38 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/urgent.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -1815,62 +1815,6 @@
       <pubDate>Mon, 14 Sep 2026 20:01:36 GMT</pubDate>
       <source>Google News: Buffalo Bills</source>
       <description>Bills sign FB Brock Lampe to the practice squad &amp;nbsp;&amp;nbsp; Buffalo Bills</description>
-    </item>
-    <item>
-      <title>Bills add fullback to practice squad after opening season without one on roster - Democrat and Chronicle [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWFlNcHFEdnZ3d2RpNXppRDZXNXI3V0FyRzRremVDOGhIOHQ3SGNwdkhiUGQtU2p1Rm1TRldUUlpWc0FQR1lfNGdBM0tYMmw5akg5THhhdHUydXhLTmhiNGFVMUNDOVl5amVuVkY1UUVjZ1pKNFhvTGhkUEdtcEc5TzFmVmY5UHRwX1U0S2ZoWXd4T1JJTTUwb2ROUzV2bV92ZG95WTNDcXJZMXpERGZQT0RvSTU5dUtUY0V3Y1ZpNkFZa3Z6ZUdEVFl2cGJ3N3FtU1RUdS1VbVJmUmVFelM1dw?oc=5</link>
-      <guid isPermaLink="false">cd640b0e66546ec1</guid>
-      <pubDate>Mon, 14 Sep 2026 20:23:00 GMT</pubDate>
-      <source>Google News: Buffalo Bills</source>
-      <description>Bills add fullback to practice squad after opening season without one on roster &amp;nbsp;&amp;nbsp; Democrat and Chronicle</description>
-    </item>
-    <item>
-      <title>New York Giants signing former Dallas Cowboys seventh round pick to practice squad - Giants Wire [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTXhQemE5V3FIQXJZTG54dlRjZFV6ZzY0ZDRsdHJ6Sm1sV1IyWkJNMHRuTGRVR0RvMzFiWkJNcWtDdnB0WWZZNE9iMktSR1JnZ1hjX3p1eHJkaDk0b0VLalRTRFFPMHFGUjBjU3EwX2pYdXRJaUxLRUtxZThveFBjUjI1czVadmdXWS1zcHVmdTdTb0RkLWZJNVVsVlFhamY3bGJiVU5tWm9vcmg1dl9aQ08yNU1GXzhXMlRKOEhFeVZ1empXLW1YcHBjT2pYcFpiT0xwTnV5NjZPbE1UVHRYRTNqQXF4Z3RWek0wS0ZxMmNEbHJK?oc=5</link>
-      <guid isPermaLink="false">4ca234810020a226</guid>
-      <pubDate>Mon, 14 Sep 2026 21:15:00 GMT</pubDate>
-      <source>Google News: Dallas Cowboys</source>
-      <description>New York Giants signing former Dallas Cowboys seventh round pick to practice squad &amp;nbsp;&amp;nbsp; Giants Wire</description>
-    </item>
-    <item>
-      <title>Broncos elevate 2 practice squad players to game-day roster for &apos;MNF&apos; - broncoswire.usatoday.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQczhGbjJXeWNDZVEycXU0ZVk2b1Y5clhuOC12clpIVHI5eDBhNnVjQW1LNG1PRFZib0pQZkx6dUpCbk5LZmZRSmE3dWpOZE5RSEIxU21USFBvTjhSejQtVXlhME1vTWZYOE92Zm1GOHFmanFMTlFibjI2NG5Tak56MjZpY2pLZVJ3QWtkaU5JWF9NVlBqVGVmZDB4Qk45TG5SQTNoUEw0OVBOYjRUYXA0WEVPdlh2WkR5SV85NHh0Y0Y0cXI3RDJLUkh1eVUzbC1XR1E?oc=5</link>
-      <guid isPermaLink="false">d9d41152b3e4ad67</guid>
-      <pubDate>Mon, 14 Sep 2026 19:52:00 GMT</pubDate>
-      <source>Google News: Denver Broncos</source>
-      <description>Broncos elevate 2 practice squad players to game-day roster for &apos;MNF&apos; &amp;nbsp;&amp;nbsp; broncoswire.usatoday.com</description>
-    </item>
-    <item>
-      <title>Broncos are elevating FB Adam Prentice and LS Mitchell Fraboni from the practice squad - milehighreport.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxON2RlS1EyTmM1TGlvazFIbDQ5cUxhVDgtQjl2NjhoejlIdk9VMDVlbGRHUnduRlZGb09EMmptWEE0U1NnZlR0UDVjNjdPTkhmYVkyV3dCOU9PbDM5dTItZkZWUXBndS1TVzFfTnFHWkxZWlJyZVE0MW1DNGlYZGRvcWJQc2FwVHkwVGlSc1M3c2JYQkJHZkE3TU1tOHFoNjg5RWNyRVFRYXN3MDhidkx5OUNQTXduNzVpalhJMnNqZGNqalI4ZUx0cFpkdUo0c1RWdmNZUmJKNkZUd05P?oc=5</link>
-      <guid isPermaLink="false">b60b6470f2ced4e5</guid>
-      <pubDate>Mon, 14 Sep 2026 20:27:01 GMT</pubDate>
-      <source>Google News: Denver Broncos</source>
-      <description>Broncos are elevating FB Adam Prentice and LS Mitchell Fraboni from the practice squad &amp;nbsp;&amp;nbsp; milehighreport.com</description>
-    </item>
-    <item>
-      <title>Seahawks add a rookie seventh-round guard to practice squad - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWNiTzNsX1N1YllESlNSS3VqLWw2TW53N0VRVmdwamgtR0h5YVdUSm90NTdCQ0ZoVmVVaXFabDdDR2V6aFg4TThISXhtUThMLWF4YllYTU5RX05ERzZucXd2YnFMY1I2V0hmUzdwNGZ2SVVLZVhwWjZhZVBYQnhDclg0QVVrbDd0RGc?oc=5</link>
-      <guid isPermaLink="false">3060cbe84f01d9cd</guid>
-      <pubDate>Mon, 14 Sep 2026 21:44:51 GMT</pubDate>
-      <source>Google News: Seattle Seahawks</source>
-      <description>Seahawks add a rookie seventh-round guard to practice squad &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Seahawks Sign 17 To Practice Squad, Including Veterans Trevon Diggs, AJ Finley, Velus Jones Jr. &amp; Rodney Thomas II - Seattle Seahawks [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQmVLRjVJVVhtd3lQNnE5UF9LaHhoYURucUNYX0pWWVZiTVlZbG53ZTczSDM1dllKeHk4bFdrS204RzV6RDhrNDNYS0xLY0NuTUplX09tNXJNalN2TkRCZGc4X2stRWlaRFo3S0R3dEF3cXVDYkRkd2FtVlBybGtoNm13R196X0ZoY2J4TVhoZ29fTlRJQll3MTBBS1g5WXVzcEhfWmtsZ09BZUhuRzVCeEt2bFloeUZMckg3UjZ2d3VObWo5SjNwVHpMVzNFV1Iwd1JuaQ?oc=5</link>
-      <guid isPermaLink="false">401610bf7829a18b</guid>
-      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Seattle Seahawks</source>
-      <description>Seahawks Sign 17 To Practice Squad, Including Veterans Trevon Diggs, AJ Finley, Velus Jones Jr. &amp; Rodney Thomas II &amp;nbsp;&amp;nbsp; Seattle Seahawks</description>
-    </item>
-    <item>
-      <title>Seahawks Sign Guard Evan Beerntsen To Practice Squad - Seattle Seahawks [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQeE1xOHRZb3JXWTdTX0hUSjFwcEltNERsMU9nWjQyV0wyd2pKaGFxQTNUa0NyMmZRcHhCOUUzUmFxN3MxU1FPX0ZkMWFEa2VwQVN5c1JVOUs3N2pCMl9HTzlFTHJWQ1J6VmdRX2h4MDgtdjAzdF8xNjFoRUFwN2c5OUE2QmpwWHV4QlE?oc=5</link>
-      <guid isPermaLink="false">d4c8e9e94cf5b649</guid>
-      <pubDate>Mon, 14 Sep 2026 21:59:50 GMT</pubDate>
-      <source>Google News: Seattle Seahawks</source>
-      <description>Seahawks Sign Guard Evan Beerntsen To Practice Squad &amp;nbsp;&amp;nbsp; Seattle Seahawks</description>
     </item>
   </channel>
 </rss>
