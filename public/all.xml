@@ -1,13 +1,493 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1790341105697"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1790358878225"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 12:58:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:54:38 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jake Ferguson gets a beer-miming fine, too [Jake Ferguson]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jake-ferguson-gets-a-beer-miming-fine-too</link>
+      <guid isPermaLink="false">00cd54c9397e33ab</guid>
+      <pubDate>Fri, 25 Sep 2026 16:04:31 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>The No Fun League has taken it to the next level.</description>
+    </item>
+    <item>
+      <title>NFLPA names Shedeur Sanders their Community MVP for Week 3 [Shedeur Sanders]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-names-shedeur-sanders-their-community-mvp-for-week-3</link>
+      <guid isPermaLink="false">e80441700dc744c9</guid>
+      <pubDate>Fri, 25 Sep 2026 15:50:05 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>The NFL Players Association announced on Friday that Browns quarterback Shedeur Sanders has been named their Community MVP for Week 3.</description>
+    </item>
+    <item>
+      <title>Shedeur Sanders selected as Week 3 NFLPA Community MVP - Cleveland Browns [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPN294dDhCQURpQVFaOTB6RlEta18xVVlaakp5cGstRm5ZeGlKYlFfVHE5R0psV3owdlBGazZJTU04WHNVUzRFRFFQZUFwYmdOV0V3SWdKWFhzZ2JhZldQUjR6QTl0Z0F6dUVlam4tWnZQZklBU0c3ZHpRMVdLdHhweDd4Q3lhaXBZMFVUTFBqaGVIeGI0LWc?oc=5</link>
+      <guid isPermaLink="false">79bd20cdbec826dc</guid>
+      <pubDate>Fri, 25 Sep 2026 15:43:36 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Shedeur Sanders selected as Week 3 NFLPA Community MVP &amp;nbsp;&amp;nbsp; Cleveland Browns</description>
+    </item>
+    <item>
+      <title>Cleveland’s Shedeur Sanders Selected as Week 3 NFLPA Community MVP - NFL Players Association [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOczZSYTFqNkhINHRZYnNTNlY3aTRMMnhoOF9JYlhseGlCNW9zdklzemxtZUFIQWhFWF90OU5VbGpJZzJ1emNyaWpBa1lhSGpVV2MzTTNsbjh3cGhPUGVRenRsRmoyeVdLdThxQk9fSlBmRTVzLVdobEszSTR0LTd3cmRseEN1ZnhEOGdwajV1ZjVDQ0E?oc=5</link>
+      <guid isPermaLink="false">7a46ed5659c9c17f</guid>
+      <pubDate>Fri, 25 Sep 2026 14:31:15 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Cleveland’s Shedeur Sanders Selected as Week 3 NFLPA Community MVP &amp;nbsp;&amp;nbsp; NFL Players Association</description>
+    </item>
+    <item>
+      <title>Browns QB Shedeur Sanders named Week 3 NFLPA Community MVP after East Cleveland backpack giveaway - News 5 Cleveland WEWS [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNzIyeTAzSU1oaEVWZzctRWU0eE9fY3NVbXBDUU0wbXkzV25uMEhHdkU4REx1ekZpZEVGOFNLcjFEd1UyYlBWT0U3bmhPZ2w2Vjh3bDBSVlIyZG84eWlCOXktcTNBZmk5UFd5T1pCVkpxTHVoRmhocHM0Y0VKNVp0SGFxZmJSUmFqaHJOVVJXdEQ3Y0lvSmQzR05zczVOcWtCOXNKdGlESXB3MlQxZVJUeTlGR25mWVE5ZE5pWVJEWldOOHlFblhDMnJhYzdIaHU4OFBUMWtKeFFYQQ?oc=5</link>
+      <guid isPermaLink="false">85c17801af30f937</guid>
+      <pubDate>Fri, 25 Sep 2026 15:45:42 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Browns QB Shedeur Sanders named Week 3 NFLPA Community MVP after East Cleveland backpack giveaway &amp;nbsp;&amp;nbsp; News 5 Cleveland WEWS</description>
+    </item>
+    <item>
+      <title>Shedeur Sanders May Not Be Starting, But He&apos;s Making an Impact in Cleveland - Sports Illustrated [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPM01lSnczQkRYQ2ZfWmVOSjlTZS1icUlMWENpMVZndzBrMEVyVmhoZ2pWM0hURlNOd0NLcE56V2NFMHJHRHdNeVNPeVZLQlZ4a01SRnNTUTdpaWdDZGFDNVJseXdWc0xJeXcxcEJqcGFpdzk0SlV0THp3bktEQk5mZk9MYXB2R0g5cHV4WkpmS2NPR0pXeXdZM3NfVnRwOGtsS0hJVXdKRGZZZWZhbE9hUG5od1p4aFJWM1ZxNV9WSQ?oc=5</link>
+      <guid isPermaLink="false">ad4eae1b6c94e177</guid>
+      <pubDate>Fri, 25 Sep 2026 13:59:47 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Shedeur Sanders May Not Be Starting, But He&apos;s Making an Impact in Cleveland &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
+    <item>
+      <title>Bold running back predictions for NFL Week 3: James Cook, David Montgomery &amp; more - The Big Lead [James Cook]</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1gzQkVNRHNtUDlTQkRwNGpMZllQYlgtaUlwZzVtczZqTnpxQk1YcDgxRHQ1NDUzc0M4TU5yMXJlXzVrcE05SXV2enBSTVNsSlBINHREZy1MeFZmaEVBdEphZGNDRW5RUjd6NklkS1IydnBmb1lZenkySVJPWkt1T1pZbXg0d0pab19NSmhGcjVXUHJlTWtpSmk2eTRfTWhxS2NR?oc=5</link>
+      <guid isPermaLink="false">080e13e15b2ad117</guid>
+      <pubDate>Fri, 25 Sep 2026 13:59:12 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Bold running back predictions for NFL Week 3: James Cook, David Montgomery &amp; more &amp;nbsp;&amp;nbsp; The Big Lead</description>
+    </item>
+    <item>
+      <title>Patriots coach Mike Vrabel shares initial thoughts on Trevor Lawrence - Patriots Wire [Trevor Lawrence]</title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWE9ZT0VFMnItWHZ2bm9kdlIzZVM4YUU0SHdjaFZjNkVGc2c2N05hbzQwZEowZ2tZRUxaNVdnNlEtbGZFbFpOUXFWSjlHSW1oTXYxNldpU29xaU9XNTFGRWVvbUxDNzNldkQzTnN6Nmt4NzI0ZG85ZnVjZG15bFBPRkpVNWt3cWxpSUpVSFdiYWtYN1RqZHRNWm1UN3g0SmJKLUh0QTRQU1VyODNnREZET3FKekhGWlZzR2lBMk8zaVVvN010REtOVHFYQXVoU1lweVE?oc=5</link>
+      <guid isPermaLink="false">f94e665e989c9664</guid>
+      <pubDate>Fri, 25 Sep 2026 16:48:00 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Patriots coach Mike Vrabel shares initial thoughts on Trevor Lawrence &amp;nbsp;&amp;nbsp; Patriots Wire</description>
+    </item>
+    <item>
+      <title>Former Buffs star Shedeur Sanders wins Week 3 NFLPA Community MVP – Denver Sports - Denver Sports 104.3 The Fan [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXNpNzMzOGxZUlllYkg5VnZRNlR5N01VcC14M1BCeUFwdThYWDZCZk5lTV83a09iZkhHSTFsWDVBa2tKMXJqeEtDdWQ0RTQyVGNXWmNsMlBzSTNvVkkxNkI1VEVNYUp2SGtjS2pYUWlyajlLWGlJbEt2THpjampVMGppVXk2ZUVGOV9pWWw1bWFqVnZ3SVE3cjNFZ3RNZHJHVXAzRjVjNTV3UWs?oc=5</link>
+      <guid isPermaLink="false">6db83784dc7be62b</guid>
+      <pubDate>Fri, 25 Sep 2026 16:30:09 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Former Buffs star Shedeur Sanders wins Week 3 NFLPA Community MVP – Denver Sports &amp;nbsp;&amp;nbsp; Denver Sports 104.3 The Fan</description>
+    </item>
+    <item>
+      <title>NFLPA recognizes Browns QB Shedeur Sanders ahead of Week 3 - Dawgs By Nature [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeE40LWpQaU1JblM3NFNNT3dSTGNVdHhZZ2k0TGdoWTNDcUZFWi1qemFzNjl5UkUzbGtKb250UXN2bHAxbFpOSGx6Zk4xckFwWG9UV2hlOUlEX21YbmpBZGdzdUxHckE1UmpYdmh2bkQzS3J5T1lGNG5LMzc3RTZKaTFLVGI4UXVrTnp2ZHZmcHMta09NZ3h5dUtMLTNpaXN3WTlkMmlRR1U2WVRZLTZfNjlDenNSMUkx?oc=5</link>
+      <guid isPermaLink="false">bda18e69776d2a77</guid>
+      <pubDate>Fri, 25 Sep 2026 15:31:25 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>NFLPA recognizes Browns QB Shedeur Sanders ahead of Week 3 &amp;nbsp;&amp;nbsp; Dawgs By Nature</description>
+    </item>
+    <item>
+      <title>Trevor Lawrence BETTER THAN Drake Maye?? Host of You Better You Bet Nick Kostos joins! - Audacy [Trevor Lawrence]</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLTlCcmltVXEwSGtkUnBIR0FZdzRQdVVFeGxHUUduNlRCZTk5R01PWUxsNmNncmROejJPN0lTYXZKTlZqb3pZX3llRDBubTNnRHUtMk5tVFQzX2wxZmVJVkFqQUN0dEd3OG5NUlpYN2p4UWc1WFNMSGJMbDR0Nnd4a25zZWlhc19YdTdfLVoyZ29lWEg2ZEc0TjdWLW1PVlhKQVZ6dFVZT1VxR2RhSGlOSm9IaGRBYlpPdWllYmw1RWVVSFU?oc=5</link>
+      <guid isPermaLink="false">dc610c65aaabd388</guid>
+      <pubDate>Fri, 25 Sep 2026 14:20:24 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Trevor Lawrence BETTER THAN Drake Maye?? Host of You Better You Bet Nick Kostos joins! &amp;nbsp;&amp;nbsp; Audacy</description>
+    </item>
+    <item>
+      <title>If Giants interested, does Browns Shedeur Sanders or Dillon Gabriel trade make sense? - sports.yahoo.com [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOXzZlcFJ1bE5JbHNGQlhPQTJYMFdaTWs0MWlVbnotaWNzWEZzbjh4ZHFRNmItb3paNEFUQUl3OXFlN3dvVlNqa3lsaXZVVzdYc2lZemktZ0lOVTEzNnRPTy1lYmRjbGFLMHJTWDRwUmJfY256T2pla0E1ejZTdjg3UE03NWhCRlk2LWtUeDZUUQ?oc=5</link>
+      <guid isPermaLink="false">9bb5e474d9aa12ad</guid>
+      <pubDate>Fri, 25 Sep 2026 14:06:25 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>If Giants interested, does Browns Shedeur Sanders or Dillon Gabriel trade make sense? &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
+    </item>
+    <item>
+      <title>Shedeur Sanders Earns Rare MVP Award Before Browns-Panthers Game - sports.yahoo.com [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNOTM3N2V4M1dZYjdhT0FmWHJtOFFZX0lNZnFSOV9KTlhVbWxHSC1KQmd5ZktnR0lfbEFwYUlzblBWeXQtenQtQXZnd2JNTW4wT2xXeTVyMktJVlR3R3VGb1dXRWNGdHBCb2R1a2VrcnZua1dVSlpBR01xVDUxek5BeVQtSy1WQQ?oc=5</link>
+      <guid isPermaLink="false">1f9a64032f94792b</guid>
+      <pubDate>Fri, 25 Sep 2026 13:58:01 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Shedeur Sanders Earns Rare MVP Award Before Browns-Panthers Game &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
+    </item>
+    <item>
+      <title>NFL Makes Shedeur Sanders Announcement After Browns’ Week 2 Win - heavy.com [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOVjVRaldEU1czcUNyRmZLRHk2NWUyXzRDRGcwc3NJbElWQ0xXMmJfYlIybV8xaGhUZWRNd2Y4dHU4TG5oUlE2UTY4NHl5QkZlOHJoWi01SVYyNW1yVWt5UWpfS1ZmQTNPUVJES2U0dGxhNkxRRmcwUkZ1OWFjMjk4N2RRckFFc0NOQ3hLV09RNlAzZW8?oc=5</link>
+      <guid isPermaLink="false">715db999879da9e3</guid>
+      <pubDate>Fri, 25 Sep 2026 15:22:20 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>NFL Makes Shedeur Sanders Announcement After Browns’ Week 2 Win &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Chargers’ 0-2 Start Opens Door to Uncomfortable Justin Herbert Trade Rumors - heavy.com [Justin Herbert]</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNQUo1aUU1ZHhQQzBwcU51V2pFSlJUMHI1dnZoNUhRTXUxRENKOXJtbDd1RzBtYXFqZEd1LWhNUU9GQ3VSdXdIQWFlMGtJQjlZc1RuV21MYVdfZENLN3pfR1J6WGNXd0JRMWtLM0JkUU15dE1JenZnTUdYQWxHdzRydW9mRFBZc01GemNUNUxIQlZKZw?oc=5</link>
+      <guid isPermaLink="false">6f048ee06d82382e</guid>
+      <pubDate>Fri, 25 Sep 2026 13:46:15 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Chargers’ 0-2 Start Opens Door to Uncomfortable Justin Herbert Trade Rumors &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Shedeur Sanders Shows Up for East Cleveland Students and Earns NFLPA Community Honor - The Source Magazine [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOU2d5dmJxS3c1Z0xIS3pHaGRlRVZORUNienhVLWZ4MlA5Ul90OHF1M1hxYWZiYVlhTzN5Zm5WQk01THR6Q0NjTkdrckNGaXpYZi1DU0xzUjBvTVlLbkplQzlkdDkySmx3dVhYMEpha2tmYkxZT2RUdUNQaEY1OU84WjY2RG9JeDNqX1ZsWldBcVc2VEdBd2VzZ1NjZnM2UXY2WDFlWnp0Mk5hOHNhaS1rSTVHU0JETkQtSXc?oc=5</link>
+      <guid isPermaLink="false">77d47498dba1bcfd</guid>
+      <pubDate>Fri, 25 Sep 2026 17:07:31 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Shedeur Sanders Shows Up for East Cleveland Students and Earns NFLPA Community Honor &amp;nbsp;&amp;nbsp; The Source Magazine</description>
+    </item>
+    <item>
+      <title>Shedeur Sanders lands special award for community work - clevelandbrownscommunity.com [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPMm5USXIwZzJWLXJMREpweVJHSmF0ejBKV1Uxc0FkWk9zTDZUdlBNMXpFYlhxNzlPNERfYVBBdzNmeVZjcGNjZzlacXU5VGstckpDYTlkdmFsRHA4MFl0aU9aM25oWjFhMHNhVzZOOS1PamtmR002V3o5TE1VNDZwOVY1VHVnYWtoclp1MGNycUxJZG5hMDFndVFUdndOdXpPdFlj?oc=5</link>
+      <guid isPermaLink="false">18366ae6cbec30dd</guid>
+      <pubDate>Fri, 25 Sep 2026 17:15:20 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Shedeur Sanders lands special award for community work &amp;nbsp;&amp;nbsp; clevelandbrownscommunity.com</description>
+    </item>
+    <item>
+      <title>NFL Insider: Chargers Could Get Calls About Justin Herbert if Struggles Continue - Athlon Sports [Justin Herbert]</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPOXRpaU9MUzhMTjVCVkw3eGRMZVdUOXk3Y3owckNPNWhmMHZVMHVQTWZkOVFPTWFVMmZZN092eUJ3ZG5CaE9PVzZLRHNnNFVuWHlFSFVNd28tOHQxeVNSendUdW45OHdWbTNNa0NaUHRUMlB3UFBiOHc2Ym1Gb2wtSXcwNWlvVjYzLWw4cWRCNnZfVlAwbG03WDJ6QQ?oc=5</link>
+      <guid isPermaLink="false">f2d91d08333cc560</guid>
+      <pubDate>Fri, 25 Sep 2026 16:00:00 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>NFL Insider: Chargers Could Get Calls About Justin Herbert if Struggles Continue &amp;nbsp;&amp;nbsp; Athlon Sports</description>
+    </item>
+    <item>
+      <title>TJ Ward Offers Some Tough Love for Justin Herbert About Madison Beer: &apos;She&apos;s Using You, Buddy.&apos; - Barstool Sports [Justin Herbert]</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOc3JRaXV4YWhJY2EzM3puR2pFdVkyMS1XVE9FTVJYdFdHZXE4V1ZjR2dUWE5OOWdxSDJIMWJsRVdxYmkwaHNjQVZvM0thQTJyb19pMjBzMmI4cjMyUUdrN0txdXBFUVpNS2FvTUZJcVFyTDRHTk04dTh5ODdQUV80VHBWUXVIZDFpR0lGT0tMR0stREVRTXZjSVNYOTFQTmc1bjBwTElEOC1Jd1BranBiZ2tZTS1odWN2ZGRJekZR?oc=5</link>
+      <guid isPermaLink="false">6a0486874f857dd1</guid>
+      <pubDate>Fri, 25 Sep 2026 16:01:52 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>TJ Ward Offers Some Tough Love for Justin Herbert About Madison Beer: &apos;She&apos;s Using You, Buddy.&apos; &amp;nbsp;&amp;nbsp; Barstool Sports</description>
+    </item>
+    <item>
+      <title>Giants&apos; Shedeur Sanders trade debate: An argument for why it does (and doesn&apos;t) make sense - USA Today [Shedeur Sanders]</title>
+      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjZ1R0R6dHUzZldnRjU1MXVrbjBNV3VWTHYxT0dhS1RNOGxONnBVUDlxV1UxaEU2UkN5S0dIRTdWSnNPTzVWdXlTSXhXLVBEMjBlQXY4TG96dGxvSmZZWUlGejE2WnpsWUY3ZkI0TFNLWEs2MHdCZ3RacW5uSjdsRGVxWWFjSDR6STJoQ2xMSEZtVUl0ajZkSmtTUDB0bGZ3bXM1dlNpTy1TOHZtaVVZQl9rc3R2R21jTDZnWTR4M2R1X1RWVzJfUTVVNA?oc=5</link>
+      <guid isPermaLink="false">08e1b6907c9f68e7</guid>
+      <pubDate>Fri, 25 Sep 2026 16:52:00 GMT</pubDate>
+      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
+      <description>Giants&apos; Shedeur Sanders trade debate: An argument for why it does (and doesn&apos;t) make sense &amp;nbsp;&amp;nbsp; USA Today</description>
+    </item>
+    <item>
+      <title>Rams running backs Kyren Williams and Blake Corum&apos;s relationship off the field building fuel on the field - Rams [Kyren Williams]</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEJSQ0JkMG5WZ29PSFlvUDZJN2twYzU3UTN4aG1rdDVzZ1BrYjJob3N3U1hBNmszenJJc0VJU2ptSXM1ckVUTlk1dDdfQWE4VTh5TmFySDhyOGJWWmtCdEJIUlZnZVBhZktDeTJSaU9BOWpFWGd5dDN1OFVwQXppWVZRbGs3SXM5OWVqUzFfU25PanlWYlRrZ1VmNTU5LThoRDJnUzdRcnpOX1YyRFd3bUp3elphUQ?oc=5</link>
+      <guid isPermaLink="false">4637ea43aaa9a75d</guid>
+      <pubDate>Fri, 25 Sep 2026 17:25:40 GMT</pubDate>
+      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
+      <description>Rams running backs Kyren Williams and Blake Corum&apos;s relationship off the field building fuel on the field &amp;nbsp;&amp;nbsp; Rams</description>
+    </item>
+    <item>
+      <title>Jets tight end Mason Taylor ruled out vs. Lions, wide receiver Adonai Mitchell uncertain - Bozeman Daily Chronicle [Adonai Mitchell, Mason Taylor]</title>
+      <link>https://news.google.com/rss/articles/CBMilAJBVV95cUxQUFQ5QXBXVHgxbC1lTF9PY1BRZHVRdWctNWQwNF8wMDhOamRfSmFYSHh6NktxZlA2U2RYM3QxMU5MWkxNMmQ0TXluWTRqMzlDRTljbmFMcl95ZGdFT3N5cFYwMkp4dXlRVDdrSGtGem42ZkhJdThBUGc3X0Y1VTZKOUlHSGhVWnJQY3FHSmtWRjBRb2FfdkcxY1RiU1RILW9xa2ktaXc4VUJZTnlxUWxqdnMxUVdjZ1Y0UzdMeF9xLTJTOXZUbEp6bVNPbHVnSkRDMmxuV3ZkTmYyMkJDcFFvTmZkT1RzZXFzaGt5eWRKUHRsMHNvNG5CTVR4N3Z4TXJCaFAwMkhWU0x0QWtPN2pVdk0wSGc?oc=5</link>
+      <guid isPermaLink="false">277efe48f343f7bd</guid>
+      <pubDate>Fri, 25 Sep 2026 15:54:38 GMT</pubDate>
+      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
+      <description>Jets tight end Mason Taylor ruled out vs. Lions, wide receiver Adonai Mitchell uncertain &amp;nbsp;&amp;nbsp; Bozeman Daily Chronicle</description>
+    </item>
+    <item>
+      <title>Adonai Mitchell Limited in Friday&apos;s practice - Fantasy Footballers Podcast [Adonai Mitchell]</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXpXSXNoMVBnTDVNdGZBWGZiRXBCV0NlZllwQnNFczBFQTlCWlZ2c3JldFFRN0xXMXRLNjBQVjZtMFlhendhTmptYnlKWXptVU1UOG5waTRvSDZUSno0Rzl5bkJ4MENRa3dBZmdzNXV1Y05PV3lpWm91QXFheXdQMVA2S0h5TE5sU3UtSWFkb2NyZk1kWVBON2RR?oc=5</link>
+      <guid isPermaLink="false">80cd28b03f73431d</guid>
+      <pubDate>Fri, 25 Sep 2026 15:25:45 GMT</pubDate>
+      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
+      <description>Adonai Mitchell Limited in Friday&apos;s practice &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Fantasy Football Usage Report: Jaylen Warren ready for expanded role in Week 3 - NBC Sports [Jaylen Warren]</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUpHcklRMlZDQ25aaHJqVFZTcHFUYzRvMEFzSU8tWEd5OG05UWZteFVhVHFRaDRTQ0pNWGtQR0Z0VWwtdUtqaU5obUd1c0Q5VFp4bzdLUlhIOEc5TUg4R2MwLWw5T3RTdGRIUDRjRGhIUndTTlpGVTFVOXVLLTc4d2VHYy0tZjQyWnFKTTFBMW1CczZNWG9BSDZpeGxZeENaYXlZLU1B?oc=5</link>
+      <guid isPermaLink="false">483fe348a524558e</guid>
+      <pubDate>Fri, 25 Sep 2026 16:52:30 GMT</pubDate>
+      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
+      <description>Fantasy Football Usage Report: Jaylen Warren ready for expanded role in Week 3 &amp;nbsp;&amp;nbsp; NBC Sports</description>
+    </item>
+    <item>
+      <title>Adonai Mitchell (finger) remains limited Friday - fantasypros.com [Adonai Mitchell]</title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV0ZVajA5UWNiSmVPa1k2aTRMbGNXMzRfU2U0R3RRdTlqSUtkTzliRFBFVzdkb2w3eEtDZDlVWlE0NGRUT0FHUldReUxuZU9MYmxLeTZwRUFCaEZ1WkVTalZOYjJpSUdFcDlrNEZVV0RNV0ExcW1MQ3Jwd0xISnZyQjR3NlFhX0pxYU9VMTBvSTEtOWxjY1U5T3ZBX3F6SHJoNTNGVXozZnJWOXlNRVY0NzRhYXNscHBrZ3E1UXpTeUZvZEZFT0plUmtSb1Vua0ZiN3fSAZ4BQVVfeXFMTVRaTWUycHRiV3ZYSG5Ubm9RMUhBNTRoQ081NG8xQm5YWXFpcmxHZ1VxM2ZTVld0eWtVVHlzUHNJN01XWHlaWC1IMGpaRnBhTi1iTnVSRmZkVnJfX2gzbG0wNm1RZTBkcHBydUQyalpTV290NmE4cWZTa1dTcjhHVDZiY0ZMSS1hajZmVDJOUzJOeE41clRMaGZMX1BvR2c?oc=5</link>
+      <guid isPermaLink="false">7d96095c57f8f4f4</guid>
+      <pubDate>Fri, 25 Sep 2026 14:47:06 GMT</pubDate>
+      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
+      <description>Adonai Mitchell (finger) remains limited Friday &amp;nbsp;&amp;nbsp; fantasypros.com</description>
+    </item>
+    <item>
+      <title>Adonai Mitchell Injury: Limited in Friday&apos;s practice - RotoWire [Adonai Mitchell]</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPTm1rNGlSZVBqU0JkeEI1RGVUZHY4a3BwaHhCMEROWmVCX0F5ZGpsUlZoUmtma21GM1hUcy1yNkhBS01oM1RkbEZMWVdmZzRYZ0NvRGQzNmgxbTcwUElnWUdaaVE4cC11MktVLTdJLVR1ZzduRXAyZHpOOUtBWHB6VWRaR2x3cUVaWVNJbU9INTBaUTBoNFJkbkdpQU50ZFNSdHBJ?oc=5</link>
+      <guid isPermaLink="false">11a008553c64c8e8</guid>
+      <pubDate>Fri, 25 Sep 2026 15:15:19 GMT</pubDate>
+      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
+      <description>Adonai Mitchell Injury: Limited in Friday&apos;s practice &amp;nbsp;&amp;nbsp; RotoWire</description>
+    </item>
+    <item>
+      <title>New York Jets No. 2 Receiver Adonai Mitchell Has Finger Injury - Athlon Sports [Adonai Mitchell]</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWl4VDJZZWU3MDZOUWVuY1ZnNEdWR1RGUllpZllMZTQwZ2w5eThlWVlsdS1VV18ySFBlS01nRjgxVUFGY0pkVmNSN0pZTWRDQkJQN01wRVNBd3VkRFBpRmhRaEd2OEgyekFWNkRkcWVpUXN6elB2NFh2bWJkZWZaMlpGams0SzU2?oc=5</link>
+      <guid isPermaLink="false">0e25c48f36d02b86</guid>
+      <pubDate>Fri, 25 Sep 2026 16:14:41 GMT</pubDate>
+      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
+      <description>New York Jets No. 2 Receiver Adonai Mitchell Has Finger Injury &amp;nbsp;&amp;nbsp; Athlon Sports</description>
+    </item>
+    <item>
+      <title>Jets&apos; Adonai Mitchell: Limited in Friday&apos;s practice - CBS Sports [Adonai Mitchell]</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOUU5Eci1RbGl5SDdrT2FOZzctV3lEczZmaEJGbWh2OVc3Si1lTE9aNmpUS0RWZjdfbWR0Z0NWbWMwVm5oY2lILWUtNTB1Q2h3NG5pZ1gtZnVtV2dJSjJoSUhJZk12c05uRjNESXNGLWVBendUemV5eU1zVDd2Q2xRc0d2aDhCTlBVRV9kNmluOUpGcTV4T3RzaWhaN2FyQQ?oc=5</link>
+      <guid isPermaLink="false">a2fd39a82aee3358</guid>
+      <pubDate>Thu, 24 Sep 2026 20:50:12 GMT</pubDate>
+      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
+      <description>Jets&apos; Adonai Mitchell: Limited in Friday&apos;s practice &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Chig Okonkwo Unlikely to return for Week 3 - Fantasy Footballers Podcast [Chig Okonkwo]</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPZE9haGtsRFBzeGRVVGl2cmRLdzNtelZyc3FGemp3MjFZaV9tNnRobHpQQUxPN2M0RGxxYzNXaXdxcm0tLTRzVVFFTnd6Y0xtWVBheVFDQmwzdmN2S2ltVkM0YW5QcU5Uc1FaLXl1U3BWMFJHbjQwS0xjZ0hkSWdEM2UzalVrTDVqdUhCSmlGRjMzS0oxUmh5d0VqZllRUEk?oc=5</link>
+      <guid isPermaLink="false">d52ec74edd9a774f</guid>
+      <pubDate>Fri, 25 Sep 2026 15:31:40 GMT</pubDate>
+      <source>Google News: Wilson, Dell, Higgins, Hutchinson, Okonkwo</source>
+      <description>Chig Okonkwo Unlikely to return for Week 3 &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Chig Okonkwo (hamstring) unlikely for Week 3 - fantasypros.com [Chig Okonkwo]</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWVHNEJvUzBZNVd4WEhNeF9FOElDUGFiVlkzT0dOT20tNVdTNXFwNkx1Tmp0SEtfSElINS1FWmlaT2hIVS1RTWJmeVc2TGtUcktCcWdmNkJ1MzBmeXJfeVgxZlNiYlBXWlpncTI0SWdyMG1RTnVMd2J0bXZITTJNdExwaWZ2Q0ppUXNySmtqRdIBlAFBVV95cUxObGVSWGV5QWRxRUxvQ2tNM29lODlaUmk1Q2ljQ0d3M0hHaW1oS2tVY0RmaG1pUG1tSWxiNzQweFdzcnd0dmNVWXRvTHdoTW51VDN2MDM2YUVHSUljb3VjeVFwNUtVQThMMTJCTW0yY1hlRUNVeXQydk5GcF9rb1doZTk4bzVRVlBMZWpnZEwwSlI2a0VF?oc=5</link>
+      <guid isPermaLink="false">002a9ac900b30582</guid>
+      <pubDate>Fri, 25 Sep 2026 14:34:47 GMT</pubDate>
+      <source>Google News: Wilson, Dell, Higgins, Hutchinson, Okonkwo</source>
+      <description>Chig Okonkwo (hamstring) unlikely for Week 3 &amp;nbsp;&amp;nbsp; fantasypros.com</description>
+    </item>
+    <item>
+      <title>Commanders&apos; Chig Okonkwo: Unlikely to return for Week 3 - CBS Sports [Chig Okonkwo]</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxObHFQU1Q2TmxKMENPdUh2enRKaG16dF9LOVJzOTIzR2lMY0ZXUkUwSVAwbHFlNU93NTVNSWpzT05zdnlCU1c3X2lzel84R1hHS3NZR2FQWEZNMzhmcm5mNF9hM0pTTXMxdXR6bkZNOXJGbzEzbWFqRFFSWG96WVJTeTI5SG1Iekc4Q0h4NUJZMDlxRWY3aVgtOWRwOFVzb2FrZjRFQg?oc=5</link>
+      <guid isPermaLink="false">3b471d1f251a6bd7</guid>
+      <pubDate>Fri, 25 Sep 2026 15:24:33 GMT</pubDate>
+      <source>Google News: Wilson, Dell, Higgins, Hutchinson, Okonkwo</source>
+      <description>Commanders&apos; Chig Okonkwo: Unlikely to return for Week 3 &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Steelers&apos; Joey Porter Jr. takes savage shot at Bengals&apos; Ja&apos;Marr Chase, Tee Higgins - Steelers Wire [Tee Higgins]</title>
+      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWThhcUdlQXNaVmowN3FzSVJ0V3Z3TUtBVTdvaUlIRURGSlZNWTlqLXQzT1h5cC1QRXVBUzZTM0hxbVBkVEpuaXJYcHc0MlRHVjhoNHpPajNlNHY4a3hOZGwtRFU4aWowODlKdE9Nb0paUlB6V21pV0VBN3dmTjhsdDAtUHM1ZS0wNTBNR2ZMSVhxZHZ6VjNEaVZtMVVIdmRBOTlMN1NtSUQ0ZUk5TzBLLUhmSUNMclZoUHpmOWg4aksxNDR6VUpuYXJTV0xpWHI1NTFlWGE4UFRPVnc5VTdmcw?oc=5</link>
+      <guid isPermaLink="false">0c3ce70aac87da9e</guid>
+      <pubDate>Fri, 25 Sep 2026 14:42:00 GMT</pubDate>
+      <source>Google News: Wilson, Dell, Higgins, Hutchinson, Okonkwo</source>
+      <description>Steelers&apos; Joey Porter Jr. takes savage shot at Bengals&apos; Ja&apos;Marr Chase, Tee Higgins &amp;nbsp;&amp;nbsp; Steelers Wire</description>
+    </item>
+    <item>
+      <title>Chig Okonkwo a Long Shot to Play in Week 3 - NFL News | Fantasy Football - RotoBaller [Chig Okonkwo]</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQci04N1F0NXEyelV1cmpDNlhyaENwU29aNFhnR1VYb3pPRXFmMWJHSEhpTnJtYW55VllBTVpuVEhjbVNyN09Nc0czTjItajNtUEFQUUo2VDQybVRYenZ6ZmMxYTBETXRiaGE2a3NFYjJOSU9aMmdQRFk2S1JwbXc2NVlPOU1WM0dGNlpHVnlOOWMyRTg?oc=5</link>
+      <guid isPermaLink="false">1b8667035a441154</guid>
+      <pubDate>Fri, 25 Sep 2026 13:18:06 GMT</pubDate>
+      <source>Google News: Wilson, Dell, Higgins, Hutchinson, Okonkwo</source>
+      <description>Chig Okonkwo a Long Shot to Play in Week 3 - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
+    </item>
+    <item>
+      <title>Tee Higgins Breaks Silence on Bengals Celebration That Landed Him in Trouble - Yardbarker [Tee Higgins]</title>
+      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxPSG9UVzFyd2YydlJfQzRJVUxNUnl4dTJBekwyRkNJQXlGcFBteXhtUnVCZFRJVk1nMGlYUjRnTkVOb0F3MElDV1h2alFPcVVvUnFPRzlZY0ZIQlJ3eGxiOE15LWQ2WlRYd25ycFRpQVBfTWhjeVU4VWFtZVE5T28zUEhmZE9tMktBRkJwdnI5RzUxanRRVWpnd29zV3hzQ2NyNFlrcjVQVHpCS2pSZWxianRHVjRSaGw5enYzOUpOc3l6dFRPQTdGQVpWVkpLUFE?oc=5</link>
+      <guid isPermaLink="false">ddc2059c08582b48</guid>
+      <pubDate>Fri, 25 Sep 2026 14:44:25 GMT</pubDate>
+      <source>Google News: Wilson, Dell, Higgins, Hutchinson, Okonkwo</source>
+      <description>Tee Higgins Breaks Silence on Bengals Celebration That Landed Him in Trouble &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>Jets TE Mason Taylor (thumb) ruled out vs. Lions - Field Level Media [Mason Taylor]</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUZkSC1hZXo2b2YyNW5iZE1PQU1nRllfeHJXYUZyNTB2VFJTdThaR1NoYTdYMUhCTFoxZ01nZDFYVGZveFdwSnNOOF9hN3JtQ3NsMVhiSzlTVGU0SHB4NTNGWDJ5aWc5c2YzNUpRenJEUWRQQ3V0MkhYUGhRWXVoZDkzYUZmQQ?oc=5</link>
+      <guid isPermaLink="false">b4a2f0bd815f6233</guid>
+      <pubDate>Fri, 25 Sep 2026 17:20:30 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Jets TE Mason Taylor (thumb) ruled out vs. Lions &amp;nbsp;&amp;nbsp; Field Level Media</description>
+    </item>
+    <item>
+      <title>Jets&apos; No. 1 TE Mason Taylor (thumb) out vs. high-scoring Lions - ESPN [Mason Taylor]</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQMW9ZbVp3ajdqT29abkpvVG51U2VJcmxZLWUxcm9NVktVb3NnbVVfV3ZlWU82TElfaHI1ZFhEMDdyZ3ZvLTBNdjVXWUhaVWFHQ3lGM3dzb05Xd01yWEdMS1BEZDIyV1FldEplYUlMVFJTaHFtdGtfNWxMX3d2aHV2QkU4RXdmcXVnbWRiRi1ibFFlcklsVGg5ZVdHcHJ5cVU?oc=5</link>
+      <guid isPermaLink="false">71d19569adaa4566</guid>
+      <pubDate>Fri, 25 Sep 2026 16:01:00 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Jets&apos; No. 1 TE Mason Taylor (thumb) out vs. high-scoring Lions &amp;nbsp;&amp;nbsp; ESPN</description>
+    </item>
+    <item>
+      <title>Mason Taylor Ruled out for Week 3 - Fantasy Footballers Podcast [Mason Taylor]</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWJQakVqX0ZEeGg0U0FudlZmU3p0SExmMnpSNzhZR3k3aTRtc1lnZ29SbzZ5NkVPUjQzQURlNXpDRmU3R29UWnhVNDhTN0tBNG9vaXU1TlJzcVd1aURCWFRoLU9UcGpSRGRtYVVZM0QxRkpYX0NMQkdYenFldUtLVU9GTy1oZzJyZkU0OQ?oc=5</link>
+      <guid isPermaLink="false">a70a3ce934133f78</guid>
+      <pubDate>Fri, 25 Sep 2026 15:25:47 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Mason Taylor Ruled out for Week 3 &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Mason Taylor Out For Week 3 - draftsharks.com [Mason Taylor]</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXhkOV9Fd1lIdjVhN1ByLTdaRXUzeVBudV9XRUQ0b3RmMTZDTnh2UXlPR1pKUFl3X3BHUDh0VEVOaDV5Z2tmSzN4SnFvY0NXOUdES3I3YjJxLVgtdDFlbzZqOFRZcDN3NGRqLUxrZ3BIOUVVVF9kSm1BSnBvTWtUZWpIb3I2NmZmWnJz?oc=5</link>
+      <guid isPermaLink="false">f76bd135769b0bd0</guid>
+      <pubDate>Fri, 25 Sep 2026 16:31:16 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Mason Taylor Out For Week 3 &amp;nbsp;&amp;nbsp; draftsharks.com</description>
+    </item>
+    <item>
+      <title>Dallas Cowboys&apos; Jake Ferguson is Latest NFL Star Fined For Harmless Celebration - Sports Illustrated [Jake Ferguson]</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcXJESlZyY2VMSVpVUHVKamRxcTV4bnNvSk5wRlZoWDl1UHA2ckl4c1dBRVlWa2hNSGdVUEpPazRsLTViQkhBTGd3TGlwMWZ0Zkw1clctcWlRcXZsaDFxU3Q5QW02WUJGcVJOM0JKLUlxR0RzSUNuRmpBWmEybDhneEhNQ2NHZGZJWUdjcnhLbDQ3REpsb2ZfTGtGZTN4NVlBTUJMZWljN3Fock0?oc=5</link>
+      <guid isPermaLink="false">f34bdbc044683852</guid>
+      <pubDate>Fri, 25 Sep 2026 16:01:42 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Dallas Cowboys&apos; Jake Ferguson is Latest NFL Star Fined For Harmless Celebration &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
+    <item>
+      <title>Jets&apos; Mason Taylor: Ruled out for Week 3 - CBS Sports [Mason Taylor]</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDNqRi02NDRPem9ITm5hX0Q1NWJlY3JJY3VOOGRyRlpGUnRMTy1tZm50OVZxOHpvV1I5dG5TRzJMUWktTnNfc3RDNTVIUGFHSi1JYy10aUJwMXRib1JoYkhEQ2VaTzB3NHhkZFhRdnNGV3J1dW44UV9uWjFGSTVvZFJael9RcTNlZ3NZLXFObDU?oc=5</link>
+      <guid isPermaLink="false">5d0ce232cfaaae32</guid>
+      <pubDate>Fri, 25 Sep 2026 15:17:58 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Jets&apos; Mason Taylor: Ruled out for Week 3 &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Cowboys&apos; Jake Ferguson Fined by NFL For &apos;Imitation of Shotgunning a Beer&apos; vs. Commanders - Bleacher Report [Jake Ferguson]</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRzVjcDZrOXFSdjRLbTNhR05oM3RHWWJfb2gyekgtT21XeVJFdnJRb0Z5UWx5OGVSeWhQLVZfWWNac0RObXc3TkFQOTlmTnYwTkcxQXQ1TEo4dXBweWZ3NVVaaGVjZ3V5cS1Ocmo5V0J5cGY3R2JFYTRoSExOeFc1dGRzN0IzckRhM1NNbVphZnpMNnBJWVI4bEVGc05ySFp1NlFld3RSSUF1eGRsajMzaFpMdUpsNnRv?oc=5</link>
+      <guid isPermaLink="false">55e65c268b42487d</guid>
+      <pubDate>Fri, 25 Sep 2026 17:01:12 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Cowboys&apos; Jake Ferguson Fined by NFL For &apos;Imitation of Shotgunning a Beer&apos; vs. Commanders &amp;nbsp;&amp;nbsp; Bleacher Report</description>
+    </item>
+    <item>
+      <title>Mason Taylor unable to practice Thursday - sports.yahoo.com [Mason Taylor]</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlBnSG5fM2F5UVgzV2dYVE9tZjdscWVlYWZud3hiRHFsb25OeTExV0V5bUgxdVlfdlhNZjV6TjdFTTRiMWJvbU5uX3FjWGFxbTc0QXdDdDJxSDhrVXFJNGtwZXYwTHFtQUVYUmVJMkNWU1E2YndvLXFJY01JQm1wN29FUUw2M05yR1dYR20yZw?oc=5</link>
+      <guid isPermaLink="false">2dd9bfa3779a8a69</guid>
+      <pubDate>Thu, 24 Sep 2026 23:19:23 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Mason Taylor unable to practice Thursday &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
+    </item>
+    <item>
+      <title>Cowboys TE Jake Ferguson finds himself dragged into one of the NFL&apos;s silliest controversies after latest punishment - A to Z Sports [Jake Ferguson]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOSGF3c1piUnQ1anJhN1ROWThkQWJiNllOSk1DbmRUbHJfcjVzRjZFLUp6T2NkTERKSUQ5bmJpM19ITnZaTkJHbEJPaFJsSWhabU94amRMMi0tZmY1Z0xBOEtEM3BlN1I1ZTAyTDBqaTRIdl95d1c4Y0lxSnM2NFNmN3pvMXpGcU16QUNhSklFRUdra3pX?oc=5</link>
+      <guid isPermaLink="false">417c139bed62db24</guid>
+      <pubDate>Fri, 25 Sep 2026 15:49:26 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Cowboys TE Jake Ferguson finds himself dragged into one of the NFL&apos;s silliest controversies after latest punishment &amp;nbsp;&amp;nbsp; A to Z Sports</description>
+    </item>
+    <item>
+      <title>Cowboys tight end Jake Ferguson fined for beer shotgun celebration, report says - Dallas News [Jake Ferguson]</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzcycHJMV2gtcXJOZWQwYTFReDBEQUVlbzFxa3VRb0ROSGpkRmJyOFl0bUM2TGpCTHlxT1d6WmJ0bDA3X244YWVMX2JMdmFYTWNvYnFjZzZqbkVLRjBhb2ROMFlVNjVXMVFSRFNxd3JodlZEblJjR3ZLS3k5WDRTV2JtaFJjMm5kQldUT3JtNHh2SXdwYS11VzN4LVFVbTltV3VyVjhMbXFEOXM1bEk0?oc=5</link>
+      <guid isPermaLink="false">5364e79b74449a57</guid>
+      <pubDate>Fri, 25 Sep 2026 15:37:37 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Cowboys tight end Jake Ferguson fined for beer shotgun celebration, report says &amp;nbsp;&amp;nbsp; Dallas News</description>
+    </item>
+    <item>
+      <title>Dallas Cowboys TE Jake Ferguson Punished by NFL - heavy.com [Jake Ferguson]</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbE9RNk40Sm96cG9iU3RfM21OLVR5TWs2UklUSTlQQ2Q2YnAzSG1RMGdYRkhxM2xtcGRFWFF3ZzhtWHdOQWptSVEzTWtLSTVNYm85TU1UV1RmZE9KUF9oOXh0RjctYnZvZERQZmVoVzZIVnVSSmpqODlqUkZ2NjY1STlkejBtS3hyWVZJ?oc=5</link>
+      <guid isPermaLink="false">5679bd3b94855138</guid>
+      <pubDate>Fri, 25 Sep 2026 15:42:26 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Dallas Cowboys TE Jake Ferguson Punished by NFL &amp;nbsp;&amp;nbsp; heavy.com</description>
+    </item>
+    <item>
+      <title>Mason Taylor (thumb) out for Week 3 - fantasypros.com [Mason Taylor]</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOWFpocTV2VUZ0YlAtdGRQdXk4LV81ZFQyZFlfQkw3M2Q2dFIxOEhmWU4yM0FVNjhWeGJ3TGRBX2RHOE1pWjVrdi1qTXFJNG5yQVpaUmcxWjBuelA1UWZGTWUtY3cyd1dkcnZkSGZtWmk5Z1lwQi1JWE5YZG81QnZzLWNGczJfTEdtTHN0dW9RLWp5R2lTaEh3VS1aSldvODFYUmNPUUgxMWtWZExQS3F5R1JkUFVpamVfaWZPWNIBiAFBVV95cUxQRGlLazJmWWpNcTlNQW1IYnpzSFNBaGZIS2ZBSHQ0ZUtPVGRYUmJvNHo1NnJpMFRmaGhYVW9uRXhEeHlWR3FSZDVFQnhfYkVZNjhTWG1wMkpwZHBKV3ZSb19YSkJWYTUyUDJOZ3VfREpGYkd4WFBQV1V1MEM4N0ZGclRmR2VVYndN?oc=5</link>
+      <guid isPermaLink="false">2adce0a0f6ea7980</guid>
+      <pubDate>Fri, 25 Sep 2026 14:50:30 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Mason Taylor (thumb) out for Week 3 &amp;nbsp;&amp;nbsp; fantasypros.com</description>
+    </item>
+    <item>
+      <title>Jake Ferguson fined over $15,000 for ‘imitation of shotgunning a beer’ - Yardbarker [Jake Ferguson]</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOEgxVV90TlVPa0RkZkRNUERUbGY5U3Z3X1hWdWpuVlVRV2s1RXRkRzlyNnp5bUxnM1lGWkh3eU1tUWhpMUwtSnVoM1FtSmJCWllUS0RNN2ZaZW5ZODF4QmowXzgyWjRoTXc3ZXRBMThUMTByWTRxSDJpdzBINnJuQWdCUUFUTWxidDVTWFU3VE1rQkJOLXBnRnhzcUV6VFYwNlN2TDA4WW9PbkJtR0FfZFlLYzlQVHRiMWcyTHNCWFlpUQ?oc=5</link>
+      <guid isPermaLink="false">73559d121ee78eaf</guid>
+      <pubDate>Fri, 25 Sep 2026 15:31:00 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Jake Ferguson fined over $15,000 for ‘imitation of shotgunning a beer’ &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>Jake Ferguson fined nearly $15,000 for ‘imitation of shotgunning a beer’ - Yardbarker [Jake Ferguson]</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQdldaT0p5WEZMYnhxMzVaaHcwUUY5LXU4bW5ld3pqZmNZMi1nQ05ocTR6OTA0dTBROEtBYUlsbDJUVDFsdFRoNkRjVU4xWnVFcE1QSVhXYUFQbXJZMDA1eWRwbnN2UlhaV2I3cHVHdkkxRXZPY2M3X0MtU2p4Q3FKdUZIMk5nLVlXYWpSU2RBc0lSX2pERU52eFl1Yy1lTTNkZW1rVEduY2NfeE9JU1djTExlUlpMTm9GU1hQaGZxVWNoT2hZ?oc=5</link>
+      <guid isPermaLink="false">823cda2c2beeed19</guid>
+      <pubDate>Fri, 25 Sep 2026 15:48:06 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>Jake Ferguson fined nearly $15,000 for ‘imitation of shotgunning a beer’ &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>NFL Announces Punishment Decision on Cowboys TE Jake Ferguson - Athlon Sports [Jake Ferguson]</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnJ5TEpGYTNWbG1oSndEUzk1ZEczcHltT1JGSXI5SkdQZC1jN2J6b0Z5eDhvN0N5T2FOLURpSkVwMUloSTE5WTc1d0tKRWpvZkp0N0RWOWxmSHZWVDJUaUgweHMtUTFUdEV1UHBrWUZoSHpKOGM3QzhqaWNXR0pMTmYzWUE3cXJZZy1RYlBNemdRcS1GekdvMzJrUHAyMS10THJKVTFhNVdBc0ZJ?oc=5</link>
+      <guid isPermaLink="false">812151e53ccfa28f</guid>
+      <pubDate>Fri, 25 Sep 2026 15:39:47 GMT</pubDate>
+      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
+      <description>NFL Announces Punishment Decision on Cowboys TE Jake Ferguson &amp;nbsp;&amp;nbsp; Athlon Sports</description>
+    </item>
+    <item>
+      <title>Cardinals-49ers injury report: Nick Bosa reportedly out for NFC West battle - Arizona Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPUWFWVDlfdVVSNDUyRVdwM2NIU0Jvb1c1Ni16cmhCTkg1Qm5uTlNFZERSMnpWUUY5aElhNlEtd1ZfMjBQaXdoSFpueG1MclVxMm0ya292R1RNWDVPQW5YSVpqanpZYnQ0UVpIMXE5NGVUeUNxNWhkN0VQWU5vNVJOTG83cndXSmJ2RWFzUW1fazc?oc=5</link>
+      <guid isPermaLink="false">41855bdee6fb5c9d</guid>
+      <pubDate>Fri, 25 Sep 2026 16:45:22 GMT</pubDate>
+      <source>Google News: Arizona Cardinals</source>
+      <description>Cardinals-49ers injury report: Nick Bosa reportedly out for NFC West battle &amp;nbsp;&amp;nbsp; Arizona Sports</description>
+    </item>
+    <item>
+      <title>Bengals stars Ja’Marr Chase, Tee Higgins fined $90,000 for ‘people’s elbow’ celebration - New York Post [Tee Higgins]</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDVvWUgza0dBRjlDWWJfd0VCNTc3TjlsOTNXYk0yZDBGMmt3SnJwclNXY3pYUFNrSmhGQV90T2VvamJpcXkzeklSTUM3Rks0RjBwMGlDdlVRZ1NUQkszOFhFRXJ2VXRBU2lEY0w3ZHYxbG1HX3lsU3p0R0RLU0tDVGN0THlTZ3k1WUhyUDBWWTcwWVdPRkp3N0phNG9zSzlCV0lWZlpUUzd3OTlqUjF5cTVhY244UFNuNHc?oc=5</link>
+      <guid isPermaLink="false">e549eaf11bf78505</guid>
+      <pubDate>Fri, 25 Sep 2026 12:48:00 GMT</pubDate>
+      <source>Google News: Cincinnati Bengals</source>
+      <description>Bengals stars Ja’Marr Chase, Tee Higgins fined $90,000 for ‘people’s elbow’ celebration &amp;nbsp;&amp;nbsp; New York Post</description>
+    </item>
+    <item>
+      <title>Browns vs Panthers Week 3 injury report: Key guys among 4 ruled out, 4 questionable - sports.yahoo.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1yNkM5TVJZdXB6bXpOSVBjYTlxV092ZTR3VVV4ZFFhUGFiNDdHRl9WaXVHRmd4YmNRbi1Qd1FPVWxrQ2JpVzdlMEM0NmFSV0l0ZmxBbzcwTnl0dFNDZm9Tc2MwckRFSmRrdFRjWXBEeE5iYWVwbjVKVzh5RXItNmc?oc=5</link>
+      <guid isPermaLink="false">112912e9032523d8</guid>
+      <pubDate>Fri, 25 Sep 2026 17:37:37 GMT</pubDate>
+      <source>Google News: Cleveland Browns</source>
+      <description>Browns vs Panthers Week 3 injury report: Key guys among 4 ruled out, 4 questionable &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
+    </item>
+    <item>
+      <title>Panthers Week 3 injury report: Top starter ruled out vs. Browns - sports.yahoo.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxONU1DNVJEMmlNOXZON3dLTmhjYnhVajdZeVJ6YkVZSjBYejNkdXotc1cwMmFTbGdNa1hrcUtYZ1hoY2hWVERHNFp0ZVFRaUJtVTIwMnZZUUdFUEg0Z2Z6SXdKM01SbzB6Z3NQQkw3SE9lZkRQVkpJdXBVSDh0a3BNOFZrdmU?oc=5</link>
+      <guid isPermaLink="false">21ad60c63c344840</guid>
+      <pubDate>Fri, 25 Sep 2026 16:34:29 GMT</pubDate>
+      <source>Google News: Cleveland Browns</source>
+      <description>Panthers Week 3 injury report: Top starter ruled out vs. Browns &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
+    </item>
+    <item>
+      <title>One Key Takeaway From the Chargers Latest Injury Report - sports.yahoo.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnFaYjFuU1BJS3pQU2VHRHRPQ0hIajZBbnhiZzNkbnF5ZjlDZkZwYVBOU0lVMTFXNXUwcElnaHhucEgtODNtZHZ2cExRVWo5NnVNRnhhdDFZRlpjcmNadC1uWUFzMnpzOUVDcWllcXhYNElqSlRuTzQxQVBpUnhzbFpDSmtlM2dx?oc=5</link>
+      <guid isPermaLink="false">57373e8d79aac04e</guid>
+      <pubDate>Fri, 25 Sep 2026 12:00:49 GMT</pubDate>
+      <source>Google News: Los Angeles Chargers</source>
+      <description>One Key Takeaway From the Chargers Latest Injury Report &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
+    </item>
+    <item>
+      <title>Miami Dolphins injury report update: Is Caleb Douglas playing? - sports.yahoo.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVhvZ0NvR24yYmFGcXR3MTVUUndCdVNHX2pOR3c5R1RNTVRVWWM5VnJNRkpkbnJmTWZnTGw5d3FENFdwU1FYLVo1dlRXTV8zNERhUHlkOEJaVnBLSmpVZ3J5WWdORTlUVG04WTFVS2tIcFBuZVRETVB0eUtDUWEzLXVFNkpmSjFtNVBR?oc=5</link>
+      <guid isPermaLink="false">eee41d85e2a13ab3</guid>
+      <pubDate>Fri, 25 Sep 2026 14:49:51 GMT</pubDate>
+      <source>Google News: Miami Dolphins</source>
+      <description>Miami Dolphins injury report update: Is Caleb Douglas playing? &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
+    </item>
+    <item>
+      <title>Kansas City Chiefs&apos; Thursday injury report for Week 3 tilt vs. Miami Dolphins spells good news for Steve Spagnuolo&apos;s pass rush - A to Z Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFZqU0pweVYwblo0MHlfcjl4LWNTVWFPd2k2TGtBdWZ0ZWtUUVNkaFNZNFJMSWIyWU9kb29UTDR4bmFMWW1YblNvMHBKendfclZ4eDdPUFdqUXZWNmM0MEMxd3JTZGVXU2djQndrUmtUNUw2YW1RSDAtdkYyTURBYm5zRTdQQnBGdDJ1cmZneXc5c2NtQVNlWk1CaFlXU28yZDkxalVrUUJnZ3BFYW1hU1ZXWExncVdiWHBtRlFoUlRDdF9jSVFvZGVaSW1lbDhoT1pJQk9sM21Ub05KTXc?oc=5</link>
+      <guid isPermaLink="false">bd842bb5836c57e1</guid>
+      <pubDate>Thu, 24 Sep 2026 20:50:41 GMT</pubDate>
+      <source>Google News: Miami Dolphins</source>
+      <description>Kansas City Chiefs&apos; Thursday injury report for Week 3 tilt vs. Miami Dolphins spells good news for Steve Spagnuolo&apos;s pass rush &amp;nbsp;&amp;nbsp; A to Z Sports</description>
+    </item>
+    <item>
+      <title>Patriots-Jaguars injury report: TE Eli Raridon questionable for Week 3 game - Boston Herald [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWVwQTU2X2I2eVRnMmU3RUhjNzdxTzhmOWpfRnlDY01jSlQwbFJqclBSN0xnUjBBSEp6OFNRbW1Kb1BfVkxubUpOOGJyYTI5d0lMMWNEVUFCQlZRZmlMeHFkQmVWTW5YbEFILU0zaGRxaXo2QzdjaUNfRlFqVnZrMlBYVk9HQU5FZHlXT3FORUlIUzduNGFDS1RZbV8wTC1HX2RQZUdIRTUxbENZeHlMcmFybHpsQQ?oc=5</link>
+      <guid isPermaLink="false">4d1a752f06fafbb6</guid>
+      <pubDate>Fri, 25 Sep 2026 17:35:13 GMT</pubDate>
+      <source>Google News: New England Patriots</source>
+      <description>Patriots-Jaguars injury report: TE Eli Raridon questionable for Week 3 game &amp;nbsp;&amp;nbsp; Boston Herald</description>
+    </item>
+    <item>
+      <title>Jaden Keller (Tennessee High) back with New York Jets practice squad - heraldcourier.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNX05hV1dldjd6bEJHdjlPLWxseWlaRTdCMG5sby1pVEVxRC00UlFpYWFka1ptVWVVLWhvY2VOYk94cVVQcXlyZVFVaDNvNWNYeFFBSE1qYng3Qzd2Y2pYekFydmFIc3N6ODJWT0pjRE9kVTJGZC1MR3RLV1NXME8tUWczZXM3RDFzdUZwaDhGOThXNUZvbmFBOHNkQ1R0eFpEUFpqYlhR?oc=5</link>
+      <guid isPermaLink="false">d136867fc8c19c32</guid>
+      <pubDate>Fri, 25 Sep 2026 09:12:00 GMT</pubDate>
+      <source>Google News: New York Jets</source>
+      <description>Jaden Keller (Tennessee High) back with New York Jets practice squad &amp;nbsp;&amp;nbsp; heraldcourier.com</description>
+    </item>
+    <item>
+      <title>Commanders QB Daniels avoids injured reserve from dislocating elbow - upi.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOU0t0aXU1dXZwMzR3ZDJmX2JUWFdic01QYkJWZmQ3V2x1b3ZEODVKeVV6YmU2dWU2UXp4LXhMS2pVTld6ZWY4eXBTSkE0U1JacUhDUGNmZkJGdWxtSkxvVnBTZEt2ajZucG51NnlLaG9lVVhWVmlnZHlONndES09saEkxQnY2eC1VOXVWenpKUXRxU1lQZVhkSmU5ZGRQUQ?oc=5</link>
+      <guid isPermaLink="false">c11520a0d5facfcf</guid>
+      <pubDate>Fri, 25 Sep 2026 16:25:19 GMT</pubDate>
+      <source>Google News: Washington Commanders</source>
+      <description>Commanders QB Daniels avoids injured reserve from dislocating elbow &amp;nbsp;&amp;nbsp; upi.com</description>
+    </item>
+    <item>
+      <title>Jayden Daniels Will Not Have Surgery And Not Be Put On Injured Reserve With Elbow Injury - TigerRag.com | [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1dFZmNKbkhCWUNYX2ltQTcydE9fWmVHMTNQLWg4cThkT0ZadXE3bTZKVUZ5cXFERE5YaHItTG5NTHZXNUw3MGpOWTBKajBBcDZQTEw1ZWZPcXF1T2hfaS01UkxKTUU1cEJvM3djSVFJZ2NxYnByM1pJck9UWDlZd3M1djBKVVp0SHdCUnZSeTN1d2RkbjltcWZzMnBtdlpMWWZhUTFqdmZ6VTQxaWdxNWlGekM?oc=5</link>
+      <guid isPermaLink="false">bce11f250edab163</guid>
+      <pubDate>Fri, 25 Sep 2026 16:20:34 GMT</pubDate>
+      <source>Google News: Washington Commanders</source>
+      <description>Jayden Daniels Will Not Have Surgery And Not Be Put On Injured Reserve With Elbow Injury &amp;nbsp;&amp;nbsp; TigerRag.com |</description>
+    </item>
     <item>
       <title>Can Justin Herbert lead Chargers out of funk? Coaches, teammates believe he can - The New York Times [Justin Herbert]</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNenE3S3RaZjNobjhaNEpKWm5FS3hWVWI5U0s4TXpfNFUxMlV3cEJfY280NFNCR1FvU1FPVDZjRFFLZVRNUUVMN2U5UWc3enpWZjR4aVVmQm5kZGFyaU53SDFEZXROakc0YUdGVDVmNENpVktKZFF6SkFlMHpBcTl6TmJlWGlpZXVUMXVObnotQkg?oc=5</link>
@@ -9127,486 +9607,6 @@
       <pubDate>Sat, 05 Sep 2026 07:00:00 GMT</pubDate>
       <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
       <description>Saints HC Make Stance on Travis Etienne Clear Amid Alvin Kamara Injury &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Justin Joly Career Stats - NFL - ESPN [Justin Joly]</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE50dFhZOEVrc3FhVHQ3VDNoM3R0SWVYX2xpS0dvTlVYTjRfVW9oQnlUNXZya29wcnA4dXhScnV2XzVxay1hWEhjeW1fMUlsTGxYWlktcC16UjNjVVRxYXRFQ29GTDZFLVdrZ29PbWJITQ?oc=5</link>
-      <guid isPermaLink="false">75236b7894e1d480</guid>
-      <pubDate>Sat, 25 Apr 2026 21:12:59 GMT</pubDate>
-      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
-      <description>Justin Joly Career Stats - NFL &amp;nbsp;&amp;nbsp; ESPN</description>
-    </item>
-    <item>
-      <title>Mason Taylor just gave the Jets another reason to believe in a 2026 breakout - The Jet Press [Mason Taylor]</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0dlN2tURGFrc1NSOUpaZmczdlRUTXVoNWxCT1loMktBSkFXUE04aTlRelJibmhCMFZ0OFhCdkptaVNJWkM3REdIdWhmZE5FSDZZMTB5emZRcUZ5cjM0RzNxeHJXMEpOSW1wY0NkVzdTa3IwSlBzMk9rbkJ0RTh6Znl2bG5Kd3JqUV9oX3YyNWlPQ1J5dUd5b0lFeWtTNDJTRUY0?oc=5</link>
-      <guid isPermaLink="false">21101e0d1e924534</guid>
-      <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
-      <description>Mason Taylor just gave the Jets another reason to believe in a 2026 breakout &amp;nbsp;&amp;nbsp; The Jet Press</description>
-    </item>
-    <item>
-      <title>Justin Joly 2026 Stats per Game - NFL - ESPN [Justin Joly]</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE5ucEhJNktjNTV2TjktZ2I4MnJIUFlVdUFJcFhnaG92bk45Wl91blI3QlBjVkhHNlljc0xHRWlaUXZrQlUzdmplQ2pYd01GdE93cVEwVWQwaXZ6a0R3SkZqUzVmMFdKWHR4eUhRd21EOEpBZw?oc=5</link>
-      <guid isPermaLink="false">0ea144dc2a569954</guid>
-      <pubDate>Sat, 25 Apr 2026 21:12:59 GMT</pubDate>
-      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
-      <description>Justin Joly 2026 Stats per Game - NFL &amp;nbsp;&amp;nbsp; ESPN</description>
-    </item>
-    <item>
-      <title>Denver Broncos rookie tight end Justin Joly brings unmatched competitiveness - Mile High Sports [Justin Joly]</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1ZaaG5lQ0VDWnJXQmlYUHAxbW5mdTBfbGlVRmduN3hpV3ROaE14TDVIREFqbF9fSXkyYVNsZmNZdWp5YkNScnAxUTJLSnRLUFFpUWNCQWtNRGpCRVRzN0N5RTZaRTBtRGM1X1dCczJDNGtJV2ZxWmdhLVBnUWNoSnhibVhYTzN1V1UxbGJCcnJHWWFfQ05UOEhEUjhWOEN5U0NXVXY4NNIBrAFBVV95cUxNMU80UnhXMDZNWlVfUmtscndNM0d0MnpfSnlIc1pqbEZad21sX2tlb2NOX0RsYXM4aGFIOUxrWHFmVmEzeW1SSDZSVlBkdGFLU2JNLUEzTFJYbnQ5UEI0V0hGUnlvdC0tSDhVd3EwMHZXZW40d1Y1SFRBQUtGZmU2SzZpeXVHSm1HeDk5U0c2cmN6SnV3THR1b0w3dkFKVC1zZEktVmJock1FczNs?oc=5</link>
-      <guid isPermaLink="false">761aa1a02599729a</guid>
-      <pubDate>Wed, 06 May 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
-      <description>Denver Broncos rookie tight end Justin Joly brings unmatched competitiveness &amp;nbsp;&amp;nbsp; Mile High Sports</description>
-    </item>
-    <item>
-      <title>Former Browns tight end carted off with injury - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnZWRDk2VXdXOWRkdzBtVC1CRXd2NEpkUi0zYV83cDB5dUVpbU5GTDdkb0lZZzItNGF6TzVpSEdGWFpkY3pPOW12YnhBTEdmZnE1Ym5Ca1ZWWnI0amlXbXZrRTI5VnhROGpMNVQya2kwSm1IbWpVUzNSV2Y2SU1zWjNoZFhMZw?oc=5</link>
-      <guid isPermaLink="false">f75dc00aedd92c1c</guid>
-      <pubDate>Sun, 20 Sep 2026 21:22:07 GMT</pubDate>
-      <source>Google News: Cleveland Browns</source>
-      <description>Former Browns tight end carted off with injury &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Cleveland Browns vs Tampa Bay Buccaneers NFL Week 2 Live Updates, Highlights and Analysis - Bleacher Report [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxOMXZVS2tDR0VYYkNNcndmenpzd1JJdEZ2Nno3cTJibE9CU1BFWS1SZHg4TkJ2elJFNDB1SXpFTjc4Y1Z1Rkw3LVRQekhxeUJnODJaemhES1FSU3ZkbTlQM2d3NGVLYjk3SU5xRmMtZTY4ejVUTVFfTmt6bm95ZXg0a2piWGhuNUMzQVNkZVZnLVl6clhkdHA2SXFvT2JsUVpSbzRTVU41RldxSld5V29xMVRnOWktYThzT0c5c0ZHZnZ0LVdSbFhEMVFrX0hlbms?oc=5</link>
-      <guid isPermaLink="false">3736dc731805910b</guid>
-      <pubDate>Sun, 20 Sep 2026 21:22:30 GMT</pubDate>
-      <source>Google News: Cleveland Browns</source>
-      <description>Cleveland Browns vs Tampa Bay Buccaneers NFL Week 2 Live Updates, Highlights and Analysis &amp;nbsp;&amp;nbsp; Bleacher Report Browns vs. Buccaneers temporarily suspended due to inclement weather &amp;nbsp;&amp;nbsp; Cleveland Browns Just when the game reached its biggest moment, everything stopped &amp;nbsp;&amp;nbsp; AL.com</description>
-    </item>
-    <item>
-      <title>Demarcus Robinson injury update as 49ers WR carted off vs Dolphins - USA Today [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcE5qZFZGNHRaR1h3Zl8tUlkyeEFlRUVqS3BQZkpqdGt3MThZb2lIYWR2d2sxWkY0U05Ca25hQUxPWC1TVmxFa01ENDdZb0k0UlFFSnExdE5XZENZc2Y0ay0tTV9CZVdZcEVqeVlNc0lVTUVvUENxdzRFU0ZRNm11Y0tlVUVtaThMbXFTUnlxNVF3Sk9hR0Z1enhiUUQweE1uMWVDTVM4V2RKZVRUU19VaEpLdXlnV3ZHcUloQkZ5VVg5N2J6SlVCemdXNC1vUTVnZW5j?oc=5</link>
-      <guid isPermaLink="false">6ef9171e91adad82</guid>
-      <pubDate>Sun, 20 Sep 2026 21:34:00 GMT</pubDate>
-      <source>Google News: Miami Dolphins</source>
-      <description>Demarcus Robinson injury update as 49ers WR carted off vs Dolphins &amp;nbsp;&amp;nbsp; USA Today</description>
-    </item>
-    <item>
-      <title>DeMarcus Robinson Injury Update: 49ers WR Carted Off Field - heavy.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPUC1CQzFUMkkwU2VnWVVOUjVkSFNMOWJGUzZkUFFSX1VHLWNiVHBGaTJVajlZNFpkR2tlaXJObTFiNkhqQlV2d0lCN21WMGlWYXZQbE5hMFJDYV91eXZJZXBsaEEyMk5nelpiOS1qZGpid25Rdjk1X0EyRllvTnpzd2ptVVQxUkZLLW9vSGtIbDVTMU14Zk1yUjllQQ?oc=5</link>
-      <guid isPermaLink="false">967f3b637b3d991a</guid>
-      <pubDate>Sun, 20 Sep 2026 21:34:12 GMT</pubDate>
-      <source>Google News: Miami Dolphins</source>
-      <description>DeMarcus Robinson Injury Update: 49ers WR Carted Off Field &amp;nbsp;&amp;nbsp; heavy.com</description>
-    </item>
-    <item>
-      <title>Bears quarterback Caleb Williams carted off with a right hamstring injury - wandtv.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0Rzb0kyS1ZHcGJEY1hRakdGQlJEUkhDNXREZ0pocDUzVGhHSE9WV2NlaW4xNlg1VGZwWHB2RVVaOXQ0SDh0SkdydXdGblFmWk83OFVNeFE1YkQtcWlzYmVzb1lkdG9YS3lXMGhZMXM0ZnlmZ1dHWHBrN2xMVDJfelRiUVBZc1ZIRjMwcWNjQXptWk9URlJqVFlmci0tVG1oMlFYc3Z0QWpzZ9IBvgFBVV95cUxNdFpXWjVkNmQ4dVZHTnhJbEFtbjZtRkttZ0FUclJVQ0xlb1QyMU5PQUhpSFBFRTBuN0RBUU9MeWhmS3lsWTQ4ekVKT0FrTHdJQThqSTVKOEgyR2ZPM0t2WWFhOGhTd3dqVEpXTU1QTXlDNlNJQm5wVkJkbVdrek96YUpjWUt1c2N2SEM2a3o3NVFTVjJTN2syci1NY1VWTkdkWDU5WkN3bUNqOEJTbTZkU0Npa0R4bG04T0h0anpR?oc=5</link>
-      <guid isPermaLink="false">e2ce425e1147bdf7</guid>
-      <pubDate>Sun, 20 Sep 2026 21:17:00 GMT</pubDate>
-      <source>Google News: Minnesota Vikings</source>
-      <description>Bears quarterback Caleb Williams carted off with a right hamstring injury &amp;nbsp;&amp;nbsp; wandtv.com</description>
-    </item>
-    <item>
-      <title>Broncos vs. Jaguars second quarter recap [Trevor Lawrence]</title>
-      <link>https://sports.yahoo.com/articles/broncos-vs-jaguars-second-quarter-212434911.html</link>
-      <guid isPermaLink="false">6e68b5d6c42d0748</guid>
-      <pubDate>Sun, 20 Sep 2026 21:24:34 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>The field position battle of the first quarter was slowly grinding away in the Jacksonville Jaguars favor as the Denver Broncos offense continued to be completely inept. On the first play of the second quarter, Trevor Lawrence fired a bullet down field for a 22-yard completion to Brian Thomas to get into field goal range […]</description>
-    </item>
-    <item>
-      <title>Drew Lock finds a wide-open Jaxon Smith-Njigba for a perfect 82-yard TD early vs. Cardinals [Jaxon Smith-Njigba]</title>
-      <link>https://sports.yahoo.com/nfl/article/drew-lock-finds-a-wide-open-jaxon-smith-njigba-for-a-perfect-82-yard-td-early-vs-cardinals-205852902.html</link>
-      <guid isPermaLink="false">a3731e44cb6519e3</guid>
-      <pubDate>Sun, 20 Sep 2026 20:58:52 GMT</pubDate>
-      <source>Yahoo Sports NFL</source>
-      <description>Drew Lock seems to be handling his new starting role in Seattle just fine.</description>
-    </item>
-    <item>
-      <title>Trevor Lawrence split sacked by Broncos defenders Allen and Robinson - NFL.com [Trevor Lawrence]</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlBlaHRsbGtwNUM2bm1MNHVDdnRUUjI4ZzNucUVRVWQ5cU9rSUhQcENoR2ZqSGJHR3l6YWVNMDlScklqNF9EQWNKUkUxR3d2d1VYSWdHZmF3WmVfTmpMQ0I0enFyaE9wOWhnRXNVcExXWldQX1lXWjhqX1lwTExQZjIxOERXZG1mdC1Nci1oUE5mQU43WEJrU1lzSQ?oc=5</link>
-      <guid isPermaLink="false">dd3960d85e8b15e8</guid>
-      <pubDate>Sun, 20 Sep 2026 20:50:23 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Trevor Lawrence split sacked by Broncos defenders Allen and Robinson &amp;nbsp;&amp;nbsp; NFL.com</description>
-    </item>
-    <item>
-      <title>Shedeur Sanders’ QB job could be on the line after Browns vs Buccaneers was delayed today - bolavip.com [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXFVWmh4dS1DVjRMQjFJZXFIcm1fNXg0dDBXT0U3djNfUEx6Z1hGcURubjBDeUZoVWFxSW5QMjI0ckdLMXlITGZYVzc4cTFzZkxpRHBMUHUxM3hkOVR2TUVoWGEwSWNPWllsM2c2cWFyanlQMlJ0UHBNaFFYTmtGUktCdFFpSFloQnlMcGZZYW9lVmRPbmdWcjVybWExbTBiU3ZMQ2cyQjRuMy1BNk9BOEFLYTdFd9IBuwFBVV95cUxPbXdDRGF6SzRoY3NEb1ZPbFBRV3V4czBmOEJfM21KRWF2ZDdQaVBhbGZUMml5VmY5YlEzcnNQdFBEUVJEYTdZcHQwSXQ0Y3I4LV9ZRDliM3lDQ0J0NTYzQl9nNnVKRjlkUE40azR5V3dhSFVwNWZUOTNWSmMwaldZNVJraHAyQm1GUVhCVHFySU53OFJTd1dyRlZRYjQtTG1zX3FackRvOVNRVVhDR1NsQzRCQ3FMY3FiRl93?oc=5</link>
-      <guid isPermaLink="false">ade73437e836a017</guid>
-      <pubDate>Sun, 20 Sep 2026 20:18:39 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Shedeur Sanders’ QB job could be on the line after Browns vs Buccaneers was delayed today &amp;nbsp;&amp;nbsp; bolavip.com</description>
-    </item>
-    <item>
-      <title>Is Madison Beer at Chargers vs Raiders today? Latest updates on Justin Herbert&apos;s fiancee from SoFi Stadium | Hindustan Times - Hindustan Times [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMigwJBVV95cUxNZ2FEVWlXME1QYnF5Ty1vSC1FdjdBTzNpVjE4SFp3NFctcGNjX0dKb0hqa0FZVlRNZl8yemk0VmpDSXVNMDN1ZU9Kb0lVNXk5alFkenBybFQ4Tzk4Q2JIRkRJQUNLSFo0ZC03UTZrVzloRGpoRjkwVDhuVU1kNmZSOFlvZ190RjhUN1hvZXRIYl8wMUhGclFJSWdCY0FFS2FZME5CTGR5c21FTVYtVFkyZHpsZDhLRVBzM28xWjhfU3dwckt4RmhjMG5Del9DaUVLTW5pS3VxOHBrUTFZQ3pPVXhZYUdmbVNGOHJvN012QS1EQVNZMVJSVHBtcGNzVEt3b2xN0gGIAkFVX3lxTE52Q29KazRXYWRHRDQzRWlOeUY5LWphQnpSV25zUzBmaEQtQ0FkdnBleEpzRUVFM0Yzcm92cGtYRVl3bU5HNHlZVUdkRFpfdVk1OVJpci1tN3RPWWliZVprOEl4bXdZamVESTNMSl9SY0Zqb1VrZTNGNjAxZXkyaWhhdF9CYjR2YzBLRWlrdXV3RjhLMW9sR29mcmpJaE5zdFByY3Jva2o0eHhrYkR5aW1wbE5DUFRjYzlDNHlCaVRkeHVOVzdxX3RZbmRQd3JaZ0hBcHBhRVlBQm1GeDV0emFaeE9qT2M1cjdyV0hacHpvWW44MGJHYVoyY3g1RkRhdmowUjNwSlc4Mg?oc=5</link>
-      <guid isPermaLink="false">e77ef27df8b56d43</guid>
-      <pubDate>Sun, 20 Sep 2026 20:13:15 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Is Madison Beer at Chargers vs Raiders today? Latest updates on Justin Herbert&apos;s fiancee from SoFi Stadium | Hindustan Times &amp;nbsp;&amp;nbsp; Hindustan Times</description>
-    </item>
-    <item>
-      <title>Travis Etienne Jr. Limited volume in Baltimore - Fantasy Footballers Podcast [Travis Etienne]</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzI0b2dPTFFLVXkxOFFoVUxWZzFjNUtzUGNRX1VRWFZTYlVyWld5dWZVQVk3VG5IMmwyR1BPWVp2enlydGltb29jc2NTTmdjSWpTeTJ0ZGpCVmp2bmNEM0ktYVdDbEJRc2lDUDhJSGd6Y0dHalNDNFNXODB4MkxsRDVyWFFFVElkWDVWZGotMEpNYldLOHRxZA?oc=5</link>
-      <guid isPermaLink="false">7545eb7aac6eb062</guid>
-      <pubDate>Sun, 20 Sep 2026 20:42:22 GMT</pubDate>
-      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
-      <description>Travis Etienne Jr. Limited volume in Baltimore &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Travis Etienne has quiet outing in Week 2 - USA Today [Travis Etienne]</title>
-      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY1RoeG82WmJTSjJVbHVHTnRhRWFFSFZuaGFNTWNJRnZtRFhjLWxlaTRJTTlNMTlBczdqRUNkb3pyT1VaNTAwNXBJTl9qd1NqZXd1LU5nWE9NOFNfQk15ZHF5U2tlcHFSRWl4ZGo3Rm1EdDl0Tlhnamk4OXBCajhpRi1HRzJWZURidVZBMFpmUTYzNWhoSkttT25rdWc1UE9XOUxZeEdmaWQxMmZnNkhtOTRkSUFhcWJQaU5UUjE2Z2FxT0xNRDNIMFZqZTV5YzJtR0YyOG00OA?oc=5</link>
-      <guid isPermaLink="false">ab4690ad4af06289</guid>
-      <pubDate>Sun, 20 Sep 2026 20:18:00 GMT</pubDate>
-      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
-      <description>Travis Etienne has quiet outing in Week 2 &amp;nbsp;&amp;nbsp; USA Today</description>
-    </item>
-    <item>
-      <title>Can&apos;t-Miss Play: 82-Yard TD! Lock Dials Launch Codes To JSN For Longest Catch Of His Career - Seattle Seahawks [Jaxon Smith-Njigba]</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQS1sN1BPNExIa3Nua3d2emRkcG9XNWxQNDNnejBqbG1FSzhESUw0R3NfenFwME5WaXR6MkxSOC1aNzBsYTRHZ3hnNTVfR2RQdDF2R1g3VnV4aGxFMXEyVmEtVG1Cai1xOXhDUFpla3ZmNk1KR19ZUXl5TTB2VHZzZ0x0TWYtdU5zN2J2dV9ZNHpzcVU0MkVhdjQyZDREQmswYWJNaGw5N3VnalZ0OEdFSmxGQTV6LUxQNDFKeENWbDlMR2RldkV5bmR0OUtGUUVmN3R0RnFBc29TQQ?oc=5</link>
-      <guid isPermaLink="false">90025bb7562fc5f0</guid>
-      <pubDate>Sun, 20 Sep 2026 21:02:45 GMT</pubDate>
-      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
-      <description>Can&apos;t-Miss Play: 82-Yard TD! Lock Dials Launch Codes To JSN For Longest Catch Of His Career &amp;nbsp;&amp;nbsp; Seattle Seahawks</description>
-    </item>
-    <item>
-      <title>Justin Jefferson Held in check by weather in Sunday&apos;s win - Fantasy Footballers Podcast [Justin Jefferson]</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQlBicTVtaXRla0w4aUk3NnljQ1A5ZlJUNU4tQmFfbzZoeVh6LTlrQklfaENxeHlCS3ZGZk1iblVDYUxRZXZYbDVNRU9feGZkR0kzSHBlLUhBZjJmSGh6UnVnQ1B1d3RrbzhyVi1vNFE1dUhYTV9pOURIbXlxT0hHdnR2djlTb2J5cjRPUW8xZkttUUgxem55Z05KQVk2bEZYZUVuenNWZzVpRzg?oc=5</link>
-      <guid isPermaLink="false">9a34b45450a9eced</guid>
-      <pubDate>Sun, 20 Sep 2026 21:25:58 GMT</pubDate>
-      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
-      <description>Justin Jefferson Held in check by weather in Sunday&apos;s win &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Seahawks&apos; Drew Lock connects with Jaxon Smith-Njigba for 82-yard TD, taking lead vs Cardinals - FOX Sports [Jaxon Smith-Njigba]</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE52RGFWaTlkOW1TeEJqS1hQYWJiNmZ5bVFuMnF2X0l4aV9zRFhQbjVKNHEwMEpXUGVNLWw5Y0lzQWRvNzAwUEo5ZVVIODFPazhMY0plTUo3QmFxTzl5M2JRSm5B?oc=5</link>
-      <guid isPermaLink="false">76c559281779e3dd</guid>
-      <pubDate>Sun, 20 Sep 2026 20:43:01 GMT</pubDate>
-      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
-      <description>Seahawks&apos; Drew Lock connects with Jaxon Smith-Njigba for 82-yard TD, taking lead vs Cardinals &amp;nbsp;&amp;nbsp; FOX Sports</description>
-    </item>
-    <item>
-      <title>WATCH: Drew Lock dials up JSN&apos;s career-long 82-yard TD on first throw - Seahawks Wire [Jaxon Smith-Njigba]</title>
-      <link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZWlzYnY1ZTBadWp3dVRaV0Y0aXRuS0hVNzY4bzc3ZF9VSmExUGJLSFg3UlF0eExWcFNEa0luSXNsdUd0S3BPeUdjRlpyd3Jsajk0V1IzOEhQNVAyam8xWFBkWUIwYm43R01FNkNjekRMRDdaM0VFRFd0TlZQbE5UbXN2LVZsSUIydW9QZVBXbENrM3BzRFNjVWc2ZXk1NC1KM3NkOTkta1ZZMUdLb0F5dlg0YXl1RGswUzNUU3gyM3B6LVVqZ2gyVFJTczB5TDZzRk1fLUNVc0xKMXl3ZkpfOVhiaw?oc=5</link>
-      <guid isPermaLink="false">9828120acd8a8c8d</guid>
-      <pubDate>Sun, 20 Sep 2026 21:03:00 GMT</pubDate>
-      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
-      <description>WATCH: Drew Lock dials up JSN&apos;s career-long 82-yard TD on first throw &amp;nbsp;&amp;nbsp; Seahawks Wire</description>
-    </item>
-    <item>
-      <title>Justin Jefferson News: Held in check by weather in Sunday&apos;s win - RotoWire [Justin Jefferson]</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPR1VmWFRWYzNJYlJhcXV5blAxMjF2WlNuc1hhYVAxalVlXzJrRlFZN01IQ1VsZTZTY2hZM29xaVg2bG9NbXlaM05oM09XeHpRcnpLOW5FZmhvbGxRZTgzbmRJRkZmVlJJOUs2dG1pWTg1WmZESGF2MXFTeGtsNWdUSW5UUUhmNEhMZVE0Z1pzS21yOWpYS2lnT2gyX0tlcC0tcEp2d183T0lrLW9rajVnV1dn?oc=5</link>
-      <guid isPermaLink="false">b1244443e9450b4e</guid>
-      <pubDate>Sun, 20 Sep 2026 21:14:11 GMT</pubDate>
-      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
-      <description>Justin Jefferson News: Held in check by weather in Sunday&apos;s win &amp;nbsp;&amp;nbsp; RotoWire</description>
-    </item>
-    <item>
-      <title>Instant Lookback: Jaxon Smith-Njigba Scores 82-Yard Touchdown - Seattle Seahawks [Jaxon Smith-Njigba]</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmF5LXRIR3VpWG9BU1pfTmI4dmRWTjI2UUliUi1iazRFVnBvTml1cXo3MHFkSkFhd1hQSDRsOFpWTHFsYzdsZGlsT3AtMVIzU0xtUFBlMjI0bVlUN1Rzd01LRTk5NmplU0lMbWYtNnN2dzloeG5mZ2p2eEdGUlUweDZkdVdNUTh0N0txa21yLW13aGJR?oc=5</link>
-      <guid isPermaLink="false">68ccc9e3f4182cc2</guid>
-      <pubDate>Sun, 20 Sep 2026 20:42:30 GMT</pubDate>
-      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
-      <description>Instant Lookback: Jaxon Smith-Njigba Scores 82-Yard Touchdown &amp;nbsp;&amp;nbsp; Seattle Seahawks</description>
-    </item>
-    <item>
-      <title>Justin Jefferson leads team with 55 yards - USA Today [Justin Jefferson]</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlN1aXVCWXRpbmpVdWlTUjlKaFd0RmUtMnltdDNDdGQ3M1BSMDVneVl2eFEzRHV2RmJTdUhXNGhsUEliTjVvMTgzVkVXdGxkQUI1Wlhsb2JIekNhV01SQk1CbkdZbVM2Q1Z1Y19WNjY3aFJvUnN5MlZ3R05FUjdMNWNnWHpVQnVocHZBQW1maXdMZ0h2dm5qSmxlSnZHLVpSa3lJQXVqdFFGamdLY2VIV1dVYkNRQWxNZHVhYWFlYk5YazFiaDVFUA?oc=5</link>
-      <guid isPermaLink="false">c48cae768cf99e1f</guid>
-      <pubDate>Sun, 20 Sep 2026 20:31:00 GMT</pubDate>
-      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
-      <description>Justin Jefferson leads team with 55 yards &amp;nbsp;&amp;nbsp; USA Today</description>
-    </item>
-    <item>
-      <title>Justin Jefferson Passes Randy Moss for Second Most Receptions in Vikings History - sports.yahoo.com [Justin Jefferson]</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3ZGU3UzSC0wTnJuT0pvVWNxZnZXc1gtLWxOdzJ4REt4WHFwRGVlOGVIRHY3MTV2SUc1VU55OTNQMFFKVXBRQ3VBSjNKcU9YUVk0V2o2dS1tU3lLZnhKQVRYQkg2dW4xLVJqZTFtWHc5ZGU5Y3dWMDVuLU5pbUg4bi1GeUF4Rlpudkt3?oc=5</link>
-      <guid isPermaLink="false">5a5d57f9883ee5bf</guid>
-      <pubDate>Sun, 20 Sep 2026 17:18:15 GMT</pubDate>
-      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
-      <description>Justin Jefferson Passes Randy Moss for Second Most Receptions in Vikings History &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>‘Saw Some Growth’: Aaron Rodgers Evaluates Germie Bernard’s First Significant Action - Steelers Depot [Germie Bernard]</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNVjdBcnVRSVJudzIwaVpHN01NTk04c3RSMEtfNklfZFdJX1E3THQ5M1I0VmVZVDk3M2xvUmZmVEQ5eFhKbTNEemUzc0ozVlpBVVllS29hY3phQmh6a0ZDYkdKTDR5dmo2Vnp0UnBQQWxSLXhBOHFDZVM1OHFBSm1mMmI2bUg5VWIxY2p1ZlpKVWUtWVlQYlAxS3VfbXhta1R6TVVuWkUxVkFUNzVDWi1wOEwwckNHdw?oc=5</link>
-      <guid isPermaLink="false">a7a618195e377dd3</guid>
-      <pubDate>Sun, 20 Sep 2026 21:16:53 GMT</pubDate>
-      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
-      <description>‘Saw Some Growth’: Aaron Rodgers Evaluates Germie Bernard’s First Significant Action &amp;nbsp;&amp;nbsp; Steelers Depot</description>
-    </item>
-    <item>
-      <title>Wet Weather Keeps Lid On Justin Jefferson, Vikings Pass Game - NFL News | Fantasy Football - rotoballer.com [Justin Jefferson]</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVVGMVV5eWxoSVU2VHhoYm5DdW55MDBLMC1jRUhIMEJJUC12bUFSMVI3ZDdsUndVMkF6U1djclFabE9qLVMtRFJXR2pqSU1NaUJEcUZXcXlzRk8tOFFZOWo3M2FJUk9vaXFRVVp3Qm0xaUI2amFqSEFQUWFZejRoQkU4cDNMUmtYdkNfYnUyWGh1amNvX0luTXB1R2RNazQxZldKQXdVYVZtUQ?oc=5</link>
-      <guid isPermaLink="false">2cd2bf5c44a51084</guid>
-      <pubDate>Sun, 20 Sep 2026 20:43:09 GMT</pubDate>
-      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
-      <description>Wet Weather Keeps Lid On Justin Jefferson, Vikings Pass Game - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; rotoballer.com</description>
-    </item>
-    <item>
-      <title>Vikings&apos; Justin Jefferson: Held in check by weather in Sunday&apos;s win - CBS Sports [Justin Jefferson]</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHNGdWYyNzJuRXk4WXJUZ09FV2NaSl85Z2o2dFpZSFE2ZkFkaDVSRTZXcThUekdnOTlUd3ptMzJlMWRYV0FNeXhSQmt4VFd5XzgtWFh5dHRHd1duSVJSTGpjVkJvbEZCTmIwN0xhSkN2QzVEbElXNWZ4U2JiNlI3SmhPS1o1ZGlWZl8xSHlIWEp0U000RWFHWVNQLUtkRXdMdVAwcDQ4cGI4ZTJQMndhb290QQ?oc=5</link>
-      <guid isPermaLink="false">8c1fb5c90c126b66</guid>
-      <pubDate>Thu, 17 Sep 2026 15:22:37 GMT</pubDate>
-      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson</source>
-      <description>Vikings&apos; Justin Jefferson: Held in check by weather in Sunday&apos;s win &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Joe Burrow Throws 21-Yard Dot To Tee Higgins | 2026 HIGHLIGHTS - Cincinnati Bengals [Tee Higgins]</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnJqOWEtZm5vc1l4RWdiX0NoT21vWGROWTllcEh4cHpOT1lFYzVlR2JWdWVEaUJZLWxZb0d4bDdhS3FGRFZQaVJULWNBQVdFX2JmZ1R6dGJzSEkxZTF1aTFoTzlnQWpwUkVON2pnMWFuVWxSbXJhMjVaQ3Q3XzVEaUdLYS1rMW4tOEx3ODJVUFJNdWJQ?oc=5</link>
-      <guid isPermaLink="false">acd91053bfe243e9</guid>
-      <pubDate>Sun, 20 Sep 2026 18:28:46 GMT</pubDate>
-      <source>Google News: Wilson, Dell, Higgins, Hutchinson, Okonkwo</source>
-      <description>Joe Burrow Throws 21-Yard Dot To Tee Higgins | 2026 HIGHLIGHTS &amp;nbsp;&amp;nbsp; Cincinnati Bengals</description>
-    </item>
-    <item>
-      <title>Tee Higgins Team-high yardage in Week 2 win - Fantasy Footballers Podcast [Tee Higgins]</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQclY3UmdkYUVJUWlxcHhvNENJMXFoUnlLck5scDVTQjZyN3BNVGNGTEl2VkxmYncwTjRlcnFjY1ZfTEVGUGRjWFh2alFwa2kxQllBWUdZcnZMV1hnWFR3WDlUZUstemwteXotX0tfcXNjWjRUSnp5enJXWF9lS0Z1bV81SV9IQ1RWTW5vLVNyWmNxQS1BRDQxVi1B?oc=5</link>
-      <guid isPermaLink="false">4e0066bc5aa0afe4</guid>
-      <pubDate>Sun, 20 Sep 2026 21:13:26 GMT</pubDate>
-      <source>Google News: Wilson, Dell, Higgins, Hutchinson, Okonkwo</source>
-      <description>Tee Higgins Team-high yardage in Week 2 win &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Tee Higgins, Dexter Lawrence among 10 winners and 3 losers from Bengals’ 20-6 win vs. Texans - Cincy Jungle [Tee Higgins]</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQd3JQNWxXTU1keGVBMWVpODNjaTVucDJudjdfUFJiR2xXb3phMGl5MlRCdkRqdFZNU05BaVJyeW0zLXJVQnphd1pfMGVBVlVVUmtHR3A3WkhaUUttaXlFeUxQSG1Pc3RVOFNyNmt0cXU5aV83OUxYZFJ3dzQ3cUlyeDduaFNXazRlWnV2OERBa2ZwTG56REN2WExLSEp3X1ROclhRSGRoWXVJR3VyOFQ2QUZmU25tUUprc1ZmZVFR?oc=5</link>
-      <guid isPermaLink="false">de3335bd5d2b2e76</guid>
-      <pubDate>Sun, 20 Sep 2026 20:40:34 GMT</pubDate>
-      <source>Google News: Wilson, Dell, Higgins, Hutchinson, Okonkwo</source>
-      <description>Tee Higgins, Dexter Lawrence among 10 winners and 3 losers from Bengals’ 20-6 win vs. Texans &amp;nbsp;&amp;nbsp; Cincy Jungle</description>
-    </item>
-    <item>
-      <title>“We Got a 1000 Damn Penalties”: Tee Higgins’ Mom Rants at Refereeing Decisions Going Against the Bengals - sports.yahoo.com [Tee Higgins]</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUdGMXlWU1BOZEdTWmNXSHJFOTROY095VGpOYTJUNktFd0hST2xyZkMxZ3BIMHFOby0taDRkRTVTdmI1UEdKSUFmM3dmOTNNTmx1MkdPQ3hvQWlyVk05QzFQa3ZwNmxrcUZ6ZllDYmpVSnN3R3Z2ZkM3TEJpdDRBWnVR?oc=5</link>
-      <guid isPermaLink="false">f9876ffa69c29291</guid>
-      <pubDate>Sun, 20 Sep 2026 20:29:13 GMT</pubDate>
-      <source>Google News: Wilson, Dell, Higgins, Hutchinson, Okonkwo</source>
-      <description>“We Got a 1000 Damn Penalties”: Tee Higgins’ Mom Rants at Refereeing Decisions Going Against the Bengals &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Xavier Hutchinson turns nine targets into 37 yards - nbcsports.com [Xavier Hutchinson]</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPYW9XZUFwbFZldXJsLU44UE1FbUtIRnc4Ul9MSEpsWm5mUU5HQ1F2ZkdQdFZHSC1ZVEdfRmw5Z1FsbFNBMlpjQ3hzM2Z1QVRTX18wMTJjc1g5eUJ1ci1NTUJfa0V4Z2JKdHlZSmQ5aTFkMjIyalFhZE55TkFTN21XWXRQRHZyeTVIeTJJZXFGbjdRUzVCb2hQS3RCeFBQWDhKQlZNOEVhN1REaFBtcURhb0JtNFc3ZnM?oc=5</link>
-      <guid isPermaLink="false">ea5dca380eaae083</guid>
-      <pubDate>Fri, 18 Sep 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Wilson, Dell, Higgins, Hutchinson, Okonkwo</source>
-      <description>Xavier Hutchinson turns nine targets into 37 yards &amp;nbsp;&amp;nbsp; nbcsports.com</description>
-    </item>
-    <item>
-      <title>Mason Taylor Iffy to return due to thumb injury - Fantasy Footballers Podcast [Mason Taylor]</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0F2SFphblZUSS1CckNLOWVDMzJ5TVM2ZVBxdmd2MTNYek84ajl5ZDJNZGZTWWU4QVF2MHhRWWxTR0FVN29fdl8tNDhieVdGQV9lMklfdzYxampVTTV0cEpWaEN6bDlnNVpTMWpRLTQ5cFMxbDhULXA5el9jeXl1aXFhc1NxaFgyQnN6Z09KcXlDR3VIVy1DdnZSd3FHblk?oc=5</link>
-      <guid isPermaLink="false">cd87fd812a7486f0</guid>
-      <pubDate>Sun, 20 Sep 2026 20:44:58 GMT</pubDate>
-      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
-      <description>Mason Taylor Iffy to return due to thumb injury &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Mason Taylor Injury: Iffy to return due to thumb injury - RotoWire [Mason Taylor]</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVVMODh1c0xpbGxrMTdzSi04UWxzR0liekROM29LUmczQmZRZmNva3VJTDJNdnFDcVRzMXZPaUk1LUFhaEZJR3BZaTBMay1qVnNGTkl6ZWVVTkVTZGpCVFEydHR6OVdibExCVGtraFR4bGVvTkhFYlJGQkY5SVp5Mmt3dkpVLV9EdU9TM2V5dmJRaUVLTnNsZlRxNTdKaE5GXy05bVQzZGw?oc=5</link>
-      <guid isPermaLink="false">2fe5144e4e7ed078</guid>
-      <pubDate>Sun, 20 Sep 2026 20:36:15 GMT</pubDate>
-      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
-      <description>Mason Taylor Injury: Iffy to return due to thumb injury &amp;nbsp;&amp;nbsp; RotoWire</description>
-    </item>
-    <item>
-      <title>Mason Taylor Injured, Doesn&apos;t Get On Stat Sheet in Week 2 Loss - NFL News | Fantasy Football - rotoballer.com [Mason Taylor]</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnk0UktTU1pHeS15VHJ6RnRKWnk5VEJMbTZ3QXNEOVM0cGhMM3c3cklCX2FpZFlNTkF2NEFNVkZxd1J3NlNTNWNSSVBINzZ4M0QxRThva01pdXNHd0JaYW01UDZhV1luSDVMLXVPWHhzNWtYME5GTnAzTWlXWWtfSk8yNkhkR2k1R2o2b3hDVUlFczdJZ3F0UnE4akkzNFRJaWwyNzk0S3pxTHc?oc=5</link>
-      <guid isPermaLink="false">258b866764bad03d</guid>
-      <pubDate>Sun, 20 Sep 2026 20:53:36 GMT</pubDate>
-      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
-      <description>Mason Taylor Injured, Doesn&apos;t Get On Stat Sheet in Week 2 Loss - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; rotoballer.com</description>
-    </item>
-    <item>
-      <title>Winners and losers of Bengals&apos; stifling NFL Week 2 victory over Texans - USA Today [Tee Higgins]</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPaVhBWlhxb3luTVpkdm1uVEc0VDNMeVpITUVtUUNrS3FuMHM0emptUWlyaHRXQkRSWDJKVTFIckZhSzdkY283LUNHUHFzWGZEVkthVVlYa2wxbmhONFZabUpUNnBqUlctTmExQ2tKU3l5aHVaS1UxV3VkVk1kT2hsZ2MydE83d1RUYjM0dWdLblZwUTFkZGJWRUpCWXpoUkFLcGNodzRtb3hrNTYxbnpwa2xPcEgzSEE?oc=5</link>
-      <guid isPermaLink="false">e9ed070bd6baec9b</guid>
-      <pubDate>Sun, 20 Sep 2026 20:53:00 GMT</pubDate>
-      <source>Google News: Cincinnati Bengals</source>
-      <description>Winners and losers of Bengals&apos; stifling NFL Week 2 victory over Texans &amp;nbsp;&amp;nbsp; USA Today Bengals vs. Texans highlights | Week 2 &amp;nbsp;&amp;nbsp; NFL.com Bengals 20-6 Texans (Sep 20, 2026) Game Recap &amp;nbsp;&amp;nbsp; ESPN Bengals&apos; Ja&apos;Marr Chase scores jaw-dropping first touchdown of the season after lackluster Week 1 start &amp;nbsp;&amp;nbsp; Fox News Tee Higgins, Dexter Lawrence among 10 winners and 3 losers from Bengals’ 20-6 win vs. Texans &amp;nbsp;&amp;nbsp; Cincy Jungle Bengals stymie Texans 20-6 as Houston drops first two games again &amp;nbsp;&amp;nbsp; nbcsports.com &apos;Send A Message In Hostile Territory&apos; - Zac T</description>
-    </item>
-    <item>
-      <title>‘Not Quite Yet’ — Super Bowl Champion Pushes Back Against Browns’ Rumored Plan of Making Shedeur Sanders QB1 in Week 3 - sports.yahoo.com [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFA0NE15cGVLQ3FyRXhDbkM5OFF6YWJiRlR5a2hIeWFXdzJKWWNPdHEzTGhLcmdIYlQ3SXZUSngyRGlLVnNyeUpFb1JHcF8wOHpwaE51cXJ3THVJN3FvdHhlbXFRY1FkbDNwNmdnOHU1eGZwSENLYlF5OV8xbVlaQQ?oc=5</link>
-      <guid isPermaLink="false">42f1743b5ab3cb6a</guid>
-      <pubDate>Sun, 20 Sep 2026 19:31:04 GMT</pubDate>
-      <source>Google News: Cleveland Browns</source>
-      <description>‘Not Quite Yet’ — Super Bowl Champion Pushes Back Against Browns’ Rumored Plan of Making Shedeur Sanders QB1 in Week 3 &amp;nbsp;&amp;nbsp; sports.yahoo.com</description>
-    </item>
-    <item>
-      <title>Ex-Browns Star Carted Off Field in Just 2nd Game With New Team - heavy.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNUDFCV0ZpQUZ2WThRaXJuN3FfcHFoWG1aMm04ckxSbFlwMXphRndCcWFKRGpKQXVpNVM3NFdlM3dpaEs4bmJMdjdVSE5ydW5aUkt4SVkycFdPRUJtYWtvSUk1ZllQMUdQNmJuVnRCUnVjeF94cXRUQi10cDliQzNQV3lsMVVnUHN4Tk1KNFpn?oc=5</link>
-      <guid isPermaLink="false">650474a8c5af6e74</guid>
-      <pubDate>Sun, 20 Sep 2026 21:08:55 GMT</pubDate>
-      <source>Google News: Cleveland Browns</source>
-      <description>Ex-Browns Star Carted Off Field in Just 2nd Game With New Team &amp;nbsp;&amp;nbsp; heavy.com</description>
-    </item>
-    <item>
-      <title>Browns vs. Buccaneers temporarily suspended due to inclement weather - Cleveland Browns [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzA4S3VBT3JoLV9TLTVhcUtXRm5PTGRfSXdFdlN3d1BmcHZFTVU2LUxYM1pLWlphY29lYXlXTUJ0ZmM4Ti1kNzdxRzc3cWFrd2ZQcVVUc3dBd1kxd3pIMUNESkR3Szl4Z2MwRjI2UVA0NEJ1SVAtNjRZTmtINE9kWGcwLUZpbDhhWUh0TVU1U2dpVHgtU2o5OHEzMWFMYnJrbDg4bU92MA?oc=5</link>
-      <guid isPermaLink="false">1317d94e9952dac8</guid>
-      <pubDate>Sun, 20 Sep 2026 20:12:26 GMT</pubDate>
-      <source>Google News: Cleveland Browns</source>
-      <description>Browns vs. Buccaneers temporarily suspended due to inclement weather &amp;nbsp;&amp;nbsp; Cleveland Browns</description>
-    </item>
-    <item>
-      <title>Is Jakobi Meyers Playing Today? Why Jaguars’ WR Is Quiet In Crowded Depth Chart - heavy.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQbkFBUnBGSWxtWmZGSlFHZllweGk3di1RY0ZuODY0WXpWMzJWdnRLME1zZ08zY0djeGRGaDZOaDRic2lDVGdTRk1sT3pjTXR0dlNLc0FmLWV5LVppSjhSSHo0aDA1TXcyaEhuYTBEb2lTd01SYk12R2hicVFfX2FJMm5LbDdPLXNFMGF3WVd3?oc=5</link>
-      <guid isPermaLink="false">7600ed5b9472cdcb</guid>
-      <pubDate>Sun, 20 Sep 2026 21:03:38 GMT</pubDate>
-      <source>Google News: Jacksonville Jaguars</source>
-      <description>Is Jakobi Meyers Playing Today? Why Jaguars’ WR Is Quiet In Crowded Depth Chart &amp;nbsp;&amp;nbsp; heavy.com</description>
-    </item>
-    <item>
-      <title>David Njoku injury: Latest news on Chargers tight end after being carted off - The Big Lead [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ3NxR3RfUnE0cXdZbDhZRkZ0bWR5VUlCWTFEOC1tU1NCVG5aenM3WEhwaTlfdTd3c3o2UTlNUElkLThRVHl4VDJrYUNMR29xVXhWeGdPallnRG5RT252LXJtS1BmR3lsbFVQM0x4LUJTbEVSUERYV1dzRGRuNFJQMnpJUWRmaVh3dzlUNmZNY1FEdw?oc=5</link>
-      <guid isPermaLink="false">4a9d4d966a2830ba</guid>
-      <pubDate>Sun, 20 Sep 2026 21:08:35 GMT</pubDate>
-      <source>Google News: Los Angeles Chargers</source>
-      <description>David Njoku injury: Latest news on Chargers tight end after being carted off &amp;nbsp;&amp;nbsp; The Big Lead</description>
-    </item>
-    <item>
-      <title>Chargers TE David Njoku carted off vs. Raiders - Bolts From The Blue [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxObW1TcWlUZjlIZU1fcmY3WVpwWVo3TXNTcllJTGRjUFJneTEwanVBNUFqSmQzOGJZZXFZS2NselU2Ul9HMGJiMjNuZkt2NG5EdDhDYUxwaDlsbkhJT2ZUYnZzMWVlUDNvbXJvYVdjVXdPMFd1MWxFOWk5U0Vhb0dKMFBjM1dxUjZJT3hhUjVOWGNyQVVPelFBYkt5U3NrZTdobUxEbXdIdmtIcHlyUmhPU1VENDQ?oc=5</link>
-      <guid isPermaLink="false">10dc4304076fb5a1</guid>
-      <pubDate>Sun, 20 Sep 2026 21:01:36 GMT</pubDate>
-      <source>Google News: Los Angeles Chargers</source>
-      <description>Chargers TE David Njoku carted off vs. Raiders &amp;nbsp;&amp;nbsp; Bolts From The Blue</description>
-    </item>
-    <item>
-      <title>David Njoku Injury Update: Chargers TE Carted Off in First Half With Leg Injury - Bellingham Herald [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5LQWhyWTIxcjNXN2h6Tm1rRVdjamY1MlhGcWRqYlJFVUwzZHRES3FKb3FOdnBBNk10ZENkbU01QnZLMzFiZWUzNUJ1RnREUng0cTZwSjYxanFYaGJicEVLTG5TTWFOY2NFYUF2Q0dn?oc=5</link>
-      <guid isPermaLink="false">9408b2a43d29a91d</guid>
-      <pubDate>Sun, 20 Sep 2026 21:02:05 GMT</pubDate>
-      <source>Google News: Los Angeles Chargers</source>
-      <description>David Njoku Injury Update: Chargers TE Carted Off in First Half With Leg Injury &amp;nbsp;&amp;nbsp; Bellingham Herald</description>
-    </item>
-    <item>
-      <title>Final Injury Report for Raiders-Chargers: Will Ladd McConkey, Brock Bowers Play? - Kansas City Star [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ORzJKX2dkZFZnd19lRG10Z1lsWnVSRmdHVEJSMHkwZC03c0dRTDBwS2NPRlJWdXEwa0lmMVUyWi1XNHFET1FSN2hEUHc1OENzTWQxQmVaSVZTVUJ4ZnRSOE9uQUVIZw?oc=5</link>
-      <guid isPermaLink="false">9c52078b5197ace4</guid>
-      <pubDate>Sun, 20 Sep 2026 15:54:05 GMT</pubDate>
-      <source>Google News: Los Angeles Chargers</source>
-      <description>Final Injury Report for Raiders-Chargers: Will Ladd McConkey, Brock Bowers Play? &amp;nbsp;&amp;nbsp; Kansas City Star</description>
-    </item>
-    <item>
-      <title>Rams-Giants final injury report: Puka Nacua trending ‘wrong way’ per report - turfshowtimes.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPN2lBRi02N0IyRmdETE9uX2EtMDVUMXF5SnN5dGF0dV9mMzJuTjdrbElvNkpUQmhOQllrLWN3UGt2R0RXc05zZ0tKMWdRZTNMTFpXRzRCWWF0ZElLUjh6aE9EblYwSzBpOFgzSU4ySjMtQUllRFRXeFV6UG1CeGRRdmV6cTJ5NEJuVDlPRVMySmpLcFFDaEJPaHBKMU5adDJ6UHRNZjFEU3RxelF6UE9MWjNJTFRTWExyMXNyNUpKMU4zbkVu?oc=5</link>
-      <guid isPermaLink="false">462c42d8ceb8b455</guid>
-      <pubDate>Sun, 20 Sep 2026 17:19:00 GMT</pubDate>
-      <source>Google News: Los Angeles Rams</source>
-      <description>Rams-Giants final injury report: Puka Nacua trending ‘wrong way’ per report &amp;nbsp;&amp;nbsp; turfshowtimes.com</description>
-    </item>
-    <item>
-      <title>Bears QB Caleb Williams (leg) carted off against Vikings - Reuters [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOOExyYkdoV3FVd3F6TUlENUxmM3NiX2c5RTBJaXRxUk0xYkg3a2RweHNfMnc2X0FtbmN3VE9qdGdPY0pCak9FYTFjM0tabUQ4R25zN0VuNG03ellOd2dVSFR2NDh4SkRmSzkyVTEtWUNiZFdmXzVfNjlJcnZTUTVuODJrYjFJTzVjMzg0NmNWV2tZVHBhelBuaWtzRjA0eDE5U0lZUQ?oc=5</link>
-      <guid isPermaLink="false">8bf4c9ded7d95941</guid>
-      <pubDate>Sun, 20 Sep 2026 20:35:23 GMT</pubDate>
-      <source>Google News: Minnesota Vikings</source>
-      <description>Bears QB Caleb Williams (leg) carted off against Vikings &amp;nbsp;&amp;nbsp; Reuters</description>
-    </item>
-    <item>
-      <title>NFL roundup: Bears QB Caleb Williams carted off in loss to Vikings; Saints stun Ravens - The Guardian [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPWC1ValhwOVNVNDZtR0kyZzRXakxPOFIzbDhBM3lXSWhfZHlOdVV5bVBYMERwcm9zendaN2dxYzhZNVZ3WXVKTGFrWGhpX1NqblF2dnMwX2x3Z2ZJekswQnA1Ymc4UDgyRHBmUnVUNVRzSjdMMy1oNEFUZVZkZkxwSmw5Q2dKVkE?oc=5</link>
-      <guid isPermaLink="false">e73d9858adef0ea5</guid>
-      <pubDate>Sun, 20 Sep 2026 21:11:00 GMT</pubDate>
-      <source>Google News: Minnesota Vikings</source>
-      <description>NFL roundup: Bears QB Caleb Williams carted off in loss to Vikings; Saints stun Ravens &amp;nbsp;&amp;nbsp; The Guardian</description>
-    </item>
-    <item>
-      <title>Travis Etienne Jr. races to pylon for game-tying two-point conversion - New Orleans Saints [Travis Etienne]</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUxNNXN1YXR3a0tYRDRicXY4MmNOX3F2eUlzdFhwSDgxalVod3dKUm5NMjNOUWFKTGpZRHJoZ09GTFpyZTVEdnpVZ0U1Y2xOQXFsZUdlYTZuRWdEMDFzU3VaeTZfUUVReGpmYm96WUR2YjJVUEE5c21rX2FVc3pyZ2MtSWZSUFc2RkwzcmFOMkZXVEhRUlBwQWR0WHRLakN2X21ta3M0eVlHSzRFTHNKbG5lN0M?oc=5</link>
-      <guid isPermaLink="false">3ec717d0faea7536</guid>
-      <pubDate>Sun, 20 Sep 2026 19:29:56 GMT</pubDate>
-      <source>Google News: New Orleans Saints</source>
-      <description>Travis Etienne Jr. races to pylon for game-tying two-point conversion &amp;nbsp;&amp;nbsp; New Orleans Saints</description>
-    </item>
-    <item>
-      <title>Saints LT Kelvin Banks Jr. carted off with ankle injury - ESPN [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVc1c0xjd3ZWb2trTmNBRmVfeDlTdjdjTG0xMWhTR0FLT0R3amRkcFhjTHlXUnRoQ2d5aXEzcW9iOGlSSHZTYjN6bVo5SEZCRk8yMndRTmZRSVRvb3lZSG04dFZjU3hOV1VPa1dNLTRKRENEdDdpUW1OZGtCMjhGTzVRTmJtMU1JNG12RnRTeGxmWVl6?oc=5</link>
-      <guid isPermaLink="false">87c91a672324bd0c</guid>
-      <pubDate>Sun, 20 Sep 2026 19:25:00 GMT</pubDate>
-      <source>Google News: New Orleans Saints</source>
-      <description>Saints LT Kelvin Banks Jr. carted off with ankle injury &amp;nbsp;&amp;nbsp; ESPN</description>
-    </item>
-    <item>
-      <title>Scary scene as Jayden Reed carted off on spine board during Packers game against the Jets - Fox News [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnJEd1RvaWF5bU1xcDlTOGw3T2JUOUdDd0FjNGZXWDE5NXhCemFodlR0R2laTnFuYUdvdHZhY2pWOF9LcmdNbVZqQlpXMk9XSzMzZjdNbVVaTEpVb3JUcTJvaklILW45TVNLWGthOGYySjAwTkxBYmVxSmhUZjZtSldsQ2pnc1NjOTMtZGlkcndXVU9kNklKQm9nRmRZNE5BSHBtYW9n?oc=5</link>
-      <guid isPermaLink="false">7158346f4fc2e2b3</guid>
-      <pubDate>Sun, 20 Sep 2026 18:15:56 GMT</pubDate>
-      <source>Google News: New York Jets</source>
-      <description>Scary scene as Jayden Reed carted off on spine board during Packers game against the Jets &amp;nbsp;&amp;nbsp; Fox News</description>
-    </item>
-    <item>
-      <title>Jayden Reed, Zach Bako-Bewele carted off field in terrifying Packers scenes - New York Post [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWxBbXZXc2NYalVTUU5Ud0IwaEstRHFYanBrRDFxelZwcWpLblRMVXR1d1UwS1hiMjJoRTllQmpYRXh2TVJKaUx6WHNOeml3Y2FJNFNmaElqUXRYSVBfR29aMm12YV9HeklTVmJBeVJ3OEtObWdJcks1aThwX19QMjJjcEtEb3VOVzFaRmJSNm5ERmpfRnpqUlBHYkhVd3ZEZFhDM3hIdzcyZ0FxRndHWlJB?oc=5</link>
-      <guid isPermaLink="false">cf11659bd10a4c7a</guid>
-      <pubDate>Sun, 20 Sep 2026 17:42:00 GMT</pubDate>
-      <source>Google News: New York Jets</source>
-      <description>Jayden Reed, Zach Bako-Bewele carted off field in terrifying Packers scenes &amp;nbsp;&amp;nbsp; New York Post</description>
-    </item>
-    <item>
-      <title>Lock, JSN connect for one of the longest passes in Seahawks history - Seattle Sports [Jaxon Smith-Njigba]</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOWEZlRW9JbTBpdkk5UUlCS242d0NFWDFrblZub1FkQUQzODYxdTU1OVY4MUtlMVhIVzl5XzZIQUtWMnI5Ullhamx6MnE4cFptYnA3NGxXTnJVQUwxLXJIdC1oNEtMQnJJT3pEMFJUQ3JLWVc2VVVkQWxWRnJaYkw0bDhBVTFibmZ2eGp1Y3N5WWVhZnJLeDl3QlA0a0dFQjdXcnRiVmwwZGNjTzhyeGppbTdTOHBfQmlweENjbENuVjdKVFZfcHc?oc=5</link>
-      <guid isPermaLink="false">5cf9573ab5397c21</guid>
-      <pubDate>Sun, 20 Sep 2026 21:21:48 GMT</pubDate>
-      <source>Google News: Seattle Seahawks</source>
-      <description>Lock, JSN connect for one of the longest passes in Seahawks history &amp;nbsp;&amp;nbsp; Seattle Sports</description>
-    </item>
-    <item>
-      <title>Adonai Mitchell Elevates to Starting Role for New York Jets - SuaraGarut.ID [Adonai Mitchell]</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1JVWJzX21yTjVMMDYwQ0J0QmxLcUFjQmZ5Rnc1aEZLZmt3cDZEZHZwZHpJN2N5bnkzaUdGTlQyRlk2aUszOHFvNnRUZVpiZUU2LXNvb2s1QTF0ZGpJV2lnbV9DejRLZ0dqanREN3FfcnNHVVhiVllN?oc=5</link>
-      <guid isPermaLink="false">2b4e0c4dc4bca74f</guid>
-      <pubDate>Sun, 20 Sep 2026 19:07:00 GMT</pubDate>
-      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
-      <description>Adonai Mitchell Elevates to Starting Role for New York Jets &amp;nbsp;&amp;nbsp; SuaraGarut.ID</description>
-    </item>
-    <item>
-      <title>Chargers&apos; Kimani Vidal: Plays 19 offensive snaps Thursday - CBS Sports [Kimani Vidal]</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0hLVnNXcWVYdEUyeF8tMkxmR2ctbi1qd0Z2T2pybmluNEtWNnI3OXNBZkZKQnFNa0VtY1cwNWRvblpucWFhLTJ0S3doUHhBWHA4cGNnejYzc1gza2FKdjRLalJHUDBPUDM1b3QxdGthRzI1WEFMQkJGU3Nma181eUV6LWNVaVdTSFFKTFZIdnVORzdTOXYzNWV0dmZUMWxjQlZhRVpqWQ?oc=5</link>
-      <guid isPermaLink="false">f397b1bf6f2186d7</guid>
-      <pubDate>Fri, 21 Aug 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
-      <description>Chargers&apos; Kimani Vidal: Plays 19 offensive snaps Thursday &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Titans&apos; Gunnar Helm: Ends preseason with one catch - CBS Sports [Gunnar Helm]</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPWVBJaVRQQ0Q3T09IcE41ZVlqYTM5Y3Y1ZDltdVFZVWhYVldIU1J0a1ozT21aV01qcmNQenNyaDkwWi1ac1p2cndCcy1VRWMxejRxYmQtcldCSGR1cnptZzlzYTdOcmxfcjMta0ZQcXZYNlBfR1hRS2pScHlTZ1RpWDFhVDk3Uk1WYjNuR3VCUnB6YnhPSS10ZkhUQ1BaUQ?oc=5</link>
-      <guid isPermaLink="false">2c713376992af6af</guid>
-      <pubDate>Wed, 02 Sep 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Helm, Ferguson, Joly, Taylor</source>
-      <description>Titans&apos; Gunnar Helm: Ends preseason with one catch &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Jaguars Inactives: Jacksonville Clears Injury Report vs. Denver - WRUF [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUZ3TE8tRVFMdzh1R0JUZ2pRbVBKdEN0NUZReE1JVnhvVUhXSG9US095LWtINE9VcGxNY19NdmhsT2VvbVN4cHIzNHcyME5ZQmpkNHcxN1ctNWtINEtDOXhKd2RlcHRtdXpITWxhdkZyT3NMTkFoejVYZHFDcXZMWGlWeTVBelZyVHExcG44U01zR2dmUHFzQzZVdWRpUWFjX21Pa2hTNA?oc=5</link>
-      <guid isPermaLink="false">1da2a992edca4884</guid>
-      <pubDate>Sun, 20 Sep 2026 19:03:11 GMT</pubDate>
-      <source>Google News: Jacksonville Jaguars</source>
-      <description>Jaguars Inactives: Jacksonville Clears Injury Report vs. Denver &amp;nbsp;&amp;nbsp; WRUF</description>
-    </item>
-    <item>
-      <title>Is Brock Bowers playing today? Raiders injury report with TE&apos;s status still in doubt - FanSided [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQWnBsSlhBYjV3UDBLaUJpYTJiTDFTQkxtcFZQemIxRHpDQlRWNjliTnlNYzVLM3Npd0hPQ25FV3dJZ003bTNHSGZwRjJmS1ByWjJaSDlYajY2U05CQUN3ZzVkOXhDeS1BandUaXZ5TmdIaTZsS0JpNXBWb2xnVU8waTJXVWZDTHh2Tk1xcmlLb1R0OG9YSUE0VC1PQW1FR1B2NzZqcFpsSFNSTnhJ?oc=5</link>
-      <guid isPermaLink="false">e04556710bebf4b6</guid>
-      <pubDate>Sun, 20 Sep 2026 18:15:26 GMT</pubDate>
-      <source>Google News: Las Vegas Raiders</source>
-      <description>Is Brock Bowers playing today? Raiders injury report with TE&apos;s status still in doubt &amp;nbsp;&amp;nbsp; FanSided</description>
-    </item>
-    <item>
-      <title>5 key things to watch as the Green Bay Packers face the New York Jets in Week 2 - Packers News [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR0ljVXJ4eFBaR2UtTldSZjVkZE1fR3RxMVRnVWxvQjUxaDdBVGt4NERvNWlqQ0NoVUFoaVpoUjNFS0NFODRVTjdwNFA5Ml9ZNl9hZW1SeHA2Mk51T1JZOXM4ZmZTd1g2d05jd3pmZV9zYlAxVnBveFhlbTFYT01PSkJNMUdVU1lfUmtDdTllRXNWQ3N0akUxUllqRG0xM0FWVEhiOU5FRlZfYU1qZ2N2ODd4M0JHRTkwRGQwUDAtbHZXeVd0LTFsN3NwZjZkNUFwZ1l3c1RkQVhHQU0?oc=5</link>
-      <guid isPermaLink="false">38750d304f962c7d</guid>
-      <pubDate>Fri, 18 Sep 2026 10:27:00 GMT</pubDate>
-      <source>Google News: New York Jets</source>
-      <description>5 key things to watch as the Green Bay Packers face the New York Jets in Week 2 &amp;nbsp;&amp;nbsp; Packers News Jets List 6 Inactives for Home Opener Against Packers &amp;nbsp;&amp;nbsp; New York Jets Scary scene as Jayden Reed carted off on spine board during Packers game against the Jets &amp;nbsp;&amp;nbsp; Fox News</description>
-    </item>
-    <item>
-      <title>Packers receiver Jayden Reed carted off field with neck injury vs. Jets - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOOG0tX2ZQUEV3MDhGMmphSEJUaHF3amxPSnJHTmV0YVN6LWVZMFJDS0FQSGFSNDBNOUV0alRuQkpuYzVjU3JWT3EtTTNBS2tiUzFTQ2RZTnFXQm54VTdqNDNZU2dYdVFnYzU4bjJrdjhKQXhONzloa2d5RjRDQTVibVp6MWpuSmFzSGU3cw?oc=5</link>
-      <guid isPermaLink="false">e3500759b0f5517c</guid>
-      <pubDate>Sun, 20 Sep 2026 17:28:49 GMT</pubDate>
-      <source>Google News: New York Jets</source>
-      <description>Packers receiver Jayden Reed carted off field with neck injury vs. Jets &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Jets-Packers Highlight | Geno Smith Finds an Open Adonai Mitchell on the Sideline - New York Jets [Adonai Mitchell]</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOX3l6Y2ZJZzg0WXMxS0N5ZDBFWnJreE4xUkRSSzhXbVdqX0tMSzJKaE9PaER5emhzSUZ0UlNmeDgtYWJycklRYm80V3V1ejBPUU4tbmRVQ29NR2ZnWmZqdkVNYWhMWnRTLTNYNUd1ajlWek9mb0ZxLVNWSmt1eE92NWo1QXV1TlpHQkJtYXpNSktYaFh2OHdMMEhhR0hNRDZxRXNodDF5NklIY0V3dG1tWFI2TQ?oc=5</link>
-      <guid isPermaLink="false">ca6d4ad3c2802a3d</guid>
-      <pubDate>Sun, 20 Sep 2026 18:44:43 GMT</pubDate>
-      <source>Google News: Warren, Vidal, Williams, Etienne, Mitchell</source>
-      <description>Jets-Packers Highlight | Geno Smith Finds an Open Adonai Mitchell on the Sideline &amp;nbsp;&amp;nbsp; New York Jets</description>
     </item>
   </channel>
 </rss>
