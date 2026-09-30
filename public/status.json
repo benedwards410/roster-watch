@@ -1,30 +1,39 @@
 {
-  "builtAt": "2026-09-30T02:11:58.126Z",
+  "builtAt": "2026-09-30T08:43:41.562Z",
   "sources": [
     {
-      "id": "gnews-players-1",
-      "label": "Google News: Herbert, Sanders, Lawrence, Cook, Williams",
+      "id": "gnews-players-3",
+      "label": "Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson",
       "mode": "roster",
       "ok": true,
-      "ms": 1008,
+      "ms": 731,
       "raw": 100,
-      "kept": 6
+      "kept": 4
     },
     {
       "id": "gnews-players-4",
       "label": "Google News: Wilson, Dell, Higgins, Hutchinson, Okonkwo",
       "mode": "roster",
       "ok": true,
-      "ms": 885,
+      "ms": 661,
       "raw": 100,
       "kept": 4
     },
     {
-      "id": "gnews-players-2",
-      "label": "Google News: Warren, Vidal, Williams, Etienne, Mitchell",
+      "id": "gnews-players-5",
+      "label": "Google News: Helm, Ferguson, Joly, Herbert",
       "mode": "roster",
       "ok": true,
-      "ms": 840,
+      "ms": 698,
+      "raw": 100,
+      "kept": 4
+    },
+    {
+      "id": "gnews-players-1",
+      "label": "Google News: Herbert, Sanders, Lawrence, Cook, Williams",
+      "mode": "roster",
+      "ok": true,
+      "ms": 811,
       "raw": 100,
       "kept": 3
     },
@@ -33,53 +42,26 @@
       "label": "Google News: Cleveland Browns",
       "mode": "team",
       "ok": true,
-      "ms": 1063,
-      "raw": 110,
+      "ms": 816,
+      "raw": 102,
       "kept": 3
     },
     {
-      "id": "gnews-players-3",
-      "label": "Google News: Douglas, Bernard, Nailor, Smith-Njigba, Jefferson",
+      "id": "gnews-players-2",
+      "label": "Google News: Warren, Vidal, Williams, Etienne, Mitchell",
       "mode": "roster",
       "ok": true,
-      "ms": 858,
+      "ms": 586,
       "raw": 100,
       "kept": 2
     },
     {
-      "id": "gnews-players-5",
-      "label": "Google News: Helm, Ferguson, Joly, Herbert",
-      "mode": "roster",
-      "ok": true,
-      "ms": 789,
-      "raw": 100,
-      "kept": 2
-    },
-    {
-      "id": "gnews-team-cin",
-      "label": "Google News: Cincinnati Bengals",
+      "id": "gnews-team-hou",
+      "label": "Google News: Houston Texans",
       "mode": "team",
       "ok": true,
-      "ms": 959,
-      "raw": 102,
-      "kept": 1
-    },
-    {
-      "id": "gnews-team-jax",
-      "label": "Google News: Jacksonville Jaguars",
-      "mode": "team",
-      "ok": true,
-      "ms": 858,
-      "raw": 101,
-      "kept": 1
-    },
-    {
-      "id": "gnews-team-lac",
-      "label": "Google News: Los Angeles Chargers",
-      "mode": "team",
-      "ok": true,
-      "ms": 920,
-      "raw": 102,
+      "ms": 539,
+      "raw": 103,
       "kept": 1
     },
     {
@@ -87,8 +69,8 @@
       "label": "Google News: Las Vegas Raiders",
       "mode": "team",
       "ok": true,
-      "ms": 929,
-      "raw": 102,
+      "ms": 757,
+      "raw": 103,
       "kept": 1
     },
     {
@@ -96,35 +78,17 @@
       "label": "Google News: Miami Dolphins",
       "mode": "team",
       "ok": true,
-      "ms": 971,
+      "ms": 819,
       "raw": 110,
       "kept": 1
     },
     {
-      "id": "gnews-team-min",
-      "label": "Google News: Minnesota Vikings",
+      "id": "gnews-team-was",
+      "label": "Google News: Washington Commanders",
       "mode": "team",
       "ok": true,
-      "ms": 1039,
-      "raw": 108,
-      "kept": 1
-    },
-    {
-      "id": "gnews-team-pit",
-      "label": "Google News: Pittsburgh Steelers",
-      "mode": "team",
-      "ok": true,
-      "ms": 919,
-      "raw": 104,
-      "kept": 1
-    },
-    {
-      "id": "gnews-team-sea",
-      "label": "Google News: Seattle Seahawks",
-      "mode": "team",
-      "ok": true,
-      "ms": 1046,
-      "raw": 108,
+      "ms": 770,
+      "raw": 105,
       "kept": 1
     },
     {
@@ -132,7 +96,7 @@
       "label": "ESPN NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 199,
+      "ms": 138,
       "raw": 0,
       "kept": 0
     },
@@ -141,7 +105,7 @@
       "label": "ProFootballTalk",
       "mode": "roster",
       "ok": true,
-      "ms": 765,
+      "ms": 265,
       "raw": 30,
       "kept": 0
     },
@@ -150,7 +114,7 @@
       "label": "CBS Sports NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 260,
+      "ms": 184,
       "raw": 36,
       "kept": 0
     },
@@ -159,7 +123,7 @@
       "label": "Yahoo Sports NFL",
       "mode": "roster",
       "ok": true,
-      "ms": 952,
+      "ms": 709,
       "raw": 50,
       "kept": 0
     },
@@ -168,7 +132,7 @@
       "label": "r/fantasyfootball new",
       "mode": "roster",
       "ok": true,
-      "ms": 1261,
+      "ms": 1307,
       "raw": 0,
       "kept": 0
     },
@@ -177,8 +141,8 @@
       "label": "Google News: Arizona Cardinals",
       "mode": "team",
       "ok": true,
-      "ms": 813,
-      "raw": 100,
+      "ms": 628,
+      "raw": 102,
       "kept": 0
     },
     {
@@ -186,8 +150,17 @@
       "label": "Google News: Buffalo Bills",
       "mode": "team",
       "ok": true,
-      "ms": 1015,
-      "raw": 111,
+      "ms": 790,
+      "raw": 109,
+      "kept": 0
+    },
+    {
+      "id": "gnews-team-cin",
+      "label": "Google News: Cincinnati Bengals",
+      "mode": "team",
+      "ok": true,
+      "ms": 745,
+      "raw": 104,
       "kept": 0
     },
     {
@@ -195,17 +168,26 @@
       "label": "Google News: Dallas Cowboys",
       "mode": "team",
       "ok": true,
-      "ms": 866,
-      "raw": 102,
+      "ms": 735,
+      "raw": 100,
       "kept": 0
     },
     {
-      "id": "gnews-team-hou",
-      "label": "Google News: Houston Texans",
+      "id": "gnews-team-jax",
+      "label": "Google News: Jacksonville Jaguars",
       "mode": "team",
       "ok": true,
-      "ms": 909,
-      "raw": 104,
+      "ms": 750,
+      "raw": 106,
+      "kept": 0
+    },
+    {
+      "id": "gnews-team-lac",
+      "label": "Google News: Los Angeles Chargers",
+      "mode": "team",
+      "ok": true,
+      "ms": 605,
+      "raw": 100,
       "kept": 0
     },
     {
@@ -213,8 +195,17 @@
       "label": "Google News: Los Angeles Rams",
       "mode": "team",
       "ok": true,
-      "ms": 1072,
-      "raw": 111,
+      "ms": 764,
+      "raw": 104,
+      "kept": 0
+    },
+    {
+      "id": "gnews-team-min",
+      "label": "Google News: Minnesota Vikings",
+      "mode": "team",
+      "ok": true,
+      "ms": 792,
+      "raw": 106,
       "kept": 0
     },
     {
@@ -222,8 +213,8 @@
       "label": "Google News: New England Patriots",
       "mode": "team",
       "ok": true,
-      "ms": 1027,
-      "raw": 103,
+      "ms": 638,
+      "raw": 101,
       "kept": 0
     },
     {
@@ -231,7 +222,7 @@
       "label": "Google News: New Orleans Saints",
       "mode": "team",
       "ok": true,
-      "ms": 892,
+      "ms": 675,
       "raw": 102,
       "kept": 0
     },
@@ -240,8 +231,26 @@
       "label": "Google News: New York Jets",
       "mode": "team",
       "ok": true,
-      "ms": 1016,
+      "ms": 706,
       "raw": 104,
+      "kept": 0
+    },
+    {
+      "id": "gnews-team-pit",
+      "label": "Google News: Pittsburgh Steelers",
+      "mode": "team",
+      "ok": true,
+      "ms": 592,
+      "raw": 104,
+      "kept": 0
+    },
+    {
+      "id": "gnews-team-sea",
+      "label": "Google News: Seattle Seahawks",
+      "mode": "team",
+      "ok": true,
+      "ms": 801,
+      "raw": 108,
       "kept": 0
     },
     {
@@ -249,17 +258,8 @@
       "label": "Google News: Tennessee Titans",
       "mode": "team",
       "ok": true,
-      "ms": 881,
+      "ms": 662,
       "raw": 102,
-      "kept": 0
-    },
-    {
-      "id": "gnews-team-was",
-      "label": "Google News: Washington Commanders",
-      "mode": "team",
-      "ok": true,
-      "ms": 1059,
-      "raw": 101,
       "kept": 0
     }
   ],
@@ -267,9 +267,9 @@
     "sources": 29,
     "ok": 29,
     "failed": 0,
-    "newThisRun": 28,
+    "newThisRun": 24,
     "inAllFeed": 1200,
-    "inUrgentFeed": 188
+    "inUrgentFeed": 182
   },
   "roster": [
     {
@@ -277,14 +277,14 @@
       "pos": "QB",
       "team": "LAC",
       "verified": true,
-      "recent": 145
+      "recent": 146
     },
     {
       "name": "Shedeur Sanders",
       "pos": "QB",
       "team": "CLE",
       "verified": true,
-      "recent": 50
+      "recent": 52
     },
     {
       "name": "Trevor Lawrence",
@@ -312,7 +312,7 @@
       "pos": "RB",
       "team": "PIT",
       "verified": true,
-      "recent": 86
+      "recent": 87
     },
     {
       "name": "Kimani Vidal",
@@ -340,14 +340,14 @@
       "pos": "WR",
       "team": "NYJ",
       "verified": true,
-      "recent": 31
+      "recent": 30
     },
     {
       "name": "DeMario Douglas",
       "pos": "WR",
       "team": "NE",
       "verified": true,
-      "recent": 7
+      "recent": 8
     },
     {
       "name": "Germie Bernard",
@@ -361,7 +361,7 @@
       "pos": "WR",
       "team": "LV",
       "verified": true,
-      "recent": 9
+      "recent": 10
     },
     {
       "name": "Jaxon Smith-Njigba",
@@ -375,42 +375,42 @@
       "pos": "WR",
       "team": "MIN",
       "verified": true,
-      "recent": 140
+      "recent": 138
     },
     {
       "name": "Michael Wilson",
       "pos": "WR",
       "team": "ARI",
       "verified": true,
-      "recent": 21
+      "recent": 23
     },
     {
       "name": "Tank Dell",
       "pos": "WR",
       "team": "HOU",
       "verified": true,
-      "recent": 7
+      "recent": 6
     },
     {
       "name": "Tee Higgins",
       "pos": "WR",
       "team": "CIN",
       "verified": true,
-      "recent": 41
+      "recent": 40
     },
     {
       "name": "Xavier Hutchinson",
       "pos": "WR",
       "team": "HOU",
       "verified": true,
-      "recent": 17
+      "recent": 16
     },
     {
       "name": "Chig Okonkwo",
       "pos": "TE",
       "team": "WAS",
       "verified": true,
-      "recent": 14
+      "recent": 12
     },
     {
       "name": "Gunnar Helm",
@@ -424,7 +424,7 @@
       "pos": "TE",
       "team": "DAL",
       "verified": true,
-      "recent": 24
+      "recent": 26
     },
     {
       "name": "Justin Joly",
