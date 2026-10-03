@@ -3,7 +3,7 @@
   "_sleeper": {
     "leagueId": "1312070936467365888",
     "username": "teesnutz410",
-    "lastSync": "2026-10-03T02:06:13.077Z"
+    "lastSync": "2026-10-03T13:21:32.838Z"
   },
   "players": [
     {
@@ -131,6 +131,18 @@
       ],
       "exclude": [],
       "sleeperId": "11625"
+    },
+    {
+      "id": "brycen-tremayne",
+      "sleeperId": "11157",
+      "name": "Brycen Tremayne",
+      "pos": "WR",
+      "team": "CAR",
+      "verified": true,
+      "aliases": [
+        "Brycen Tremayne"
+      ],
+      "exclude": []
     },
     {
       "id": "demario-douglas",
@@ -317,6 +329,7 @@
   "teams": {
     "ARI": "Arizona Cardinals",
     "BUF": "Buffalo Bills",
+    "CAR": "Carolina Panthers",
     "CIN": "Cincinnati Bengals",
     "CLE": "Cleveland Browns",
     "DAL": "Dallas Cowboys",
