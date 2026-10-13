@@ -3,7 +3,7 @@
   "_sleeper": {
     "leagueId": "1312070936467365888",
     "username": "teesnutz410",
-    "lastSync": "2026-10-11T06:43:11.364Z"
+    "lastSync": "2026-10-13T15:01:11.116Z"
   },
   "players": [
     {
@@ -107,19 +107,6 @@
       "sleeperId": "8150"
     },
     {
-      "id": "etienne",
-      "name": "Travis Etienne",
-      "pos": "RB",
-      "team": "NO",
-      "verified": true,
-      "aliases": [
-        "Travis Etienne",
-        "Etienne"
-      ],
-      "exclude": [],
-      "sleeperId": "7543"
-    },
-    {
       "id": "adonai",
       "name": "Adonai Mitchell",
       "pos": "WR",
@@ -196,6 +183,18 @@
       "sleeperId": "9488"
     },
     {
+      "id": "jaylen-waddle",
+      "sleeperId": "7526",
+      "name": "Jaylen Waddle",
+      "pos": "WR",
+      "team": "DEN",
+      "verified": true,
+      "aliases": [
+        "Jaylen Waddle"
+      ],
+      "exclude": []
+    },
+    {
       "id": "jefferson",
       "name": "Justin Jefferson",
       "pos": "WR",
@@ -206,23 +205,6 @@
       ],
       "exclude": [],
       "sleeperId": "6794"
-    },
-    {
-      "id": "mwilson",
-      "name": "Michael Wilson",
-      "pos": "WR",
-      "team": "ARI",
-      "verified": true,
-      "aliases": [
-        "Michael Wilson"
-      ],
-      "exclude": [
-        "basketball",
-        "NCAA Tournament",
-        "high school",
-        "chief executive"
-      ],
-      "sleeperId": "10232"
     },
     {
       "id": "dell",
@@ -289,6 +271,18 @@
       "sleeperId": "12502"
     },
     {
+      "id": "harold-fannin",
+      "sleeperId": "12506",
+      "name": "Harold Fannin",
+      "pos": "TE",
+      "team": "CLE",
+      "verified": true,
+      "aliases": [
+        "Harold Fannin"
+      ],
+      "exclude": []
+    },
+    {
       "id": "ferguson",
       "name": "Jake Ferguson",
       "pos": "TE",
@@ -315,12 +309,12 @@
     }
   ],
   "teams": {
-    "ARI": "Arizona Cardinals",
     "BUF": "Buffalo Bills",
     "CAR": "Carolina Panthers",
     "CIN": "Cincinnati Bengals",
     "CLE": "Cleveland Browns",
     "DAL": "Dallas Cowboys",
+    "DEN": "Denver Broncos",
     "HOU": "Houston Texans",
     "JAX": "Jacksonville Jaguars",
     "LAC": "Los Angeles Chargers",
@@ -329,7 +323,6 @@
     "MIA": "Miami Dolphins",
     "MIN": "Minnesota Vikings",
     "NE": "New England Patriots",
-    "NO": "New Orleans Saints",
     "NYJ": "New York Jets",
     "PIT": "Pittsburgh Steelers",
     "SEA": "Seattle Seahawks",
