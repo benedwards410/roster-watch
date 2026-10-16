@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1792110586421"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1792126581592"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 00:29:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 04:56:21 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Broncos wide receiver Jaylen Waddle questionable to return with shoulder injury [Jaylen Waddle]</title>
+      <link>https://sports.yahoo.com/articles/broncos-wide-receiver-jaylen-waddle-020445644.html</link>
+      <guid isPermaLink="false">f78e9eb94850d773</guid>
+      <pubDate>Fri, 16 Oct 2026 02:04:45 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>The Denver Broncos wide receiver exited the game at the end of the first half with a shoulder injury.</description>
+    </item>
+    <item>
+      <title>Jaylen Waddle injury update as Broncos WR hurts shoulder, returns vs. Seahawks [Jaylen Waddle]</title>
+      <link>https://sports.yahoo.com/articles/jaylen-waddle-injury-broncos-wr-015207613.html</link>
+      <guid isPermaLink="false">6b9e5a9af11d7b1c</guid>
+      <pubDate>Fri, 16 Oct 2026 01:52:07 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Latest updates after Broncos wide receiver Jaylen Waddle suffered an injury that knocked him out Denver&amp;#39;s &amp;quot;Thursday Night Football&amp;quot; game vs Seahawks.</description>
+    </item>
     <item>
       <title>Seahawks vs. Broncos live updates, inactives, where to watch: Jaxon Smith-Njigba, Sam Darnold take on short-handed Denver secondary on &amp;#39;Thursday Night Football&amp;#39; [Jaxon Smith-Njigba]</title>
       <link>https://sports.yahoo.com/nfl/live/seahawks-broncos-score-live-updates-inactives-highlights-stats-where-to-watch-week-6-223000561.html</link>
@@ -9591,22 +9607,6 @@
       <pubDate>Mon, 12 Oct 2026 00:56:25 GMT</pubDate>
       <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
       <description>Justin Herbert Two more turnovers in Week 5 &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
-    </item>
-    <item>
-      <title>Jacksonville Jaguars quarterback Trevor Lawrence takes off for a 16-yard scramble into Philadelphia Eagles territory - NFL.com [Trevor Lawrence]</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNa2pyVDFpZnZSSXIwSzIwRUdKT21VNFhvNlIydGlJQUJ5MnNUdUtuRFhfOUNpNEJRZFBKTF9MVVpqOU9SbVNBOUFFN2plZXM1UXYwLV9pUHpNV2h6Zi0xamZ5UEtORkpET1RYRnpiSGx2Q19DaF9URl91aUUxaWJFTkpOa3M4TC1XTnF1cUlMTl95cENLempaTGptZE40dw?oc=5</link>
-      <guid isPermaLink="false">64da237d151bec13</guid>
-      <pubDate>Sun, 11 Oct 2026 16:57:47 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Jacksonville Jaguars quarterback Trevor Lawrence takes off for a 16-yard scramble into Philadelphia Eagles territory &amp;nbsp;&amp;nbsp; NFL.com</description>
-    </item>
-    <item>
-      <title>Justin Herbert&apos;s fourth-quarter meltdown dooms winless Chargers in loss to Broncos - Yahoo Sports [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkNqbWVyMnBHdmVuSXFyTDB0YXZvenFyWFRlbXoxdXJyMHUzOWs4MUpRdWtwY3g2Ym5kdlRlc3lPeC1GWm9ScC1COHJfQnFXS05Pa0lDTW5BZjQ1bHVfcGR0ZTBJMlpBWmNwdmdwbEFOY2NUVmtnalpfTjBwcTBVY0hqMzQ0N2pUMmI0NjFOMkhkZw?oc=5</link>
-      <guid isPermaLink="false">6eeeadc0fa85fae0</guid>
-      <pubDate>Sun, 11 Oct 2026 23:38:17 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Justin Herbert&apos;s fourth-quarter meltdown dooms winless Chargers in loss to Broncos &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
     </item>
   </channel>
 </rss>
