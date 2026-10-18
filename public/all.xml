@@ -1,13 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1792355569789"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1792359418454"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 20:32:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 21:36:58 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steelers pull out 26-19 win over Bucs in overtime [Germie Bernard]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-pull-out-26-19-win-over-bucs-in-overtime</link>
+      <guid isPermaLink="false">fdb775536e56a696</guid>
+      <pubDate>Sun, 18 Oct 2026 20:53:02 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>Aaron Rodgers threw a 6-yard touchdown pass to Germie Bernard for the game-winner in overtime.</description>
+    </item>
+    <item>
+      <title>Aaron Rodgers, Steelers rally for OT win in Tampa as Buccaneers&amp;#39; struggles continue without Baker Mayfield [Baker Mayfield]</title>
+      <link>https://sports.yahoo.com/nfl/breaking-news/article/aaron-rodgers-steelers-rally-for-ot-win-in-tampa-as-buccaneers-struggles-continue-without-baker-mayfield-204353031.html</link>
+      <guid isPermaLink="false">a91c5ca4504670ca</guid>
+      <pubDate>Sun, 18 Oct 2026 20:43:53 GMT</pubDate>
+      <source>Yahoo Sports NFL</source>
+      <description>Jalon Daniels threw two fourth-quarter interceptions on Sunday.</description>
+    </item>
+    <item>
+      <title>Justin Herbert takes flying knee to head during QB slide - Yahoo Sports [Justin Herbert]</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQczEzakJHYTZqNk43RFdsY0J5ZDRTcTM2T3Q5LVpBVjZsNzF0LWV1TlV4Y21yblhrRWwtaTdSNGVodl9oemZWbi1ZU1lIdGd0MHk0YkxOclUycG96TDFXaEl3MlNfejN0bXJ1MFRWYmFFWEVRTW9RX1lEV3J2X3Z3X3pVUi1lYUVY?oc=5</link>
+      <guid isPermaLink="false">21a17718e53dd576</guid>
+      <pubDate>Sun, 18 Oct 2026 21:10:58 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Cook, Williams</source>
+      <description>Justin Herbert takes flying knee to head during QB slide &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Buccaneers Have Return Date in Mind for QB Baker Mayfield: Report - Heavy.com [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2h1RFhOUFRwdjZ6ZUFJT0ZfRHBldEFxS2o4ZWJremdRdkpycHd2NmNFSG5FSEw0Zk5UYXVUZU5XSDduS1FkdHdySEZiaGFaS2l5akVmZkFwdjFiSGVOWnJyangzQjBwWUpsNVk3RWZMYVdkY3kwb0FlTzI0WlRBZ2c1aW1zOHFybHRSZ05WQWVjb2hndDhrUEhXbHo?oc=5</link>
+      <guid isPermaLink="false">09d1536387849fc9</guid>
+      <pubDate>Sat, 17 Oct 2026 14:50:17 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Cook, Williams</source>
+      <description>Buccaneers Have Return Date in Mind for QB Baker Mayfield: Report &amp;nbsp;&amp;nbsp; Heavy.com</description>
+    </item>
+    <item>
+      <title>DeMario Douglas Delivered the Patriots’ Final Play Against the Jets - Yahoo Sports [DeMario Douglas]</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOZXZrMTRxYk5kemc5UGtXWWRKc0k4S3NyUVJUWTd3WjdWTFVCdGE4ZkJmdVBjSUdyYVZ3eWFWTTFhNVU0ZTV0TWp2OXdmOEpENFBEaXBBTm5sY0FIY20xTVFYOWpNTVNVVkhPUHhlNHZlZHE4LXRaMjlmVFpjdWxqNDhBWmhwSUFuU29wS2V3ZUM0Uzg?oc=5</link>
+      <guid isPermaLink="false">0355628b78f7e274</guid>
+      <pubDate>Sun, 18 Oct 2026 20:24:04 GMT</pubDate>
+      <source>Google News: Warren, Williams, Mitchell, Tremayne, Douglas</source>
+      <description>DeMario Douglas Delivered the Patriots’ Final Play Against the Jets &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Germie Bernard&apos;s first NFL touchdown gives Steelers the lead vs. Bucs in overtime - NFL.com [Germie Bernard]</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2VuUW1JOVMtcFNMbG4tdVd1S0xURW9zemhNLWtSRHFLaFJraFpqc0VEank3eEs0d0JhVG1ORmhPN0RjbWU5X2I1MWhhYWxHbU1kSFBMYUNHRjZ3dWZxcTNwMzZyRnlzXzlXZlJTNkw3c3IxZHhhVEliSGVZYzE3OUUyYmdQSm04TGR1SkpQZHhIa0ZSc1hPSFB4UjB4WlRHR1czak51Q0d2TW8?oc=5</link>
+      <guid isPermaLink="false">59ce6b945749ecba</guid>
+      <pubDate>Sun, 18 Oct 2026 20:52:06 GMT</pubDate>
+      <source>Google News: Bernard, Nailor, Smith-Njigba, Waddle, Jefferson</source>
+      <description>Germie Bernard&apos;s first NFL touchdown gives Steelers the lead vs. Bucs in overtime &amp;nbsp;&amp;nbsp; NFL.com</description>
+    </item>
+    <item>
+      <title>Steelers report card: Germie Bernard, DK Metcalf ignite offense in win over Buccaneers - USA Today [Germie Bernard]</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGxTWDctdVhkZXFmbERkYVhtNE42WmIwUDl4czZYb3dSZjZGX3JSV0pSLU5PVDRLeEVmUnBuS3g3a0VtQ25QTi1lVHNDcnpfTTl6aHdVNUYzQ3RrZ004VElrcE96Y1h5ZnVhSDFpd2xremJzMkxPcHI0Z2FoZFZNTHZIZzVna0VjcmxObllCYk1aTGhlVVpFUmloQkkxZUZxY1R4aWMzNS1FOFR0MEEzenk3NHJhVUpBaWIyOEx2RFFwZnNsZm9PQnBRVEU2SGNFU3dn?oc=5</link>
+      <guid isPermaLink="false">612ca1aaa5aba2ad</guid>
+      <pubDate>Sun, 18 Oct 2026 21:18:00 GMT</pubDate>
+      <source>Google News: Bernard, Nailor, Smith-Njigba, Waddle, Jefferson</source>
+      <description>Steelers report card: Germie Bernard, DK Metcalf ignite offense in win over Buccaneers &amp;nbsp;&amp;nbsp; USA Today</description>
+    </item>
+    <item>
+      <title>Germie Bernard breaks out with 11/87/1 line vs. TB - NBC Sports [Germie Bernard]</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxObUdDQ2ZGMm5GOEJ4ajM1UW9FbERKTEpqeTVKZ2tvLVFXMjBmMzg3aTUxMGY4WkNXVU1iYUJZV0RjendUX2VhczRsV0FjSmszeGxLRC1vdUpBaHJmSkE5cU1hbXUySzFmV2ZYSnlrS2Z6TW9aMVZoNUl6T0RnQmVkQ3ZHUjFwVUtDSzRNUDdCWlM2aTkwVWFYQVZrR3c1clM5XzJWYlA5eUFkbTE2MktwNEVEd01HZw?oc=5</link>
+      <guid isPermaLink="false">f9864913e19fd3ae</guid>
+      <pubDate>Sat, 17 Oct 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Bernard, Nailor, Smith-Njigba, Waddle, Jefferson</source>
+      <description>Germie Bernard breaks out with 11/87/1 line vs. TB &amp;nbsp;&amp;nbsp; NBC Sports</description>
+    </item>
+    <item>
+      <title>Harold Fannin Jr. limited to one reception vs. Ravens - USA Today [Harold Fannin]</title>
+      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFdpaDhQMVI0dDJpYzQ5b3kyN1BpRERLeUdpOXRpVHo4UDlJT0twcnRaUnB5TmFVWlJKVnpjZzhfT2lHNGswZWFwNTl4WkxrbFZKaHN0dFd3U2IzVEpWTGxqYkhaUDlUTjZpNVZIcWJQa1hROFNqeHNzWi0yNlFRYmVIcTdnRndzRm16dTh4R1dsWTBBbmZ3ZFlvZjRWd1VWMlVrZElQXzVTcm9fOU45cXJhQ1FnTkt0RmRYU0FwTDFvanJ6cEd1Y0d3?oc=5</link>
+      <guid isPermaLink="false">1d11ff399991313f</guid>
+      <pubDate>Sun, 18 Oct 2026 21:10:00 GMT</pubDate>
+      <source>Google News: Fannin, Ferguson, Joly</source>
+      <description>Harold Fannin Jr. limited to one reception vs. Ravens &amp;nbsp;&amp;nbsp; USA Today</description>
+    </item>
+    <item>
+      <title>Harold Fannin Jr. limited to single reception - Yahoo Sports [Harold Fannin]</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNTUF2WHNtbV81aHAtT1MwYnJRMTJMOUYzWjloVTFCeXJhS1gxWXZxNjRxbThtUm02Q0tnUGU4RkxnXzFYWEozUFhkY2dfaXE1U2c0Um1RME9EaTJkNGxCdmtTc0p6MjZDSHowWDJ1dm5uaTJSeGViUzdRcTNuVjZYWmV3b1BleHc?oc=5</link>
+      <guid isPermaLink="false">45b448016244fb2a</guid>
+      <pubDate>Sun, 11 Oct 2026 22:09:30 GMT</pubDate>
+      <source>Google News: Fannin, Ferguson, Joly</source>
+      <description>Harold Fannin Jr. limited to single reception &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Cowboys TE Jake Ferguson&apos;s simple explanation gets $13K beer-celebration fine rescinded - Cowboys Wire [Jake Ferguson]</title>
+      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPVVhRWGR0VmZsRW03MFRhSXZlTmxNVzY5d3BlaTV6eFJLc2tBSmRBbVZtaG12cElmajhxTEt3bS1SRWpuZ1VSeFkxMU9KWGNPbVpRbE5tdDFnck9TX2dnLU1IRFVXeGpSU1g5X0tDLVVYUmpzOHNFNVRMVVFqNUdTMnotZXpBcWVCMlJ5RmMySkgxUjNlYXFBQUFVMnFhdFR3RGU1dWRXMEx6OTNUTDNVRVU1R05FZHVWUkswWUtUMGIxQ2RzRmE2NXZvRE8?oc=5</link>
+      <guid isPermaLink="false">81fe3cfe80c992cf</guid>
+      <pubDate>Wed, 07 Oct 2026 21:01:00 GMT</pubDate>
+      <source>Google News: Fannin, Ferguson, Joly</source>
+      <description>Cowboys TE Jake Ferguson&apos;s simple explanation gets $13K beer-celebration fine rescinded &amp;nbsp;&amp;nbsp; Cowboys Wire</description>
+    </item>
     <item>
       <title>Robert James Cook - Quad City Herald [James Cook]</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2R0gzMFdOWjQyYmU2UTFCcWpJT1MwS0g2OVFLM0EzY0IxVlNfUnVqMG01amUySGVtb0ZHSGpUWU5WcFhiVXl0SjRtUkZEdEgxQ2E5Wm9MYUxaMjRHRDNrQmp3V2htU3c?oc=5</link>
@@ -9519,94 +9607,6 @@
       <pubDate>Wed, 14 Oct 2026 14:12:10 GMT</pubDate>
       <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
       <description>Justin Herbert: Stop Moving The Goalposts Stream of National Football League &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Clemson Legend Trevor Lawrence Finally Seems to Be Getting It - roundtable.io [Trevor Lawrence]</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOajZrM0RhQ0lQNjI4RGpuTWd6SWZETlJ0OGY0ZjhSS0Nkazgyb015ak1jMzVCamtLWndWVzVYVkk2YXRvaEo1U2tHcGozbXJ5R1ZuOENHMTd6ZGVVYkNkLTc2S0tKYjhqREhEemRQWTIzTDM0N3pyQ25Hb0d0d29rQU9YcjEzVVBzYW9QeWlyNGxSUVRocDYtaEc5Y3RrbFlGTEVnM3lnbEpKMmlG?oc=5</link>
-      <guid isPermaLink="false">15356fc59bc50d0f</guid>
-      <pubDate>Wed, 14 Oct 2026 13:46:01 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Clemson Legend Trevor Lawrence Finally Seems to Be Getting It &amp;nbsp;&amp;nbsp; roundtable.io</description>
-    </item>
-    <item>
-      <title>Fantasy football matchup rankings: Upgrade Tony Pollard, fade Trevor Lawrence - ESPN [Trevor Lawrence]</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGMxbko4YUVSUFVMZ1kwNWlfRkhSNllFejZ5Wm40bW9FVnp4b0F1VC1MUVZaRDhXNjFDd0hmS0N6YVEyYkxxaTR2MWs3b1FHRkJrYm5raS10Nks0SjJ3dHlLSzVzODJ6Ynd0VzlMQll2dXg2TUJveGtLWU5QZHNaSGVFS3RFWUc4S2QyX0Z4ZGVPN2hQQjRYdmRrbXRCdWJSWXhHOXN0amJKMmVteG9ual9kZWVydTg?oc=5</link>
-      <guid isPermaLink="false">1e3066b5e7d8a15b</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Fantasy football matchup rankings: Upgrade Tony Pollard, fade Trevor Lawrence &amp;nbsp;&amp;nbsp; ESPN</description>
-    </item>
-    <item>
-      <title>Browns Urged to Lure Justin Herbert to Cleveland Amid Chargers&apos; Struggles - www.clevelandbrownscommunity.com [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYUhtcnlsWkVWQ3g1LVpsWDJzVFRFcnRybDVxTHFjRGhaVW9WNU1rd21HNTFkdWVCM2VOLUlPYlVHUzd0UTF0UWZfVjllYW5vQVJRUFRNNUxjNTN0VmYxQWlPOTBjZ2N2eUhUTVlMRUh2b2NhSHVFODRWem4zRURPUHVBOXM3bnhfMk13cFA4aGVUMnQ2RHliV056LXlmU3JPM0x1REdBY3NGcVRRX1RDV3N3YWFRTDdSMXRz?oc=5</link>
-      <guid isPermaLink="false">60f4f057a0bdff28</guid>
-      <pubDate>Wed, 14 Oct 2026 13:59:08 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Browns Urged to Lure Justin Herbert to Cleveland Amid Chargers&apos; Struggles &amp;nbsp;&amp;nbsp; www.clevelandbrownscommunity.com</description>
-    </item>
-    <item>
-      <title>Jaylen Warren Stats, Props &amp; Recent Performance - PrizePicks [Jaylen Warren]</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBGdDVLSXZ4N3R3bTBCQXRBOXRuRTNGNng4VUM2aWZZUmxMbC0tUFlCNmZSN05kQV9JbjRDOWM2NDZ3bHU2TGJOcURrN041OVp2TWlweC1tX0ZLaHMxTS1rUWljcUNKN21lSzRWMU9B?oc=5</link>
-      <guid isPermaLink="false">db7ec371b53216f3</guid>
-      <pubDate>Wed, 14 Oct 2026 10:16:50 GMT</pubDate>
-      <source>Google News: Warren, Williams, Mitchell, Tremayne, Douglas</source>
-      <description>Jaylen Warren Stats, Props &amp; Recent Performance &amp;nbsp;&amp;nbsp; PrizePicks</description>
-    </item>
-    <item>
-      <title>Watch: Jaylen Warren breaks loose for 50-yard touchdown run - Steel City Underground [Jaylen Warren]</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWIwSXVMdkNwX0ItRkVBMEpKYXpjcFpVRFZ6NjlhRUpxMlNRTWRMUnpLa3h2VXFGQ1lUT21yNmJzejQ4RmNyTUctMENZWkRrRm1fNHVfcW5KazFjZG5MVERkekxmTGhlbGtvQmRmeUtRMXpCMGl3bXZGQ1U2WlpJVGZSak5OS0NFdDVNWjZZSHVxdTgxMmFfb1NjQ0VJU0VmUjFvRDBwNTl0SGM?oc=5</link>
-      <guid isPermaLink="false">90a1dd228592697e</guid>
-      <pubDate>Wed, 14 Oct 2026 12:03:51 GMT</pubDate>
-      <source>Google News: Warren, Williams, Mitchell, Tremayne, Douglas</source>
-      <description>Watch: Jaylen Warren breaks loose for 50-yard touchdown run &amp;nbsp;&amp;nbsp; Steel City Underground</description>
-    </item>
-    <item>
-      <title>Jaylen Warren&apos;s breakout could force Steelers to pay up quickly - Still Curtain [Jaylen Warren]</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkJpajFEZ2lWZkc4S3IwcWU2dzFWZzI0aGtuQWxHVlh6VUl6SGtSVGttSHJtdm9iODB1a0dlUWNEem1Wbm1MbDZJb3NRdkF3UVhYOEhMaXlvcHJmOFd4eUxRQ2p4TXlxM3A0RDI0Y00tLWk4X3Fod0RXYUdyVk1vOUFCdTU3aS1DbHZobkJ0UE13VmNUbWRDZjZQc1VlTlQxeFFpZmtpMXBGMlBuTWtmZDB3?oc=5</link>
-      <guid isPermaLink="false">b6d42ce468f3baf3</guid>
-      <pubDate>Wed, 14 Oct 2026 14:00:00 GMT</pubDate>
-      <source>Google News: Warren, Williams, Mitchell, Tremayne, Douglas</source>
-      <description>Jaylen Warren&apos;s breakout could force Steelers to pay up quickly &amp;nbsp;&amp;nbsp; Still Curtain</description>
-    </item>
-    <item>
-      <title>Steelers&apos; Top Strength Not its Pass Rush Anymore? Mike McCarthy&apos;s Balance Frees Up Jaylen Warren - kare11.com [Jaylen Warren]</title>
-      <link>https://news.google.com/rss/articles/CBMisgJBVV95cUxQYlVtaDlfRzVwbmQyZzVzSGJBZk9UMUNTanZCcU0zVEQ5dVpVVGZrSVdEbmpONkRacmg0SURnb0JwU0YwdHdPeG9yQWhYNjBEdHdqdTV1bS14RmFJUFNpZE9PaTVlSGlzcFRZVlhCb3g2ZzNMQ0FjZDNUMU1SQUpGanJmTnc4QWJwYXVGLWUtYkhDZ2VrdlFZUEFETU4yTlRTNHMtVGZzNHYtUy1vYzRQUnUyMUx4MFhNX2szaUVDeFdpR2xLTmxESlJyUjlUNjZOYTl2Q0s2cDlDQ2d2VGJkRFhoNGgxaVZUUkh5VHA1a0JSazJSUGxHdVlZNXdiOWktWWRWY2JrTlQ5SU80UXJOX2hVWEs4WmVoZi1UUHhGOEpUQ0d5VnFLRFA5djVWelNtWVE?oc=5</link>
-      <guid isPermaLink="false">1f58f9d71b3aa3e9</guid>
-      <pubDate>Wed, 14 Oct 2026 12:26:00 GMT</pubDate>
-      <source>Google News: Warren, Williams, Mitchell, Tremayne, Douglas</source>
-      <description>Steelers&apos; Top Strength Not its Pass Rush Anymore? Mike McCarthy&apos;s Balance Frees Up Jaylen Warren &amp;nbsp;&amp;nbsp; kare11.com</description>
-    </item>
-    <item>
-      <title>Jaylen Waddle &amp; the Fantasy Football Players to Avoid in Week 6 - Sports Illustrated [Jaylen Waddle]</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1hhQTM3TFdLSE9lRVlTdmRiQVpKNzgxY08xNE9RTjBXMUVGMVV6TUxyQVNfOVQzZ0dIOWtxMUxLWjdlbmRHTUREV2FjYTVuTnVkS21rOTVMYjFKUlpUTnJ0YzRiRHBzT3ZYeVpSd1hKT1VwdFM2X0dYTDV3ZnJqem1ZaEtyalFnOTBtdGVPN3dQd0tWU1NHNHJIMWc0QmN6ZF8wNWExZFRwc0ZkalE?oc=5</link>
-      <guid isPermaLink="false">ad7b53b96bfc43f7</guid>
-      <pubDate>Wed, 14 Oct 2026 12:55:00 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Waddle, Jefferson</source>
-      <description>Jaylen Waddle &amp; the Fantasy Football Players to Avoid in Week 6 &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Jaxon Smith-Njigba Receiving Yards: 90 Is a Coin Flip. Bet the Catches. - OddsShopper [Jaxon Smith-Njigba]</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1JkVHNCTFlNNDhkN1hQNzdGZjA0em1DODlaMXhpeUdTUEtUT2V2em9BTGJUcE4yVHRaSXhYMmppSDF5cnFhV3RWZWM1NVdrbTlLeG9wQWJjU1hVZC1OWm1KdVF5U0Q5SVcxekhGRHlvaHVNY0tlTFNMSVg1V0ZqUUllcS1QaTN5Yl9UQ1NRUDhMcnVpTXFfN25MNkNPR0kxcDZYYWwwS2dUTXhWWFVHNGVfNExLQQ?oc=5</link>
-      <guid isPermaLink="false">95ca5111c2349396</guid>
-      <pubDate>Wed, 14 Oct 2026 12:59:17 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Waddle, Jefferson</source>
-      <description>Jaxon Smith-Njigba Receiving Yards: 90 Is a Coin Flip. Bet the Catches. &amp;nbsp;&amp;nbsp; OddsShopper</description>
-    </item>
-    <item>
-      <title>49ers QB Brock Purdy picked over Seahawks star JSN to win MVP in 2026 - Seahawks Wire [Jaxon Smith-Njigba]</title>
-      <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMDkySjVWTmlaZncyeFY2eWhpYlJfRmY0MTlWRUZjWk44ZTBHMjJnR2Zaa1lfcU9Oajc2N3VtWHBDN0dJRm1OZnlwWUoyVjlGNzlfemFiZmZVMzJGLUJlcUZBYS1pTGljMG5HZ3FfSk5DX1hZajlQWjY0REdDSXRVX0RCZENpaUdIWmY1dWFhYkd2UjVTdHk4SWtxY0hkblpyZWQ3TU1FQTJnaElQa1BpVmpITE9qUjduOVA2ZUE5UkNDQ2lPUGM1YzhpTHZLbTM4MFdFQUdrQnB5c2hvWXZKay01cG5GdXpz?oc=5</link>
-      <guid isPermaLink="false">0c1f06bef9203761</guid>
-      <pubDate>Wed, 14 Oct 2026 14:01:00 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Waddle, Jefferson</source>
-      <description>49ers QB Brock Purdy picked over Seahawks star JSN to win MVP in 2026 &amp;nbsp;&amp;nbsp; Seahawks Wire</description>
-    </item>
-    <item>
-      <title>Week 6 WR/TE Target Report: Germie Bernard &amp; Kendrick Bourne Moving Up; Dalton Kincaid &amp; Keon Coleman Headed Down - Sports Illustrated [Germie Bernard]</title>
-      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZDNHLS1uMFI2YWNsWTYtMS1xeXphdHNEVUFscnJMTzhoZzVUYWk0MlRoX3MyQXVwVTBKSXYySnZ1dWpIeS1kNEEzdjhPeW83Wko4V2RYdndhcFVoWjV5clBLWE43dmNUQnBfaVpOOW1uT2RKaDdRV1BvbEpnMldKWXo2Mm9CNHUtQ19ldWJ3SUh1U3RHbFduRGxRRFBUUXJIYlFXTDZESGFaTERCWG00Wi1PZ083Qy1SYVpqZTcwMms2LXZ3UUFUZE8xX1NQeWdHc21jalJlc1Y3aXM?oc=5</link>
-      <guid isPermaLink="false">5787c282ca696ca7</guid>
-      <pubDate>Wed, 14 Oct 2026 14:16:46 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Waddle, Jefferson</source>
-      <description>Week 6 WR/TE Target Report: Germie Bernard &amp; Kendrick Bourne Moving Up; Dalton Kincaid &amp; Keon Coleman Headed Down &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
     </item>
   </channel>
 </rss>
