@@ -3,9 +3,21 @@
   "_sleeper": {
     "leagueId": "1312070936467365888",
     "username": "teesnutz410",
-    "lastSync": "2026-10-13T15:01:11.116Z"
+    "lastSync": "2026-10-18T17:02:17.267Z"
   },
   "players": [
+    {
+      "id": "baker-mayfield",
+      "sleeperId": "4892",
+      "name": "Baker Mayfield",
+      "pos": "QB",
+      "team": "TB",
+      "verified": true,
+      "aliases": [
+        "Baker Mayfield"
+      ],
+      "exclude": []
+    },
     {
       "id": "herbert",
       "name": "Justin Herbert",
@@ -19,24 +31,6 @@
         "Khalil Herbert"
       ],
       "sleeperId": "6797"
-    },
-    {
-      "id": "sanders",
-      "name": "Shedeur Sanders",
-      "pos": "QB",
-      "team": "CLE",
-      "verified": true,
-      "aliases": [
-        "Shedeur Sanders",
-        "Shedeur"
-      ],
-      "exclude": [
-        "Coach Prime",
-        "Deion",
-        "Shilo",
-        "Colorado Buffaloes"
-      ],
-      "sleeperId": "12524"
     },
     {
       "id": "lawrence",
@@ -326,6 +320,7 @@
     "NYJ": "New York Jets",
     "PIT": "Pittsburgh Steelers",
     "SEA": "Seattle Seahawks",
+    "TB": "Tampa Bay Buccaneers",
     "TEN": "Tennessee Titans",
     "WAS": "Washington Commanders"
   }
