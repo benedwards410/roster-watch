@@ -1,13 +1,485 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1792690493201"?>
+<?xml-stylesheet type="text/xsl" href="feed-style.xsl?v=1792702107719"?>
 <rss version="2.0">
   <channel>
     <title>Roster Watch - all player news</title>
     <link>https://benedwards410.github.io/roster-watch/public</link>
     <description>Every item matching a rostered player, deduped across sources.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 17:34:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:48:27 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://benedwards410.github.io/roster-watch/public/all.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breece Hall returns to Jets practice [Adonai Mitchell]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/breece-hall-returns-to-jets-practice</link>
+      <guid isPermaLink="false">15c2dea89d13ac83</guid>
+      <pubDate>Thu, 22 Oct 2026 20:30:16 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>The Jets got wide receiver Adonai Mitchell back on the practice field Wednesday and another significant offensive piece was back on the field Thursday.</description>
+    </item>
+    <item>
+      <title>Bucky Irving returns to Bucs practice, Emeka Egbuka is still out [Baker Mayfield]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucky-irving-returns-to-bucs-practice-emeka-egbuka-is-still-out</link>
+      <guid isPermaLink="false">05e4d0ca6debf2de</guid>
+      <pubDate>Thu, 22 Oct 2026 20:24:35 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>Baker Mayfield appears to be on track to make his return to the Buccaneers lineup in Week 7 and it looks like running back Bucky Irving is moving in the same direction.</description>
+    </item>
+    <item>
+      <title>Baker Mayfield: Thumb is in a place where it’s strong enough to be able to play [Baker Mayfield]</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-thumb-is-in-a-place-where-its-strong-enough-to-be-able-to-play</link>
+      <guid isPermaLink="false">ce8c2ce354c39261</guid>
+      <pubDate>Thu, 22 Oct 2026 18:33:09 GMT</pubDate>
+      <source>ProFootballTalk</source>
+      <description>Buccaneers quarterback Baker Mayfield appears on track to return from a dislocated right thumb in Week 7 when Tampa Bay plays Carolina.</description>
+    </item>
+    <item>
+      <title>Baker Mayfield: ‘Take Care of Business’ vs. Carolina | Press Conference - Tampa Bay Buccaneers [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOamhfV3p0TTdLcjFOWE0tZ0ZOckxXQ2lWenRka2tzRDg4RFRla0dMNXhINE5CT0k4OEJ0eF91U0NhM2JHWVJuQU9ybU9nNEJNZnk2ZlZEck1mYlJBODZLV1QwRWhNQVNzSkpYRE1kcFZ3SWpKRVl5ejJDdG9KbVVMZWk0UUYwX1I0WmVhVUtmdEcyTUdCSnk0?oc=5</link>
+      <guid isPermaLink="false">d1c1ea8137d23060</guid>
+      <pubDate>Thu, 22 Oct 2026 19:27:52 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Baker Mayfield: ‘Take Care of Business’ vs. Carolina | Press Conference &amp;nbsp;&amp;nbsp; Tampa Bay Buccaneers</description>
+    </item>
+    <item>
+      <title>Baker Mayfield expects to start for Buccaneers vs. Panthers, barring a setback - Bozeman Daily Chronicle [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMihwJBVV95cUxQVHV4QVhDaGp6Ump2Sk1YWXE0cGo2emMyOVJiSnd3ODJaQTc5WU53TURtZzhEd1R3MjdVaUVwdjZBOEs5dEh1a1NZZ21VbDlFLXo3UUNRVll5eWFfUTRtVXNnWW1RLVJVQWhQMnJoUjZUT01TQmVjbVpXUXQySjRXdERuTDVIUW1FT0x4emtKVVBjNlFnc2RuR3ZpblJRWVp3R3BaWUlRU2xSZDFJNW1KZ0RqVUpWbDdVMG91ZUZEREo0V0VUa2huQ2p4bktybU0wRTZNRlpuMVVaTGhXSDdRTFlSeTk4dEwwaDV6ODBpYU5jWnNaNEM1OWJVMXFHcHloNng1LWVLTQ?oc=5</link>
+      <guid isPermaLink="false">f471ca3d6c1c5512</guid>
+      <pubDate>Thu, 22 Oct 2026 19:12:41 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Baker Mayfield expects to start for Buccaneers vs. Panthers, barring a setback &amp;nbsp;&amp;nbsp; Bozeman Daily Chronicle</description>
+    </item>
+    <item>
+      <title>Baker Mayfield says thumb at place &apos;strong enough to be able to play&apos; for Buccaneers vs. Panthers - NFL.com [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxONVc0RnZNdlQtajRnamRWRlVCM3NfMkZTLUo4OWNPVk10NEtaMVZlZW1uTnFud013QlNLRXZxQkFMVXNTbFNGTDJZWC1xd3pSOGhJWFpYRGdWdzRRUmpEamhpaXRZZ1p2ZGNpalNZSjJFQk9kbHp2NkZON1I0RWxZLWtFRUhZQ0Ftdlk2YQ?oc=5</link>
+      <guid isPermaLink="false">0d116d97188472a5</guid>
+      <pubDate>Thu, 22 Oct 2026 19:19:18 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Baker Mayfield says thumb at place &apos;strong enough to be able to play&apos; for Buccaneers vs. Panthers &amp;nbsp;&amp;nbsp; NFL.com</description>
+    </item>
+    <item>
+      <title>Baker Mayfield Another full practice - Fantasy Footballers Podcast [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNdi16N0duaERSLW1BQW43UDZDNGNXT1BCM2hSeUdvdUM2SFZHLUFDZnJPakdsQU1zTi1CU1hiR0pJUDZ1NFE1MjltQ0VfSmpWRFZwMXp4NTVyXy1qQU5hOTRrRzE1WVdNUjBkRXViSTZsSnFZUHI4RGpYMEtjQXptRDAybmdveDV0emsxNzdWNzY?oc=5</link>
+      <guid isPermaLink="false">c98425042eb49e04</guid>
+      <pubDate>Thu, 22 Oct 2026 20:15:00 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Baker Mayfield Another full practice &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Baker Mayfield is finally back to give the Buccaneers a much-needed boost - The Pewter Plank [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPZTFGREd0SUdqMnFUbEdHU2RqM0pSZWFpSWNWOXFwZzI0TVFTSFh3Q0Q1TzAzYUFmQmVkY3JhYVdzUHJJckpSQ1ZUQXZVU29WT3ZSNDNQb0l1dENqc3VvcFNXcXl1VUVNU0lhMkp4bXBlY3FacXdjMUgwMTRpM3JjNmNwb3lGZ0s2Nm5ySU1HN2pEcEFiOHlJb1BIc25HRzdyU0E?oc=5</link>
+      <guid isPermaLink="false">2600a4bf27fe3360</guid>
+      <pubDate>Thu, 22 Oct 2026 18:12:47 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Baker Mayfield is finally back to give the Buccaneers a much-needed boost &amp;nbsp;&amp;nbsp; The Pewter Plank</description>
+    </item>
+    <item>
+      <title>Buccaneers&apos; Baker Mayfield: Another full practice - CBS Sports [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3BzOHQ1VHVId0VzUGN2SDBwdVAwMlVrTUh4cmFLOTZkaGdnZlRXdVpnYW1OZjhoV3ZtUVlTNkYyMU40WDVLb0J0SHNJTUo3NDhOamNiLUhxb1NRc1hBV1hkNXF3V0M1VWpaMGNHSUNheXhIUGdfS1NiN3dtOGNVUlhSZHNER1FBNEFfcDZMa0dRUzgtWTZwTHpBWk0?oc=5</link>
+      <guid isPermaLink="false">6130fa41503c2c52</guid>
+      <pubDate>Thu, 22 Oct 2026 20:02:35 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Buccaneers&apos; Baker Mayfield: Another full practice &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Baker Mayfield says thumb is strong enough to play - NBC Sports [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHJJSzVnTmhRWjA1S2ZPYW5BSDNQZ1U2cU9Zbzh4Z3hFQUF3X0paQnN5U3dtdHFTdzI2LV92WVNseUtnU3QxS1Noa1ZXZXRfaElpSUd0RE9odjd1MUxxeWo3b1RKZW9GX1dabFhBVUgwRXhpSlcybk4weTBfUDNMNWpvZmhmblZTQnpuYjNEVXNzTXJzc1Z4VEVtUHBwZnhoTW1fcGJlNzFCWjRzdFVYSW81ZV9GMmc?oc=5</link>
+      <guid isPermaLink="false">9f03dd07744026bf</guid>
+      <pubDate>Thu, 22 Oct 2026 18:56:15 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Baker Mayfield says thumb is strong enough to play &amp;nbsp;&amp;nbsp; NBC Sports</description>
+    </item>
+    <item>
+      <title>Buccaneers Week 7 Injury Report: Baker Mayfield BACK, Emeka Egbuka in concussion protocol - fox61.com [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMilAJBVV95cUxONlJheFFsWE8zelJWSGRDUTI5dmFsNVU5c2kyX01NOEloNnVlNU5fS1JLdHE4TkxOMVhzeU5WYmQ0aE5lc0ItNEZ5dVhpcmRsTHY4bmpWZ2Fia0JkWmNUTHMtNXA2eHRsUTJZSDJNRzMzeVViM09pQ2VQdTJEbkh2dzFqMmxNM3ZheW9namxBeE9PU01pUlpqUUZHbXpubDYxbmctbFdaQXpRaURCSFk4ZjRzalNhWWtqS3Q3bmdTVTRwRTJ0LXdJWG5HUzJKX0w3VE90Nzc2N05zV29OU19pQVRUc2F4ZmM0d3BNX0xncFotbG5mTFM3VFBxNi1KblRtOFNDTzNrRjhfWVczMl80RUowRTA?oc=5</link>
+      <guid isPermaLink="false">b45babe0c5bac230</guid>
+      <pubDate>Thu, 22 Oct 2026 18:56:00 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Buccaneers Week 7 Injury Report: Baker Mayfield BACK, Emeka Egbuka in concussion protocol &amp;nbsp;&amp;nbsp; fox61.com</description>
+    </item>
+    <item>
+      <title>Buccaneers&apos; Baker Mayfield shares encouraging injury update ahead of Panthers game - Yardbarker [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNckxKNnVLM1JIZUUtSFB2UHRVMjhzelJnYXpmOWNZWVRQdnU2MVQwSlVlSjlQQ0hhMXFmOWZTdXVHZk5MQmZoMjBWYjFVdGtJODFjcVF5RWN4dWV0TXN4Y1Vhdy14QjZRbS1sSjZnSHA2Y3R0S05pR1I1WUtDYWxoT25GeEZKU2htOVhIbWpRMHozVzEzMm1FMEtybVNCMThLUFBTdzBzOEpheGE3TUVha3pUNGpnaVEzT2NLTTdfUHNSMVFMSENOQ1dOZExUQzN4U213OVNn?oc=5</link>
+      <guid isPermaLink="false">80edf45eea9ddc32</guid>
+      <pubDate>Thu, 22 Oct 2026 19:30:08 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Buccaneers&apos; Baker Mayfield shares encouraging injury update ahead of Panthers game &amp;nbsp;&amp;nbsp; Yardbarker</description>
+    </item>
+    <item>
+      <title>Another full practice for Baker Mayfield - USA Today [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS1NxblRRY1FVdk1BNVJjMENxYU51YmoycW5TbnpVNWhjWlZhangtc2lRZlNHQmlqQWRjSEVRU1AxQUFsLXJfRWgtSG1iWjVDV2NoUTZud1VUamZDSldyUVppNzU1dVZvanRnZjM0QlJUc3V2U0tQdDI5bERSYlJKd2gzYUMwVTdCUEJWVVQzaG1ESWZuVjBnenpoMlF5T2J1WHRRY0g2QzFEQ21PM0t1M3c1SkZUSmUwSW9kM0UwWTdMSzFEcWpWRTVBVzBFczczVnZJMmF0MmpaRXdXTWc?oc=5</link>
+      <guid isPermaLink="false">35bf1675062b4eb6</guid>
+      <pubDate>Thu, 22 Oct 2026 20:32:00 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Another full practice for Baker Mayfield &amp;nbsp;&amp;nbsp; USA Today</description>
+    </item>
+    <item>
+      <title>Baker Mayfield Injury: Another full practice - RotoWire [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjM4UE13VWlaOHE1Q3k1eHBhRWc0Q3ZuelptSDN4VTZrMkNWNUEzQ0RPZW9hOFBTZmswb0lFZi00Qmo4a0JyZkVxOGk5VmRzMkpkbmxUc2I1ZDZLM2wxbVFMUHFKUTdEMTdEMTA5MEFYUnBxcDZJRmQxcy12UmJfYjBYaVFVQ2M0cC1nTnFnc0U2Sjdaa2RMek53?oc=5</link>
+      <guid isPermaLink="false">6789698024d10c9d</guid>
+      <pubDate>Thu, 22 Oct 2026 20:02:35 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Baker Mayfield Injury: Another full practice &amp;nbsp;&amp;nbsp; RotoWire</description>
+    </item>
+    <item>
+      <title>Baker Mayfield is confident his thumb is strong enough to play - The Big Lead [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWQtVy03UEJzeU56MkFjSUJkUXgxaFB3ZUFybWZKam1vUnlSaWtMaHVDanNyUXJ1ZGtpekEzQmxPWjFkUFlzUjRzT3ZHMVByMHJuaFNlcmJoVmxPV3RXTmNsRUhwX05CMThmWjJleVlWOGZVRHBhZjIwcVhSX21aVmt1ejNBTmRW?oc=5</link>
+      <guid isPermaLink="false">f6b5933cdd2d0450</guid>
+      <pubDate>Thu, 22 Oct 2026 19:41:18 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Baker Mayfield is confident his thumb is strong enough to play &amp;nbsp;&amp;nbsp; The Big Lead</description>
+    </item>
+    <item>
+      <title>Bucs QB Baker Mayfield Reveals Change Ahead of Week 7 Return - Heavy.com [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmUzai1UZlRuM29SVmZOZzRQUF83Y0V1Qy10al9VaklrRHBFbHphbzJqaEYwd3hUaWtnbnJDdzNiU0dWMll3OWw3dDRfajN3MTRQNVZSX0ZsN1VQYlFWa3JjNmdxdF9BYmVLZDVxZjhCVERqallYNzBKZndNOERWall2aw?oc=5</link>
+      <guid isPermaLink="false">62b21f245d653600</guid>
+      <pubDate>Thu, 22 Oct 2026 18:45:34 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Bucs QB Baker Mayfield Reveals Change Ahead of Week 7 Return &amp;nbsp;&amp;nbsp; Heavy.com</description>
+    </item>
+    <item>
+      <title>Baker Mayfield Injury Update: Will Buccaneers QB Play in Week 7 vs. Panthers? - PrizePicks [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQekw4Vl84MS1zSl9KRnlVYlBTTmNSZVlNOXBDYllkUkZtUHNObGtrZjZoSUg4V2ltcHltY1NHMGp0eEN0bWpJeWVLZnNUd19qajh1X25IaEtNd3ZMQkw5TG5TMGR5a25lRXhHU1JaV0k3RUlUYUNQUHFBZW9tdWZCZmZ1ZTlPR1lJTmFRZnlMS1ZuV0MwaHlfdHRGQlBjUVZtTlZ4ZkdsbTlIdG55czVnTU5nbmJnZw?oc=5</link>
+      <guid isPermaLink="false">5092b4687d9ff815</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:21 GMT</pubDate>
+      <source>Google News: Mayfield, Herbert, Lawrence, Holani, Cook</source>
+      <description>Baker Mayfield Injury Update: Will Buccaneers QB Play in Week 7 vs. Panthers? &amp;nbsp;&amp;nbsp; PrizePicks</description>
+    </item>
+    <item>
+      <title>Adonai Mitchell Another limited practice - Fantasy Footballers Podcast [Adonai Mitchell]</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPN1hzZ01XVUpzbHhFZFJnQ0liVUxpT0Y0Rm9rck9NWS1oU1NlaTRVdlR4S1c0Yk5GeGlidlJZZ2FyQ2ZYdDE1bnZDSDJGUS10WjQ5N3R2Y3dkSVV1Q3NoenZNWTdFTTRZNl9FNkt3NkpCQTRVZ2h3bEpMeDRMOG1nU2NJeFVLM3c1Z0ZpamJWRWhsOFRwU1E?oc=5</link>
+      <guid isPermaLink="false">db269ef143dfea9b</guid>
+      <pubDate>Thu, 22 Oct 2026 20:17:39 GMT</pubDate>
+      <source>Google News: Williams, Warren, Williams, Mitchell, Tremayne</source>
+      <description>Adonai Mitchell Another limited practice &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Jets&apos; Adonai Mitchell: Another limited practice - CBS Sports [Adonai Mitchell]</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2hxWWJCN2xnczJ5dTZZN00zY2Rrc19FNUZHU01yR05nTFNQeU13c3pzRmQwZEplOWp4YjhWWWdldTRBZU5JbXl4b3J1TmhabmhJZG4wSzl6RG9vTWd2NnpNQUNuZWRSTGd2QTdMYm90R1FwM0pkc250eXR2SG5TSzBmdWxnY0ZZeGxUbW9wNTFBakJQYmNjaFNB?oc=5</link>
+      <guid isPermaLink="false">229cbc417428aefb</guid>
+      <pubDate>Thu, 22 Oct 2026 20:09:49 GMT</pubDate>
+      <source>Google News: Williams, Warren, Williams, Mitchell, Tremayne</source>
+      <description>Jets&apos; Adonai Mitchell: Another limited practice &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Adonai Mitchell (finger) limited again on Thursday - NBC Sports [Adonai Mitchell]</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPZGYxNXpuRms1QjhOV3NiM0Ewa0FYVDEzc2RfQ3JjWnJuNnVONU5pVnBMdXRFcHRpaHdST2hUNWxoLWNGcUZHcG5wTHJjVXRQSkZUUHVIOUdTd19Zdkxvc25tR0FiRG5USUJxTFZKY2JoeXFhUUh1b2wwSzc2bE5YYmk3WTdRYWFfYmw3X2c2SWdmdVVqeG9RTDBwTUU0VW00cmJPNnRFRHBBay1CX3FXQlhzYXo?oc=5</link>
+      <guid isPermaLink="false">ca1519f87f838bca</guid>
+      <pubDate>Thu, 22 Oct 2026 20:08:56 GMT</pubDate>
+      <source>Google News: Williams, Warren, Williams, Mitchell, Tremayne</source>
+      <description>Adonai Mitchell (finger) limited again on Thursday &amp;nbsp;&amp;nbsp; NBC Sports</description>
+    </item>
+    <item>
+      <title>New York Jets Get Adonai Mitchell, Dylan Parham Back at Practice - Athlon Sports [Adonai Mitchell]</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQc2QzaVA3Xy16M3MwNDh1WlBpMUVnQktXUzgycXdiblJ5QldMbGhMTWVDalVvWkgwY0loTnI3eUxTeUh0OUJGWnVDSHZIZUxsYmMtaXZxQURqclhlU2Y1NXZuNjdpTHljdGZXX0RFS2RmQXotTGdhM2lVWllCSmR6RDlGd056cDRhZ0phYUlBaURhZ09RMzZj?oc=5</link>
+      <guid isPermaLink="false">3f5efd1a00558b0f</guid>
+      <pubDate>Thu, 22 Oct 2026 19:38:31 GMT</pubDate>
+      <source>Google News: Williams, Warren, Williams, Mitchell, Tremayne</source>
+      <description>New York Jets Get Adonai Mitchell, Dylan Parham Back at Practice &amp;nbsp;&amp;nbsp; Athlon Sports</description>
+    </item>
+    <item>
+      <title>Adonai Mitchell Injury: Another limited practice - RotoWire [Adonai Mitchell]</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPOUxiTXdWMEtQOHpXVGZMbVZocGtPSXVxdDhVcVd1V3Z5aGtCUzZxQzJjQVBlWmd3N0RWT0doclVzTktxaWktT1hvaVU1cjYzUExWTEJla3VNeXJYTUNuRWwyRVcyaGU5WjhFOW1mXzYwSHJhdF9JRWk2YURwR0ZzOTZYSUdwM2pId0xLQlU2U3FubEh6bS1fN3JkZlhuU1k?oc=5</link>
+      <guid isPermaLink="false">dc7d6f8ea1e11f28</guid>
+      <pubDate>Thu, 22 Oct 2026 20:09:49 GMT</pubDate>
+      <source>Google News: Williams, Warren, Williams, Mitchell, Tremayne</source>
+      <description>Adonai Mitchell Injury: Another limited practice &amp;nbsp;&amp;nbsp; RotoWire</description>
+    </item>
+    <item>
+      <title>Adonai Mitchell Remains Limited in Practice on Thursday - NFL News | Fantasy Football - RotoBaller [Adonai Mitchell]</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnBsdWNOZF9sRDFEUUhLY1JGWXdob3lUQWNhZmJIaFZGcjViMTl2Uk5qOHZqQWo1cjhIZlFSTjdrRUpwbnRoWVRwMlFMN055TFcwcTh5WTlzSXZCZ1paaGxqM21Qb1dOVUk3c29ndDdyNDllaU40cXkxOVBqZnBGcGpNM0h2UTBZU1kyczJibl80Q2JONTF6TFBkRmV5VmpNdHJqbg?oc=5</link>
+      <guid isPermaLink="false">6c8c1ccfd116f903</guid>
+      <pubDate>Thu, 22 Oct 2026 20:27:09 GMT</pubDate>
+      <source>Google News: Williams, Warren, Williams, Mitchell, Tremayne</source>
+      <description>Adonai Mitchell Remains Limited in Practice on Thursday - NFL News | Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
+    </item>
+    <item>
+      <title>Jaylen Waddle Participating in Thursday&apos;s practice - Fantasy Footballers Podcast [Jaylen Waddle]</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUpJb0k2c3NkcHp1SHIyQVVqTWh1RUswQ2MyMTBTS2doNkdsTnlRd3BfWUxVeXQ0UDB1anFTeGJrYTlLMDFDNlpzQTNhcWFKbWMxc3U5SElkSjNOTkR1MkttQ2ppNjRIaUtTdkNuT29ZRzBZZFdTcDMzOGdXMmJqWmNpQ0xqZUFEZ1dvVGQ1cU41Rjk0cTJNUkp1N0E4WFh5M2c?oc=5</link>
+      <guid isPermaLink="false">5655aadcaac7c703</guid>
+      <pubDate>Thu, 22 Oct 2026 20:32:22 GMT</pubDate>
+      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Waddle</source>
+      <description>Jaylen Waddle Participating in Thursday&apos;s practice &amp;nbsp;&amp;nbsp; Fantasy Footballers Podcast</description>
+    </item>
+    <item>
+      <title>Week 7 Guillotine Leagues™️ ADP Risers &amp; Fallers: Jordan Love, Germie Bernard &amp; More - FantasyLife [Germie Bernard]</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNTE9hd2tPelo3VS1QeWlUZjcwNFFIUkZWcENiZEhVamNhX2FWa0JxMVBhQUZYRUR3Mk1VcTZ6WXpoNFpWMUJUSEU4NTlrYnNFZ0R6YmZySlRocVZTeDlIZVlxYUJoejFUY1JpNjR5VklNWVZKVFRZVkFSMk1nLWozM0xudUlwTjN1YWtTaVJkZWY3LTJEeF9zSlNnZ2FQZWttR3c?oc=5</link>
+      <guid isPermaLink="false">a886e6dd9d57508e</guid>
+      <pubDate>Thu, 22 Oct 2026 19:45:40 GMT</pubDate>
+      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Waddle</source>
+      <description>Week 7 Guillotine Leagues™️ ADP Risers &amp; Fallers: Jordan Love, Germie Bernard &amp; More &amp;nbsp;&amp;nbsp; FantasyLife</description>
+    </item>
+    <item>
+      <title>Jaylen Waddle Injury: Participating in Thursday&apos;s practice - RotoWire [Jaylen Waddle]</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNmZwdnpUWUN6dHhoaDd6MlFZTVlQc3M4Skpyd2xhZ25BZVRDWTh4XzVaM0pXQlRvcUVIVDBwT1pXUk1vdGdOczZGTWFyMTNlTE1NNkV2cmtHaHpUeEREVWFHM2NtcmNMWDZSVVRuZWVFbW02U0s1bTNxRE54dE53WWlJMEFzWUtGd09tSS1SajVrQnFpeVRiY2FRRmVRWG5JQmpmaWxNSkJmY28?oc=5</link>
+      <guid isPermaLink="false">de8120d3f4c5cbf5</guid>
+      <pubDate>Thu, 22 Oct 2026 20:19:48 GMT</pubDate>
+      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Waddle</source>
+      <description>Jaylen Waddle Injury: Participating in Thursday&apos;s practice &amp;nbsp;&amp;nbsp; RotoWire</description>
+    </item>
+    <item>
+      <title>Dolphins Breathe Sigh of Relief as Jaylen Waddle Gets More Bad News - Heavy.com [Jaylen Waddle]</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3BoNnd5eXQ0dzFQcXZMY2hDR0pDTndKQzh6ckdVeFZGNEJ2LTdKOWdZRGdMRThvUEFsNTBZYWd6cG9vOTFkeTRRVm9Vc2ZtSW52VjFTWmRvb1IyU0k0blI5VHJiVTdMbkREMHhfeGVKcTJadFU2Ylk5cUN5RVg3cnlCVjBMQUgy?oc=5</link>
+      <guid isPermaLink="false">a4e8b4fae38c8892</guid>
+      <pubDate>Thu, 22 Oct 2026 18:02:59 GMT</pubDate>
+      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Waddle</source>
+      <description>Dolphins Breathe Sigh of Relief as Jaylen Waddle Gets More Bad News &amp;nbsp;&amp;nbsp; Heavy.com</description>
+    </item>
+    <item>
+      <title>Germie Bernard Is Starting To Make a Case for OROY - Yahoo Sports [Germie Bernard]</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxONmx5ZU9jVllPWGUxYkhwZDhYTjhQOXI1dVJOZlVOTDY5LUFwc0xqTnY1M2ZCR1NhREd6R0RBekc1RXItbGVQVTc1c1ZoTlk4ZGprMVdKN21uLTAtdnQ2eDMtTVlRUUFPazIzM2ZTeVMwdDJBbWVzZ04wN2JtNTA5RkozejQ5Vi0wenc?oc=5</link>
+      <guid isPermaLink="false">e68425daa5777e61</guid>
+      <pubDate>Thu, 22 Oct 2026 17:41:43 GMT</pubDate>
+      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Waddle</source>
+      <description>Germie Bernard Is Starting To Make a Case for OROY &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Perloff: Walker, Smith-Njigba belong in MVP race - NBC Sports [Jaxon Smith-Njigba]</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNMV9WR0lDYkxiUWRSR2JodnkyLVBtYnh6SXFEaG5wbDZOWHZPYjBtbFRJV1ZuNzJndU1JYTZOcUI5WjVibkRqbHprSTFoVlNTa3llZ244SUlKSllrMXFXQmpPSWNZd3pycWYzX1BxNXdBYVhMZ2NMdkpTUFZkSEhic1Bxczc3OXRnODdVdDRHQjh4ZnNhWkQtWnVnVmloLS01?oc=5</link>
+      <guid isPermaLink="false">e0b827d5682f9bf9</guid>
+      <pubDate>Thu, 22 Oct 2026 18:27:04 GMT</pubDate>
+      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Waddle</source>
+      <description>Perloff: Walker, Smith-Njigba belong in MVP race &amp;nbsp;&amp;nbsp; NBC Sports</description>
+    </item>
+    <item>
+      <title>Jacoby Brissett or Germie Bernard - FantasySP [Germie Bernard]</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQVTJmdHpNZkhCajZ3VG5fRVB4UXAxSGN0cjVmSTRPVFgwNmdGYzVqa3FVNHBEZkJZSkJJS3ItSGt5UE1rMHgxZzFZZGZ0emlkZ195ZnFrMGI4dTltdUVoWUQxNWRBeUxXUmlwMWNxandvWWRhNFZBdFAzVDIxdkY0bVNR?oc=5</link>
+      <guid isPermaLink="false">8caab4a4cf68a812</guid>
+      <pubDate>Thu, 22 Oct 2026 15:57:15 GMT</pubDate>
+      <source>Google News: Douglas, Bernard, Nailor, Smith-Njigba, Waddle</source>
+      <description>Jacoby Brissett or Germie Bernard &amp;nbsp;&amp;nbsp; FantasySP</description>
+    </item>
+    <item>
+      <title>Tank Dell Is Ready to Celebrate His Return to the Texans - roundtable.io [Tank Dell]</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOazZVMGNLRkdnbVhWSUloa3dtSjFJWE5mNnBPN1BLTm5sSzZXakZ1MzdqX2tucENMa3E3YUhPVjA4eVR2QXFEY0lMS3ZkVEI3WHVETnBfNFpwRG1Ra0JrUG1aTE9qR25WLVFZdDZKQU5OUG9oZ3Z3TjVCbEoxYTU5UDFDTHlodnI0T2t0Sm44LXlKVG5XbWJNb3VURG03b011U2ROeVJvZw?oc=5</link>
+      <guid isPermaLink="false">43a6cdffd3190f24</guid>
+      <pubDate>Thu, 22 Oct 2026 17:57:49 GMT</pubDate>
+      <source>Google News: Jefferson, Dell, Higgins, Hutchinson, Okonkwo</source>
+      <description>Tank Dell Is Ready to Celebrate His Return to the Texans &amp;nbsp;&amp;nbsp; roundtable.io</description>
+    </item>
+    <item>
+      <title>Texans WR Tank Dell Opens Up About Return After Devastating Knee Injury - Athlon Sports [Tank Dell]</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFpqd09HU19SSTBtY25ScUp3YkxBUW8wQ2VoUE9ITndiYnJfOE95eDBMMWw3ZTZrS1RabWs0elRMMlM0TUVwOTQ5cGlmN0FiQkRsZDJKczlScEMtMkR4RVU0Tm5xQ3EtSHFKc2pMcGZXT2pJXzB5VGgtX01oZ0NJUG00WWRkR3UzS29ucTd1Y1M?oc=5</link>
+      <guid isPermaLink="false">56e1b5c90c14eb7a</guid>
+      <pubDate>Thu, 22 Oct 2026 18:57:40 GMT</pubDate>
+      <source>Google News: Jefferson, Dell, Higgins, Hutchinson, Okonkwo</source>
+      <description>Texans WR Tank Dell Opens Up About Return After Devastating Knee Injury &amp;nbsp;&amp;nbsp; Athlon Sports</description>
+    </item>
+    <item>
+      <title>Browns&apos; Harold Fannin: Held to one catch Sunday - CBS Sports [Harold Fannin]</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0FTcjNUT3U0dC10TFBhOVROTUhHZ3o0c21Na251THIzRlJoNUxZMmNlalRpeUNMRlVkV0xBbnV4ZEFxcXc1NWdJaGVaRVZpRmZUZWpLSFZlZTlYcy1NRGFUZGNzaENuNmgxYk1YamEzZ3B2WEtQUWMzSE15MmFCNndPZlhfMGN5cWotOWh6a1lBM3dHeHQ1eG9B?oc=5</link>
+      <guid isPermaLink="false">6051375c041127bf</guid>
+      <pubDate>Mon, 19 Oct 2026 08:10:10 GMT</pubDate>
+      <source>Google News: Helm, Fannin, Ferguson, Joly</source>
+      <description>Browns&apos; Harold Fannin: Held to one catch Sunday &amp;nbsp;&amp;nbsp; CBS Sports</description>
+    </item>
+    <item>
+      <title>Gunnar Helm: Supposedly exists - NBC Sports [Gunnar Helm]</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWFFaTVtOE0wb0pxUWRlX0FnUnZXRTR6RFE3WU9nS0dTcnRCelMzQW1ocFhaYXdTRWRiRkstQ2xaSTBrZ29aQzVCTi1mcWQ1OTlCQS1CZFBwSEVXVEh4SHUzcVBweVVXdFdjSDZCMzFsVm1yWGdFbnI1aVhadHFRVlp1QmhMc3dXQjhCemRabF9oY3BDeF85eEN6Yw?oc=5</link>
+      <guid isPermaLink="false">263989c949e4f7f3</guid>
+      <pubDate>Sun, 11 Oct 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Helm, Fannin, Ferguson, Joly</source>
+      <description>Gunnar Helm: Supposedly exists &amp;nbsp;&amp;nbsp; NBC Sports</description>
+    </item>
+    <item>
+      <title>Panthers vs Buccaneers predictions, picks, odds, score projections - azcentral.com and The Arizona Republic [Baker Mayfield]</title>
+      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQ3N5NFRFbThPWUF2bXg5NjFGRmZrMWdJa2t0ZUJtWGQ3d0hNWlZtRm5kMXFQSnQ4NDZ1b1JBaGlJS2FDeFktSFU5MFZVQ3QyRkJIYUZXZ01WRHdweXlKcHlZc3RGZlBUWWdOX1VnWW5NeGlxVG0yMjkwTE43LWgxWExMWDM2bXQ4OXVyZkt0SUY5MlBXVXY4aDlQSFNULUtRcEtkLVM4RDI0enJQbzlyaTRZUGluZ1FocDNfczdaQ2d6cTVFUENPU3hSMGk3RzctQzBlUmhkOHNzUDExLTQ0?oc=5</link>
+      <guid isPermaLink="false">4d06ddfd5f75adc5</guid>
+      <pubDate>Thu, 22 Oct 2026 12:28:00 GMT</pubDate>
+      <source>Google News: Carolina Panthers</source>
+      <description>Panthers vs Buccaneers predictions, picks, odds, score projections &amp;nbsp;&amp;nbsp; azcentral.com and The Arizona Republic Can the Carolina Panthers Justify the Hype? &amp;nbsp;&amp;nbsp; Yahoo Sports Baker Mayfield expects to start for Buccaneers vs. Panthers, barring a setback &amp;nbsp;&amp;nbsp; 10TV</description>
+    </item>
+    <item>
+      <title>Week 7 Thursday Injury Report: Still no Jaelan Phillips, but others returned - Panthers.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVlTeEdQMmx1anBxY0J6TTRtODFNZldBQk1JZmZSN0ZYTFR0R2hKWnd3all2anVpYTRwRVVLdS14NmNLT2pzelA4NXBUd1o3THJNUXZQTXM1THhNaURvVW1VRVVaaE5rRm95WU5NZ2NkVXhBQlVtU3k3OVlIbXpJalg5UkE1ZTBIQm1pdFkza1hHZzlyTXlzTUR5T2tLVTZpckQ3a1UyRQ?oc=5</link>
+      <guid isPermaLink="false">1e40a57d7fc16943</guid>
+      <pubDate>Thu, 22 Oct 2026 19:34:28 GMT</pubDate>
+      <source>Google News: Carolina Panthers</source>
+      <description>Week 7 Thursday Injury Report: Still no Jaelan Phillips, but others returned &amp;nbsp;&amp;nbsp; Panthers.com</description>
+    </item>
+    <item>
+      <title>Week 4 Thursday Injury Report: Still missing some key pieces - Panthers.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaVNLUU9ESXMzQ1h5MjFQLUd4Z0hZSW9wMi1EdG5CRjlkd0d4OGhlbUxrc3VKcURBUG5GZGVWS2lDVDhLaTNDMzhvOS1UTlhrU1lMeGl3TWtqNWV6Y2pJcDZEdlA2Sk42R2J6MUxlNEtVVTFqZXZBWDA3bWRjT3JVRmtMMkw2Vms4ZGRqQktKbWtyS2FITmpnSF9YNFNMN29IMy1JNmdQVExoVE43X3F4T25Ta19zQzVBM3FhN1M1ZHpiQ0FTVE1fTzVXbTQwRk5PVHNR?oc=5</link>
+      <guid isPermaLink="false">862b0b17c9cfa869</guid>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Carolina Panthers</source>
+      <description>Week 4 Thursday Injury Report: Still missing some key pieces &amp;nbsp;&amp;nbsp; Panthers.com</description>
+    </item>
+    <item>
+      <title>Broncos injury report: Pat Surtain, Jonah Coleman, Talanoa Hufanga, Jonah Elliss updates - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQbExQZmNQbm9IbXpSUG1hWHNPcjBxTE5oNHhfUzlzWEFGV1pJTURvRUZJY29HMkI4MC10MjVYV09mVnJ4WUJaMXEzeTNPV2pTcFpLWDJWM0ZmTDlrejZCcWd2cWNTR2xNSGVKUTZYSTZvNUFTcWEtMlU4MTFBS2VjRlVIZlQtM3FRWWc?oc=5</link>
+      <guid isPermaLink="false">e1513f6deaf82e2d</guid>
+      <pubDate>Thu, 22 Oct 2026 20:12:02 GMT</pubDate>
+      <source>Google News: Denver Broncos</source>
+      <description>Broncos injury report: Pat Surtain, Jonah Coleman, Talanoa Hufanga, Jonah Elliss updates &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Jaguars make linebacker signing on practice squad - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOTlNVRDJCYS1zNHB6ZlpZSGloaWRpN0NBUUFLX0szYVpBMmRxazNNZDdKeXZiOEhwZlVaSWpaQXJQalRMZ1ZxRFRkc0Fwc05ubEM4YVZEcWR3dXpKVHRaT2FCTENEWmxiMUc1Vy1nRDNhS2k5UjJMbkhQZ05qWUtDM1dEOHVOa1o4aVZES3pxNkpYc3lO?oc=5</link>
+      <guid isPermaLink="false">464d6c8ac8d711c5</guid>
+      <pubDate>Thu, 22 Oct 2026 20:14:11 GMT</pubDate>
+      <source>Google News: Jacksonville Jaguars</source>
+      <description>Jaguars make linebacker signing on practice squad &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Jacksonville Jaguars add linebacker Jamal Hill to practice squad - The Florida Times-Union [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOTlxNVozS2xSZWJzamxiOTdCT1JQMHlJcVp2ZUkzZVFuYzdBUmZjU2dvUnYzSEZheHpOLUpYd2k3VHJLd0h6Wjg4ZFZfS3VkdzBsWm9mXzlneFhHN2sxcDJIczdIR1Zpc3llZnlZcFRSOER0N2FsaThJclN6Z2xfNmhNbWU4UkpYcUZ0THJRQ3BDZ0lwNDRhMHRQZ1hLU2NvTElfWm5RbWVwQk9hdWlqUlFieWlKV2lic3hua1dJTkZNaWVYZEU4UFJWTkRDblFv?oc=5</link>
+      <guid isPermaLink="false">1788e97b1d7c54fe</guid>
+      <pubDate>Thu, 22 Oct 2026 20:28:43 GMT</pubDate>
+      <source>Google News: Jacksonville Jaguars</source>
+      <description>Jacksonville Jaguars add linebacker Jamal Hill to practice squad &amp;nbsp;&amp;nbsp; The Florida Times-Union</description>
+    </item>
+    <item>
+      <title>Roster Moves: Jaguars Sign LB Jamal Hill to the Practice Squad - Jacksonville Jaguars [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOX21OWWFCdF9jUkM1SlFFWDZyc3J0X0UtSXE2Q2ZoZnNjLVM5ZjBlUEpQNWhWSTliU1VvZjFuQ0U4ZzZiX2tQeE5Kb0VWSzVITi1RRl94NGhwdHRTYTdyeEJxMFFXb0JPMmhwNlU2VW1pVDBianVtaXNPajFIa0ZyYjcycWlreThNemxROW5uay03Rmw1?oc=5</link>
+      <guid isPermaLink="false">45789d34d130a449</guid>
+      <pubDate>Thu, 22 Oct 2026 20:04:36 GMT</pubDate>
+      <source>Google News: Jacksonville Jaguars</source>
+      <description>Roster Moves: Jaguars Sign LB Jamal Hill to the Practice Squad &amp;nbsp;&amp;nbsp; Jacksonville Jaguars</description>
+    </item>
+    <item>
+      <title>Jaguars make linebacker signing on practice squad - Jaguars Wire [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQMTdkX2xYZVBUZ3B6RS1lYUliX01laWI0SUN2VW9uaExKSGNRS2lwVjFFYm8zNWNlLWJ3b2swTzhFT1FyTnF2ZWx2eW1aUVBsNEZZWXdrTUNXOEtrU2hQQ2hJX2xhdndxdFEwM3RLTHRnS2UyZF90NXhHTU1CVGFzS3VkZHZfQnRNLU5nNDQyTl9qYzlEWHhJeUc2bkhWM3k4XzNVc0JMLVkxT25BVUlQR0NLOWdocU9mUWZqdDEwamZTNzhjYk4tN2lwY2Q?oc=5</link>
+      <guid isPermaLink="false">d3ec8069f35aac4a</guid>
+      <pubDate>Thu, 22 Oct 2026 20:14:00 GMT</pubDate>
+      <source>Google News: Jacksonville Jaguars</source>
+      <description>Jaguars make linebacker signing on practice squad &amp;nbsp;&amp;nbsp; Jaguars Wire</description>
+    </item>
+    <item>
+      <title>Steelers&apos; Mike McCarthy Has Intriguing Opportunity To Revive Justin Herbert&apos;s Career - Steeler Nation [Justin Herbert]</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOR2tNd21GbDg5S1hnQ0pRLVlTUE5IWnNUdDlWY1BQTVVCY3lzcUVISGZ6ckxpNGREUHViYzlmNm5kS1R2NlRmVTZuVjlfUkhDZE9xdlNxTWh6alJubE15Z3pxMmFRa1hYdWpqSjdKY2RYUFJjOWFMNkR2dGxOU2s4Y08wblYxb2hkcS12aWZUM0dxazA?oc=5</link>
+      <guid isPermaLink="false">2868ad36d88de215</guid>
+      <pubDate>Thu, 22 Oct 2026 18:34:22 GMT</pubDate>
+      <source>Google News: Los Angeles Chargers</source>
+      <description>Steelers&apos; Mike McCarthy Has Intriguing Opportunity To Revive Justin Herbert&apos;s Career &amp;nbsp;&amp;nbsp; Steeler Nation</description>
+    </item>
+    <item>
+      <title>Rams have signed 9 different kickers since Greg Zuerlein left - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXo0cHFEanU0MmYtVHptcEJib2Q0czBBdEVOYk5UQlFPbzNfOWNxcmJQaWlud0h1dmtvWksxWmZ3MmFYU1V2YmtkZXEwSWtOelY0ODJrX2VwOFNkb0Q4aFpSX1BmN2xzVmREZlM5allVR1lqNGE1bURSTXY5ZGtCb2cyNkxxTGs?oc=5</link>
+      <guid isPermaLink="false">36ee240f8b3e4136</guid>
+      <pubDate>Thu, 22 Oct 2026 18:32:42 GMT</pubDate>
+      <source>Google News: Los Angeles Rams</source>
+      <description>Rams have signed 9 different kickers since Greg Zuerlein left &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Raiders injury report: Mike Washington Jr. not spotted at practice - Silver And Black Pride [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZExFWUgzUm9fM1NkTkJmbVE0NVdvaHpFQnZxWktuSVZvcXZrU2xZcDM0NmtkS3RCTW5NYmFNRUEyRmNiUHpwRXhHRDRpdVVONHQzUVpuN3gxYTlVQ2JUdkViVW9pTGc3WnFaR2VpNnJFdWlfMjFqdGxHT2Yzdl8yZGd1VTd2NVFHbFZOMmRfTFNYcVpabF9aMVAwdHlyRTQycjItLWV3UlhKejF0QkxMd1FPMFVnRC1XNktB?oc=5</link>
+      <guid isPermaLink="false">7626f64d9c49948e</guid>
+      <pubDate>Thu, 22 Oct 2026 20:29:24 GMT</pubDate>
+      <source>Google News: Las Vegas Raiders</source>
+      <description>Raiders injury report: Mike Washington Jr. not spotted at practice &amp;nbsp;&amp;nbsp; Silver And Black Pride</description>
+    </item>
+    <item>
+      <title>Raiders-Chiefs Week 4 Injury Report: Jackson Powers-Johnson ruled out for Sunday - Raiders.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmJTS3RIa3VwZWoyMlkzSFFTVTJYN1FfNUVXOTN5OGtMUHgyX2VUZzR6WENmeEFGbS10M25GczVtZ2JEdTFmVnlYT2luUzQydHdIUENLNmR1ejg2Q3lRZXg5cnZ2dGhKckhUeVRycm80N2E4VHV5cnVWZjhqcmw3QmYyVkVsQmtVdWMyeXl2bTRNWllpWFRSaWNzTGZGcXJhM2hMOQ?oc=5</link>
+      <guid isPermaLink="false">b67a624270bf7ba5</guid>
+      <pubDate>Fri, 02 Oct 2026 07:00:00 GMT</pubDate>
+      <source>Google News: Las Vegas Raiders</source>
+      <description>Raiders-Chiefs Week 4 Injury Report: Jackson Powers-Johnson ruled out for Sunday &amp;nbsp;&amp;nbsp; Raiders.com</description>
+    </item>
+    <item>
+      <title>Dolphins add another player to Week 7 injury report on Thursday - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkNIOXNCSGVubWFLd1d0ZXZ4RjRpZnZ5UzR4V01sNWNMS2I4WE00TlduVUdBeDdPdzYxcndoaWptLXlHREtmX0N6QjRNZEhaMjJhMml1ajhWTlg0UW1Xc0NIMG1VMHN0YjFkblpDeHFUTDNFbnQzY3Z2aTBwR2hETUlOc2k5dzho?oc=5</link>
+      <guid isPermaLink="false">d9bc7ce39b6f0756</guid>
+      <pubDate>Thu, 22 Oct 2026 20:18:13 GMT</pubDate>
+      <source>Google News: Miami Dolphins</source>
+      <description>Dolphins add another player to Week 7 injury report on Thursday &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Jets Injury Report | Week 7 vs. Dolphins - Thursday - New York Jets [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQNkF6dGZBQnExVmhicV8tbWx3NUF4aVB0QU1JMC1LcmZMTTgyOWtwMk1TM29VYm1TWnhaLUJ4OWp5NVB6MURTLTMzN2RxSmNWQzMyRm94RVQ1VHNWRU5TaUJra2dLTXRBazFwbU00eWw0dVJRV3UyTlpqNmN4QW1yQVlfbE5ERFJpWWZqTG9QNVZ4eFow?oc=5</link>
+      <guid isPermaLink="false">556cd93f90267445</guid>
+      <pubDate>Thu, 22 Oct 2026 20:15:21 GMT</pubDate>
+      <source>Google News: Miami Dolphins</source>
+      <description>Jets Injury Report | Week 7 vs. Dolphins - Thursday &amp;nbsp;&amp;nbsp; New York Jets</description>
+    </item>
+    <item>
+      <title>Patriots Place G Alijah Vera-Tucker on Injured Reserve; Announce Additional Roster Moves - Patriots.com [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOERPNmJJZzZWNTVBS2R1MkRidllOaFJSREV4eWF4VlcwZTlFc2NqMGdIbksxRVprWHJYQkpBOEZvNm9sYWoxS1lwN3hvWEhXYmVVenBVb2FUd2JNQnBWSXplRkFrdUtkVm41NW15S281dzZBeFRNSENsbUpwQ1V3UjdyV1dpN2FwOG5heUtzcmhtaDFibjAyVk51aV9EU0J4VFg4QkJKZ0lpQkVMRE9GR1BObl9wUkNN?oc=5</link>
+      <guid isPermaLink="false">048ee746195dcd64</guid>
+      <pubDate>Thu, 22 Oct 2026 20:03:45 GMT</pubDate>
+      <source>Google News: New England Patriots</source>
+      <description>Patriots Place G Alijah Vera-Tucker on Injured Reserve; Announce Additional Roster Moves &amp;nbsp;&amp;nbsp; Patriots.com</description>
+    </item>
+    <item>
+      <title>Patriots place Alijah Vera-Tucker on injured reserve, elevate pair for Week 7 - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPbEprN1JnSGJ5akRzTFQ3bzZNTVRjNUFnaUVuMTVwNS1BMGhSR0NNYy0ycGFUZFBrWnNUQ2VLVEI4RDF1WDk1akh5eGFZNDFLcWwwNWctbTBmVXF1YVJMeXlGejl4eUprNTFSNW1vckp1Nm1SMHFuT1pnTHZ4UXRxSFpBNllkeWhXQkE?oc=5</link>
+      <guid isPermaLink="false">063d9d509b74d4e2</guid>
+      <pubDate>Thu, 22 Oct 2026 20:31:18 GMT</pubDate>
+      <source>Google News: New England Patriots</source>
+      <description>Patriots place Alijah Vera-Tucker on injured reserve, elevate pair for Week 7 &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>T.J. Watt Unexpectedly Added to Steelers Injury Report - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHIyNl8wQkdiUktwZUlVeF9ibjJIUEx6c19Wd0Z5cGVOZ2RNd2pWOVFUUzBmSmgyY3JVZHVQNGNMTmZFMTRKTW16RFhYY2hWSU9HWjFlWGoyR0FNZ2M4UWNheE9HY29fRTNGRHV5TFNtdjItcWI3dzlfLU1Bb3hzZndB?oc=5</link>
+      <guid isPermaLink="false">31c42129746ecf23</guid>
+      <pubDate>Thu, 22 Oct 2026 19:26:44 GMT</pubDate>
+      <source>Google News: Pittsburgh Steelers</source>
+      <description>T.J. Watt Unexpectedly Added to Steelers Injury Report &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Steelers vs. Saints Week 7, Thursday injury report: What fans should know - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBkQUtZdGQ3Ul9rakpOeHVSeWhSMWFTWHpnLVRVVzlWWDZKVHo2ODFaSjM3S3kxQ3Bld2dORjdUb05zclZKLWZIRDhqWG9tTm41VEFIQTgzMzc4aDBWQ21ERERuenp4OEdIdWw1Z25IOUpwa1FhOVR5MDRDYnJReXc?oc=5</link>
+      <guid isPermaLink="false">23e7d02833a2654c</guid>
+      <pubDate>Thu, 22 Oct 2026 19:14:57 GMT</pubDate>
+      <source>Google News: Pittsburgh Steelers</source>
+      <description>Steelers vs. Saints Week 7, Thursday injury report: What fans should know &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Seahawks activate Charbonnet; Arroyo out for season, per report - Seattle Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPUEI5aHVmV2xwOFotTHk2dmZILTdRSzlyWFl4TUJSQy1aUWx0QmltOEFtWVJSajd6NjN2YXNTQmtvbWloQ19OWmp3RVpGSHFGRHltTURfejVhZFhaR0FWcWhjNWMwS3RCcVhyLWxMWUhBdkQxVERyR2JWbkh5V1llY1diRWlwUnhYODdUREs0aU80WW1FMTFiNDJOcE5KSHpkWWFGSzRncmxxN1hWalpz?oc=5</link>
+      <guid isPermaLink="false">6386bed1e9a1217e</guid>
+      <pubDate>Thu, 22 Oct 2026 18:12:31 GMT</pubDate>
+      <source>Google News: Seattle Seahawks</source>
+      <description>Seahawks activate Charbonnet; Arroyo out for season, per report &amp;nbsp;&amp;nbsp; Seattle Sports He’s back! Seahawks activate running back Zach Charbonnet off PUP list &amp;nbsp;&amp;nbsp; Field Gulls Seahawks Activate Zach Charbonnet From PUP List &amp;nbsp;&amp;nbsp; Seattle Seahawks</description>
+    </item>
+    <item>
+      <title>Seahawks TE Elijah Arroyo to miss season after surgery, RB Zach Charbonnet activated - KOMO [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMimAJBVV95cUxOUzdzMFVaUERNVkpNbW1ST3NDbGxMNlJoanVNTTFGYnBrTWVrVU5jejM1bHdUSGhIRm1wTk9uSHJQZEV3TEdIclVuZEZHRjRUNDVJRHJId3VmaTlzOXVxQXZZdld3X3ZaYTZlR0gtaVFSNHJyLUhWRlQ2aHlEZVFjd1U0M2lIRmtGNldmUkZHZzNvemRHZW10UklNNk1NYVdxQlR1blFGTW9tZnhoOW5aWFNBS3hWbWF3WGtzSDF2LUxfUzc4VGdyUTNteFJidWxIUGlNdGlOeEtock15X1JLTDhzTVg0TTJqMFlWREdBLUFvY0xrLS1rZ1dmWVpkdlZqUHlHdXdNX1QzZGRkSk1jT29xQUZIbk5k?oc=5</link>
+      <guid isPermaLink="false">468152cb85dd148d</guid>
+      <pubDate>Thu, 22 Oct 2026 19:04:22 GMT</pubDate>
+      <source>Google News: Seattle Seahawks</source>
+      <description>Seahawks TE Elijah Arroyo to miss season after surgery, RB Zach Charbonnet activated &amp;nbsp;&amp;nbsp; KOMO</description>
+    </item>
+    <item>
+      <title>Seattle Seahawks activate Zach Charbonnet from PUP list - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQYXpKbDd5MWV5YmFfTVZNdmFYRV9YYlh4SXh3cWNVU1NPVE9MdTZ4dmRycndiSi1aR2Vyak85UU5tWkFWTktickU4b3B1QmdZSk1vYVN5bHdObHVia1R2aV9xSFM2d19mVGlXeFUzZHpHbVJSaFVHUXg0WTI0YzJRVzJERzZzRlh6TXBPWk04YTF3RkdO?oc=5</link>
+      <guid isPermaLink="false">0b44a8482f8d37ed</guid>
+      <pubDate>Thu, 22 Oct 2026 19:00:44 GMT</pubDate>
+      <source>Google News: Seattle Seahawks</source>
+      <description>Seattle Seahawks activate Zach Charbonnet from PUP list &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>He’s back! Seahawks activate running back Zach Charbonnet off PUP list - Yahoo Sports [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3liZkNaYVVwdnM1Y1ZlLXV2SFlfbDI1SW52cEpaS3FzSE9JZGUyaFhxX1pXck5EclNGenJzRlNieHNoWml5NTNYWUNHMW5zTGlSYmQwLXp5QTRCeTlWbGRDaGpRejZHRkpDMFVQamtWbWptdnBkR2tVbGNXb0JYZHpFYnllUi00U3ZZVg?oc=5</link>
+      <guid isPermaLink="false">261af41b03c2926d</guid>
+      <pubDate>Thu, 22 Oct 2026 17:56:26 GMT</pubDate>
+      <source>Google News: Seattle Seahawks</source>
+      <description>He’s back! Seahawks activate running back Zach Charbonnet off PUP list &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
+    </item>
+    <item>
+      <title>Zach Charbonnet Heads to Active Roster: What it Means for Seahawks - Sports Illustrated [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3VfUm9DeFp5SXBaNG9EY0NfZVc5eVdPd3lTMWNNWEFJdG5GS1pYS0xpdHdvNERGdWV4bDBJel9NR2RqSkpKbnQwNW05bDhxc09EX2thVHhRZHo4dXhTWThHQ21lZFhjNmR2d0F4ZGNiSUQwd3JERHF0VTFvakluQVRiRUtLdVA3cVV0dkNYc08tNFd4Sy1BWkMtM0pPUHMwdFh6Zw?oc=5</link>
+      <guid isPermaLink="false">53ef19c36af96f7f</guid>
+      <pubDate>Thu, 22 Oct 2026 18:05:21 GMT</pubDate>
+      <source>Google News: Seattle Seahawks</source>
+      <description>Zach Charbonnet Heads to Active Roster: What it Means for Seahawks &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
+    </item>
+    <item>
+      <title>Seahawks RB Zach Charbonnet activated off PUP list - ESPN [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzh4ZGJ3dzZlZFNaNHByMUotZm1ybDdGaHBHQmlSMkVyR2ZYUktNZTQ4QnljYk1JbVo3aFE2XzlUYW5HUGIzeHRSNW5zbmU3elB1UWY1NEgwcW96bFNkY2pMSEZRVVc5bUd6Z0RyanFxblNpa1RCSkt1LWtaT1lScjFIdTJ0TkNjWkViWUE2TmhwN1UweGc?oc=5</link>
+      <guid isPermaLink="false">5e57d29cbdebcc34</guid>
+      <pubDate>Thu, 22 Oct 2026 18:17:00 GMT</pubDate>
+      <source>Google News: Seattle Seahawks</source>
+      <description>Seahawks RB Zach Charbonnet activated off PUP list &amp;nbsp;&amp;nbsp; ESPN</description>
+    </item>
+    <item>
+      <title>Titans injury report: Calvin Ridley sits out, Kevin Winston limited - Titans Wire [depth chart]</title>
+      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOEVrMTRZM09uNWw5S2tTc2VTUUpqSTUxMktUS0VhSUZsbjNUQVV4amtzLUdCV0NJRzI0bnNnRUtLYXJxM1IzMzN3UHdoS25CWkpNY0FrYldkOV9jdjZfSF9tVU43RU03VHp0MFhRbWVKY2hGNEx2a1VibmZYaWxya25aLWo1VXJNRERqdGFrdUNrYVJkWEZMd09PdE1zXy1TR1ozdnp0NTdMMHpJa2oxQVIzVEJ5UTNlSzRXTHdXaUgzZThPQ1B0YWUwcktFQW1tdnVyWXRlYk1QQXUxZ1BMcHNIbmVmb2wyWk9n?oc=5</link>
+      <guid isPermaLink="false">aa677e3e31ae927e</guid>
+      <pubDate>Thu, 22 Oct 2026 20:29:00 GMT</pubDate>
+      <source>Google News: Tennessee Titans</source>
+      <description>Titans injury report: Calvin Ridley sits out, Kevin Winston limited &amp;nbsp;&amp;nbsp; Titans Wire</description>
+    </item>
     <item>
       <title>Should Vikings trade for Justin Herbert? Making the case for and against potential blockbuster deal [Justin Herbert]</title>
       <link>https://www.cbssports.com/nfl/news/should-vikings-trade-for-justin-herbert-chargers/</link>
@@ -9135,478 +9607,6 @@
       <pubDate>Fri, 16 Oct 2026 23:03:00 GMT</pubDate>
       <source>Google News: Mayfield, Herbert, Lawrence, Cook, Williams</source>
       <description>Steelers vs Bucs: Will Baker Mayfield play against Pittsburgh? &amp;nbsp;&amp;nbsp; Steelers Wire</description>
-    </item>
-    <item>
-      <title>Buccaneers’ Baker Mayfield officially won’t play again in Week 6 - Yahoo Sports [Baker Mayfield]</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPVllnZUM4MThocjlUNXVGMmZOWHV0WDFPejBwRDc1bWJLTkVvNjMxOFpjNklZSlE5YTRYYzJQRTlpY0pMN25LdVhuUmF0aEhwX3BoR2hheUxpa3dObmFaX0o0UDh5YnVjMUhjY0FuSTRNQkJ2N25MQmdLTXdCYS04THV5SVZrNFJWYXNkOTVSVEE3ZGM?oc=5</link>
-      <guid isPermaLink="false">e9b09ce404a672ed</guid>
-      <pubDate>Fri, 16 Oct 2026 21:41:54 GMT</pubDate>
-      <source>Google News: Mayfield, Herbert, Lawrence, Cook, Williams</source>
-      <description>Buccaneers’ Baker Mayfield officially won’t play again in Week 6 &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>New Report Reveals When Baker Mayfield Could Return for Buccaneers - Sports Illustrated [Baker Mayfield]</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPX25qLUFFRnZmdEktMDFBRzFmVnJpRVVpRHpzTlhLVl9mdHIzeENHMU5yREJjNmhlVUxEYTRqTGV0SXJZc2lHcFRETHZMcHQtZFM5LUcwYXUtNlZYbzVFUjhiaHQ2emNCVUVtN3ZfdU01YjM5Q0dkLVpuaGdUbTdJandVNzRQdERsNlJPMXRQMUUyWW5xTzhnOU16ZmgwWW1CTUxXTkxBcVlBdGNZMWs2djZycw?oc=5</link>
-      <guid isPermaLink="false">b006bbcafe6d26a9</guid>
-      <pubDate>Sat, 17 Oct 2026 16:38:47 GMT</pubDate>
-      <source>Google News: Mayfield, Herbert, Lawrence, Cook, Williams</source>
-      <description>New Report Reveals When Baker Mayfield Could Return for Buccaneers &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Baker Mayfield &quot;Racing&quot; To Return Next Week - JoeBucsFan.com [Baker Mayfield]</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEJtUjRGQlY5Z2k5ZHN6X1NYdkVFbjUwdF93d2JpTmpUcUZBU0lWdFhwUmdvZ3ZrRWo5RG1rbFg4VTJERkxlM1diTXpfSUVMbU1ocXNIRDFvTEQ5VVBFaVF3T1prQmt3cjZCZ2tjSmkwTnI1eG00R240YmZsb3VfTW5uNA?oc=5</link>
-      <guid isPermaLink="false">bfa0bf4459de4106</guid>
-      <pubDate>Sat, 17 Oct 2026 19:57:47 GMT</pubDate>
-      <source>Google News: Mayfield, Herbert, Lawrence, Cook, Williams</source>
-      <description>Baker Mayfield &quot;Racing&quot; To Return Next Week &amp;nbsp;&amp;nbsp; JoeBucsFan.com</description>
-    </item>
-    <item>
-      <title>Pittsburgh Steelers get big Baker Mayfield news before Buccaneers game - PennLive.com [Baker Mayfield]</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHlaY3hkcmM5RWc0NFR0ZWJHVzd3aVZpNV9rcmFyZXhpTVpzRUhVaFF5TWJOYnE4VnllSG1nbFBraThHNlVObjJTRDhqaHpZenRua2g5bnNvY3hjWTYwVENTSEFzbzYtaWxzN3VjOG9CdlRFUzIzN3k1a0ZObHdLWUxoZm9GS25PREtlX0dCbG1TU0duamFXQ1dPU3hOWl9pQnJfbldPTE9leldCSzgxQ3ViNUwyM0dh?oc=5</link>
-      <guid isPermaLink="false">cfdbc43c2e603ab7</guid>
-      <pubDate>Sat, 17 Oct 2026 14:26:00 GMT</pubDate>
-      <source>Google News: Mayfield, Herbert, Lawrence, Cook, Williams</source>
-      <description>Pittsburgh Steelers get big Baker Mayfield news before Buccaneers game &amp;nbsp;&amp;nbsp; PennLive.com</description>
-    </item>
-    <item>
-      <title>Buccaneers&apos; Baker Mayfield: Ruled out for Sunday&apos;s game - CBS Sports [Baker Mayfield]</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOOU1HMUVObGxNR2kxN1BYbXVrVUkxMG9LSGZza05ZVXd5WG1OMEgtaE9SZ3prU0tvS0w2YUlVZ2JDcEhyOXRxbGNXcVY0ejc3b2twX0JiSDRGS2hrTGVoeGFQcEtoXzMwbTJ6U2RtQ3pNOGZQQmlJczJlbXJkZE9ROTJSWnZqTFVrMDF0Zm82amJ5TDZ2M0NwTFdycGVKSGtuUVdz?oc=5</link>
-      <guid isPermaLink="false">af1d85516b1f1e0c</guid>
-      <pubDate>Fri, 16 Oct 2026 17:07:55 GMT</pubDate>
-      <source>Google News: Mayfield, Herbert, Lawrence, Cook, Williams</source>
-      <description>Buccaneers&apos; Baker Mayfield: Ruled out for Sunday&apos;s game &amp;nbsp;&amp;nbsp; CBS Sports</description>
-    </item>
-    <item>
-      <title>Baker Mayfield (thumb) has not resumed throwing - NBC Sports [Baker Mayfield]</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2NBcmR1QlBhS0xUdWdxSHVmRjMtakRyeDlpWV90blh3dFZXMWhLdm5RNmd2SlVEdEk5YkowV2c0Xzcwc2hBZ0RzcG9vN0luT1J2Q1VjN3ZDdklGTkxhQWttNDkwZUl4eWRuR19YMTBPTmtpTThFMVY3TVQ2cGVKODZwREF5NUQ0V3JkWFVzTHhZQ3NhVUVpdFZYaEZNZXEyMXF3S01SUU5rV0dReTUzaw?oc=5</link>
-      <guid isPermaLink="false">89e97dfe22677388</guid>
-      <pubDate>Wed, 14 Oct 2026 17:31:00 GMT</pubDate>
-      <source>Google News: Mayfield, Herbert, Lawrence, Cook, Williams</source>
-      <description>Baker Mayfield (thumb) has not resumed throwing &amp;nbsp;&amp;nbsp; NBC Sports</description>
-    </item>
-    <item>
-      <title>Jalen Nailor Week 6 Preview vs. the Bills - Fox Sports 990 [Jalen Nailor]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3EzZjIxNHdmNmlmSndOcWhIcGhpdUU1T1RQSEhqcllhY05NaXVUbk81NGJnNjlqTjUybWxJSTF3YThuSWVNYU16Y0huU3c2d2xWZDVRMjlybjFTbkd6SFlYUjdfLS0wTTRQTWc3ZC1TSHVxTHNab1Bnb0lpU3JHdkZZY1cyeHBKOVFsRlF4dVI4WXFxbXY4?oc=5</link>
-      <guid isPermaLink="false">c2241775d67077b5</guid>
-      <pubDate>Sun, 18 Oct 2026 11:33:58 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Waddle, Jefferson</source>
-      <description>Jalen Nailor Week 6 Preview vs. the Bills &amp;nbsp;&amp;nbsp; Fox Sports 990</description>
-    </item>
-    <item>
-      <title>Germie Bernard Sit Start Fantasy Football Advice Week 6 (2026) - NFL News - RotoBaller [Germie Bernard]</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNdE9SN2dWYnFlVU1uZ2tqOU0zZVpvZzJtWUpQSHNlV2pSSU80UjFVRk13d190U3Nvbm1MZ2tLc2RxNHhLanctczFJMXF3M05wVlNlam9LMXlGMTNJSTRFa1FqS1I4VGpCaXA4MURVVWsxMURQX2E2djZ5WFhtcFlLZ2VfYlA0b3MzN203ODBGWExlLVR3MnUtYWw3R1ExbjFscUhTVA?oc=5</link>
-      <guid isPermaLink="false">8e5b36024cb3f067</guid>
-      <pubDate>Sun, 18 Oct 2026 15:15:37 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Waddle, Jefferson</source>
-      <description>Germie Bernard Sit Start Fantasy Football Advice Week 6 (2026) - NFL News &amp;nbsp;&amp;nbsp; RotoBaller</description>
-    </item>
-    <item>
-      <title>Jaxon Smith-Njigba: You aren’t who they say you are - Seaside Joe [Jaxon Smith-Njigba]</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1lN1hIajQ2dEpvWEpxeUFnOGc5M3FjVUhDa1dtYURDMTBvb3VpV3NZWlJTUXRRWUt5X2h5ek83ZVB2bl9ESWJhSW5qdFY2eEh2eEdWX091OVlHNkV3enpmbHgzRGZreDFrUW44Ynhn?oc=5</link>
-      <guid isPermaLink="false">87b9be1ca5bf0e73</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Waddle, Jefferson</source>
-      <description>Jaxon Smith-Njigba: You aren’t who they say you are &amp;nbsp;&amp;nbsp; Seaside Joe</description>
-    </item>
-    <item>
-      <title>Quick Hits | Tee Higgins On Sideline But Not Practicing; Ja&apos;Marr Chase In Protocol; Dohnte Meyers In Elite Company, As Is Drew Sample - Cincinnati Bengals [Tee Higgins]</title>
-      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNaVkzSElzVTRVYjVoVTZiYmVWeU9fOWdHcEdzcl93NUphT1BERUF5ZnlJalZvSkE3TDNtOFpaMWRjb3VBVGdremsybmUzUnRsWnNWZUhYbkRTX3pfN0REX19vSWhfSTNuS21LdThwMDVEcVhkYWF1dTJRel9lcjU5MHA2MlRBSS1Rblh5Tm9hLWhkSkhsQXRGcVQxR2pIeTY4akNrTi1vMDlPWEpGM1Z4UXcybGRoTDdhOTFUclprWkZ2SGRuSkt4M2xPWXRDODA?oc=5</link>
-      <guid isPermaLink="false">ab8ebe1a249d4fba</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Quick Hits | Tee Higgins On Sideline But Not Practicing; Ja&apos;Marr Chase In Protocol; Dohnte Meyers In Elite Company, As Is Drew Sample &amp;nbsp;&amp;nbsp; Cincinnati Bengals</description>
-    </item>
-    <item>
-      <title>Tee Higgins a DNP at Bengals’ practice on Wednesday - The New York Times [Tee Higgins]</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxObUNETXRmTEtjTFZxSmlKVnRLVnlucGw5clltLTBTV1dnZUd4T3YxVElkMUdmOGJkbW5jTE05SExUS0VxdjI4aEY3YTM2U25UamFKZUs5dHAzNFVmU2VtVVB3TXlMU3FBZW1KYnV3SlFzejRBMFN0MWIwTzdiRWJxZER5N21MbDNGMm5LXzlPQ1o?oc=5</link>
-      <guid isPermaLink="false">0b6441b358326ff8</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Tee Higgins a DNP at Bengals’ practice on Wednesday &amp;nbsp;&amp;nbsp; The New York Times</description>
-    </item>
-    <item>
-      <title>Bengals&apos; Tee Higgins &apos;day to day&apos; with adductor injury - Zac Taylor - Cincinnati Enquirer [Tee Higgins]</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPN3UySXRwLXRFcDRYWDlCMG5PbUtKLXRha3Q0YkxvbjQ4NkFuYWJNWG14Zy1TWnZNT3FTTTE1Ym1HdWQ3TGQwRTBiT2VYaGlSOE1pWXd1Umk5NW9tMW9CU3drSEhXMVdhYUl1YVdHZ1kzQnBlSG5XWXVjUllOSmVHbndhYkVVQmZRQlNJemVkaGlLQzY3UC14NUNuSEFBNGttM3VyclNKam9FX3BSanEwc0hySkMwQ1RMZHg2Sjdn?oc=5</link>
-      <guid isPermaLink="false">f7928123544f9722</guid>
-      <pubDate>Mon, 05 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Bengals&apos; Tee Higgins &apos;day to day&apos; with adductor injury - Zac Taylor &amp;nbsp;&amp;nbsp; Cincinnati Enquirer</description>
-    </item>
-    <item>
-      <title>Harold Fannin Jr. Press Conference : July 29, 2026 - Cleveland Browns [Harold Fannin]</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkIzRTcwdkNtaWl0MkhKYW4wRjctZGtlSjRPS2hqZ3JROS0xeFlSQjNKVEwtd1VxUFVrMEVrY3pZT2JSSmduUkM0YUFLYnN6N3E5b1Aya3hVbHBxeGNSUGxZREc1LS1CV3VnLUlyQkU4T0tkdXZBREQ2NkVNbnVnaEd0TUlvTHhhMzN6Ng?oc=5</link>
-      <guid isPermaLink="false">dd0f623e50b13b30</guid>
-      <pubDate>Wed, 29 Jul 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Fannin, Ferguson, Joly</source>
-      <description>Harold Fannin Jr. Press Conference : July 29, 2026 &amp;nbsp;&amp;nbsp; Cleveland Browns</description>
-    </item>
-    <item>
-      <title>How the Browns&apos; Week 6 Injury Report Will Make or Break Matchup with Ravens - Sports Illustrated [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPd25HWjFnWVFkZFlETWs2dHRTRTZ1TnRCWUdMeVNiVG9OcHdadHpvT3pGUUplSXhPSzg3YmhST3FSVGo3T2NMU2ZJSkpDb2RTRTFoUHBJbjN4TmNDOUhVWWtDdUN5TU9iUUVPcHlUSHpHWXp3S2FIUXVNdzAzaWlCeEpTU2F4Mk1ZTjVZb25INzJ6c3dzUlFMQXZGaXUyMl93NGExU1RoVWNCdF9HcFpOVG5MYkVocW1RYVlLR2FEOA?oc=5</link>
-      <guid isPermaLink="false">ca2dc175309cbcb1</guid>
-      <pubDate>Sun, 18 Oct 2026 15:58:44 GMT</pubDate>
-      <source>Google News: Cleveland Browns</source>
-      <description>How the Browns&apos; Week 6 Injury Report Will Make or Break Matchup with Ravens &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Ref gets carted off with injury during Jaguars-Texans game in London - New York Post [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVFJpdVR5S1ZaU3lmMk1acUFSZzZLUkNnckpmakpITlZLT0R1SGJYSEdRcDVQSDF5QTd2cXZ6dUdIaVl6X3AzMGk2UmI4LUlzMkpDMFVjdF94SmJIRkRsNDFqN2tLM20xTTdWQjYybzFXSTAwRDA1c0tMNjdBZmpTMk9nTU9TNE0xbEVCR3E5eFJCaXFWUHQ3TmtTcWp4bFFYeE5ITXNVd2hqdw?oc=5</link>
-      <guid isPermaLink="false">5f7bf6872d335e6b</guid>
-      <pubDate>Sun, 18 Oct 2026 15:28:00 GMT</pubDate>
-      <source>Google News: Houston Texans</source>
-      <description>Ref gets carted off with injury during Jaguars-Texans game in London &amp;nbsp;&amp;nbsp; New York Post</description>
-    </item>
-    <item>
-      <title>Aaron Donald’s snap count is climbing each each week - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUkRVN2ZnUDdxUEE4bFpiazdUUG9fVDNmY1o4SXA5dnVCVDI1RHI4T0JwNEswcF9CdERqSjRMM0MwbnpLbkRwek41RlFUVEg2emdfNU9VUmw2Z1FLYU4tc25YZUhlaTNvVFpycHBLUUJDWTBmOHUyY0NCc1ZGU2daZmVFMkRYQWRZ?oc=5</link>
-      <guid isPermaLink="false">7dd9b71c76d0ef2e</guid>
-      <pubDate>Sun, 18 Oct 2026 16:00:00 GMT</pubDate>
-      <source>Google News: Los Angeles Rams</source>
-      <description>Aaron Donald’s snap count is climbing each each week &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Texans lead as C.J. Stroud throws touchdown pass, Trevor Lawrence throws interception [Trevor Lawrence]</title>
-      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-lead-as-c-j-stroud-throws-touchdown-pass-trevor-lawrence-throws-interception</link>
-      <guid isPermaLink="false">7e113fb4698b4c39</guid>
-      <pubDate>Sun, 18 Oct 2026 14:18:48 GMT</pubDate>
-      <source>ProFootballTalk</source>
-      <description>Nico Collins blew past Travis Hunter for a big gain in the first quarter in London.</description>
-    </item>
-    <item>
-      <title>Trevor Lawrence&apos;s 24-yard dart to Strange gets Jags into Texans&apos; territory right away - NFL.com [Trevor Lawrence]</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTdRZWtRazlnRXhJMlVzQTZWZm1aRUlJREtkVF9LTDBqS1ZQbGNjaVNjWVc5LWtwZlFsWlJPNWRsOHg0R3MweUJUYWdUaFBPZ1JPc3Q5OXRPZTR1YXFWeF9GcHhtUVYwM0h4N1hSUk9wOWRsdVNpc3JfaWlpMHJXRmpiRXZzWUlYZVNCZFZQRDBDMWROTEpIbkRBUVVoU3QxR085dG5nY2FXN0VjeHg5cQ?oc=5</link>
-      <guid isPermaLink="false">2ff67a5fd6d73b74</guid>
-      <pubDate>Sun, 18 Oct 2026 13:43:16 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Trevor Lawrence&apos;s 24-yard dart to Strange gets Jags into Texans&apos; territory right away &amp;nbsp;&amp;nbsp; NFL.com</description>
-    </item>
-    <item>
-      <title>Shedeur Sanders Trade Market Creeping Up on Kalshi - Sports Illustrated [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWlwN3BKQkRZOXZBbjEwRV8xdEdycWM0ajJxVVRFN2IwQWQzc2dOOUwtSEpaUzNTNU9lZDdQVmkxMWJDRmptNUYwajllbFpPbjNGa0N5dm1jbGVsR3pNRU9mMWpVdmJjbEFYdUREcW1ISzh1eTZPMnpxaXg3bnBuZUtTYlVNMG44aVJYV0NLb1BMcHU2ZHFYY1hCaEk3U3lCbVM4?oc=5</link>
-      <guid isPermaLink="false">a794798cdaeacf78</guid>
-      <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Shedeur Sanders Trade Market Creeping Up on Kalshi &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>REPORT: Browns not expected to trade Shedeur Sanders; Andrew Berry still has belief the 5th-rd pick - Audacy [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRElNNW1MSUt1RERaQ1RCWFNLZFU1My1hMjFpNXdSUHh2b2lSMENBTzMxejhIbTZ5MV8tamV1UENoZ3dpeUFfY1ZUdlgwMjVkNFlFTUhSTHlCLWdYZ1pheTY1TTNKSkpGTHNjMWlJVFFHSzNtNUgwQ2xYWHBKWEpweU1yaE1haVY2aDY0Z3N2NHhCQjRfNHRjUklNdVlSU00yemZqaUV2RzdlSVlVR1lFeERiTFBoZkprX2RuaGt4SkhnenpJYmxRX2gtNFE4cGd6cnFMZ3pPd2hwRW5h?oc=5</link>
-      <guid isPermaLink="false">6b930da051dacd81</guid>
-      <pubDate>Sun, 18 Oct 2026 13:15:17 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>REPORT: Browns not expected to trade Shedeur Sanders; Andrew Berry still has belief the 5th-rd pick &amp;nbsp;&amp;nbsp; Audacy</description>
-    </item>
-    <item>
-      <title>The Chargers Should Be Concerned About Justin Herbert’s Longevity - Athlon Sports [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3hjcHdia3lWdnNsdmRJbjlxeUN5RVlOVURGRVR2Q0o1X2dRNWZKNTFybndkeUNrUzhYM2xYQTdkQXIwQTdwODJGbFpNNVgtVy0xZHZ3WUxWYU4tWDNMVkR2VGtrazJwT2Y0T3ItZkNxeU1sVzFOaUx4N2d0VHBnY3dBemtSNEV1TnhoTVVB?oc=5</link>
-      <guid isPermaLink="false">27940274f2af3c91</guid>
-      <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>The Chargers Should Be Concerned About Justin Herbert’s Longevity &amp;nbsp;&amp;nbsp; Athlon Sports</description>
-    </item>
-    <item>
-      <title>Is Trevor Lawrence Married? What To Know About Jaguars QB’s Wife Marissa - Heavy.com [Trevor Lawrence]</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3lsbXI1WG95dTZ3UWF1MGdGdkd2MUplaUNLMzlQdGpYdS1odHdCYXFCODJaMU4xd2JNRUl0bHpsdHQ5Q3ozRVQ1N0tKT2dRdGg3M3lac0xzUG9DZnNjd09fZE84eF9TTXluNV9OeGZnTzJHS0pqVWdUUDBTN0hMdUNDV0hzTGpEMXMtallqRHlxRllGWW8tcWdyYWNqTERnWUpV?oc=5</link>
-      <guid isPermaLink="false">07907c796074fd59</guid>
-      <pubDate>Sun, 18 Oct 2026 13:32:14 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Is Trevor Lawrence Married? What To Know About Jaguars QB’s Wife Marissa &amp;nbsp;&amp;nbsp; Heavy.com</description>
-    </item>
-    <item>
-      <title>Fantasy Start-Sit Week 6: Dak Prescott, George Pickens, Javonte Williams, Jake Ferguson - Sports Illustrated [Javonte Williams, Jake Ferguson]</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb3pPWDhGcVNnMW9OU0J1ZF9mMlR5TnlUZWlYWS0tQVBaNHVtRFdsRHgxMks3c1dZVnlPSzF4cFRTZWNvcGlsRG9HOFVxc2dObFM1cF9sdlZWaVV0am55TThJMmdrTHNUdXhvdDNaeWczdlFkZndPYUdPQjBuNkVUaWhwSzNtdTZvN1kyRS1iQTdHaUEySGlTNjFFV1RWdU9CMGdqWUFpNGZLQW1SRzdqUUZTZjI4VURDNF9Ddk5tTzg?oc=5</link>
-      <guid isPermaLink="false">1691134166410854</guid>
-      <pubDate>Sun, 18 Oct 2026 12:08:19 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Fantasy Start-Sit Week 6: Dak Prescott, George Pickens, Javonte Williams, Jake Ferguson &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Trevor Lawrence’s contract details: What is the Jaguars quarterback’s salary and how many years are left? - Diario AS [Trevor Lawrence]</title>
-      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNUTh3dlBzd3VzMlRYazVOZDZLb1R2VHFsRGxyNUx1NlZPUTBJRUd0WkFtalZnWkh0dk9jTVZKSDh2S3dSbG9LdmJsS0lOR2VNSS1jYS1PaEtTVUlNZ0kzTHl2TENsTm81LWxTOVFrb3llMmo4VTZ4QU95ODdKWHE3aERlUVUwVmpheDBqc0dETzBxbEQ3bnVTSTVTZVg4WGhqUy1ZWWdybjJ0UUg0NFdGYXkzYzdMSU42ZjZDZHJGTl9nd1l3RVF2V3FDWWlNeDjSAeMBQVVfeXFMTWU3QV92cTdobTdmaUg2MWh4dDVyeVdDdjZIdXU2SmZ0Q0MxMFExMFZJeThBX3dwV1lKLUJOYkd4U2daX0daQXNfZlBQdGpuSGxDSFBDb1lZMThQN01VMFlNOWdVU2JELVZ0cnNJeGdaVDBiTnJlNWp3UFRZOVpIOTh6cXg2UHMwVE0xTkdyYVQzcGVqcU1SNGI0dGhIVmJYN0czY0xfaHpjZ0tEM0Q3bDhhNkg5Q0k3dExIdnR5MGlSM1o3aTk4VHd0ZzJiS19ndDJRU2RnWmFVS1c5bEJESXpadmM?oc=5</link>
-      <guid isPermaLink="false">88be38812b3e157d</guid>
-      <pubDate>Sun, 18 Oct 2026 13:41:33 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Trevor Lawrence’s contract details: What is the Jaguars quarterback’s salary and how many years are left? &amp;nbsp;&amp;nbsp; Diario AS</description>
-    </item>
-    <item>
-      <title>Why Deshaun Watson&apos;s magic might have run out, Browns&apos; next move and Shedeur Sanders&apos; timeline now - Audacy [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxQODlRYUVpTlJQd2ZZRklkNWVSQzNNS0FLa1lDNHF0QmFEWDhxYm93WVp3WXhhZl9pdlFkSEZqSW1qR3ZWN2J3X1o0TTJRSHhXYUFETTVqc0N1dy1OZTRpUjIwMVlLN09xdU93R0FWaXQ1LURtQmdhZkJxMEV2M2xlYUs3b2xMU3dEWHBVMDdZRHZHa0hweUNvNlV3TG1GWjViWG8xT013a0tJQ0dUTk15Z1g5QlNfTTFfRmFIR1BaT1VBeWdFMVJFZ0FpRXVPaUtFdTRfdklMWXJ4Zw?oc=5</link>
-      <guid isPermaLink="false">f25096cf457ffa49</guid>
-      <pubDate>Sun, 18 Oct 2026 12:42:32 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Why Deshaun Watson&apos;s magic might have run out, Browns&apos; next move and Shedeur Sanders&apos; timeline now &amp;nbsp;&amp;nbsp; Audacy</description>
-    </item>
-    <item>
-      <title>Chargers QB Justin Herbert Finally Receives Good News - Yardbarker [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQRU9QTXhrdFBzRWNDaEdqbE1zQ1llRExMWXJoWnF4a29FTDFDbmpjckg0NEVtUGNuNVJOSGJQTUdoU1FQY3ljcjNyZUtEMDdDaHphbFplb3VDcTk4Sl93ZkdkbjR5QXhWVlIydzY5YkZXSnZtOGlwN1dTSXRvMFRxbEVVU0N3U2JpcThWVnFFOWUzNGFORkZpelVUODFOeUdhV0h4V3p6R1pSaDVqT1VxYQ?oc=5</link>
-      <guid isPermaLink="false">e741706c888d206b</guid>
-      <pubDate>Sun, 18 Oct 2026 12:24:46 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Chargers QB Justin Herbert Finally Receives Good News &amp;nbsp;&amp;nbsp; Yardbarker</description>
-    </item>
-    <item>
-      <title>Aaron Rodgers calls out media for overlooking Steelers star Jaylen Warren - Yahoo Sports [Jaylen Warren]</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDI4NmRGNno3RUNfVnZpd0RrSFh2RjRuTEhqd0dkcklpV2gzX2hyVVNpY0J3RTBBbU84ZTVxWTgyN0pNNU1SR0Zpd2hfblJjVmExeGRpY3dZVzh5dnM1SFBKYzZ2bmJrSGlselpFN1BPdmtPaTItTkh5VVFia3RXbmFMQmgtWGR0SzB6bmdPUQ?oc=5</link>
-      <guid isPermaLink="false">91f424b0314eb1d4</guid>
-      <pubDate>Sun, 18 Oct 2026 13:30:00 GMT</pubDate>
-      <source>Google News: Warren, Williams, Mitchell, Tremayne, Douglas</source>
-      <description>Aaron Rodgers calls out media for overlooking Steelers star Jaylen Warren &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Best NFL Anytime TD Scorer Predictions for Week 6 – Jaylen Warren, More - PrizePicks [Jaylen Warren]</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQckVsd3hUTFJnOGxFSldTRFA2aS1nY0M4eFc5eXo1MnRLc1FoYzgtOWs1dS1DWkpkMDNSLXdxNF9BUkRDMEdSckFFTlhxeEdBUUxOenRVOE5Md2xmM09DRnNxQnFWdEN4TE8zNEthc1JibU50eUtDRUpfMXJxRXRDOVpLUm9rN3hqVXlEV2R2Z3FJR19fY2t3cllUNHhrTFdMdlZIMDBFVEdrUFlh?oc=5</link>
-      <guid isPermaLink="false">1c0d2b9da7983c75</guid>
-      <pubDate>Sun, 18 Oct 2026 12:04:06 GMT</pubDate>
-      <source>Google News: Warren, Williams, Mitchell, Tremayne, Douglas</source>
-      <description>Best NFL Anytime TD Scorer Predictions for Week 6 – Jaylen Warren, More &amp;nbsp;&amp;nbsp; PrizePicks</description>
-    </item>
-    <item>
-      <title>Jaylen Warren Fantasy Football Stats: third in the NFL in yards from scrimmage is no fluke — but top-five running back talk still needs context - شبكة تواصل الإخبارية [Jaylen Warren]</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1STlhramVQTFRNUnZPY01ZSGN6SVAxZjBCaGtORndocy0xNUFqeXcwd1pWbFIxSzJsT2Z6enhaVUJpQ2dGeGZldWYtOUJsbEVteGxB?oc=5</link>
-      <guid isPermaLink="false">d5efdfb118a60360</guid>
-      <pubDate>Sun, 18 Oct 2026 12:28:51 GMT</pubDate>
-      <source>Google News: Warren, Williams, Mitchell, Tremayne, Douglas</source>
-      <description>Jaylen Warren Fantasy Football Stats: third in the NFL in yards from scrimmage is no fluke — but top-five running back talk still needs context &amp;nbsp;&amp;nbsp; شبكة تواصل الإخبارية</description>
-    </item>
-    <item>
-      <title>Tee Higgins&apos; Top Plays From Week 4 Against Jaguars | 2026 HIGHLIGHTS - Cincinnati Bengals [Tee Higgins]</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOcUJCSkl6M2VtS1dpQ3Y2OUptWC1VSU5ablVaQ1BqVWRfMjRMeEVGaXJDdnpIdFdHOThmbDgxeG5vcXB4b1JCYXFhUlBoNWRsM2VYa1d2c0dmNHlyZE9McUY0ZHNfWWxlaXcxUXIzVHI0eXpWSzlndmRmNTBVTGxZTzNPWHh1alJYNHc?oc=5</link>
-      <guid isPermaLink="false">c6d184caa4a99876</guid>
-      <pubDate>Sun, 04 Oct 2026 21:46:18 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Tee Higgins&apos; Top Plays From Week 4 Against Jaguars | 2026 HIGHLIGHTS &amp;nbsp;&amp;nbsp; Cincinnati Bengals</description>
-    </item>
-    <item>
-      <title>Cowboys tight end Jake Ferguson has TD celebration fine rescinded - Dallas News [Jake Ferguson]</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOM01sU0JPNWs3WVBORVI2cUU0Z0JPMFI5QnJkNmNUNDVVckVqZ0RmeHBfVHVjc3hqVWxUNlJUMFREN2dYQVRKRmd0aEZRbGp3M3JnVVBtSE5tVndLa3FhWGRxWTVKMW9xYmY3WWN6bjIwc3NoSnBXMXNmd2dRelBnc25xT3VsYU90LTZ3LXQ5Um9VMGdZMkJ4cUo5bTBWeXlNMVZkZnlpZmE5bUFZSmc?oc=5</link>
-      <guid isPermaLink="false">d34547235f5c62f1</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Fannin, Ferguson, Joly</source>
-      <description>Cowboys tight end Jake Ferguson has TD celebration fine rescinded &amp;nbsp;&amp;nbsp; Dallas News</description>
-    </item>
-    <item>
-      <title>Jake Ferguson&apos;s Silly Fine Rescinded After Cowboys TE Brings Receipts to Appeal - Sports Illustrated [Jake Ferguson]</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNdjZFY09Qa3Uxa3oweGdfVVpkNzA3aTlNam0yTUJPN2JHc1N2MVE5ZFVNbjFSb1p4QzRFNjBOdTZzcUV6Smd0MTJMV0lNYXpYeHRSWWxFWEduOG5fd2NHUldLaGo5cGRUR1lYUVJyTWk3Y2QzTUtXQV8zRFV0NDVXVVduYkw2dm9KWEFMWTBZZ0RUdw?oc=5</link>
-      <guid isPermaLink="false">75607618615cd64e</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Fannin, Ferguson, Joly</source>
-      <description>Jake Ferguson&apos;s Silly Fine Rescinded After Cowboys TE Brings Receipts to Appeal &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
-    </item>
-    <item>
-      <title>Cowboys TE Jake Ferguson scores a big W on the NFL, meeting their silly decision with a sillier explanation - A to Z Sports [Jake Ferguson]</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNbnV5aWNiajI5ektLWjBTZF9zdms0LWk5THJWeDZVTEo4OHlUUlR4LVBwTHhGYzFwVV9xa09BWTlpZ1BCVHVLb2hUTWdyRjZuTkZBY3NYVFdBWHRJbGtYak41S29ZdDYwT1hsaFgxT1EtSXhDN2lKdU5jamlhUVQyUWthY3NoQWhWVS1lSFpfTTlpZ09vX1VmSkp1TnRxeWFtVzNiMWhzUlV6UjA2el9J?oc=5</link>
-      <guid isPermaLink="false">09416ae19b724426</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Fannin, Ferguson, Joly</source>
-      <description>Cowboys TE Jake Ferguson scores a big W on the NFL, meeting their silly decision with a sillier explanation &amp;nbsp;&amp;nbsp; A to Z Sports</description>
-    </item>
-    <item>
-      <title>NFL makes final decision on Jake Ferguson punishment before Thursday Night Football - Yahoo Sports [Jake Ferguson]</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWFUNk01dVVZRmRfZ3kzU3N0ZVlORjk2X0lhUFpkS0lqUHFCMVY1RXE4blkwTmd0bF8tQXFfbTVHMzJXdUdhSXFEcURmSEtYdXMxMmdnLVpST3hXb1RNVkszYzhNTDg2SVJXZzVlVFBVUHFwWWlWNjFVb3kwMWZaLUs5SDg?oc=5</link>
-      <guid isPermaLink="false">2efc1cd38e35844c</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Fannin, Ferguson, Joly</source>
-      <description>NFL makes final decision on Jake Ferguson punishment before Thursday Night Football &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Raiders News: Cian Sloan gets elevated from the practice squad - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOV3d3M2JNMG02VWFtRkl2NVdHS0Nodk5NZ2V1cEVvZkxwMFQyV3lPa1NteFdvdkJXaFVLb1BlWS1zWWZHUjY2bTd1WVVQcTgtT2g4NFg0UlpVSExwOGFMVUZ4UUJkTHhoYTJjRXcyOHVsNjBRX3JxbVV5SXNLeFBBbjR3SQ?oc=5</link>
-      <guid isPermaLink="false">42f40e253f4bd629</guid>
-      <pubDate>Sun, 18 Oct 2026 14:00:00 GMT</pubDate>
-      <source>Google News: Buffalo Bills</source>
-      <description>Raiders News: Cian Sloan gets elevated from the practice squad &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Who’s Playing RB for Eagles Today vs. Panthers? Depth Chart Crushed by Injuries - Heavy.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEFmYjFOel9QLVkzR1FDb0dHRHpHeGkyUXlVNjJrbXFGRWsxOWl3Tkl4a2dudmEzUmt3WU8zVDB6SWtEYkNwX0g5SmlCNXBWaWVKRk96TGFRRjBSVEdQdFNRSVJQZmdzNTladFhWdTl4OS1YSmxFOVNZYnVPVllHR0pBay10eGR2bWM4ZGRzaUVza0VvNDE1OTQ4bm1ya3ZKUmxTSUF6d2hpeGJCbnc?oc=5</link>
-      <guid isPermaLink="false">1214281b13dc6079</guid>
-      <pubDate>Sun, 18 Oct 2026 13:22:47 GMT</pubDate>
-      <source>Google News: Carolina Panthers</source>
-      <description>Who’s Playing RB for Eagles Today vs. Panthers? Depth Chart Crushed by Injuries &amp;nbsp;&amp;nbsp; Heavy.com</description>
-    </item>
-    <item>
-      <title>Will Quinshon Judkins play today? Browns injury report - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeDNHMDhxM1E4ZGl5UkhVcHlnX1FuRTlHdjJEaFlDcXpLRnpQcHdvSzNLZ3FDMUJTVE9oQTl0TWlNU3pvLVA5SFgwWUFDTVh2OExHZDNUandzNV9iQ1RIQWdPVlhiMGVEMlRTX1dhQ1pTR253eExObGNqVXFFU09scHNsdDNqSFhHelhz?oc=5</link>
-      <guid isPermaLink="false">d7e091f1edccff2f</guid>
-      <pubDate>Sun, 18 Oct 2026 12:34:38 GMT</pubDate>
-      <source>Google News: Cleveland Browns</source>
-      <description>Will Quinshon Judkins play today? Browns injury report &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>‘In What World Is Arch Manning a Better Quarterback Than Shedeur Sanders?’ — 2-Time Super Bowl Champion, NFL World Argue Browns QB Tops Texas Star - Yahoo Sports [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQOTcxcERGc2xJU1dSWVFlbmZHM3k1LTNBaDNuQjIxaHB5OEJtaWtiU0tleThQZWRoZkZqbnhkQlIwamFEd0QwZ2tveklnSVNKZFYxbmFYM25iSER6WDJHVWdiTnptWHl1QlJ5NWt6S05ncU5SQUNCVHhEcDJxaklrNzFRcm1YU0Jnb1Uwek9VOA?oc=5</link>
-      <guid isPermaLink="false">750cc64e3e0ace03</guid>
-      <pubDate>Sun, 18 Oct 2026 10:02:30 GMT</pubDate>
-      <source>Google News: Cleveland Browns</source>
-      <description>‘In What World Is Arch Manning a Better Quarterback Than Shedeur Sanders?’ — 2-Time Super Bowl Champion, NFL World Argue Browns QB Tops Texas Star &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Packers-Cowboys Week 6 injury report: Dallas getting Joey Porter Jr. back desperately needed vs. Jordan Love, Christian Watson - Yahoo Sports [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzZKX2J4R2hxVmFxVk1heE9FY1oxS2x6MVMzaXBGRGRNNnY3R1I4bGVIQWg1LW5aM1prU0FuXzc0NG9ZTGdEbl8xWUJkX1VtbFRhRDZlekgweTh3eDVVdWtkRUhBalJqV0RVR0pvalBfcThFaGYwaENXSXZxRkhIWlkya1Y?oc=5</link>
-      <guid isPermaLink="false">e0b64ac7a634ba58</guid>
-      <pubDate>Sun, 18 Oct 2026 14:20:19 GMT</pubDate>
-      <source>Google News: Dallas Cowboys</source>
-      <description>Packers-Cowboys Week 6 injury report: Dallas getting Joey Porter Jr. back desperately needed vs. Jordan Love, Christian Watson &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Patriots Get Encouraging A.J. Brown Update on Workload vs. Jets - Heavy.com [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHVLaHVnbWtRb2pxamtsZEVDS1EtWjdiWTNhNDJZaHgwaDluTmV0c3JtVzRrTlhiRmY4RTQyeE9haEh3MEtybVpxYy1KOGJBV0pETlVjSi1CdVpweHE2eTNLR04wYjEtZlgzeGpGV1NhcnZQZVVSdkIxeDd2eUtheHVDcXk4TG51OVVNdmpvSjdLSEtFYlBRWlVmTVY?oc=5</link>
-      <guid isPermaLink="false">aad6b9fc12468011</guid>
-      <pubDate>Sun, 18 Oct 2026 13:45:36 GMT</pubDate>
-      <source>Google News: New England Patriots</source>
-      <description>Patriots Get Encouraging A.J. Brown Update on Workload vs. Jets &amp;nbsp;&amp;nbsp; Heavy.com</description>
-    </item>
-    <item>
-      <title>A.J. Brown is expected to make his return today as the Patriots take on the Jets after missing four games with a high-ankle sprain. The Patriots officially activated the star wide receiver from injured reserve on Saturday, clearing the way for him to return to the fiel - Facebook [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMl9zNE9RV29uckpET2t0TzhxY2tuM0wwOVhiU3ZYTHJ1eDZZTkh4X19vUTFXQnkzV2xuZmxnNkQ5b2VjTldMZ05JOUd5YTVSaWdPdnN1ZkxwZDlaaXpVSWpONnZtQUhMVF9fNlVfem9hcGhrVXJ2T3FEQ19WSE9LMFk2VjdHZkhRNnoxTHB4anZ3OVIxR212OGViNm4xTklRYTJSbWtNXzdSZEJUbWdKanFuRGlwUzlaaGhKT0FRelByQ3BMM19JWDEtOWFDN0Q0TFdIN3M0WDczZw?oc=5</link>
-      <guid isPermaLink="false">46fba664a8c9d14f</guid>
-      <pubDate>Sun, 18 Oct 2026 14:19:19 GMT</pubDate>
-      <source>Google News: New England Patriots</source>
-      <description>A.J. Brown is expected to make his return today as the Patriots take on the Jets after missing four games with a high-ankle sprain. The Patriots officially activated the star wide receiver from injured reserve on Saturday, clearing the way for him to return to the fiel &amp;nbsp;&amp;nbsp; Facebook</description>
-    </item>
-    <item>
-      <title>A.J. Brown officially activated from injured reserve, set to return as Patriots host Jets - CBS News [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNLTYwQUhsanpIMWhaM1I5YUk4UUZYU2ZObno0Sl85TkdtNFU3RElEaXVYZ1JGSHdHazN4akhSQzVHX0U2MTRENVl4aml4YXNpQ3dkcnItX20xSDBxY1Y5ZFNnZHJJTTRrM1ExQjlxZG8zSUp3WjN4ZWlTNGUzbW9RMg?oc=5</link>
-      <guid isPermaLink="false">248d15eb358f3989</guid>
-      <pubDate>Sun, 18 Oct 2026 14:16:57 GMT</pubDate>
-      <source>Google News: New England Patriots</source>
-      <description>A.J. Brown officially activated from injured reserve, set to return as Patriots host Jets &amp;nbsp;&amp;nbsp; CBS News</description>
-    </item>
-    <item>
-      <title>Jets’ Chip Trayanum carted off, taken to hospital with neck injury: ‘I think he’ll be just fine’ - New York Post [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2RkS2h2TV9iaktBeEh0UFoyQmZwRlFhaENjOTVLZmZVNzVKYks3azlOR09SOFhEMW1ERUF5ZkZwU0g4MDlXRjFhdkdjemtZczlJc3h2MlZVSE1yMG1rUWVEaEl0MFVranFLMldfdXFwQ0NfTGRteWJTY195T2drWXl4MjN6bm9oc2txWWszR3V5THNfb2doOXo2VWFMRXZHclFQMTBodjk?oc=5</link>
-      <guid isPermaLink="false">59de65dcc2852ce7</guid>
-      <pubDate>Fri, 28 Aug 2026 07:00:00 GMT</pubDate>
-      <source>Google News: New York Jets</source>
-      <description>Jets’ Chip Trayanum carted off, taken to hospital with neck injury: ‘I think he’ll be just fine’ &amp;nbsp;&amp;nbsp; New York Post</description>
-    </item>
-    <item>
-      <title>Seahawks Sign 17 To Practice Squad, Including Veterans Trevon Diggs, AJ Finley, Velus Jones Jr. &amp; Rodney Thomas II - Seattle Seahawks [depth chart]</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQmVLRjVJVVhtd3lQNnE5UF9LaHhoYURucUNYX0pWWVZiTVlZbG53ZTczSDM1dllKeHk4bFdrS204RzV6RDhrNDNYS0xLY0NuTUplX09tNXJNalN2TkRCZGc4X2stRWlaRFo3S0R3dEF3cXVDYkRkd2FtVlBybGtoNm13R196X0ZoY2J4TVhoZ29fTlRJQll3MTBBS1g5WXVzcEhfWmtsZ09BZUhuRzVCeEt2bFloeUZMckg3UjZ2d3VObWo5SjNwVHpMVzNFV1Iwd1JuaQ?oc=5</link>
-      <guid isPermaLink="false">401610bf7829a18b</guid>
-      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Seattle Seahawks</source>
-      <description>Seahawks Sign 17 To Practice Squad, Including Veterans Trevon Diggs, AJ Finley, Velus Jones Jr. &amp; Rodney Thomas II &amp;nbsp;&amp;nbsp; Seattle Seahawks</description>
-    </item>
-    <item>
-      <title>How Shedeur Sanders didn’t sign with Young Money to get the Browns to trade him; where the Ravens’ Jesse Minter ranked among Browns HC candidates: Insider - Cleveland.com [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMiogJBVV95cUxPNHJacmNRNnFpeC1KMzl3el9LVG5id1lVYWZjaFRwMWRvdUcyR2JxbGVELWNRUGRVbS1ybV9obG9sVjc0bWUtVVNUbFdiQnBDVTNWcllGMlM2alM2TWJmUTR6R1Q5UXNScGZVXzZ6TkJtQlFhaVBwQlBDQTE3d21kUE5MbUkyVFVGejB2VGNib3R6RnUwcExKR0dUYy1EbXlhRXVQN0Z0S2JwLTBqTG5MSE5qbERVVVpYSnNIWkhYZGRiNGtTMTF0SWlYXzFIZ2ZDNFNYa2FUVXV1bXRETHpMOWY5TWVSZEJLeXBKQ2VzeW91cS1OTlRoNHVTRFZYSWtMUWZ2VHJmb3pSbE51WmJqbFN0bEJpVllkWDczWk1Mam9Bdw?oc=5</link>
-      <guid isPermaLink="false">e08bbb23031bdf8a</guid>
-      <pubDate>Sun, 18 Oct 2026 09:05:00 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>How Shedeur Sanders didn’t sign with Young Money to get the Browns to trade him; where the Ravens’ Jesse Minter ranked among Browns HC candidates: Insider &amp;nbsp;&amp;nbsp; Cleveland.com</description>
-    </item>
-    <item>
-      <title>Falcons urged to explore Shedeur Sanders trade after Cam Newton’s Michael Penix Jr. warning - Yahoo Sports [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVpTS2xnQk9haFlwTUdWVk9tMEJjdllPOEkxS05Qc3ljQlFud3lqZTRRSVhEdWZMSEpzdS1SOG1oV2p3SVZjVnloQ1pQaHFUZURUYlFBNVpYY21IMjdFWmtPdmI4Q2tPUHpRdmxRWTQ0TWdZalhvMkUwTTZ2Z21hZUJ3ZVhuY2ZGZDVibHJFTQ?oc=5</link>
-      <guid isPermaLink="false">46d69a31c2205d8e</guid>
-      <pubDate>Sun, 18 Oct 2026 08:30:00 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Falcons urged to explore Shedeur Sanders trade after Cam Newton’s Michael Penix Jr. warning &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Zion Johnson is proving his doubters wrong, just ask Justin Herbert and the Chargers - Dawg Pound Daily [Justin Herbert]</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMW4yVlA4SGlrVVhubkl4LXJKb3dRQzNLMEtaWlVlYmRuM3hka1hJWDk1eXZMRjNub3NCNEh3STlkMWJWYWtJd2JJNzEta3VDYWNuRGtiN3lOelFFWE5ydHItdTI2dTkyVHZMbGdhZGJFSHR2cS1mYmJERUo3Q1FrQ0VjRTJVUHFCOVdWWGUyYVRiR3BkNlN2M3RLT1Q0MkpkR1FlclNCRk1YZXdlNW1sVGNTOFF1SlhuZWpwcVR2VUU?oc=5</link>
-      <guid isPermaLink="false">2c551cf52798ade8</guid>
-      <pubDate>Sun, 18 Oct 2026 11:00:01 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Zion Johnson is proving his doubters wrong, just ask Justin Herbert and the Chargers &amp;nbsp;&amp;nbsp; Dawg Pound Daily</description>
-    </item>
-    <item>
-      <title>Are James Cook&apos;s fumbles a problem for fantasy managers? - Yahoo Sports [James Cook]</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVXNRVGZlaWRKU0hsZ2hjZmVDb2Y5VW5mNlhSS2NQZllhQ0piZGlvcWZUQmJ6WDBqVFlocFdwSUNHTGFYd0l5c1NvRU9sTjl4NGt0S2N6UmtMcU5KYXB0bE9WNERxWVp4Q3hPNlNJSnhtUzRYTXJpY1BtOFJmT05KVlFDYl9jbTQ5?oc=5</link>
-      <guid isPermaLink="false">5b24cd586024f5f4</guid>
-      <pubDate>Sun, 18 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Are James Cook&apos;s fumbles a problem for fantasy managers? &amp;nbsp;&amp;nbsp; Yahoo Sports</description>
-    </item>
-    <item>
-      <title>Mary Kay Cabot details latest on Browns QBs Deshaun Watson, Shedeur Sanders, trade deadline interest - Audacy [Shedeur Sanders]</title>
-      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeF9keWYtQmVnT3dobTg4VnZXRjlobWN0bUd1TFQteVZMeW9pUVVXY3RHZXFjbThRUnZySkFFZDZyUDVub29LaTRTU285TzlPeHNsa0x3Zk16OWlab2E3VlMzUElkWENOZElFeVVyWnloaThxQlZ4cXlLSjVFNVVfdHJzNW0tdDFDQzFEZjZ4WDBZVGp2MmFkdG85enZqSWI3c0lTclJueU1GMG9SVFBpUDVudFNZTUVjX3pSWjNiLWphN2ZQUGJ0MS1MblZMbnVxWHhTb1F6VDlrWmxqQ1E?oc=5</link>
-      <guid isPermaLink="false">1752f00447ec0c4e</guid>
-      <pubDate>Sat, 17 Oct 2026 16:54:15 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Mary Kay Cabot details latest on Browns QBs Deshaun Watson, Shedeur Sanders, trade deadline interest &amp;nbsp;&amp;nbsp; Audacy</description>
-    </item>
-    <item>
-      <title>Javonte Williams or Omar Cooper Jr.: Who Should I Start in Week 6? Fantasy Football - RotoBaller [Javonte Williams]</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOEZ1cU1mdUtmUkdmS2NveWhiNE1iaTkycW9xVm9NUHA1eGxwRTBBd1lYWjFIMVZqakdhNlFrX1FrNTZHR2RoLWxnN0RPWHluQ0o2alhDT3NPbzJUZUZyQkMxeWt4YnJiM1VCMTY4V3luUko1M1VPZGZtczJfOURsenFjYk15aG9Sel9kVHJMb19lNnpzb0EyUFRtYzZOX2VEeFAxZE5QTF9QdFhBcFM2MGZQb2psRkhB?oc=5</link>
-      <guid isPermaLink="false">94c4348c0e0b4ad3</guid>
-      <pubDate>Sun, 18 Oct 2026 09:00:38 GMT</pubDate>
-      <source>Google News: Herbert, Sanders, Lawrence, Cook, Williams</source>
-      <description>Javonte Williams or Omar Cooper Jr.: Who Should I Start in Week 6? Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
-    </item>
-    <item>
-      <title>Matthew Berry&apos;s Week 6 Fantasy Football Rankings: Kyren Williams Is a Top-10 Play - FantasyLife [Kyren Williams]</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOeVExZ1NtQzdYUWtMWGU2bGp3SGM4ekZudTV3Rld1bTlwd2NPLS11S2pFUnBRNjdUX3N2QUFkd2hUOTRfN0FTZkhuby1FbTJGWU1oVWhZckpMR3NNektKTXdiUm1jNG5NVHNsanFiZl9nZlFoUEJ2MDVFU2dYNjg2RWs0Q2xNOWNaM1N2Zno4cnhnZ2htOWhF?oc=5</link>
-      <guid isPermaLink="false">481515897e652fd1</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 GMT</pubDate>
-      <source>Google News: Warren, Williams, Mitchell, Tremayne, Douglas</source>
-      <description>Matthew Berry&apos;s Week 6 Fantasy Football Rankings: Kyren Williams Is a Top-10 Play &amp;nbsp;&amp;nbsp; FantasyLife</description>
-    </item>
-    <item>
-      <title>Kyren Williams&apos; 2 rushing touchdowns for Rams just the exclamation point on an all-around performance against Eagles - Rams [Kyren Williams]</title>
-      <link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU2QwdDBxczR2NDB3eDZIODhRSF9QSTdyR2RxVHNLTHAySy1HT3Y3T1hBNUVXR0hJNTJfcHFHajRFME9oQW1McllzTlVaaVlJbjhOZ19hNGlYdjBMVTd5emZJNHZGSVNfR0RSU1BfUVluaTdBeUQ0UWw0M1NKWjZ4My0xTDhKeG5XQXZzYVRDUnR1d0ZBczVUV2lrZm4yQmdXQjV4ZmxJTC1xbTMwQVE3eFh4WkllYkhaQ0gzSFFqM2Q0TkNHR2IzSWp2TWJUNnYzak9PWk5XMm0ydGhWNE16OG4ybDNlU193ejJYR1h3?oc=5</link>
-      <guid isPermaLink="false">be9cd36d0a34c253</guid>
-      <pubDate>Sun, 04 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Warren, Williams, Mitchell, Tremayne, Douglas</source>
-      <description>Kyren Williams&apos; 2 rushing touchdowns for Rams just the exclamation point on an all-around performance against Eagles &amp;nbsp;&amp;nbsp; Rams</description>
-    </item>
-    <item>
-      <title>NFL DFS GPP Plays For Week 6: Germie Bernard, Mark Andrews &amp; More - FantasyLife [Germie Bernard]</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmZmRy1GZTZJMzFfZmlNcVdPUnNMcDJvd29SaFBXT1pXai11UXNsWGN5djRwdzd6ZGpLT2hhTUlVYVBfUWFrQzhYRndBUFJxQmI4N1JtMW1fbVB1T2xLZy04WnQtX2pSdzJvSm9yeDJPcm5yaVRHaU8taDRQVkY1VlliTXRqWXFrWHkzUmIwRTZTMVBmaVdUeWRVT21MTG5RUW5Wcg?oc=5</link>
-      <guid isPermaLink="false">fe6189fad60617f2</guid>
-      <pubDate>Sun, 18 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Waddle, Jefferson</source>
-      <description>NFL DFS GPP Plays For Week 6: Germie Bernard, Mark Andrews &amp; More &amp;nbsp;&amp;nbsp; FantasyLife</description>
-    </item>
-    <item>
-      <title>Who Should I Start? Zay Flowers or Germie Bernard - Fantasy Football Calculator [Germie Bernard]</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE12bFRHanFrMmRIRkJlUXloZU1CRUNCTVZmYVotLTBqRl9DeVJwMXlEbmZSbFFJUFNocEctTlFEZjlxaU8tMnk1WDN1SVFlMXpXcjJycHRlUjM0MFJwNWJqSXRSUjV0TU5zWjFVXzltZWtlbnVWUkxEWHhMLUQtdw?oc=5</link>
-      <guid isPermaLink="false">7d617e92d773ed0f</guid>
-      <pubDate>Sun, 18 Oct 2026 07:30:35 GMT</pubDate>
-      <source>Google News: Bernard, Nailor, Smith-Njigba, Waddle, Jefferson</source>
-      <description>Who Should I Start? Zay Flowers or Germie Bernard &amp;nbsp;&amp;nbsp; Fantasy Football Calculator</description>
-    </item>
-    <item>
-      <title>Final Injury Report for Texans-Jaguars: Will David Montgomery, Tank Dell Play? - Athlon Sports [Tank Dell]</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGJ1SGpRM0s4T2FLUDR0RVFXM215NHA1Y2g4LTlrNm9DV2JTX1hpZTRMa2NYWVpGTEcyeVBoQl81cVVSR0UyU3N3VVJZVTJ1bkpxNHhESW1ZY2tHSlFSejhMWW03Q3YtTlc5OC0xYkYxWDhIdVFJZmwyUUZTamIzYlBnSnFGay1lNl9QNDhuVjh4RzZpeUduY3RkTFJpVVBvemJOdFJKTlR6elFqUnItYVRLWQ?oc=5</link>
-      <guid isPermaLink="false">4203fe3d2feef298</guid>
-      <pubDate>Sun, 18 Oct 2026 10:30:00 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Final Injury Report for Texans-Jaguars: Will David Montgomery, Tank Dell Play? &amp;nbsp;&amp;nbsp; Athlon Sports</description>
-    </item>
-    <item>
-      <title>Gunnar Helm or Omar Cooper Jr.: Who Should I Start in Week 6? Fantasy Football - RotoBaller [Gunnar Helm]</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFdzNEJCdW4zR3JUY2laSDRUaHJlSmFNRDFncFgzZ1NxX1M5Z2VxME9pWWZEcWxIeFFUMnE5elJTQXhHQ0VzZUNaUlJLTW9QcE5IcW9JUUxJaDJwQWpUWHpnWms0bzNPbGkxTmxPYnlVRGFTQ3hmVkwyal9sZzlNOTJaZ0FVZUVrdS1BOUFuOVBuMTFoN09RQkF5bE9BVGJ4UnNwZUt2NDlSQ3NYTTlUN0pn?oc=5</link>
-      <guid isPermaLink="false">e932a69788a529e2</guid>
-      <pubDate>Sun, 18 Oct 2026 09:42:47 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Gunnar Helm or Omar Cooper Jr.: Who Should I Start in Week 6? Fantasy Football &amp;nbsp;&amp;nbsp; RotoBaller</description>
-    </item>
-    <item>
-      <title>Texans opening practice window for Tank Dell - NBC Sports [Tank Dell]</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVBZYXAzWU5wcXZKd1FrM1lQN3pQNV9iNW4zSkktaVZiUEdpcUk3aDY1S2FHN21lQi1hT01mLXlnN1FVclZGWk9DdFRDU1V3eDdCemdLZmV3d3RxdC1Lc2xGRERsTC0xRS1qeHJkQ2VMb3U4U0hjMVJ1LUpjOHpxR2NLWHBieURqNXhxTlJVSGR1X0NWbGZQY2JWTFQ1YjlJbExic1FNQUhEUQ?oc=5</link>
-      <guid isPermaLink="false">33012349e0e8af4e</guid>
-      <pubDate>Mon, 05 Oct 2026 07:00:00 GMT</pubDate>
-      <source>Google News: Dell, Higgins, Hutchinson, Okonkwo, Helm</source>
-      <description>Texans opening practice window for Tank Dell &amp;nbsp;&amp;nbsp; NBC Sports</description>
-    </item>
-    <item>
-      <title>Jake Ferguson Game Log | Dallas Cowboys - FantasyPros [Jake Ferguson]</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGZNU25hMWdLVlJVOVJCSk50aWotZlN2N1I5UFdDUXVWQjBRNDRMM1hodmlGQjMtVlNRZGlRSWxvWDFQTk5WZi1rQ3RyZ1ZFWnAxTXQyLXdGMDY2WWFNeWlwUWVkYTJRdVZtR0tLTDRrTGNMblFFVzZRSjBHc0tNNVZhWXA5dw?oc=5</link>
-      <guid isPermaLink="false">4c97bdc4b6606868</guid>
-      <pubDate>Sun, 18 Oct 2026 07:47:46 GMT</pubDate>
-      <source>Google News: Fannin, Ferguson, Joly</source>
-      <description>Jake Ferguson Game Log | Dallas Cowboys &amp;nbsp;&amp;nbsp; FantasyPros</description>
-    </item>
-    <item>
-      <title>Week 6 Sunday Night Football DFS Showdown Strategies: Jake Ferguson is This Week&apos;s Difference Maker - Sports Illustrated [Jake Ferguson]</title>
-      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd2FpYzRleHRCemg4Yk1RNVM4empKekRBaWVpXzRCbFM2OVpkUllSQktnV3ZvUDh1QzJyVGliUHpKUFhyTE9nTG9BT0pKa3J6eFI0Q25HWnVGbjRJMHFPUHJoRWhTckJfYzg5R3lZMElWQUhpRW8yOEJOa2trcDVLY1JPcU16WTA4ZWJpZlV0dGRjRFpmT2pxM2tMdWM3VXhlajRYY3JIQjVTeWFlMFNveTAxVURILTBBTE9YT0x0XzJCcGVZRXFfalA1cVVBbkJ6?oc=5</link>
-      <guid isPermaLink="false">48b515bfcbda0572</guid>
-      <pubDate>Sun, 18 Oct 2026 07:45:18 GMT</pubDate>
-      <source>Google News: Fannin, Ferguson, Joly</source>
-      <description>Week 6 Sunday Night Football DFS Showdown Strategies: Jake Ferguson is This Week&apos;s Difference Maker &amp;nbsp;&amp;nbsp; Sports Illustrated</description>
     </item>
   </channel>
 </rss>
