@@ -3,7 +3,7 @@
   "_sleeper": {
     "leagueId": "1312070936467365888",
     "username": "teesnutz410",
-    "lastSync": "2026-10-22T12:29:40.446Z"
+    "lastSync": "2026-10-25T12:27:48.290Z"
   },
   "players": [
     {
@@ -124,18 +124,6 @@
       ],
       "exclude": [],
       "sleeperId": "11625"
-    },
-    {
-      "id": "brycen-tremayne",
-      "sleeperId": "11157",
-      "name": "Brycen Tremayne",
-      "pos": "WR",
-      "team": "CAR",
-      "verified": true,
-      "aliases": [
-        "Brycen Tremayne"
-      ],
-      "exclude": []
     },
     {
       "id": "demario-douglas",
@@ -264,19 +252,6 @@
       "sleeperId": "8210"
     },
     {
-      "id": "helm",
-      "name": "Gunnar Helm",
-      "pos": "TE",
-      "team": "TEN",
-      "verified": true,
-      "aliases": [
-        "Gunnar Helm",
-        "Gunnar"
-      ],
-      "exclude": [],
-      "sleeperId": "12502"
-    },
-    {
       "id": "harold-fannin",
       "sleeperId": "12506",
       "name": "Harold Fannin",
@@ -299,24 +274,10 @@
       ],
       "exclude": [],
       "sleeperId": "8110"
-    },
-    {
-      "id": "joly",
-      "name": "Justin Joly",
-      "pos": "TE",
-      "team": "MIA",
-      "verified": true,
-      "aliases": [
-        "Justin Joly",
-        "Joly"
-      ],
-      "exclude": [],
-      "sleeperId": "13400"
     }
   ],
   "teams": {
     "BUF": "Buffalo Bills",
-    "CAR": "Carolina Panthers",
     "CIN": "Cincinnati Bengals",
     "CLE": "Cleveland Browns",
     "DAL": "Dallas Cowboys",
@@ -326,14 +287,12 @@
     "LAC": "Los Angeles Chargers",
     "LAR": "Los Angeles Rams",
     "LV": "Las Vegas Raiders",
-    "MIA": "Miami Dolphins",
     "MIN": "Minnesota Vikings",
     "NE": "New England Patriots",
     "NYJ": "New York Jets",
     "PIT": "Pittsburgh Steelers",
     "SEA": "Seattle Seahawks",
     "TB": "Tampa Bay Buccaneers",
-    "TEN": "Tennessee Titans",
     "WAS": "Washington Commanders"
   }
 }
