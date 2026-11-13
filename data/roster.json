@@ -3,7 +3,7 @@
   "_sleeper": {
     "leagueId": "1312070936467365888",
     "username": "teesnutz410",
-    "lastSync": "2026-11-12T18:25:11.757Z"
+    "lastSync": "2026-11-13T19:38:10.683Z"
   },
   "players": [
     {
@@ -100,6 +100,18 @@
       "sleeperId": "8228"
     },
     {
+      "id": "josh-jacobs",
+      "sleeperId": "5850",
+      "name": "Josh Jacobs",
+      "pos": "RB",
+      "team": "GB",
+      "verified": true,
+      "aliases": [
+        "Josh Jacobs"
+      ],
+      "exclude": []
+    },
+    {
       "id": "kyren",
       "name": "Kyren Williams",
       "pos": "RB",
@@ -111,18 +123,6 @@
       ],
       "exclude": [],
       "sleeperId": "8150"
-    },
-    {
-      "id": "ollie-gordon-ii",
-      "sleeperId": "12495",
-      "name": "Ollie Gordon II",
-      "pos": "RB",
-      "team": "MIA",
-      "verified": true,
-      "aliases": [
-        "Ollie Gordon II"
-      ],
-      "exclude": []
     },
     {
       "id": "adonai",
@@ -306,12 +306,12 @@
     "CLE": "Cleveland Browns",
     "DAL": "Dallas Cowboys",
     "DEN": "Denver Broncos",
+    "GB": "Green Bay Packers",
     "HOU": "Houston Texans",
     "JAX": "Jacksonville Jaguars",
     "LAC": "Los Angeles Chargers",
     "LAR": "Los Angeles Rams",
     "LV": "Las Vegas Raiders",
-    "MIA": "Miami Dolphins",
     "MIN": "Minnesota Vikings",
     "NE": "New England Patriots",
     "NYJ": "New York Jets",
