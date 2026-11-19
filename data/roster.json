@@ -3,7 +3,7 @@
   "_sleeper": {
     "leagueId": "1312070936467365888",
     "username": "teesnutz410",
-    "lastSync": "2026-11-17T19:49:16.640Z"
+    "lastSync": "2026-11-19T17:38:43.754Z"
   },
   "players": [
     {
@@ -111,6 +111,30 @@
       ],
       "exclude": [],
       "sleeperId": "8150"
+    },
+    {
+      "id": "trevor-etienne",
+      "sleeperId": "12531",
+      "name": "Trevor Etienne",
+      "pos": "RB",
+      "team": "CAR",
+      "verified": true,
+      "aliases": [
+        "Trevor Etienne"
+      ],
+      "exclude": []
+    },
+    {
+      "id": "tyrone-tracy-jr",
+      "sleeperId": "11655",
+      "name": "Tyrone Tracy Jr.",
+      "pos": "RB",
+      "team": "NYG",
+      "verified": true,
+      "aliases": [
+        "Tyrone Tracy Jr."
+      ],
+      "exclude": []
     },
     {
       "id": "adonai",
@@ -290,6 +314,7 @@
   ],
   "teams": {
     "BUF": "Buffalo Bills",
+    "CAR": "Carolina Panthers",
     "CIN": "Cincinnati Bengals",
     "CLE": "Cleveland Browns",
     "DAL": "Dallas Cowboys",
@@ -302,6 +327,7 @@
     "LV": "Las Vegas Raiders",
     "MIN": "Minnesota Vikings",
     "NE": "New England Patriots",
+    "NYG": "New York Giants",
     "NYJ": "New York Jets",
     "PHI": "Philadelphia Eagles",
     "PIT": "Pittsburgh Steelers",
